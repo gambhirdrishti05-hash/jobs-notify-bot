@@ -1,6 +1,14 @@
 [
   {
-    "name": "Example Company (delete me)",
-    "url": "https://boards.greenhouse.io/exampleco"
+    "name": "JPMorgan Chase",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs"
+  },
+  {
+    "name": "PJT Partners",
+    "url": "https://pjtpartners.wd1.myworkdayjobs.com/Careers"
+  },
+  {
+    "name": "Flowserve",
+    "url": "https://careers.flowserve.com/locations/usa/jobs/"
   }
 ]
