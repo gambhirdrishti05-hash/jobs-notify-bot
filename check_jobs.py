@@ -211,16 +211,15 @@ def fetch_oracle_cloud(host, site_number):
     return jobs
 
 
-def fetch_icims(base_url):
+def fetch_icims(base_url, original_url):
     """
-    iCIMS career portals expose a /careers/jobs endpoint that returns
-    HTML with structured job listings. The links follow a consistent
+    iCIMS career portals have job links that follow a consistent
     pattern: /jobs/{job_id}/job — much more reliable than the generic
     fallback since we can filter on URL structure instead of guessing
-    from link text.
+    from link text. Uses the original user-provided URL directly,
+    since different iCIMS instances reject constructed search URLs.
     """
-    search_url = f"{base_url}/jobs/search?ss=1&searchRelation=keyword_all"
-    r = requests.get(search_url, headers=HEADERS, timeout=20)
+    r = requests.get(original_url, headers=HEADERS, timeout=20)
     r.raise_for_status()
     soup = BeautifulSoup(r.text, "html.parser")
     jobs = {}
@@ -350,7 +349,7 @@ def fetch_company_jobs(company):
             return fetch_oracle_cloud(host, site_number)
         elif icims_base:
             print(f"  [iCIMS] {name} (base={icims_base})")
-            return fetch_icims(icims_base)
+            return fetch_icims(icims_base, url)
         elif ashby_slug:
             print(f"  [Ashby] {name} (slug={ashby_slug})")
             return fetch_ashby(ashby_slug)
