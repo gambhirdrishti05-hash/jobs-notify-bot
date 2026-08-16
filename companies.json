@@ -1,10 +1,74 @@
 [
   {
+    "name": "JPMorgan Chase",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs"
+  },
+  {
     "name": "PJT Partners",
     "url": "https://pjtpartners.wd1.myworkdayjobs.com/Careers"
   },
   {
+    "name": "Flowserve",
+    "url": "https://careers.flowserve.com/locations/usa/jobs/"
+  },
+  {
+    "name": "SEL",
+    "url": "https://selinc.wd1.myworkdayjobs.com/SEL/6/refreshFacet/318c8bb6f553100021d223d9780d30be"
+  },
+  {
+    "name": "CreditOne",
+    "url": "https://careers.creditonebank.com/search/jobs?q=&cf%5BCategory%5D%5B%5D=&location="
+  },
+  {
+    "name": "Amazon",
+    "url": "https://www.amazon.jobs"
+  },
+  {
+    "name": "Waters Corporation",
+    "url": "https://www.waters.com/nextgen/us/en/about-waters/careers.html"
+  },
+  {
+    "name": "Boston Children's Hospital",
+    "url": "https://jobs.bostonchildrens.org"
+  },
+  {
     "name": "CVS Health",
     "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers"
+  },
+  {
+    "name": "UC Davis",
+    "url": "https://hr.ucdavis.edu/careers/apply"
+  },
+  {
+    "name": "Analog Devices",
+    "url": "https://www.analog.com/en/careers/career-opportunities.html"
+  },
+  {
+    "name": "ICF Incorporated",
+    "url": "https://careers.icf.com/us/en"
+  },
+  {
+    "name": "Hertz Corporation",
+    "url": "https://jobs.hertzcareers.com"
+  },
+  {
+    "name": "Alliant Insurance Services",
+    "url": "https://alliant.com/about/careers"
+  },
+  {
+    "name": "Mayer Brown LLP",
+    "url": "https://www.mayerbrown.com/en/careers"
+  },
+  {
+    "name": "White & Case LLP",
+    "url": "https://www.whitecase.com/careers"
+  },
+  {
+    "name": "T. Rowe Price",
+    "url": "https://www.troweprice.com/en/us/careers"
+  },
+  {
+    "name": "Aptean",
+    "url": "https://www.aptean.com/en-US/our-company/careers"
   }
 ]
