@@ -49,16 +49,42 @@ def get_workday_parts(url):
     Workday career URLs look like:
       https://{tenant}.wd{N}.myworkdayjobs.com/{site}
       https://{tenant}.wd{N}.myworkdayjobs.com/en-US/{site}
+      https://wd{N}.myworkdaysite.com/recruiting/{tenant}/{site}   (newer domain)
     Returns (tenant, dc, site) or None if this isn't a Workday URL.
     """
+    # Older/most common pattern: tenant.wdN.myworkdayjobs.com
     m = re.search(
-        r"https?://([a-zA-Z0-9\-]+)\.(wd\d+)\.myworkdayjobs\.com/(?:[a-zA-Z\-]+/)?([a-zA-Z0-9\-_]+)",
+        r'https?://([a-zA-Z0-9\-]+)\.(wd\d+)\.myworkdayjobs\.com/(?:[a-zA-Z\-]+/)?([a-zA-Z0-9\-_]+)',
         url
     )
-    if not m:
+    if m:
+        return m.group(1), m.group(2), m.group(3)
+
+    # Newer pattern: wdN.myworkdaysite.com/recruiting/tenant/site
+    m = re.search(
+        r'https?://(wd\d+)\.myworkdaysite\.com/recruiting/([a-zA-Z0-9\-_]+)/([a-zA-Z0-9\-_]+)',
+        url
+    )
+    if m:
+        dc, tenant, site = m.group(1), m.group(2), m.group(3)
+        return tenant, dc, site
+
+    return None
+
+
+def get_oracle_cloud_parts(url):
+    """
+    Oracle Cloud (Fusion HCM) career URLs look like:
+      https://{tenant}.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/{SITE_NUMBER}/jobs
+      https://{tenant}.fa.{region}.oraclecloud.com/hcmUI/CandidateExperience/en/sites/{SITE_NUMBER}/jobs
+    Returns (tenant, site_number) or None.
+    """
+    m = re.search(r'https?://([a-zA-Z0-9\-]+)\.fa\.(?:[a-zA-Z0-9]+\.)?oraclecloud\.com', url)
+    site_m = re.search(r'sites/([A-Za-z0-9_]+)', url)
+    if not m or not site_m:
         return None
-    tenant, dc, site = m.group(1), m.group(2), m.group(3)
-    return tenant, dc, site
+    tenant_host = re.search(r'https?://([a-zA-Z0-9\-\.]+\.oraclecloud\.com)', url).group(1)
+    return tenant_host, site_m.group(1)
 
 
 def fetch_greenhouse(slug):
@@ -108,6 +134,47 @@ def fetch_workday(tenant, dc, site, base_url):
     return jobs
 
 
+def fetch_oracle_cloud(host, site_number):
+    """
+    Best-effort Oracle Cloud (Fusion HCM Recruiting) fetcher.
+    NOTE: unlike the Workday/Greenhouse/Lever fetchers, this pattern is
+    reconstructed from Oracle's own docs and third-party references, not
+    verified against a live site from here. If this returns nothing or
+    errors, that's a signal the exact parameters need adjusting for that
+    specific company's Oracle Cloud instance — not necessarily that the
+    company has no jobs.
+    """
+    api = f"https://{host}/hcmRestApi/resources/latest/recruitingCEJobRequisitions"
+    jobs = {}
+    offset = 0
+    limit = 25
+    while True:
+        finder = (
+            f"findReqs;siteNumber={site_number},limit={limit},offset={offset},"
+            f"sortBy=POSTING_DATES_DESC"
+        )
+        params = {"onlyData": "true", "finder": finder}
+        r = requests.get(api, params=params, headers=HEADERS, timeout=20)
+        r.raise_for_status()
+        data = r.json()
+        items = data.get("items", [])
+        if not items:
+            break
+        reqs = items[0].get("requisitionList", []) if items else []
+        if not reqs:
+            break
+        for job in reqs:
+            job_id = job.get("Id") or job.get("RequisitionNumber")
+            title = job.get("Title", "Untitled")
+            req_num = job.get("RequisitionNumber", "")
+            job_url = f"https://{host}/hcmUI/CandidateExperience/en/sites/{site_number}/job/{req_num}"
+            jobs[str(job_id)] = {"title": title, "url": job_url}
+        offset += limit
+        if len(reqs) < limit:
+            break
+    return jobs
+
+
 def fetch_generic(url):
     """
     Best-effort fallback for career sites that aren't Greenhouse or Lever.
@@ -142,9 +209,11 @@ def fetch_generic(url):
 
 def fetch_company_jobs(company):
     url = company["url"]
+    name = company["name"]
     gh_slug = get_greenhouse_slug(url)
     lv_slug = get_lever_slug(url)
     wd_parts = get_workday_parts(url)
+    oc_parts = get_oracle_cloud_parts(url)
     try:
         if gh_slug:
             return fetch_greenhouse(gh_slug)
@@ -153,27 +222,47 @@ def fetch_company_jobs(company):
         elif wd_parts:
             tenant, dc, site = wd_parts
             return fetch_workday(tenant, dc, site, url)
+        elif oc_parts:
+            host, site_number = oc_parts
+            return fetch_oracle_cloud(host, site_number)
         else:
+            # Safety net: this URL looks like it MIGHT be Workday or Oracle
+            # Cloud but didn't match our known patterns — likely a URL shape
+            # we haven't seen before (e.g. a direct job link instead of the
+            # base career page, or a bare URL with no site name). Flag it
+            # clearly instead of silently treating it as "just another
+            # custom site" and falling back to the unreliable scraper.
+            if "myworkdayjobs.com" in url or "myworkdaysite.com" in url:
+                print(f"  [WARN] {name}: looks like Workday but URL format wasn't recognized — check the URL (should point to the base career site, not a specific job posting)", file=sys.stderr)
+            elif "oraclecloud.com" in url:
+                print(f"  [WARN] {name}: looks like Oracle Cloud but URL format wasn't recognized — check the URL", file=sys.stderr)
             return fetch_generic(url)
     except Exception as e:
-        print(f"  [ERROR] {company['name']}: {e}", file=sys.stderr)
+        print(f"  [ERROR] {name}: {e}", file=sys.stderr)
         return None  # signal failure — don't wipe out seen state on a broken fetch
 
 
 def send_telegram(message):
     token = os.environ.get("TELEGRAM_BOT_TOKEN")
-    chat_id = os.environ.get("TELEGRAM_CHAT_ID")
-    if not token or not chat_id:
+    chat_ids_raw = os.environ.get("TELEGRAM_CHAT_ID", "")
+    chat_ids = [c.strip() for c in chat_ids_raw.split(",") if c.strip()]
+
+    if not token or not chat_ids:
         print("[WARN] Telegram credentials not set — printing instead:")
         print(message)
         return
+
     api = f"https://api.telegram.org/bot{token}/sendMessage"
-    requests.post(api, data={
-        "chat_id": chat_id,
-        "text": message,
-        "parse_mode": "HTML",
-        "disable_web_page_preview": False
-    }, timeout=20)
+    for chat_id in chat_ids:
+        try:
+            requests.post(api, data={
+                "chat_id": chat_id,
+                "text": message,
+                "parse_mode": "HTML",
+                "disable_web_page_preview": False
+            }, timeout=20)
+        except Exception as e:
+            print(f"  [ERROR] Failed to send to chat_id {chat_id}: {e}")
 
 
 def main():
