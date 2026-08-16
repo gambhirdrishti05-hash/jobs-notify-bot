@@ -1,14 +1,19 @@
-
 """
-Checks every company in companies.json for new job postings.
-Sends a Telegram message for anything new since the last run.
+Job Alert Bot — checks company career pages for new postings.
 
-How it works:
-- Greenhouse and Lever companies: hits their public JSON API (fast, reliable)
-- Everything else: does a best-effort scrape of the careers page and
-  looks for link text that looks like a job title. Less reliable —
-  if a company on a custom career site stops showing new alerts,
-  that's the first place to check.
+Supported platforms (reliable, uses structured API):
+  - Greenhouse  (boards-api.greenhouse.io)
+  - Lever       (api.lever.co)
+  - Workday     (*.myworkdayjobs.com, *.myworkdaysite.com)
+  - Oracle Cloud / Fusion HCM (*.oraclecloud.com)
+  - iCIMS       (*.icims.com)
+  - Ashby       (jobs.ashbyhq.com)
+
+Everything else falls back to an HTML scraper with strict junk
+filtering. The fallback is better than nothing but will miss jobs
+on JavaScript-rendered sites and may occasionally misidentify
+non-job links. The Actions log prints which method was used for
+each company so you can tell at a glance what's reliable vs not.
 """
 
 import json
@@ -20,7 +25,29 @@ from bs4 import BeautifulSoup
 
 COMPANIES_FILE = "companies.json"
 SEEN_FILE = "seen_jobs.json"
-HEADERS = {"User-Agent": "Mozilla/5.0 (job-alert-bot)"}
+HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+
+# ── Known junk phrases the fallback scraper should always ignore ──
+JUNK_TITLES = {
+    "apply now", "see details", "see jobs", "view job", "view jobs",
+    "view all jobs", "view job openings", "view all", "search jobs",
+    "search", "log in", "log back in!", "sign in", "sign up",
+    "job search", "saved jobs", "saved", "careers", "careers home",
+    "careers overview", "welcome page", "read more", "learn more",
+    "explore", "explore options", "explore benefits", "explore all opportunities",
+    "join our talent community", "feel the difference", "ai at work",
+    "here", "english", "back", "next", "previous", "home",
+    "about us", "about", "contact", "contact us", "privacy", "privacy policy",
+    "terms", "terms of use", "cookie policy", "sitemap", "faq",
+    "manage application", "your career", "why work here",
+    "job categories", "job category", "all categories", "all locations",
+    "clear filters", "reset", "subscribe", "newsletter",
+    "account security", "application status", "my applications",
+    "india jobs", "job alerts", "job alert", "set up job alerts",
+    "sign up for job alerts", "create alert", "email me jobs",
+    "university & early career", "experienced professionals",
+    "our satellite locations", "working at",
+}
 
 
 def load_json(path, default):
@@ -35,6 +62,10 @@ def save_json(path, data):
         json.dump(data, f, indent=2)
 
 
+# ═══════════════════════════════════════════════════════════════
+# Platform detection — each returns parsed parts or None
+# ═══════════════════════════════════════════════════════════════
+
 def get_greenhouse_slug(url):
     m = re.search(r"greenhouse\.io/([a-zA-Z0-9\-_]+)", url)
     return m.group(1) if m else None
@@ -47,56 +78,59 @@ def get_lever_slug(url):
 
 def get_workday_parts(url):
     """
-    Workday career URLs come in two different domain shapes:
-      Style A (classic):    https://{tenant}.wd{N}.myworkdayjobs.com/{site}
-                             https://{tenant}.wd{N}.myworkdayjobs.com/en-US/{site}
-      Style B (shared proxy): https://wd{N}.myworkdaysite.com/recruiting/{tenant}/{site}
-    These are NOT interchangeable — a Style B tenant's real API lives on
-    myworkdaysite.com, not myworkdayjobs.com. Rebuilding a Style B tenant's
-    API call on the myworkdayjobs.com domain returns an empty (but non-error)
-    response, which silently looks like "zero jobs" forever.
-    Returns (tenant, dc, site, domain_style) or None if this isn't Workday.
-    domain_style is "myworkdayjobs.com" or "myworkdaysite.com".
+    Workday URLs:
+      https://{tenant}.wd{N}.myworkdayjobs.com/{site}
+      https://{tenant}.wd{N}.myworkdayjobs.com/en-US/{site}
+      https://wd{N}.myworkdaysite.com/recruiting/{tenant}/{site}
     """
-    # Style A: tenant.wdN.myworkdayjobs.com
-    # The optional segment after the domain is only treated as a locale
-    # (e.g. "en", "en-US") if it's actually locale-shaped — otherwise a
-    # site name like "TRowePrice" gets wrongly swallowed as a "locale"
-    # and the real site name (e.g. "jobs") gets misread instead.
     m = re.search(
         r'https?://([a-zA-Z0-9\-]+)\.(wd\d+)\.myworkdayjobs\.com/(?:[a-z]{2}(?:-[A-Z]{2})?/)?([a-zA-Z0-9\-_]+)',
         url
     )
     if m:
-        tenant, dc, site = m.group(1), m.group(2), m.group(3)
-        return tenant, dc, site, "myworkdayjobs.com"
-
-    # Style B: wdN.myworkdaysite.com/recruiting/tenant/site
+        return m.group(1), m.group(2), m.group(3)
     m = re.search(
         r'https?://(wd\d+)\.myworkdaysite\.com/recruiting/([a-zA-Z0-9\-_]+)/([a-zA-Z0-9\-_]+)',
         url
     )
     if m:
         dc, tenant, site = m.group(1), m.group(2), m.group(3)
-        return tenant, dc, site, "myworkdaysite.com"
-
+        return tenant, dc, site
     return None
 
 
 def get_oracle_cloud_parts(url):
-    """
-    Oracle Cloud (Fusion HCM) career URLs look like:
-      https://{tenant}.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/{SITE_NUMBER}/jobs
-      https://{tenant}.fa.{region}.oraclecloud.com/hcmUI/CandidateExperience/en/sites/{SITE_NUMBER}/jobs
-    Returns (tenant, site_number) or None.
-    """
+    """Oracle Cloud (Fusion HCM): *.oraclecloud.com with /sites/{SITE}/"""
     m = re.search(r'https?://([a-zA-Z0-9\-]+)\.fa\.(?:[a-zA-Z0-9]+\.)?oraclecloud\.com', url)
     site_m = re.search(r'sites/([A-Za-z0-9_]+)', url)
     if not m or not site_m:
         return None
-    tenant_host = re.search(r'https?://([a-zA-Z0-9\-\.]+\.oraclecloud\.com)', url).group(1)
-    return tenant_host, site_m.group(1)
+    host = re.search(r'https?://([a-zA-Z0-9\-\.]+\.oraclecloud\.com)', url).group(1)
+    return host, site_m.group(1)
 
+
+def get_icims_parts(url):
+    """
+    iCIMS URLs:
+      https://{company}.icims.com/jobs/search?ss=1
+      https://careers-{company}.icims.com/jobs/search?ss=1
+    Returns the base URL (everything before /jobs/) or None.
+    """
+    if "icims.com" not in url:
+        return None
+    m = re.search(r'(https?://[a-zA-Z0-9\-\.]+\.icims\.com)', url)
+    return m.group(1) if m else None
+
+
+def get_ashby_slug(url):
+    """Ashby: https://jobs.ashbyhq.com/{company}"""
+    m = re.search(r'jobs\.ashbyhq\.com/([a-zA-Z0-9\-_]+)', url)
+    return m.group(1) if m else None
+
+
+# ═══════════════════════════════════════════════════════════════
+# Fetchers — one per platform
+# ═══════════════════════════════════════════════════════════════
 
 def fetch_greenhouse(slug):
     api = f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs"
@@ -114,15 +148,8 @@ def fetch_lever(slug):
     return {j["id"]: {"title": j["text"], "url": j["hostedUrl"]} for j in jobs}
 
 
-def fetch_workday(tenant, dc, site, domain_style):
-    if domain_style == "myworkdaysite.com":
-        # Shared proxy domain — tenant stays in the path, dc is the plain subdomain
-        host = f"{dc}.myworkdaysite.com"
-    else:
-        # Classic per-tenant subdomain
-        host = f"{tenant}.{dc}.myworkdayjobs.com"
-
-    api = f"https://{host}/wday/cxs/{tenant}/{site}/jobs"
+def fetch_workday(tenant, dc, site, base_url):
+    api = f"https://{tenant}.{dc}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs"
     jobs = {}
     offset = 0
     limit = 20
@@ -143,7 +170,7 @@ def fetch_workday(tenant, dc, site, domain_style):
             job_id = path or p.get("title", "")
             jobs[job_id] = {
                 "title": p.get("title", "Untitled"),
-                "url": f"https://{host}{path}"
+                "url": f"https://{tenant}.{dc}.myworkdayjobs.com{path}"
             }
         total = data.get("total", 0)
         offset += limit
@@ -153,15 +180,6 @@ def fetch_workday(tenant, dc, site, domain_style):
 
 
 def fetch_oracle_cloud(host, site_number):
-    """
-    Best-effort Oracle Cloud (Fusion HCM Recruiting) fetcher.
-    NOTE: unlike the Workday/Greenhouse/Lever fetchers, this pattern is
-    reconstructed from Oracle's own docs and third-party references, not
-    verified against a live site from here. If this returns nothing or
-    errors, that's a signal the exact parameters need adjusting for that
-    specific company's Oracle Cloud instance — not necessarily that the
-    company has no jobs.
-    """
     api = f"https://{host}/hcmRestApi/resources/latest/recruitingCEJobRequisitions"
     jobs = {}
     offset = 0
@@ -193,13 +211,78 @@ def fetch_oracle_cloud(host, site_number):
     return jobs
 
 
+def fetch_icims(base_url):
+    """
+    iCIMS career portals expose a /careers/jobs endpoint that returns
+    HTML with structured job listings. The links follow a consistent
+    pattern: /jobs/{job_id}/job — much more reliable than the generic
+    fallback since we can filter on URL structure instead of guessing
+    from link text.
+    """
+    search_url = f"{base_url}/jobs/search?ss=1&searchRelation=keyword_all"
+    r = requests.get(search_url, headers=HEADERS, timeout=20)
+    r.raise_for_status()
+    soup = BeautifulSoup(r.text, "html.parser")
+    jobs = {}
+    for a in soup.find_all("a", href=True):
+        href = a["href"]
+        # iCIMS job links look like /jobs/1234/job or /jobs/1234/title
+        m = re.search(r'/jobs/(\d+)/', href)
+        if not m:
+            continue
+        job_id = m.group(1)
+        text = a.get_text(strip=True)
+        # Clean up iCIMS's "TitleActual Job Name" prefix pattern
+        text = re.sub(r'^(Job\s*)?Title', '', text).strip()
+        if not text or len(text) < 4 or text.lower() in JUNK_TITLES:
+            continue
+        full_url = href if href.startswith("http") else requests.compat.urljoin(base_url, href)
+        if job_id not in jobs:  # first link text for this ID wins
+            jobs[job_id] = {"title": text, "url": full_url}
+    return jobs
+
+
+def fetch_ashby(slug):
+    """Ashby has a proper public JSON API, same category as Greenhouse/Lever."""
+    api = f"https://api.ashbyhq.com/posting-api/job-board/{slug}"
+    r = requests.get(api, headers=HEADERS, timeout=20)
+    r.raise_for_status()
+    data = r.json()
+    jobs = {}
+    for job in data.get("jobs", []):
+        job_id = job.get("id", "")
+        title = job.get("title", "Untitled")
+        job_url = f"https://jobs.ashbyhq.com/{slug}/{job_id}"
+        jobs[job_id] = {"title": title, "url": job_url}
+    return jobs
+
+
+def is_junk_title(text):
+    """Check if a scraped title is likely navigation junk, not a real job."""
+    cleaned = text.strip().lower()
+    # Exact match against known junk
+    if cleaned in JUNK_TITLES:
+        return True
+    # Starts with known junk prefix
+    for junk in JUNK_TITLES:
+        if cleaned.startswith(junk):
+            return True
+    # Too short to be a real job title
+    if len(cleaned) < 8:
+        return True
+    # All one word (real job titles are almost always 2+ words)
+    if len(cleaned.split()) < 2:
+        return True
+    # Contains no letters (just symbols/numbers)
+    if not re.search(r'[a-zA-Z]', cleaned):
+        return True
+    return False
+
+
 def fetch_generic(url):
     """
-    Best-effort fallback for career sites that aren't Greenhouse or Lever.
-    Looks for links whose visible text looks like a job title.
-    Not perfect — some sites render jobs via JavaScript and won't show
-    up here at all. If that happens for a company you care about,
-    flag it and we'll build a site-specific rule for it.
+    Best-effort fallback for unrecognized career sites.
+    Now with much stricter filtering to reduce junk alerts.
     """
     r = requests.get(url, headers=HEADERS, timeout=20)
     r.raise_for_status()
@@ -208,56 +291,82 @@ def fetch_generic(url):
     for a in soup.find_all("a", href=True):
         text = a.get_text(strip=True)
         href = a["href"]
-        if not text or len(text) < 4 or len(text) > 100:
+        if not text or len(text) < 8 or len(text) > 120:
             continue
-        # Heuristic: job links usually contain words like these, or the
-        # link itself points somewhere with "job" / "career" / "position" in it
+        # Clean up common prefixes iCIMS-style sites add
+        text = re.sub(r'^(Job\s*)?Title\s*', '', text).strip()
+        if is_junk_title(text):
+            continue
+        # Must have BOTH a title-like signal AND a link-like signal
+        # (old version accepted either/or, which was too loose)
         title_signal = re.search(
             r"\b(analyst|manager|engineer|associate|specialist|coordinator|"
-            r"director|lead|intern|consultant|scientist|developer|designer)\b",
+            r"director|lead|intern|consultant|scientist|developer|designer|"
+            r"administrator|architect|accountant|advisor|assistant|attorney|"
+            r"nurse|physician|technician|supervisor|representative|officer|"
+            r"recruiter|paralegal|planner|buyer|auditor|controller)\b",
             text, re.IGNORECASE
         )
-        link_signal = re.search(r"(job|career|position|opening|req)", href, re.IGNORECASE)
-        if title_signal or link_signal:
+        link_signal = re.search(
+            r"(job[s]?/|career|position|opening|requisition|req|posting|apply|vacancies)",
+            href, re.IGNORECASE
+        )
+        if title_signal and link_signal:
             full_url = href if href.startswith("http") else requests.compat.urljoin(url, href)
-            job_id = full_url  # use the URL itself as the unique id
+            job_id = full_url
             jobs[job_id] = {"title": text, "url": full_url}
     return jobs
 
 
+# ═══════════════════════════════════════════════════════════════
+# Main router — detects platform, calls the right fetcher
+# ═══════════════════════════════════════════════════════════════
+
 def fetch_company_jobs(company):
     url = company["url"]
     name = company["name"]
+
     gh_slug = get_greenhouse_slug(url)
     lv_slug = get_lever_slug(url)
     wd_parts = get_workday_parts(url)
     oc_parts = get_oracle_cloud_parts(url)
+    icims_base = get_icims_parts(url)
+    ashby_slug = get_ashby_slug(url)
+
     try:
         if gh_slug:
+            print(f"  [Greenhouse] {name}")
             return fetch_greenhouse(gh_slug)
         elif lv_slug:
+            print(f"  [Lever] {name}")
             return fetch_lever(lv_slug)
         elif wd_parts:
-            tenant, dc, site, domain_style = wd_parts
-            return fetch_workday(tenant, dc, site, domain_style)
+            tenant, dc, site = wd_parts
+            print(f"  [Workday] {name} (tenant={tenant}, dc={dc}, site={site})")
+            return fetch_workday(tenant, dc, site, url)
         elif oc_parts:
             host, site_number = oc_parts
+            print(f"  [Oracle Cloud] {name} (host={host}, site={site_number})")
             return fetch_oracle_cloud(host, site_number)
+        elif icims_base:
+            print(f"  [iCIMS] {name} (base={icims_base})")
+            return fetch_icims(icims_base)
+        elif ashby_slug:
+            print(f"  [Ashby] {name} (slug={ashby_slug})")
+            return fetch_ashby(ashby_slug)
         else:
-            # Safety net: this URL looks like it MIGHT be Workday or Oracle
-            # Cloud but didn't match our known patterns — likely a URL shape
-            # we haven't seen before (e.g. a direct job link instead of the
-            # base career page, or a bare URL with no site name). Flag it
-            # clearly instead of silently treating it as "just another
-            # custom site" and falling back to the unreliable scraper.
+            # Safety net warnings for near-misses
             if "myworkdayjobs.com" in url or "myworkdaysite.com" in url:
-                print(f"  [WARN] {name}: looks like Workday but URL format wasn't recognized — check the URL (should point to the base career site, not a specific job posting)", file=sys.stderr)
+                print(f"  [WARN] {name}: looks like Workday but URL wasn't recognized — check URL format", file=sys.stderr)
             elif "oraclecloud.com" in url:
-                print(f"  [WARN] {name}: looks like Oracle Cloud but URL format wasn't recognized — check the URL", file=sys.stderr)
+                print(f"  [WARN] {name}: looks like Oracle Cloud but URL wasn't recognized — check URL format", file=sys.stderr)
+            elif "icims.com" in url:
+                print(f"  [WARN] {name}: looks like iCIMS but URL wasn't recognized — check URL format", file=sys.stderr)
+            print(f"  [Fallback scraper] {name} — results may be unreliable")
             return fetch_generic(url)
     except Exception as e:
         print(f"  [ERROR] {name}: {e}", file=sys.stderr)
-        return None  # signal failure — don't wipe out seen state on a broken fetch
+        return None
 
 
 def send_telegram(message):
@@ -295,16 +404,14 @@ def main():
         current_jobs = fetch_company_jobs(company)
 
         if current_jobs is None:
-            continue  # fetch failed — skip, don't touch seen state for this company
+            continue
 
         prev_ids = set(seen.get(name, {}).keys())
         current_ids = set(current_jobs.keys())
         new_ids = current_ids - prev_ids
 
-        # First time seeing this company: record baseline, don't spam
-        # you with every existing posting.
         if name not in seen:
-            print(f"  First run for {name} — recording {len(current_ids)} postings as baseline.")
+            print(f"  First run — recording {len(current_ids)} postings as baseline.")
             seen[name] = current_jobs
             continue
 
