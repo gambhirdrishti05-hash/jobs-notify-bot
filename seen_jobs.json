@@ -12580,10 +12580,6 @@
       "title": "Store Associate",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/job/VA---Richmond/Store-Associate_R1006378-1"
     },
-    "/job/MO---Lees-Summit/Shift-Supervisor_R1005759": {
-      "title": "Shift Supervisor",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/job/MO---Lees-Summit/Shift-Supervisor_R1005759"
-    },
     "/job/VA---Richmond/Pharmacy-Technician_R1006366": {
       "title": "Pharmacy Technician",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/job/VA---Richmond/Pharmacy-Technician_R1006366"
@@ -33484,10 +33480,6 @@
       "title": "Dist Suppt Pharmacist FT",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/job/AZ---Mesa/Dist-Suppt-Pharmacist-FT_R0995047"
     },
-    "/job/NY---Mineola/Operations-Manager_R0995182": {
-      "title": "Operations Manager",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/job/NY---Mineola/Operations-Manager_R0995182"
-    },
     "/job/NV---North-Las-Vegas/Pharmacy-Intern_R0995863": {
       "title": "Pharmacy Intern",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/job/NV---North-Las-Vegas/Pharmacy-Intern_R0995863"
@@ -48216,10 +48208,6 @@
       "title": "Pharmacy Technician",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/job/TX---Grapevine/Pharmacy-Technician_R0984779"
     },
-    "/job/TX---Dallas/Pharmacy-Technician_R0984544": {
-      "title": "Pharmacy Technician",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/job/TX---Dallas/Pharmacy-Technician_R0984544"
-    },
     "/job/WV---Martinsburg/Store-Manager-In-Training_R0983917": {
       "title": "Store Manager In Training",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/job/WV---Martinsburg/Store-Manager-In-Training_R0983917"
@@ -56111,10 +56099,6 @@
     "/job/PA---South-Williamsport/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R0975010": {
       "title": "Foreign Pharmacy Grad - International Pharmacy Intern",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/job/PA---South-Williamsport/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R0975010"
-    },
-    "/job/FL---Boca-Raton/Pharmacy-Intern_R0975012": {
-      "title": "Pharmacy Intern",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/job/FL---Boca-Raton/Pharmacy-Intern_R0975012"
     },
     "/job/MA---West-Newton/Store-Associate_R0972685": {
       "title": "Store Associate",
@@ -76157,6 +76141,1358 @@
     "https://www.aptean.com/en-US/request-pricing": {
       "title": "Request Pricing",
       "url": "https://www.aptean.com/en-US/request-pricing"
+    }
+  },
+  "Intuitive Surgical": {
+    "https://careers.intuitive.com/en/jobs/": {
+      "title": "View all jobs",
+      "url": "https://careers.intuitive.com/en/jobs/"
+    },
+    "https://careers.intuitive.com/en/career-opportunities/": {
+      "title": "View all teams",
+      "url": "https://careers.intuitive.com/en/career-opportunities/"
+    },
+    "https://careers.intuitive.com/en/career-opportunities/administration/": {
+      "title": "Administration",
+      "url": "https://careers.intuitive.com/en/career-opportunities/administration/"
+    },
+    "https://careers.intuitive.com/en/career-opportunities/clinical-affairs/": {
+      "title": "Learn More",
+      "url": "https://careers.intuitive.com/en/career-opportunities/clinical-affairs/"
+    },
+    "https://careers.intuitive.com/en/career-opportunities/clinical-development-engineering/": {
+      "title": "Clinical Development Engineering",
+      "url": "https://careers.intuitive.com/en/career-opportunities/clinical-development-engineering/"
+    },
+    "https://careers.intuitive.com/en/career-opportunities/customer-experience-and-services/": {
+      "title": "Learn More",
+      "url": "https://careers.intuitive.com/en/career-opportunities/customer-experience-and-services/"
+    },
+    "https://careers.intuitive.com/en/career-opportunities/engineering/": {
+      "title": "Learn More",
+      "url": "https://careers.intuitive.com/en/career-opportunities/engineering/"
+    },
+    "https://careers.intuitive.com/en/career-opportunities/engineering/ion-software-engineering/": {
+      "title": "Ion Software Engineering",
+      "url": "https://careers.intuitive.com/en/career-opportunities/engineering/ion-software-engineering/"
+    },
+    "https://careers.intuitive.com/en/career-opportunities/engineering/multiport-engineering/": {
+      "title": "Multiport Engineering",
+      "url": "https://careers.intuitive.com/en/career-opportunities/engineering/multiport-engineering/"
+    },
+    "https://careers.intuitive.com/en/career-opportunities/executive/": {
+      "title": "Executive",
+      "url": "https://careers.intuitive.com/en/career-opportunities/executive/"
+    },
+    "https://careers.intuitive.com/en/career-opportunities/finance-and-accounting/": {
+      "title": "Learn More",
+      "url": "https://careers.intuitive.com/en/career-opportunities/finance-and-accounting/"
+    },
+    "https://careers.intuitive.com/en/career-opportunities/global-business-services/": {
+      "title": "Learn More",
+      "url": "https://careers.intuitive.com/en/career-opportunities/global-business-services/"
+    },
+    "https://careers.intuitive.com/en/career-opportunities/human-factors/": {
+      "title": "Learn More",
+      "url": "https://careers.intuitive.com/en/career-opportunities/human-factors/"
+    },
+    "https://careers.intuitive.com/en/career-opportunities/human-resources/": {
+      "title": "Human Resources",
+      "url": "https://careers.intuitive.com/en/career-opportunities/human-resources/"
+    },
+    "https://careers.intuitive.com/en/career-opportunities/information-technology-and-systems/": {
+      "title": "Learn More",
+      "url": "https://careers.intuitive.com/en/career-opportunities/information-technology-and-systems/"
+    },
+    "https://careers.intuitive.com/en/career-opportunities/legal/": {
+      "title": "Legal",
+      "url": "https://careers.intuitive.com/en/career-opportunities/legal/"
+    },
+    "https://careers.intuitive.com/en/career-opportunities/manufacturing-and-operations/": {
+      "title": "Learn More",
+      "url": "https://careers.intuitive.com/en/career-opportunities/manufacturing-and-operations/"
+    },
+    "https://careers.intuitive.com/en/career-opportunities/marketing/": {
+      "title": "Learn More",
+      "url": "https://careers.intuitive.com/en/career-opportunities/marketing/"
+    },
+    "https://careers.intuitive.com/en/career-opportunities/quality-and-regulatory-affairs/": {
+      "title": "Learn More",
+      "url": "https://careers.intuitive.com/en/career-opportunities/quality-and-regulatory-affairs/"
+    },
+    "https://careers.intuitive.com/en/career-opportunities/sales/": {
+      "title": "Learn More",
+      "url": "https://careers.intuitive.com/en/career-opportunities/sales/"
+    },
+    "https://careers.intuitive.com/en/career-opportunities/strategy-and-growth-future-forward/": {
+      "title": "Strategy and Growth (Future Forward)",
+      "url": "https://careers.intuitive.com/en/career-opportunities/strategy-and-growth-future-forward/"
+    },
+    "https://careers.intuitive.com/en/career-opportunities/strategy-and-growth-future-forward/fluorescence-imaging/": {
+      "title": "Fluorescence Imaging",
+      "url": "https://careers.intuitive.com/en/career-opportunities/strategy-and-growth-future-forward/fluorescence-imaging/"
+    },
+    "https://careers.intuitive.com/en/career-opportunities/students-and-university/": {
+      "title": "Learn More",
+      "url": "https://careers.intuitive.com/en/career-opportunities/students-and-university/"
+    },
+    "https://careers.intuitive.com/en/jobs/saved-jobs/": {
+      "title": "0Saved Jobs",
+      "url": "https://careers.intuitive.com/en/jobs/saved-jobs/"
+    }
+  },
+  "Gainwell Technologies": {
+    "https://jobs.gainwelltechnologies.com/go/India-Jobs/9829400/": {
+      "title": "India Jobs",
+      "url": "https://jobs.gainwelltechnologies.com/go/India-Jobs/9829400/"
+    },
+    "https://jobs.gainwelltechnologies.com/go/InternsEarly-Career/8808700/": {
+      "title": "View job openings",
+      "url": "https://jobs.gainwelltechnologies.com/go/InternsEarly-Career/8808700/"
+    },
+    "https://jobs.gainwelltechnologies.com/go/View-All-Jobs/8808000/": {
+      "title": "View All Jobs",
+      "url": "https://jobs.gainwelltechnologies.com/go/View-All-Jobs/8808000/"
+    },
+    "https://www.gainwelltechnologies.com/careers/": {
+      "title": "Careers Home",
+      "url": "https://www.gainwelltechnologies.com/careers/"
+    },
+    "https://jobs.gainwelltechnologies.com/go/Veteran-Opportunities/8808800/": {
+      "title": "View job openings",
+      "url": "https://jobs.gainwelltechnologies.com/go/Veteran-Opportunities/8808800/"
+    },
+    "https://jobs.gainwelltechnologies.com/topjobs/": {
+      "title": "Top Jobs",
+      "url": "https://jobs.gainwelltechnologies.com/topjobs/"
+    }
+  },
+  "Becton Dickinson (BD)": {
+    "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/login": {
+      "title": "Manage Application",
+      "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/login"
+    },
+    "https://jobs.bd.com/saved-jobs": {
+      "title": "Saved Jobs0",
+      "url": "https://jobs.bd.com/saved-jobs"
+    },
+    "https://jobs.bd.com/search-jobs": {
+      "title": "Search Jobs",
+      "url": "https://jobs.bd.com/search-jobs"
+    },
+    "https://jobs.bd.com/en/your-career-at-BD": {
+      "title": "Your Career at BD",
+      "url": "https://jobs.bd.com/en/your-career-at-BD"
+    },
+    "https://jobs.bd.com/en/career-areas": {
+      "title": "Explore All Opportunities",
+      "url": "https://jobs.bd.com/en/career-areas"
+    },
+    "https://jobs.bd.com/en/search-jobs": {
+      "title": "Search Jobs",
+      "url": "https://jobs.bd.com/en/search-jobs"
+    },
+    "https://jobs.bd.com/en/career-areas-sales": {
+      "title": "Sales",
+      "url": "https://jobs.bd.com/en/career-areas-sales"
+    },
+    "https://jobs.bd.com/en/career-areas-engineering-and-research-and-development": {
+      "title": "Engineering and R&D",
+      "url": "https://jobs.bd.com/en/career-areas-engineering-and-research-and-development"
+    },
+    "https://jobs.bd.com/en/career-areas-manufacturing": {
+      "title": "Manufacturing",
+      "url": "https://jobs.bd.com/en/career-areas-manufacturing"
+    },
+    "https://jobs.bd.com/en/career-areas-corporate": {
+      "title": "Corporate",
+      "url": "https://jobs.bd.com/en/career-areas-corporate"
+    },
+    "https://jobs.bd.com/en#job-alert": {
+      "title": "Job Alerts",
+      "url": "https://jobs.bd.com/en#job-alert"
+    },
+    "https://jobs.bd.com/beware-of-job-scams": {
+      "title": "click here",
+      "url": "https://jobs.bd.com/beware-of-job-scams"
+    },
+    "https://jobs.bd.com/career-areas": {
+      "title": "Jobs By Category",
+      "url": "https://jobs.bd.com/career-areas"
+    }
+  },
+  "NextEra Energy": {
+    "https://www.nexteraenergy.com/careers/join-our-team/internships.html": {
+      "title": "Internship",
+      "url": "https://www.nexteraenergy.com/careers/join-our-team/internships.html"
+    },
+    "https://www.nexteraenergy.com/careers/join-our-team/recent-grads.html": {
+      "title": "Recent Graduates",
+      "url": "https://www.nexteraenergy.com/careers/join-our-team/recent-grads.html"
+    },
+    "https://www.nexteraenergy.com/careers/join-our-team/corporate-jobs.html": {
+      "title": "Corporate Jobs",
+      "url": "https://www.nexteraenergy.com/careers/join-our-team/corporate-jobs.html"
+    },
+    "https://www.nexteraenergy.com/careers/join-our-team/field-jobs.html ": {
+      "title": "Field Jobs",
+      "url": "https://www.nexteraenergy.com/careers/join-our-team/field-jobs.html "
+    },
+    "https://www.nexteraenergy.com/careers/join-our-team/military-veterans.html": {
+      "title": "Military & Veterans",
+      "url": "https://www.nexteraenergy.com/careers/join-our-team/military-veterans.html"
+    },
+    "https://www.nexteraenergy.com/careers/life-at-nextera/culture.html": {
+      "title": "Culture",
+      "url": "https://www.nexteraenergy.com/careers/life-at-nextera/culture.html"
+    },
+    "https://www.nexteraenergy.com/careers/life-at-nextera/innovation.html": {
+      "title": "Innovation",
+      "url": "https://www.nexteraenergy.com/careers/life-at-nextera/innovation.html"
+    },
+    "https://www.nexteraenergy.com/careers/life-at-nextera/community.html": {
+      "title": "Community",
+      "url": "https://www.nexteraenergy.com/careers/life-at-nextera/community.html"
+    },
+    "https://www.nexteraenergy.com/careers/life-at-nextera/benefits.html": {
+      "title": "Benefits",
+      "url": "https://www.nexteraenergy.com/careers/life-at-nextera/benefits.html"
+    },
+    "https://www.nexteraenergy.com/careers/search-jobs.html": {
+      "title": "SEARCH JOBS",
+      "url": "https://www.nexteraenergy.com/careers/search-jobs.html"
+    },
+    "https://jobs.nexteraenergy.com/?locale=en_CA": {
+      "title": "English (Canada)",
+      "url": "https://jobs.nexteraenergy.com/?locale=en_CA"
+    },
+    "https://jobs.nexteraenergy.com/?locale=en_US": {
+      "title": "English (United States)",
+      "url": "https://jobs.nexteraenergy.com/?locale=en_US"
+    },
+    "https://jobs.nexteraenergy.com/?locale=fr_CA": {
+      "title": "Fran\u00e7ais (Canada)",
+      "url": "https://jobs.nexteraenergy.com/?locale=fr_CA"
+    },
+    "https://jobs.nexteraenergy.com/go/AccountingFinance-Jobs/2672700/": {
+      "title": "Accounting & Finance Jobs",
+      "url": "https://jobs.nexteraenergy.com/go/AccountingFinance-Jobs/2672700/"
+    },
+    "https://jobs.nexteraenergy.com/go/College-Jobs/2673400/": {
+      "title": "College Intern\u00a0Jobs",
+      "url": "https://jobs.nexteraenergy.com/go/College-Jobs/2673400/"
+    },
+    "https://jobs.nexteraenergy.com/go/Engineering-Jobs/2673700/": {
+      "title": "Engineering Jobs",
+      "url": "https://jobs.nexteraenergy.com/go/Engineering-Jobs/2673700/"
+    },
+    "https://jobs.nexteraenergy.com/go/Information-Technology-Jobs/2674000/": {
+      "title": "Information Technology Jobs",
+      "url": "https://jobs.nexteraenergy.com/go/Information-Technology-Jobs/2674000/"
+    },
+    "https://jobs.nexteraenergy.com/go/Lineman-&-Cable-Splicer-Jobs/4101600/": {
+      "title": "Lineworker & Cable Splicer Jobs",
+      "url": "https://jobs.nexteraenergy.com/go/Lineman-&-Cable-Splicer-Jobs/4101600/"
+    },
+    "https://jobs.nexteraenergy.com/go/Nuclear-Jobs/2674300/": {
+      "title": "Nuclear Jobs",
+      "url": "https://jobs.nexteraenergy.com/go/Nuclear-Jobs/2674300/"
+    },
+    "https://jobs.nexteraenergy.com/go/Power-Delivery-Jobs/2674400/": {
+      "title": "Power Delivery Jobs",
+      "url": "https://jobs.nexteraenergy.com/go/Power-Delivery-Jobs/2674400/"
+    },
+    "https://jobs.nexteraenergy.com/go/Power-Generation-Jobs/2674500/": {
+      "title": "Power Generation Jobs",
+      "url": "https://jobs.nexteraenergy.com/go/Power-Generation-Jobs/2674500/"
+    },
+    "https://jobs.nexteraenergy.com/search/?searchby=location&q=&locationsearch=&geolocation=": {
+      "title": "View All Jobs",
+      "url": "https://jobs.nexteraenergy.com/search/?searchby=location&q=&locationsearch=&geolocation="
+    },
+    "https://www.nexteraenergy.com/careers/equal-opportunity-employer.html ": {
+      "title": "Equal Opportunity Employer",
+      "url": "https://www.nexteraenergy.com/careers/equal-opportunity-employer.html "
+    },
+    "https://www.nexteraenergy.com/careers/getting-hired/employment-scams.html": {
+      "title": "Employment Scams",
+      "url": "https://www.nexteraenergy.com/careers/getting-hired/employment-scams.html"
+    },
+    "https://www.nexteraenergy.com/careers/getting-hired/sample-employment-test.html": {
+      "title": "Sample Employment Test",
+      "url": "https://www.nexteraenergy.com/careers/getting-hired/sample-employment-test.html"
+    },
+    "https://www.nexteraenergy.com/careers/ca-ccpa-notice.html": {
+      "title": "California Privacy Notice",
+      "url": "https://www.nexteraenergy.com/careers/ca-ccpa-notice.html"
+    }
+  },
+  "Spectrum (Charter Communications)": {
+    "https://jobs.spectrum.com#job-alert-sign-up": {
+      "title": "Sign up for job alerts",
+      "url": "https://jobs.spectrum.com#job-alert-sign-up"
+    },
+    "https://jobs.spectrum.com/university-and-early-career": {
+      "title": "University & Early Career",
+      "url": "https://jobs.spectrum.com/university-and-early-career"
+    },
+    "https://jobs.spectrum.com/category/account-management-jobs/4673/68047/1": {
+      "title": "Account Management",
+      "url": "https://jobs.spectrum.com/category/account-management-jobs/4673/68047/1"
+    },
+    "https://jobs.spectrum.com/category/advertising-sales-jobs/4673/21640/1": {
+      "title": "Advertising Sales",
+      "url": "https://jobs.spectrum.com/category/advertising-sales-jobs/4673/21640/1"
+    },
+    "https://jobs.spectrum.com/category/enterprise-sales-jobs/4673/68062/1": {
+      "title": "Enterprise Sales",
+      "url": "https://jobs.spectrum.com/category/enterprise-sales-jobs/4673/68062/1"
+    },
+    "https://jobs.spectrum.com/category/inside-sales-jobs/4673/68063/1": {
+      "title": "Inside Sales",
+      "url": "https://jobs.spectrum.com/category/inside-sales-jobs/4673/68063/1"
+    },
+    "https://jobs.spectrum.com/category/multi-tenant-sales-jobs/4673/68019/1": {
+      "title": "Multi-Tenant Sales",
+      "url": "https://jobs.spectrum.com/category/multi-tenant-sales-jobs/4673/68019/1"
+    },
+    "https://jobs.spectrum.com/category/outside-sales-jobs/4673/68005/1": {
+      "title": "Outside Sales",
+      "url": "https://jobs.spectrum.com/category/outside-sales-jobs/4673/68005/1"
+    },
+    "https://jobs.spectrum.com/category/retail-jobs/4673/21675/1": {
+      "title": "Retail",
+      "url": "https://jobs.spectrum.com/category/retail-jobs/4673/21675/1"
+    },
+    "https://jobs.spectrum.com/category/telemarketing-jobs/4673/68479/1": {
+      "title": "Telemarketing",
+      "url": "https://jobs.spectrum.com/category/telemarketing-jobs/4673/68479/1"
+    },
+    "https://jobs.spectrum.com/sales-jobs": {
+      "title": "See all sales jobs",
+      "url": "https://jobs.spectrum.com/sales-jobs"
+    },
+    "https://jobs.spectrum.com/category/call-center-jobs/4673/81264/1": {
+      "title": "Call Center",
+      "url": "https://jobs.spectrum.com/category/call-center-jobs/4673/81264/1"
+    },
+    "https://jobs.spectrum.com/category/credit-services-jobs/4673/81766/1": {
+      "title": "Credit Services",
+      "url": "https://jobs.spectrum.com/category/credit-services-jobs/4673/81766/1"
+    },
+    "https://jobs.spectrum.com/category/customer-operations-jobs/4673/46882/1": {
+      "title": "Customer Operations",
+      "url": "https://jobs.spectrum.com/category/customer-operations-jobs/4673/46882/1"
+    },
+    "https://jobs.spectrum.com/category/customer-service-jobs/4673/21648/1": {
+      "title": "Customer Service",
+      "url": "https://jobs.spectrum.com/category/customer-service-jobs/4673/21648/1"
+    },
+    "https://jobs.spectrum.com/customer-service-jobs": {
+      "title": "See all customer service jobs",
+      "url": "https://jobs.spectrum.com/customer-service-jobs"
+    },
+    "https://jobs.spectrum.com/category/construction-jobs/4673/21645/1": {
+      "title": "Construction",
+      "url": "https://jobs.spectrum.com/category/construction-jobs/4673/21645/1"
+    },
+    "https://jobs.spectrum.com/category/field-technician-jobs/4673/26211/1": {
+      "title": "Field Technician",
+      "url": "https://jobs.spectrum.com/category/field-technician-jobs/4673/26211/1"
+    },
+    "https://jobs.spectrum.com/category/maintenance-jobs/4673/81266/1": {
+      "title": "Maintenance",
+      "url": "https://jobs.spectrum.com/category/maintenance-jobs/4673/81266/1"
+    },
+    "https://jobs.spectrum.com/technician-jobs": {
+      "title": "See all technician jobs",
+      "url": "https://jobs.spectrum.com/technician-jobs"
+    },
+    "https://jobs.spectrum.com/category/administrative-jobs/4673/68002/1": {
+      "title": "Administrative",
+      "url": "https://jobs.spectrum.com/category/administrative-jobs/4673/68002/1"
+    },
+    "https://jobs.spectrum.com/category/business-analysis-jobs/4673/81593/1": {
+      "title": "Business Analysis",
+      "url": "https://jobs.spectrum.com/category/business-analysis-jobs/4673/81593/1"
+    },
+    "https://jobs.spectrum.com/category/business-intelligence-jobs/4673/81729/1": {
+      "title": "Business Intelligence",
+      "url": "https://jobs.spectrum.com/category/business-intelligence-jobs/4673/81729/1"
+    },
+    "https://jobs.spectrum.com/category/business-planning-jobs/4673/81594/1": {
+      "title": "Business Planning",
+      "url": "https://jobs.spectrum.com/category/business-planning-jobs/4673/81594/1"
+    },
+    "https://jobs.spectrum.com/category/facilities-jobs/4673/81901/1": {
+      "title": "Facilities",
+      "url": "https://jobs.spectrum.com/category/facilities-jobs/4673/81901/1"
+    },
+    "https://jobs.spectrum.com/category/human-resources-jobs/4673/21656/1": {
+      "title": "Human Resources",
+      "url": "https://jobs.spectrum.com/category/human-resources-jobs/4673/21656/1"
+    },
+    "https://jobs.spectrum.com/category/legal-jobs/4673/21738/1": {
+      "title": "Legal",
+      "url": "https://jobs.spectrum.com/category/legal-jobs/4673/21738/1"
+    },
+    "https://jobs.spectrum.com/category/procurement-jobs/4673/49870/1": {
+      "title": "Procurement",
+      "url": "https://jobs.spectrum.com/category/procurement-jobs/4673/49870/1"
+    },
+    "https://jobs.spectrum.com/category/real-estate-jobs/4673/22490/1": {
+      "title": "Real Estate",
+      "url": "https://jobs.spectrum.com/category/real-estate-jobs/4673/22490/1"
+    },
+    "https://jobs.spectrum.com/all-corporate-jobs": {
+      "title": "See all corporate jobs",
+      "url": "https://jobs.spectrum.com/all-corporate-jobs"
+    },
+    "https://jobs.spectrum.com/category/cybersecurity-jobs/4673/81265/1": {
+      "title": "Cybersecurity",
+      "url": "https://jobs.spectrum.com/category/cybersecurity-jobs/4673/81265/1"
+    },
+    "https://jobs.spectrum.com/category/engineering-jobs/4673/49861/1": {
+      "title": "Engineering",
+      "url": "https://jobs.spectrum.com/category/engineering-jobs/4673/49861/1"
+    },
+    "https://jobs.spectrum.com/category/network-operations-jobs/4673/26212/1": {
+      "title": "Network Operations",
+      "url": "https://jobs.spectrum.com/category/network-operations-jobs/4673/26212/1"
+    },
+    "https://jobs.spectrum.com/category/software-engineering-jobs/4673/68006/1": {
+      "title": "Software Engineering",
+      "url": "https://jobs.spectrum.com/category/software-engineering-jobs/4673/68006/1"
+    },
+    "https://jobs.spectrum.com/technology-and-engineering-jobs": {
+      "title": "See all technology & engineering jobs",
+      "url": "https://jobs.spectrum.com/technology-and-engineering-jobs"
+    },
+    "https://jobs.spectrum.com/category/content-development-jobs/4673/49859/1": {
+      "title": "Content Development",
+      "url": "https://jobs.spectrum.com/category/content-development-jobs/4673/49859/1"
+    },
+    "https://jobs.spectrum.com/category/creative-jobs/4673/21647/1": {
+      "title": "Creative",
+      "url": "https://jobs.spectrum.com/category/creative-jobs/4673/21647/1"
+    },
+    "https://jobs.spectrum.com/category/digital-jobs/4673/63602/1": {
+      "title": "Digital",
+      "url": "https://jobs.spectrum.com/category/digital-jobs/4673/63602/1"
+    },
+    "https://jobs.spectrum.com/category/editorial-jobs/4673/21650/1": {
+      "title": "Editorial",
+      "url": "https://jobs.spectrum.com/category/editorial-jobs/4673/21650/1"
+    },
+    "https://jobs.spectrum.com/category/marketing-jobs/4673/21663/1": {
+      "title": "Marketing",
+      "url": "https://jobs.spectrum.com/category/marketing-jobs/4673/21663/1"
+    },
+    "https://jobs.spectrum.com/category/media-jobs/4673/81819/1": {
+      "title": "Media",
+      "url": "https://jobs.spectrum.com/category/media-jobs/4673/81819/1"
+    },
+    "https://jobs.spectrum.com/category/news-jobs/4673/21665/1": {
+      "title": "News",
+      "url": "https://jobs.spectrum.com/category/news-jobs/4673/21665/1"
+    },
+    "https://jobs.spectrum.com/category/production-jobs/4673/21670/1": {
+      "title": "Production",
+      "url": "https://jobs.spectrum.com/category/production-jobs/4673/21670/1"
+    },
+    "https://jobs.spectrum.com/content-media-and-news-jobs": {
+      "title": "See all content, media & news jobs",
+      "url": "https://jobs.spectrum.com/content-media-and-news-jobs"
+    },
+    "https://www.facebook.com/JobsAtSpectrum/": {
+      "title": "facebook",
+      "url": "https://www.facebook.com/JobsAtSpectrum/"
+    },
+    "https://www.youtube.com/@spectrumcareers": {
+      "title": "youtube",
+      "url": "https://www.youtube.com/@spectrumcareers"
+    },
+    "https://jobs.spectrum.com/search-jobs": {
+      "title": "Job Search",
+      "url": "https://jobs.spectrum.com/search-jobs"
+    },
+    "https://jobs.spectrum.com/university-and-early-career/": {
+      "title": "University",
+      "url": "https://jobs.spectrum.com/university-and-early-career/"
+    },
+    "https://jobs.spectrum.com/browse-corporate-jobs": {
+      "title": "Corporate",
+      "url": "https://jobs.spectrum.com/browse-corporate-jobs"
+    },
+    "https://jobs.spectrum.com/browse-community-solutions-jobs": {
+      "title": "Community Solutions",
+      "url": "https://jobs.spectrum.com/browse-community-solutions-jobs"
+    },
+    "https://jobs.spectrum.com/browse-customer-operations-jobs": {
+      "title": "Customer Operations",
+      "url": "https://jobs.spectrum.com/browse-customer-operations-jobs"
+    },
+    "https://jobs.spectrum.com/browse-field-operations-jobs": {
+      "title": "Field Operations",
+      "url": "https://jobs.spectrum.com/browse-field-operations-jobs"
+    },
+    "https://jobs.spectrum.com/browse-product-jobs": {
+      "title": "Product & Technology",
+      "url": "https://jobs.spectrum.com/browse-product-jobs"
+    },
+    "https://jobs.spectrum.com/browse-sales-and-marketing-jobs": {
+      "title": "Sales & Marketing",
+      "url": "https://jobs.spectrum.com/browse-sales-and-marketing-jobs"
+    },
+    "https://jobs.spectrum.com/browse-spectrum-enterprise-jobs": {
+      "title": "Spectrum Business",
+      "url": "https://jobs.spectrum.com/browse-spectrum-enterprise-jobs"
+    },
+    "https://jobs.spectrum.com/browse-spectrum-networks-jobs": {
+      "title": "Spectrum Networks",
+      "url": "https://jobs.spectrum.com/browse-spectrum-networks-jobs"
+    },
+    "https://jobs.spectrum.com/browse-spectrum-reach-jobs": {
+      "title": "Spectrum Reach",
+      "url": "https://jobs.spectrum.com/browse-spectrum-reach-jobs"
+    },
+    "https://jobs.spectrum.com/fcc-notices": {
+      "title": "FCC Notices",
+      "url": "https://jobs.spectrum.com/fcc-notices"
+    },
+    "https://jobs.spectrum.com/job-scams": {
+      "title": "Avoid Job Scams",
+      "url": "https://jobs.spectrum.com/job-scams"
+    },
+    "https://jobs.spectrum.com/sitemap/#jobs-by-category": {
+      "title": "Jobs By Category",
+      "url": "https://jobs.spectrum.com/sitemap/#jobs-by-category"
+    },
+    "https://jobs.spectrum.com/sitemap/#jobs-by-location": {
+      "title": "Jobs By Location",
+      "url": "https://jobs.spectrum.com/sitemap/#jobs-by-location"
+    },
+    "https://jobs.spectrum.com/sitemap/#jobs-by-business-unit": {
+      "title": "Jobs By Business Unit",
+      "url": "https://jobs.spectrum.com/sitemap/#jobs-by-business-unit"
+    }
+  },
+  "Adobe Inc.": {
+    "https://careers.adobe.com/us/en/c/engineering-and-product-jobs": {
+      "title": "Search jobs",
+      "url": "https://careers.adobe.com/us/en/c/engineering-and-product-jobs"
+    },
+    "https://careers.adobe.com/us/en/c/design-jobs": {
+      "title": "Search jobs",
+      "url": "https://careers.adobe.com/us/en/c/design-jobs"
+    },
+    "https://careers.adobe.com/us/en/c/research-jobs": {
+      "title": "Search jobs",
+      "url": "https://careers.adobe.com/us/en/c/research-jobs"
+    },
+    "https://careers.adobe.com/us/en/teams": {
+      "title": "View all teams",
+      "url": "https://careers.adobe.com/us/en/teams"
+    },
+    "https://careers.adobe.com/us/en/c/sales-jobs": {
+      "title": "Search jobs",
+      "url": "https://careers.adobe.com/us/en/c/sales-jobs"
+    },
+    "https://careers.adobe.com/us/en/c/marketing-and-strategy-jobs": {
+      "title": "Search jobs",
+      "url": "https://careers.adobe.com/us/en/c/marketing-and-strategy-jobs"
+    },
+    "https://careers.adobe.com/us/en/c/finance-and-operations-jobs": {
+      "title": "Search jobs",
+      "url": "https://careers.adobe.com/us/en/c/finance-and-operations-jobs"
+    },
+    "https://careers.adobe.com/us/en/hiring-process": {
+      "title": "See next steps",
+      "url": "https://careers.adobe.com/us/en/hiring-process"
+    },
+    "https://careers.adobe.com/us/en/university": {
+      "title": "Explore university opportunities",
+      "url": "https://careers.adobe.com/us/en/university"
+    },
+    "https://careers.adobe.com/us/en/jointalentcommunity": {
+      "title": "Join our talent community",
+      "url": "https://careers.adobe.com/us/en/jointalentcommunity"
+    },
+    "https://business.adobe.com/products/experience-manager/adobe-experience-manager.html": {
+      "title": "Experience Manager",
+      "url": "https://business.adobe.com/products/experience-manager/adobe-experience-manager.html"
+    },
+    "https://developer.adobe.com/": {
+      "title": "Adobe Developer",
+      "url": "https://developer.adobe.com/"
+    },
+    "https://www.adobe.com/careers.html": {
+      "title": "Careers",
+      "url": "https://www.adobe.com/careers.html"
+    },
+    "https://careers.adobe.com/us/en/cookiesettings": {
+      "title": "Cookie preferences",
+      "url": "https://careers.adobe.com/us/en/cookiesettings"
+    }
+  },
+  "Cisco Systems": {
+    "https://careers.cisco.com/global/en/why-work-here": {
+      "title": "Feel the difference",
+      "url": "https://careers.cisco.com/global/en/why-work-here"
+    },
+    "https://careers.cisco.com/global/en/ai-and-innovation": {
+      "title": "AI at work",
+      "url": "https://careers.cisco.com/global/en/ai-and-innovation"
+    },
+    "https://careers.cisco.com/global/en/career-growth-and-learning": {
+      "title": "Explore options",
+      "url": "https://careers.cisco.com/global/en/career-growth-and-learning"
+    },
+    "https://careers.cisco.com/global/en/benefits-and-perks": {
+      "title": "Explore benefits",
+      "url": "https://careers.cisco.com/global/en/benefits-and-perks"
+    },
+    "https://careers.cisco.com/global/en/jointalentcommunity": {
+      "title": "Join our talent community",
+      "url": "https://careers.cisco.com/global/en/jointalentcommunity"
+    }
+  },
+  "Siemens Industry Software": {
+    "https://jobs.siemens.com/en_US/externaljobs/Home": {
+      "title": "Job Search",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/Home"
+    },
+    "https://jobs.siemens.com/en_US/externaljobs/SearchJobs": {
+      "title": "All Jobs",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/SearchJobs"
+    },
+    "https://jobs.siemens.com/en_US/externaljobs/AIRecommendations": {
+      "title": "AI Recommendations",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/AIRecommendations"
+    },
+    "https://www.siemens.com/global/en/company/jobs/faq.html": {
+      "title": "FAQs",
+      "url": "https://www.siemens.com/global/en/company/jobs/faq.html"
+    },
+    "https://jobs.siemens.com/de_DE/externaljobs/Home": {
+      "title": "Deutsch",
+      "url": "https://jobs.siemens.com/de_DE/externaljobs/Home"
+    },
+    "https://jobs.siemens.com/es_ES/externaljobs/Home": {
+      "title": "Espa\u00f1ol",
+      "url": "https://jobs.siemens.com/es_ES/externaljobs/Home"
+    },
+    "https://jobs.siemens.com/fr_FR/externaljobs/Home": {
+      "title": "Fran\u00e7ais",
+      "url": "https://jobs.siemens.com/fr_FR/externaljobs/Home"
+    },
+    "https://jobs.siemens.com/nl_NL/externaljobs/Home": {
+      "title": "Nederlands",
+      "url": "https://jobs.siemens.com/nl_NL/externaljobs/Home"
+    },
+    "https://jobs.siemens.com/pt_PT/externaljobs/Home": {
+      "title": "Portuguese",
+      "url": "https://jobs.siemens.com/pt_PT/externaljobs/Home"
+    },
+    "https://jobs.siemens.com/cs_CZ/externaljobs/Home": {
+      "title": "\u010cestina",
+      "url": "https://jobs.siemens.com/cs_CZ/externaljobs/Home"
+    },
+    "https://jobs.siemens.com/zh_CN/externaljobs/Home": {
+      "title": "\u4e2d\u6587 (\u7b80\u4f53)",
+      "url": "https://jobs.siemens.com/zh_CN/externaljobs/Home"
+    },
+    "https://jobs.siemens.com/zh_TW/externaljobs/Home": {
+      "title": "\u4e2d\u6587 (\u7e41\u4f53)",
+      "url": "https://jobs.siemens.com/zh_TW/externaljobs/Home"
+    },
+    "https://jobs.siemens.com/en_US/externaljobs/Login": {
+      "title": "Login",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/Login"
+    },
+    "https://jobs.siemens.com/en_US/externaljobs/RecommendationMethods": {
+      "title": "Get AI Recommendations",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/RecommendationMethods"
+    },
+    "https://jobs.siemens.com/externaljobs/ProfileJobApplications": {
+      "title": "My Applications",
+      "url": "https://jobs.siemens.com/externaljobs/ProfileJobApplications"
+    },
+    "https://www.siemens.com/global/en/company/jobs/life-at-siemens.html": {
+      "title": "Discover more",
+      "url": "https://www.siemens.com/global/en/company/jobs/life-at-siemens.html"
+    },
+    "https://www.siemens.com/us/en/company/jobs/search-careers/accommodation-for-disability.html": {
+      "title": "Review Accommodations for Disability",
+      "url": "https://www.siemens.com/us/en/company/jobs/search-careers/accommodation-for-disability.html"
+    }
+  },
+  "Exel Inc. (DHL Supply Chain)": {
+    "https://careers.dhl.com/global/en/sc-usa-canada": {
+      "title": "Apply Now",
+      "url": "https://careers.dhl.com/global/en/sc-usa-canada"
+    },
+    "https://careers.dhl.com/global/en/search-results?selected_fields={%22category%22:[%22Operations%22],%22businessUnit%22:[%22Supply%20Chain%22],%22country%22:[%22United%20States%20of%20America%22,%22Canada%22]}": {
+      "title": "See jobs",
+      "url": "https://careers.dhl.com/global/en/search-results?selected_fields={%22category%22:[%22Operations%22],%22businessUnit%22:[%22Supply%20Chain%22],%22country%22:[%22United%20States%20of%20America%22,%22Canada%22]}"
+    },
+    "https://careers.dhl.com/global/en/search-results?selected_fields={%22category%22:[%22IT%22],%22businessUnit%22:[%22Supply%20Chain%22],%22country%22:[%22United%20States%20of%20America%22,%22Canada%22]}": {
+      "title": "See jobs",
+      "url": "https://careers.dhl.com/global/en/search-results?selected_fields={%22category%22:[%22IT%22],%22businessUnit%22:[%22Supply%20Chain%22],%22country%22:[%22United%20States%20of%20America%22,%22Canada%22]}"
+    },
+    "https://careers.dhl.com/global/en/search-results?selected_fields={%22category%22:[%22Human%20Resources%22],%22businessUnit%22:[%22Supply%20Chain%22],%22country%22:[%22United%20States%20of%20America%22,%22Canada%22]}": {
+      "title": "See jobs",
+      "url": "https://careers.dhl.com/global/en/search-results?selected_fields={%22category%22:[%22Human%20Resources%22],%22businessUnit%22:[%22Supply%20Chain%22],%22country%22:[%22United%20States%20of%20America%22,%22Canada%22]}"
+    },
+    "https://careers.dhl.com/global/en/search-results?selected_fields={%22category%22:[%22Consulting,%20Data%20Analysis%20and%20Project%20Management%22],%22businessUnit%22:[%22Supply%20Chain%22],%22country%22:[%22United%20States%20of%20America%22,%22Canada%22]}": {
+      "title": "See jobs",
+      "url": "https://careers.dhl.com/global/en/search-results?selected_fields={%22category%22:[%22Consulting,%20Data%20Analysis%20and%20Project%20Management%22],%22businessUnit%22:[%22Supply%20Chain%22],%22country%22:[%22United%20States%20of%20America%22,%22Canada%22]}"
+    },
+    "https://careers.dhl.com/global/en/search-results?selected_fields={%22category%22:[%22Finance%20and%20Controlling%22],%22businessUnit%22:[%22Supply%20Chain%22],%22country%22:[%22United%20States%20of%20America%22,%22Canada%22]}": {
+      "title": "See jobs",
+      "url": "https://careers.dhl.com/global/en/search-results?selected_fields={%22category%22:[%22Finance%20and%20Controlling%22],%22businessUnit%22:[%22Supply%20Chain%22],%22country%22:[%22United%20States%20of%20America%22,%22Canada%22]}"
+    },
+    "https://careers.dhl.com/global/en/emailpersonalinfo": {
+      "title": "Personal Information",
+      "url": "https://careers.dhl.com/global/en/emailpersonalinfo"
+    }
+  },
+  "Icahn School of Medicine at Mount Sinai": {
+    "https://careers.mountsinai.org/life-at-mount-sinai": {
+      "title": "Life at Mount Sinai",
+      "url": "https://careers.mountsinai.org/life-at-mount-sinai"
+    },
+    "https://careers.mountsinai.org/veterans": {
+      "title": "Veterans",
+      "url": "https://careers.mountsinai.org/veterans"
+    },
+    "https://careers.mountsinai.org/beyond-the-badge": {
+      "title": "Beyond the Badge",
+      "url": "https://careers.mountsinai.org/beyond-the-badge"
+    },
+    "https://careers.mountsinai.org/specialties": {
+      "title": "Explore All Career Areas",
+      "url": "https://careers.mountsinai.org/specialties"
+    },
+    "https://careers.mountsinai.org/advanced-practice-clinicians": {
+      "title": "Advanced Practice Providers",
+      "url": "https://careers.mountsinai.org/advanced-practice-clinicians"
+    },
+    "https://careers.mountsinai.org/specialties/allied-health-careers": {
+      "title": "Learn More",
+      "url": "https://careers.mountsinai.org/specialties/allied-health-careers"
+    },
+    "https://careers.mountsinai.org/behavioral-health": {
+      "title": "Behavioral Health",
+      "url": "https://careers.mountsinai.org/behavioral-health"
+    },
+    "https://careers.mountsinai.org/research": {
+      "title": "Learn More",
+      "url": "https://careers.mountsinai.org/research"
+    },
+    "https://careers.mountsinai.org/dtp": {
+      "title": "Digital Technology Partners",
+      "url": "https://careers.mountsinai.org/dtp"
+    },
+    "https://careers.mountsinai.org/mount-sinai-health-partners": {
+      "title": "Health Partners",
+      "url": "https://careers.mountsinai.org/mount-sinai-health-partners"
+    },
+    "https://careers.mountsinai.org/non-clinical-professional-careers": {
+      "title": "Learn More",
+      "url": "https://careers.mountsinai.org/non-clinical-professional-careers"
+    },
+    "https://careers.mountsinai.org/nursing-careers": {
+      "title": "Learn More",
+      "url": "https://careers.mountsinai.org/nursing-careers"
+    },
+    "https://careers.mountsinai.org/physician-careers": {
+      "title": "Learn More",
+      "url": "https://careers.mountsinai.org/physician-careers"
+    },
+    "https://careers.mountsinai.org/specialties/support-services-careers": {
+      "title": "Learn More",
+      "url": "https://careers.mountsinai.org/specialties/support-services-careers"
+    },
+    "https://careers.mountsinai.org/special-programs": {
+      "title": "Fellowships",
+      "url": "https://careers.mountsinai.org/special-programs"
+    },
+    "https://careers.mountsinai.org/career-events": {
+      "title": "View Full Event Calendar",
+      "url": "https://careers.mountsinai.org/career-events"
+    },
+    "https://careers.mountsinai.org/jobs": {
+      "title": "View All Jobs",
+      "url": "https://careers.mountsinai.org/jobs"
+    },
+    "https://careers.mountsinai.org/jobs?keywords=nursing": {
+      "title": "Search Jobs",
+      "url": "https://careers.mountsinai.org/jobs?keywords=nursing"
+    },
+    "https://careers.mountsinai.org/jobs?keywords=Physician&categories=Physician&page=1": {
+      "title": "Search Jobs",
+      "url": "https://careers.mountsinai.org/jobs?keywords=Physician&categories=Physician&page=1"
+    },
+    "https://careers.mountsinai.org/jobs?categories=Allied%20Health&page=1": {
+      "title": "Search Jobs",
+      "url": "https://careers.mountsinai.org/jobs?categories=Allied%20Health&page=1"
+    },
+    "https://careers.mountsinai.org/jobs?categories=Support%20Services&page=1": {
+      "title": "Search Jobs",
+      "url": "https://careers.mountsinai.org/jobs?categories=Support%20Services&page=1"
+    },
+    "https://careers.mountsinai.org/jobs?categories=Professional%20%2F%20Managerial%20%2F%20Administrative&page=1": {
+      "title": "Search Jobs",
+      "url": "https://careers.mountsinai.org/jobs?categories=Professional%20%2F%20Managerial%20%2F%20Administrative&page=1"
+    },
+    "https://careers.mountsinai.org/jobs?keywords=research": {
+      "title": "Search Jobs",
+      "url": "https://careers.mountsinai.org/jobs?keywords=research"
+    },
+    "https://careers.mountsinai.org/jobs?keywords=pharmacy": {
+      "title": "Search Jobs",
+      "url": "https://careers.mountsinai.org/jobs?keywords=pharmacy"
+    },
+    "https://careers.mountsinai.org/jobs?keywords=clinical%20laboratory&sortBy=relevance&page=1": {
+      "title": "Search Jobs",
+      "url": "https://careers.mountsinai.org/jobs?keywords=clinical%20laboratory&sortBy=relevance&page=1"
+    },
+    "https://careers.mountsinai.org/jobs?page=1&tags2=Behavioral%20Health": {
+      "title": "Search Jobs",
+      "url": "https://careers.mountsinai.org/jobs?page=1&tags2=Behavioral%20Health"
+    },
+    "https://careers.mountsinai.org/jobs?page=1&categories=Information%20Technology": {
+      "title": "Search Jobs",
+      "url": "https://careers.mountsinai.org/jobs?page=1&categories=Information%20Technology"
+    },
+    "https://careers.mountsinai.org/our-system": {
+      "title": "Explore Our System",
+      "url": "https://careers.mountsinai.org/our-system"
+    },
+    "https://careers.mountsinai.org/jobs/3040706?lang=en-us": {
+      "title": "View Job",
+      "url": "https://careers.mountsinai.org/jobs/3040706?lang=en-us"
+    },
+    "https://careers.mountsinai.org/jobs/3040736?lang=en-us": {
+      "title": "View Job",
+      "url": "https://careers.mountsinai.org/jobs/3040736?lang=en-us"
+    },
+    "https://careers.mountsinai.org/jobs/3039669?lang=en-us": {
+      "title": "View Job",
+      "url": "https://careers.mountsinai.org/jobs/3039669?lang=en-us"
+    },
+    "https://careers.mountsinai.org/jobs/3041406?lang=en-us": {
+      "title": "View Job",
+      "url": "https://careers.mountsinai.org/jobs/3041406?lang=en-us"
+    },
+    "https://careers.mountsinai.org/jobs/3041309?lang=en-us": {
+      "title": "View Job",
+      "url": "https://careers.mountsinai.org/jobs/3041309?lang=en-us"
+    },
+    "https://careers.mountsinai.org/jobs/3041277?lang=en-us": {
+      "title": "View Job",
+      "url": "https://careers.mountsinai.org/jobs/3041277?lang=en-us"
+    },
+    "https://careers.mountsinai.org/jobs/2200004H?lang=en-us": {
+      "title": "Register Now",
+      "url": "https://careers.mountsinai.org/jobs/2200004H?lang=en-us"
+    },
+    "https://careers.mountsinai.org/jobs/3003734?lang=en-us": {
+      "title": "Register Now",
+      "url": "https://careers.mountsinai.org/jobs/3003734?lang=en-us"
+    }
+  },
+  "Northwestern University": {
+    "https://careers.northwestern.edu/psc/hrnu_er/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_SCHJOB&Action=U&FOCUS=Applicant&SiteId=1": {
+      "title": "HERE",
+      "url": "https://careers.northwestern.edu/psc/hrnu_er/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_SCHJOB&Action=U&FOCUS=Applicant&SiteId=1"
+    }
+  },
+  "The Reinalt-Thomas Corporation (Discount Tire)": {
+    "https://careers.discounttire.com/jobs": {
+      "title": "Job Search",
+      "url": "https://careers.discounttire.com/jobs"
+    }
+  },
+  "CHRISTUS Health": {
+    "https://careers.christushealth.org/saved-jobs": {
+      "title": "Saved",
+      "url": "https://careers.christushealth.org/saved-jobs"
+    },
+    "https://mingle-portal.inforcloudsuite.com/CHRISTUSHEALTH_PRD/?favoriteContext=https%3A%2F%2Fhcm-christushealth-prd.inforcloudsuite.com%2Fhcm%2FEmployeeSelfService%2Fpage%2FEmployeeCareerPage%3Fcsk.HROrganization%3DCH00%26csk.CHP%3DEMPLOYEE%26menu%3DLRCEmployeeMenu.Opportunities%26LogicalId%3Dlid%3A%252F%252Finfor.lawson-ghr.ghr110-prod-useast1&LogicalId=lid://infor.lawson-ghr.ghr110-prod-useast1": {
+      "title": "Current Associates Login",
+      "url": "https://mingle-portal.inforcloudsuite.com/CHRISTUSHEALTH_PRD/?favoriteContext=https%3A%2F%2Fhcm-christushealth-prd.inforcloudsuite.com%2Fhcm%2FEmployeeSelfService%2Fpage%2FEmployeeCareerPage%3Fcsk.HROrganization%3DCH00%26csk.CHP%3DEMPLOYEE%26menu%3DLRCEmployeeMenu.Opportunities%26LogicalId%3Dlid%3A%252F%252Finfor.lawson-ghr.ghr110-prod-useast1&LogicalId=lid://infor.lawson-ghr.ghr110-prod-useast1"
+    },
+    "https://css-christushealth-prd.inforcloudsuite.com:443/hcm/Jobs/navigation/JobBoard(CH00%2CEXTERNAL).JobSearchCompositeFormNav?csk.HROrganization=CH00&csk.JobBoard=EXTERNAL&web10x=true": {
+      "title": "External Applicants",
+      "url": "https://css-christushealth-prd.inforcloudsuite.com:443/hcm/Jobs/navigation/JobBoard(CH00%2CEXTERNAL).JobSearchCompositeFormNav?csk.HROrganization=CH00&csk.JobBoard=EXTERNAL&web10x=true"
+    },
+    "https://careers.christushealth.org/job-search": {
+      "title": "Search Jobs",
+      "url": "https://careers.christushealth.org/job-search"
+    },
+    "https://careers.christushealth.org/career-areas/advanced-practice-clinician-jobs": {
+      "title": "Advanced Practice Clinician",
+      "url": "https://careers.christushealth.org/career-areas/advanced-practice-clinician-jobs"
+    },
+    "https://careers.christushealth.org/career-areas/clinical-laboratory-jobs": {
+      "title": "Clinical Laboratory",
+      "url": "https://careers.christushealth.org/career-areas/clinical-laboratory-jobs"
+    },
+    "https://careers.christushealth.org/career-areas/clinical-support-jobs": {
+      "title": "Clinical Support",
+      "url": "https://careers.christushealth.org/career-areas/clinical-support-jobs"
+    },
+    "https://careers.christushealth.org/career-areas/diagnostic-imaging-jobs": {
+      "title": "Diagnostic Imaging",
+      "url": "https://careers.christushealth.org/career-areas/diagnostic-imaging-jobs"
+    },
+    "https://careers.christushealth.org/career-areas/nursing-jobs": {
+      "title": "Nursing",
+      "url": "https://careers.christushealth.org/career-areas/nursing-jobs"
+    },
+    "https://careers.christushealth.org/career-areas/patient-care-jobs": {
+      "title": "Patient Care",
+      "url": "https://careers.christushealth.org/career-areas/patient-care-jobs"
+    },
+    "https://careers.christushealth.org/career-areas/patient-experience-jobs": {
+      "title": "Patient Experience",
+      "url": "https://careers.christushealth.org/career-areas/patient-experience-jobs"
+    },
+    "https://careers.christushealth.org/career-areas/pharmacy-jobs": {
+      "title": "Pharmacy",
+      "url": "https://careers.christushealth.org/career-areas/pharmacy-jobs"
+    },
+    "https://careers.christushealth.org/career-areas/quality-and-risk-management-jobs": {
+      "title": "Quality and Risk Management",
+      "url": "https://careers.christushealth.org/career-areas/quality-and-risk-management-jobs"
+    },
+    "https://careers.christushealth.org/career-areas/rehabilitation-services-jobs": {
+      "title": "Rehabilitation Services",
+      "url": "https://careers.christushealth.org/career-areas/rehabilitation-services-jobs"
+    },
+    "https://careers.christushealth.org/career-areas/respiratory-care-jobs": {
+      "title": "Respiratory Care",
+      "url": "https://careers.christushealth.org/career-areas/respiratory-care-jobs"
+    },
+    "https://careers.christushealth.org/career-areas/social-services-jobs": {
+      "title": "Social Services",
+      "url": "https://careers.christushealth.org/career-areas/social-services-jobs"
+    },
+    "https://careers.christushealth.org/career-areas/administrative-support-jobs": {
+      "title": "Administrative Support",
+      "url": "https://careers.christushealth.org/career-areas/administrative-support-jobs"
+    },
+    "https://careers.christushealth.org/career-areas/analytics-and-reporting-jobs": {
+      "title": "Analytics and Reporting",
+      "url": "https://careers.christushealth.org/career-areas/analytics-and-reporting-jobs"
+    },
+    "https://careers.christushealth.org/career-areas/business-development-jobs": {
+      "title": "Business Development",
+      "url": "https://careers.christushealth.org/career-areas/business-development-jobs"
+    },
+    "https://careers.christushealth.org/career-areas/education-and-research-jobs": {
+      "title": "Education and Research",
+      "url": "https://careers.christushealth.org/career-areas/education-and-research-jobs"
+    },
+    "https://careers.christushealth.org/career-areas/executive-jobs": {
+      "title": "Executive",
+      "url": "https://careers.christushealth.org/career-areas/executive-jobs"
+    },
+    "https://careers.christushealth.org/career-areas/facilities-jobs": {
+      "title": "Facilities",
+      "url": "https://careers.christushealth.org/career-areas/facilities-jobs"
+    },
+    "https://careers.christushealth.org/career-areas/finance-jobs": {
+      "title": "Finance",
+      "url": "https://careers.christushealth.org/career-areas/finance-jobs"
+    },
+    "https://careers.christushealth.org/career-areas/general-operations-jobs": {
+      "title": "General Operations",
+      "url": "https://careers.christushealth.org/career-areas/general-operations-jobs"
+    },
+    "https://careers.christushealth.org/career-areas/human-resources-jobs": {
+      "title": "Human Resources",
+      "url": "https://careers.christushealth.org/career-areas/human-resources-jobs"
+    },
+    "https://careers.christushealth.org/career-areas/information-technology-jobs": {
+      "title": "Information Technology",
+      "url": "https://careers.christushealth.org/career-areas/information-technology-jobs"
+    },
+    "https://careers.christushealth.org/career-areas/legal-and-compliance-jobs": {
+      "title": "Legal and Compliance",
+      "url": "https://careers.christushealth.org/career-areas/legal-and-compliance-jobs"
+    },
+    "https://careers.christushealth.org/career-areas/marketing-and-communications-jobs": {
+      "title": "Marketing and Communications",
+      "url": "https://careers.christushealth.org/career-areas/marketing-and-communications-jobs"
+    },
+    "https://careers.christushealth.org/career-areas/mission-and-spiritual-care-jobs": {
+      "title": "Mission and Spiritual Care",
+      "url": "https://careers.christushealth.org/career-areas/mission-and-spiritual-care-jobs"
+    },
+    "https://careers.christushealth.org/career-areas/revenue-cycle-jobs": {
+      "title": "Revenue Cycle",
+      "url": "https://careers.christushealth.org/career-areas/revenue-cycle-jobs"
+    },
+    "https://careers.christushealth.org/career-areas/supply-chain-jobs": {
+      "title": "Supply Chain",
+      "url": "https://careers.christushealth.org/career-areas/supply-chain-jobs"
+    },
+    "https://careers.christushealth.org/career-areas/physician-careers": {
+      "title": "Physician Careers",
+      "url": "https://careers.christushealth.org/career-areas/physician-careers"
+    },
+    "https://careers.christushealth.org/learning-opportunities/nurse-residency-program": {
+      "title": "Nurse Residency Program",
+      "url": "https://careers.christushealth.org/learning-opportunities/nurse-residency-program"
+    },
+    "https://careers.christushealth.org/learning-opportunities/professional-development": {
+      "title": "Professional Development",
+      "url": "https://careers.christushealth.org/learning-opportunities/professional-development"
+    },
+    "https://careers.christushealth.org/learning-opportunities/skillbridge-internship-program": {
+      "title": "SkillBridge Internship Program",
+      "url": "https://careers.christushealth.org/learning-opportunities/skillbridge-internship-program"
+    },
+    "https://careers.christushealth.org/learning-opportunities/americorps": {
+      "title": "AmeriCorps",
+      "url": "https://careers.christushealth.org/learning-opportunities/americorps"
+    },
+    "https://careers.christushealth.org/": {
+      "title": "Life at CHRISTUS",
+      "url": "https://careers.christushealth.org/"
+    },
+    "https://careers.christushealth.org/career-areas/clinical-careers-at-christus-health": {
+      "title": "Clinical Careers",
+      "url": "https://careers.christushealth.org/career-areas/clinical-careers-at-christus-health"
+    },
+    "https://careers.christushealth.org/career-areas/non-clinical-careers-at-christus-health": {
+      "title": "Non-Clinical Careers",
+      "url": "https://careers.christushealth.org/career-areas/non-clinical-careers-at-christus-health"
+    },
+    "https://css-christushealth-prd.inforcloudsuite.com/sso/SSOServlet?_action=LOGINREQD&_logininst=wxBcNuRfiy4BMTJ2iozxVgUrw!2FSYbF3qwnSusqRiPayoz!2Bjr!2BB!2B9gQAAAYnfeXw3&_TKM=741893662&_serviceName=HCM.HCMAPP.JOBS": {
+      "title": "External Applicants Login",
+      "url": "https://css-christushealth-prd.inforcloudsuite.com/sso/SSOServlet?_action=LOGINREQD&_logininst=wxBcNuRfiy4BMTJ2iozxVgUrw!2FSYbF3qwnSusqRiPayoz!2Bjr!2BB!2B9gQAAAYnfeXw3&_TKM=741893662&_serviceName=HCM.HCMAPP.JOBS"
+    },
+    "https://careers.christushealth.org/full-time-jobs": {
+      "title": "Full-Time Jobs",
+      "url": "https://careers.christushealth.org/full-time-jobs"
+    },
+    "https://careers.christushealth.org/part-time-jobs": {
+      "title": "Part-Time Jobs",
+      "url": "https://careers.christushealth.org/part-time-jobs"
+    },
+    "https://careers.christushealth.org/prn-jobs": {
+      "title": "PRN Jobs",
+      "url": "https://careers.christushealth.org/prn-jobs"
+    },
+    "https://careers.christushealth.org/locations/christus-ambulatory-centers": {
+      "title": "CHRISTUS Ambulatory Centers",
+      "url": "https://careers.christushealth.org/locations/christus-ambulatory-centers"
+    },
+    "https://careers.christushealth.org/locations/christus-childrens": {
+      "title": "CHRISTUS Children\u2019s",
+      "url": "https://careers.christushealth.org/locations/christus-childrens"
+    },
+    "https://careers.christushealth.org/locations/christus-good-shepherd-health-system": {
+      "title": "CHRISTUS Good Shepherd Health System",
+      "url": "https://careers.christushealth.org/locations/christus-good-shepherd-health-system"
+    },
+    "https://careers.christushealth.org/locations/christus-health-alamogordo": {
+      "title": "CHRISTUS Health - Alamogordo",
+      "url": "https://careers.christushealth.org/locations/christus-health-alamogordo"
+    },
+    "https://careers.christushealth.org/locations/christus-ministry-system-office": {
+      "title": "CHRISTUS Ministry System Office",
+      "url": "https://careers.christushealth.org/locations/christus-ministry-system-office"
+    },
+    "https://careers.christushealth.org/locations/christus-ochsner-health-southwestern-louisiana": {
+      "title": "CHRISTUS Ochsner Health Southwestern Louisiana",
+      "url": "https://careers.christushealth.org/locations/christus-ochsner-health-southwestern-louisiana"
+    },
+    "https://careers.christushealth.org/locations/christus-santa-rosa-health-system": {
+      "title": "CHRISTUS Santa Rosa Health System",
+      "url": "https://careers.christushealth.org/locations/christus-santa-rosa-health-system"
+    },
+    "https://careers.christushealth.org/locations/christus-shreveport-bossier-health-system": {
+      "title": "CHRISTUS Shreveport-Bossier Health System",
+      "url": "https://careers.christushealth.org/locations/christus-shreveport-bossier-health-system"
+    },
+    "https://careers.christushealth.org/locations/christus-southeast-texas-health-system": {
+      "title": "CHRISTUS Southeast Texas Health System",
+      "url": "https://careers.christushealth.org/locations/christus-southeast-texas-health-system"
+    },
+    "https://careers.christushealth.org/locations/christus-spohn-health-system": {
+      "title": "CHRISTUS Spohn Health System",
+      "url": "https://careers.christushealth.org/locations/christus-spohn-health-system"
+    },
+    "https://careers.christushealth.org/locations/christus-st-frances-cabrini-health-system": {
+      "title": "CHRISTUS St. Frances Cabrini Health System",
+      "url": "https://careers.christushealth.org/locations/christus-st-frances-cabrini-health-system"
+    },
+    "https://careers.christushealth.org/locations/christus-st-michael-health-system": {
+      "title": "CHRISTUS St. Michael Health System",
+      "url": "https://careers.christushealth.org/locations/christus-st-michael-health-system"
+    },
+    "https://careers.christushealth.org/locations/christus-st-vincent-health-system": {
+      "title": "CHRISTUS St. Vincent Health System",
+      "url": "https://careers.christushealth.org/locations/christus-st-vincent-health-system"
+    },
+    "https://careers.christushealth.org/locations/christus-trinity-clinic": {
+      "title": "CHRISTUS Trinity Clinic",
+      "url": "https://careers.christushealth.org/locations/christus-trinity-clinic"
+    },
+    "https://careers.christushealth.org/locations/christus-trinity-mother-frances-health-system": {
+      "title": "CHRISTUS Trinity Mother Frances Health System",
+      "url": "https://careers.christushealth.org/locations/christus-trinity-mother-frances-health-system"
+    },
+    "https://careers.christushealth.org/sms-privacy-policy": {
+      "title": "SMS Privacy Policy",
+      "url": "https://careers.christushealth.org/sms-privacy-policy"
+    }
+  },
+  "Valon Technologies": {},
+  "Lenovo United States": {
+    "https://jobs.lenovo.com/en_US/careers": {
+      "title": "English",
+      "url": "https://jobs.lenovo.com/en_US/careers"
+    },
+    "https://jobs.lenovo.com/en_US/careers/Home#whyLenovo": {
+      "title": "Why Lenovo",
+      "url": "https://jobs.lenovo.com/en_US/careers/Home#whyLenovo"
+    },
+    "https://jobs.lenovo.com/en_US/careers/Perks": {
+      "title": "Benefits",
+      "url": "https://jobs.lenovo.com/en_US/careers/Perks"
+    },
+    "https://jobs.lenovo.com/en_US/careers/Culture": {
+      "title": "Culture",
+      "url": "https://jobs.lenovo.com/en_US/careers/Culture"
+    },
+    "https://jobs.lenovo.com/en_US/careers/Locations": {
+      "title": "Locations",
+      "url": "https://jobs.lenovo.com/en_US/careers/Locations"
+    },
+    "https://jobs.lenovo.com/en_US/careers/University": {
+      "title": "University",
+      "url": "https://jobs.lenovo.com/en_US/careers/University"
+    },
+    "https://jobs.lenovo.com/en_US/careers/EarlyCareer": {
+      "title": "Early Career",
+      "url": "https://jobs.lenovo.com/en_US/careers/EarlyCareer"
+    },
+    "https://jobs.lenovo.com/en_US/careers/Internship": {
+      "title": "Internships",
+      "url": "https://jobs.lenovo.com/en_US/careers/Internship"
+    },
+    "https://jobs.lenovo.com/en_US/careers/Login": {
+      "title": "Keep us posted!",
+      "url": "https://jobs.lenovo.com/en_US/careers/Login"
+    },
+    "https://jobs.lenovo.com/de_DE/careers": {
+      "title": "Deutsch",
+      "url": "https://jobs.lenovo.com/de_DE/careers"
+    },
+    "https://jobs.lenovo.com/es_ES/careers": {
+      "title": "Espa\u00f1ol - ES",
+      "url": "https://jobs.lenovo.com/es_ES/careers"
+    },
+    "https://jobs.lenovo.com/fr_FR/careers": {
+      "title": "Fran\u00e7ais - France",
+      "url": "https://jobs.lenovo.com/fr_FR/careers"
+    },
+    "https://jobs.lenovo.com/pt_BR/careers": {
+      "title": "Portugu\u00eas - Brasil",
+      "url": "https://jobs.lenovo.com/pt_BR/careers"
+    },
+    "https://jobs.lenovo.com/zh_CN/careers": {
+      "title": "\u4e2d\u6587 - \u7b80\u4f53",
+      "url": "https://jobs.lenovo.com/zh_CN/careers"
+    },
+    "https://jobs.lenovo.com/zh_TW/careers": {
+      "title": "\u4e2d\u6587 - \u7e41\u9ad4",
+      "url": "https://jobs.lenovo.com/zh_TW/careers"
+    },
+    "https://jobs.lenovo.com/careers/SearchJobs": {
+      "title": "Advanced Search",
+      "url": "https://jobs.lenovo.com/careers/SearchJobs"
+    },
+    "https://jobs.lenovo.com/en_US/careers/RecommendationMethods": {
+      "title": "Get recommendations",
+      "url": "https://jobs.lenovo.com/en_US/careers/RecommendationMethods"
+    },
+    "https://jobs.lenovo.com/en_US/careers/TalentCommunity?jobId=78103": {
+      "title": "Join our Talent Community",
+      "url": "https://jobs.lenovo.com/en_US/careers/TalentCommunity?jobId=78103"
+    },
+    "https://jobs.lenovo.com/careers/SearchJobs/?jobRecordsPerPage=10&": {
+      "title": "Search Opportunities",
+      "url": "https://jobs.lenovo.com/careers/SearchJobs/?jobRecordsPerPage=10&"
+    },
+    "https://jobs.lenovo.com/en_US/careers/SearchJobs": {
+      "title": "Explore all jobs",
+      "url": "https://jobs.lenovo.com/en_US/careers/SearchJobs"
+    },
+    "https://jobs.lenovo.com/en_US/careers/FAQ": {
+      "title": "FAQs",
+      "url": "https://jobs.lenovo.com/en_US/careers/FAQ"
+    }
+  },
+  "Lam Research Corporation": {},
+  "HP Inc.": {
+    "https://jobs.hp.com/recruitment-safety-fraud/": {
+      "title": "Recruitment and Safety Fraud",
+      "url": "https://jobs.hp.com/recruitment-safety-fraud/"
+    },
+    "https://www.hp.com/us-en/privacy/job-applicant-privacy-notice.html": {
+      "title": "Job Applicant Privacy Notice",
+      "url": "https://www.hp.com/us-en/privacy/job-applicant-privacy-notice.html"
+    },
+    "https://apply.hp.com/careers/join?domain=hp.com": {
+      "title": "Join Talent Community",
+      "url": "https://apply.hp.com/careers/join?domain=hp.com"
+    },
+    "https://jobs.hp.com/#why-hp": {
+      "title": "Why HP",
+      "url": "https://jobs.hp.com/#why-hp"
+    },
+    "https://jobs.hp.com/#career-areas": {
+      "title": "Career Areas",
+      "url": "https://jobs.hp.com/#career-areas"
+    },
+    "https://apply.hp.com/careers?start=0&pid=30587995&sort_by=timestamp&filter_job_category=administration": {
+      "title": "Administration",
+      "url": "https://apply.hp.com/careers?start=0&pid=30587995&sort_by=timestamp&filter_job_category=administration"
+    },
+    "https://apply.hp.com/careers?start=0&pid=30587995&sort_by=timestamp&filter_job_category=business+planning": {
+      "title": "Business Planning",
+      "url": "https://apply.hp.com/careers?start=0&pid=30587995&sort_by=timestamp&filter_job_category=business+planning"
+    },
+    "https://apply.hp.com/careers?start=0&pid=30587995&sort_by=timestamp&filter_job_category=corporate+administration": {
+      "title": "Corporate Administration",
+      "url": "https://apply.hp.com/careers?start=0&pid=30587995&sort_by=timestamp&filter_job_category=corporate+administration"
+    },
+    "https://apply.hp.com/careers?start=0&pid=23539539&sort_by=timestamp&filter_job_category=data+%26+information+technology": {
+      "title": "Data & Information Technology",
+      "url": "https://apply.hp.com/careers?start=0&pid=23539539&sort_by=timestamp&filter_job_category=data+%26+information+technology"
+    },
+    "https://apply.hp.com/careers?start=0&pid=37796264&sort_by=timestamp&filter_job_category=engineering": {
+      "title": "Engineering",
+      "url": "https://apply.hp.com/careers?start=0&pid=37796264&sort_by=timestamp&filter_job_category=engineering"
+    },
+    "https://apply.hp.com/careers?start=0&pid=30839277&sort_by=timestamp&filter_job_category=engineering+services": {
+      "title": "Engineering Services",
+      "url": "https://apply.hp.com/careers?start=0&pid=30839277&sort_by=timestamp&filter_job_category=engineering+services"
+    },
+    "https://apply.hp.com/careers?start=0&pid=28212377&sort_by=timestamp&filter_job_category=finance": {
+      "title": "Finance",
+      "url": "https://apply.hp.com/careers?start=0&pid=28212377&sort_by=timestamp&filter_job_category=finance"
+    },
+    "https://apply.hp.com/careers?start=0&pid=37853381&sort_by=timestamp&filter_job_category=human+resources": {
+      "title": "Human Resources",
+      "url": "https://apply.hp.com/careers?start=0&pid=37853381&sort_by=timestamp&filter_job_category=human+resources"
+    },
+    "https://apply.hp.com/careers?start=0&pid=30587995&sort_by=timestamp&filter_seniority=internship": {
+      "title": "Explore Careers",
+      "url": "https://apply.hp.com/careers?start=0&pid=30587995&sort_by=timestamp&filter_seniority=internship"
+    },
+    "https://apply.hp.com/careers?start=0&pid=30952470&sort_by=timestamp&filter_job_category=legal": {
+      "title": "Legal",
+      "url": "https://apply.hp.com/careers?start=0&pid=30952470&sort_by=timestamp&filter_job_category=legal"
+    },
+    "https://jobs.hp.com/front-page-3/": {
+      "title": "Corporate Administration",
+      "url": "https://jobs.hp.com/front-page-3/"
+    },
+    "https://apply.hp.com/careers?start=0&pid=30921136&sort_by=timestamp&filter_job_category=marketing": {
+      "title": "Marketing",
+      "url": "https://apply.hp.com/careers?start=0&pid=30921136&sort_by=timestamp&filter_job_category=marketing"
+    },
+    "https://apply.hp.com/careers?start=0&pid=30036423&sort_by=timestamp&filter_job_category=quality": {
+      "title": "Quality",
+      "url": "https://apply.hp.com/careers?start=0&pid=30036423&sort_by=timestamp&filter_job_category=quality"
+    },
+    "https://apply.hp.com/careers?start=0&pid=28284625&sort_by=timestamp&filter_job_category=sales": {
+      "title": "Sales",
+      "url": "https://apply.hp.com/careers?start=0&pid=28284625&sort_by=timestamp&filter_job_category=sales"
+    },
+    "https://apply.hp.com/careers?start=0&pid=27741294&sort_by=timestamp&filter_job_category=sales+operations": {
+      "title": "Sales Operations",
+      "url": "https://apply.hp.com/careers?start=0&pid=27741294&sort_by=timestamp&filter_job_category=sales+operations"
+    },
+    "https://apply.hp.com/careers?start=0&pid=30587995&sort_by=timestamp&filter_job_category=services": {
+      "title": "Services",
+      "url": "https://apply.hp.com/careers?start=0&pid=30587995&sort_by=timestamp&filter_job_category=services"
+    },
+    "https://apply.hp.com/careers?start=0&pid=25921606&sort_by=timestamp&filter_job_category=software": {
+      "title": "Software",
+      "url": "https://apply.hp.com/careers?start=0&pid=25921606&sort_by=timestamp&filter_job_category=software"
+    },
+    "http://apply.hp.com/careers?start=0&pid=30761720&sort_by=timestamp&filter_job_category=supply+chain+%26+operations": {
+      "title": "Supply Chain & Operations",
+      "url": "http://apply.hp.com/careers?start=0&pid=30761720&sort_by=timestamp&filter_job_category=supply+chain+%26+operations"
+    },
+    "https://apply.hp.com/careers?start=0&pid=30041400&sort_by=timestamp&filter_job_category=technical": {
+      "title": "Technical",
+      "url": "https://apply.hp.com/careers?start=0&pid=30041400&sort_by=timestamp&filter_job_category=technical"
+    },
+    "https://jobs.hp.com/#growing-at-hp": {
+      "title": "Growing at HP",
+      "url": "https://jobs.hp.com/#growing-at-hp"
+    },
+    "https://jobs.hp.com/#the-hp-way": {
+      "title": "The HP Way",
+      "url": "https://jobs.hp.com/#the-hp-way"
+    },
+    "https://jobs.hp.com/wp-content/uploads/2026/05/Recruitment-Fraud-and-Safety.pdf": {
+      "title": "Recruitment and Safety Fraud",
+      "url": "https://jobs.hp.com/wp-content/uploads/2026/05/Recruitment-Fraud-and-Safety.pdf"
+    },
+    "https://hp-sandbox.eightfold.ai/careers/join?domain=hp-sandbox.com": {
+      "title": "Join Talent Community",
+      "url": "https://hp-sandbox.eightfold.ai/careers/join?domain=hp-sandbox.com"
+    },
+    "https://jobs.hp.com/": {
+      "title": "English",
+      "url": "https://jobs.hp.com/"
+    },
+    "https://jobs.hp.com/zh-hans/": {
+      "title": "Chinese",
+      "url": "https://jobs.hp.com/zh-hans/"
+    },
+    "https://jobs.hp.com/ko/": {
+      "title": "Korean",
+      "url": "https://jobs.hp.com/ko/"
+    },
+    "https://jobs.hp.com/fr_ca/": {
+      "title": "French (Canada)",
+      "url": "https://jobs.hp.com/fr_ca/"
+    },
+    "https://jobs.hp.com/fr/": {
+      "title": "French (France)",
+      "url": "https://jobs.hp.com/fr/"
+    },
+    "https://jobs.hp.com/ja/": {
+      "title": "Japanese",
+      "url": "https://jobs.hp.com/ja/"
+    },
+    "https://apply.hp.com/careers": {
+      "title": "Search Jobs",
+      "url": "https://apply.hp.com/careers"
+    },
+    "https://apply.hp.com/careers?start=0&pid=&sort_by=timestamp&filter_seniority=experienced": {
+      "title": "Explore Careers",
+      "url": "https://apply.hp.com/careers?start=0&pid=&sort_by=timestamp&filter_seniority=experienced"
+    },
+    "https://apply.hp.com/careers?start=0&pid=25921606&sort_by=timestamp&filter_seniority=graduate": {
+      "title": "Explore Careers",
+      "url": "https://apply.hp.com/careers?start=0&pid=25921606&sort_by=timestamp&filter_seniority=graduate"
+    },
+    "https://hp-sandbox.eightfold.ai/careers": {
+      "title": "Explore Careers",
+      "url": "https://hp-sandbox.eightfold.ai/careers"
     }
   }
 }
