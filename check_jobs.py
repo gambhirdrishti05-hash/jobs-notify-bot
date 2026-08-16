@@ -53,8 +53,12 @@ def get_workday_parts(url):
     Returns (tenant, dc, site) or None if this isn't a Workday URL.
     """
     # Older/most common pattern: tenant.wdN.myworkdayjobs.com
+    # The optional segment after the domain is only treated as a locale
+    # (e.g. "en", "en-US") if it's actually locale-shaped — otherwise a
+    # site name like "TRowePrice" gets wrongly swallowed as a "locale"
+    # and the real site name (e.g. "jobs") gets misread instead.
     m = re.search(
-        r'https?://([a-zA-Z0-9\-]+)\.(wd\d+)\.myworkdayjobs\.com/(?:[a-zA-Z\-]+/)?([a-zA-Z0-9\-_]+)',
+        r'https?://([a-zA-Z0-9\-]+)\.(wd\d+)\.myworkdayjobs\.com/(?:[a-z]{2}(?:-[A-Z]{2})?/)?([a-zA-Z0-9\-_]+)',
         url
     )
     if m:
