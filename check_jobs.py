@@ -1,3 +1,4 @@
+
 """
 Checks every company in companies.json for new job postings.
 Sends a Telegram message for anything new since the last run.
@@ -46,13 +47,18 @@ def get_lever_slug(url):
 
 def get_workday_parts(url):
     """
-    Workday career URLs look like:
-      https://{tenant}.wd{N}.myworkdayjobs.com/{site}
-      https://{tenant}.wd{N}.myworkdayjobs.com/en-US/{site}
-      https://wd{N}.myworkdaysite.com/recruiting/{tenant}/{site}   (newer domain)
-    Returns (tenant, dc, site) or None if this isn't a Workday URL.
+    Workday career URLs come in two different domain shapes:
+      Style A (classic):    https://{tenant}.wd{N}.myworkdayjobs.com/{site}
+                             https://{tenant}.wd{N}.myworkdayjobs.com/en-US/{site}
+      Style B (shared proxy): https://wd{N}.myworkdaysite.com/recruiting/{tenant}/{site}
+    These are NOT interchangeable — a Style B tenant's real API lives on
+    myworkdaysite.com, not myworkdayjobs.com. Rebuilding a Style B tenant's
+    API call on the myworkdayjobs.com domain returns an empty (but non-error)
+    response, which silently looks like "zero jobs" forever.
+    Returns (tenant, dc, site, domain_style) or None if this isn't Workday.
+    domain_style is "myworkdayjobs.com" or "myworkdaysite.com".
     """
-    # Older/most common pattern: tenant.wdN.myworkdayjobs.com
+    # Style A: tenant.wdN.myworkdayjobs.com
     # The optional segment after the domain is only treated as a locale
     # (e.g. "en", "en-US") if it's actually locale-shaped — otherwise a
     # site name like "TRowePrice" gets wrongly swallowed as a "locale"
@@ -62,16 +68,17 @@ def get_workday_parts(url):
         url
     )
     if m:
-        return m.group(1), m.group(2), m.group(3)
+        tenant, dc, site = m.group(1), m.group(2), m.group(3)
+        return tenant, dc, site, "myworkdayjobs.com"
 
-    # Newer pattern: wdN.myworkdaysite.com/recruiting/tenant/site
+    # Style B: wdN.myworkdaysite.com/recruiting/tenant/site
     m = re.search(
         r'https?://(wd\d+)\.myworkdaysite\.com/recruiting/([a-zA-Z0-9\-_]+)/([a-zA-Z0-9\-_]+)',
         url
     )
     if m:
         dc, tenant, site = m.group(1), m.group(2), m.group(3)
-        return tenant, dc, site
+        return tenant, dc, site, "myworkdaysite.com"
 
     return None
 
@@ -107,8 +114,15 @@ def fetch_lever(slug):
     return {j["id"]: {"title": j["text"], "url": j["hostedUrl"]} for j in jobs}
 
 
-def fetch_workday(tenant, dc, site, base_url):
-    api = f"https://{tenant}.{dc}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs"
+def fetch_workday(tenant, dc, site, domain_style):
+    if domain_style == "myworkdaysite.com":
+        # Shared proxy domain — tenant stays in the path, dc is the plain subdomain
+        host = f"{dc}.myworkdaysite.com"
+    else:
+        # Classic per-tenant subdomain
+        host = f"{tenant}.{dc}.myworkdayjobs.com"
+
+    api = f"https://{host}/wday/cxs/{tenant}/{site}/jobs"
     jobs = {}
     offset = 0
     limit = 20
@@ -129,7 +143,7 @@ def fetch_workday(tenant, dc, site, base_url):
             job_id = path or p.get("title", "")
             jobs[job_id] = {
                 "title": p.get("title", "Untitled"),
-                "url": f"https://{tenant}.{dc}.myworkdayjobs.com{path}"
+                "url": f"https://{host}{path}"
             }
         total = data.get("total", 0)
         offset += limit
@@ -224,8 +238,8 @@ def fetch_company_jobs(company):
         elif lv_slug:
             return fetch_lever(lv_slug)
         elif wd_parts:
-            tenant, dc, site = wd_parts
-            return fetch_workday(tenant, dc, site, url)
+            tenant, dc, site, domain_style = wd_parts
+            return fetch_workday(tenant, dc, site, domain_style)
         elif oc_parts:
             host, site_number = oc_parts
             return fetch_oracle_cloud(host, site_number)
