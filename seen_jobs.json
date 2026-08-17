@@ -29,17 +29,9 @@
       "title": "Associate - Campus Recruiter",
       "url": "https://pjtpartners.wd1.myworkdayjobs.com/job/New-York/Associate---Campus-Recruiter_R0003456"
     },
-    "/job/Mumbai/Analyst---Strategic-Advisory--India-Coverage-_R0003231": {
-      "title": "Analyst - Strategic Advisory (India Coverage)",
-      "url": "https://pjtpartners.wd1.myworkdayjobs.com/job/Mumbai/Analyst---Strategic-Advisory--India-Coverage-_R0003231"
-    },
     "/job/London/Associate---Strategic-Advisory--TMT-_R0003135": {
       "title": "Associate - Strategic Advisory (Media and Technology)",
       "url": "https://pjtpartners.wd1.myworkdayjobs.com/job/London/Associate---Strategic-Advisory--TMT-_R0003135"
-    },
-    "/job/Mumbai/Associate---Strategic-Advisory--India-Coverage-_R0003232": {
-      "title": "Associate - Strategic Advisory (India Coverage)",
-      "url": "https://pjtpartners.wd1.myworkdayjobs.com/job/Mumbai/Associate---Strategic-Advisory--India-Coverage-_R0003232"
     },
     "/job/New-York/Associate---Technology--Application---Data-Product-Manager-_R0003257": {
       "title": "Technology (Senior Product Manager)",
@@ -160,6 +152,14 @@
     "/job/New-York/Analyst---PJT-Park-Hill--Private-Equity---Project-Management-_R0003321": {
       "title": "Analyst - PJT Park Hill (Private Equity - Project Management)",
       "url": "https://pjtpartners.wd1.myworkdayjobs.com/job/New-York/Analyst---PJT-Park-Hill--Private-Equity---Project-Management-_R0003321"
+    },
+    "/job/New-York/Vice-President----Technology--AI-Security---Risk-Manager-_R0003352": {
+      "title": "Vice President  - Technology (AI Security & Risk Manager)",
+      "url": "https://pjtpartners.wd1.myworkdayjobs.com/job/New-York/Vice-President----Technology--AI-Security---Risk-Manager-_R0003352"
+    },
+    "/job/New-York/Assistant-Vice-President---Technology--Senior-Full-Stack-Application-Developer-_R0003258": {
+      "title": "Assistant Vice President - Technology (Senior Full Stack Application Developer)",
+      "url": "https://pjtpartners.wd1.myworkdayjobs.com/job/New-York/Assistant-Vice-President---Technology--Senior-Full-Stack-Application-Developer-_R0003258"
     }
   },
   "Flowserve": {},
@@ -77584,6 +77584,14 @@
     }
   },
   "SEL": {
+    "": {
+      "title": "Untitled",
+      "url": "https://selinc.wd1.myworkdayjobs.com"
+    },
+    "/job/Indiana---West-Lafayette/Process-and-Maintenance-Supervisor---Swing-Shift_2026-22637": {
+      "title": "Process and Maintenance Supervisor - 2nd Shift",
+      "url": "https://selinc.wd1.myworkdayjobs.com/job/Indiana---West-Lafayette/Process-and-Maintenance-Supervisor---Swing-Shift_2026-22637"
+    },
     "/job/South-Africa---Centurion/Project-Engineer---Project-Manager_2026-19884": {
       "title": "Project Engineer II - Project Manager",
       "url": "https://selinc.wd1.myworkdayjobs.com/job/South-Africa---Centurion/Project-Engineer---Project-Manager_2026-19884"
@@ -77623,10 +77631,6 @@
     "/job/Pennsylvania---King-of-Prussia/Contract-Administrator-II_2026-22494": {
       "title": "Contract Administrator II",
       "url": "https://selinc.wd1.myworkdayjobs.com/job/Pennsylvania---King-of-Prussia/Contract-Administrator-II_2026-22494"
-    },
-    "/job/Indiana---West-Lafayette/Process-and-Maintenance-Supervisor---Swing-Shift_2026-22637": {
-      "title": "Process and Maintenance Supervisor - Swing Shift",
-      "url": "https://selinc.wd1.myworkdayjobs.com/job/Indiana---West-Lafayette/Process-and-Maintenance-Supervisor---Swing-Shift_2026-22637"
     },
     "/job/Indiana---West-Lafayette/Process-and-Maintenance-Supervisor_2026-22636": {
       "title": "Process and Maintenance Supervisor",
@@ -77668,16 +77672,12 @@
       "title": "Engineering Intern",
       "url": "https://selinc.wd1.myworkdayjobs.com/job/Florida---Wesley-Chapel/Engineering-Intern_2026-22361"
     },
-    "/job/Indiana---West-Lafayette/Engineering-Support-Specialist-I---Swing-Shift_2026-22658": {
-      "title": "Engineering Support Specialist I - Swing Shift",
-      "url": "https://selinc.wd1.myworkdayjobs.com/job/Indiana---West-Lafayette/Engineering-Support-Specialist-I---Swing-Shift_2026-22658"
-    },
     "/job/Indiana---West-Lafayette/Engineering-Support-Specialist-I_2026-22656": {
       "title": "Engineering Support Specialist I",
       "url": "https://selinc.wd1.myworkdayjobs.com/job/Indiana---West-Lafayette/Engineering-Support-Specialist-I_2026-22656"
     },
     "/job/Indiana---West-Lafayette/Equipment-Maintenance-Specialist-I---Swing-Shift_2026-22653": {
-      "title": "Equipment Maintenance Specialist I - Swing Shift",
+      "title": "Equipment Maintenance Specialist I - Second Shift",
       "url": "https://selinc.wd1.myworkdayjobs.com/job/Indiana---West-Lafayette/Equipment-Maintenance-Specialist-I---Swing-Shift_2026-22653"
     },
     "/job/Indiana---West-Lafayette/Equipment-Maintenance-Specialist-I_2026-22651": {
@@ -77884,6 +77884,14 @@
     }
   },
   "Analog Devices": {
+    "/job/US-MA-Chelmsford-Alpha/Weekend-Quality-Inspector_R264740": {
+      "title": "Weekend Quality Inspector",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/job/US-MA-Chelmsford-Alpha/Weekend-Quality-Inspector_R264740"
+    },
+    "/job/US-OR-Beaverton/Lead-Analyst--Supply-Chain-Planning_R264647": {
+      "title": "Lead Analyst, Supply Chain Planning",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/job/US-OR-Beaverton/Lead-Analyst--Supply-Chain-Planning_R264647"
+    },
     "/job/Ireland-Limerick/Staff-Embedded-ML-DSP-Systems-Engineer--Audio-Engineering-_R262133": {
       "title": "Staff Embedded ML/DSP Systems Engineer (Audio Engineering)",
       "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Ireland-Limerick/Staff-Embedded-ML-DSP-Systems-Engineer--Audio-Engineering-_R262133"
@@ -78035,14 +78043,6 @@
     "/job/India-Bangalore-Nova/Director-of-Talent-Acquisition--APAC_R264480": {
       "title": "Director of Talent Acquisition, APAC",
       "url": "https://analogdevices.wd1.myworkdayjobs.com/job/India-Bangalore-Nova/Director-of-Talent-Acquisition--APAC_R264480"
-    },
-    "/job/India-Bangalore-RMZ/Senior-Principal-Engineer--Physical-Design-Engineering_R264577": {
-      "title": "Senior Principal Engineer, Physical Design Engineering",
-      "url": "https://analogdevices.wd1.myworkdayjobs.com/job/India-Bangalore-RMZ/Senior-Principal-Engineer--Physical-Design-Engineering_R264577"
-    },
-    "/job/Thailand-Chon-Buri/Technician-1--Equipment-Maintenance_R264302": {
-      "title": "Technician 1, Equipment Maintenance",
-      "url": "https://analogdevices.wd1.myworkdayjobs.com/job/Thailand-Chon-Buri/Technician-1--Equipment-Maintenance_R264302"
     }
   },
   "White & Case LLP": {
