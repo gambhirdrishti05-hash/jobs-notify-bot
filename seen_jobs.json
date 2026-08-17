@@ -166,6 +166,14 @@
   "Amazon": {},
   "Boston Children's Hospital": {},
   "CVS Health": {
+    "/job/TX---Allen/Licensed-Vocational-Nurse--LVN-_R0968248": {
+      "title": "Licensed Vocational Nurse (LVN)",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/job/TX---Allen/Licensed-Vocational-Nurse--LVN-_R0968248"
+    },
+    "/job/TX---Red-Oak/Licensed-Vocational-Nurse--LVN-_R0968253-1": {
+      "title": "Licensed Vocational Nurse (LVN)",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/job/TX---Red-Oak/Licensed-Vocational-Nurse--LVN-_R0968253-1"
+    },
     "/job/MO---Kansas-City/Retail-Store-Associate_R1013184": {
       "title": "Retail Store Associate",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/job/MO---Kansas-City/Retail-Store-Associate_R1013184"
@@ -4834,10 +4842,6 @@
       "title": "Pharmacy Technician",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/job/VA---Chesapeake/Pharmacy-Technician_R1008558"
     },
-    "/job/IRL---Galway/Senior-Software-Development-Engineer_R0914911": {
-      "title": "Senior Software Development Engineer",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/job/IRL---Galway/Senior-Software-Development-Engineer_R0914911"
-    },
     "/job/PA---Philadelphia/Store-Associate-Seasonal_R1009803": {
       "title": "Store Associate Seasonal",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/job/PA---Philadelphia/Store-Associate-Seasonal_R1009803"
@@ -5497,10 +5501,6 @@
     "/job/PA---Pennsburg/Pharmacy-Intern_R0975051": {
       "title": "Pharmacy Intern",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/job/PA---Pennsburg/Pharmacy-Intern_R0975051"
-    },
-    "/job/CA---Hesperia/Pharmacy-Technician_R1010092": {
-      "title": "Pharmacy Technician",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/job/CA---Hesperia/Pharmacy-Technician_R1010092"
     },
     "/job/CA---Moorpark/Shift-Supervisor_R1009812": {
       "title": "Shift Supervisor",
@@ -6453,10 +6453,6 @@
     "/job/TX---Crowley/Store-Associate_R1007558": {
       "title": "Store Associate",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/job/TX---Crowley/Store-Associate_R1007558"
-    },
-    "/job/02771---North-Carolina-CVS-Pharmacy-LLC/Store-Associate_R1009505": {
-      "title": "Store Associate",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/job/02771---North-Carolina-CVS-Pharmacy-LLC/Store-Associate_R1009505"
     },
     "/job/TX---San-Antonio/Pharmacy-Technician_R1009574": {
       "title": "Pharmacy Technician",
@@ -9602,10 +9598,6 @@
       "title": "District Support Pharmacist",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/job/WI---Franklin/District-Support-Pharmacist_R1007544"
     },
-    "/job/TX---Houston/Licensed-Vocational-Nurse--LVN-_R1000359": {
-      "title": "Licensed Vocational Nurse (LVN)",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/job/TX---Houston/Licensed-Vocational-Nurse--LVN-_R1000359"
-    },
     "/job/MA---New-Bedford/Pharmacy-Manager_R1007610": {
       "title": "Pharmacy Manager",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/job/MA---New-Bedford/Pharmacy-Manager_R1007610"
@@ -12293,10 +12285,6 @@
     "/job/CT---Hartford/Lead-Director--Business-Consultation--Go-to-Market-Aetna-International_R0963545": {
       "title": "Lead Director, Business Consultation, Go-to-Market Aetna International",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/job/CT---Hartford/Lead-Director--Business-Consultation--Go-to-Market-Aetna-International_R0963545"
-    },
-    "/job/NE---Lincoln/Shift-Supervisor_R1006328": {
-      "title": "Shift Supervisor",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/job/NE---Lincoln/Shift-Supervisor_R1006328"
     },
     "/job/IN---Bloomington/Shift-Supervisor_R1005555": {
       "title": "Shift Supervisor",
@@ -18677,10 +18665,6 @@
     "/job/MA---Everett/Pharmacy-Technician_R1004491": {
       "title": "Pharmacy Technician",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/job/MA---Everett/Pharmacy-Technician_R1004491"
-    },
-    "/job/NV---Henderson/Pharmacy-Technician_R1003278": {
-      "title": "Pharmacy Technician",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/job/NV---Henderson/Pharmacy-Technician_R1003278"
     },
     "/job/OH---Sylvania/Shift-Supervisor_R1003816": {
       "title": "Shift Supervisor",
@@ -39645,10 +39629,6 @@
     "/job/NY---Astoria/Beauty-Sales-Consultant-Licensed_R0991732": {
       "title": "Beauty Sales Consultant Licensed",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/job/NY---Astoria/Beauty-Sales-Consultant-Licensed_R0991732"
-    },
-    "/job/Store-Associate_R0989167": {
-      "title": "Untitled",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/job/Store-Associate_R0989167"
     },
     "/job/HI---Pahoa/Pharmacy-Technician_R0991073": {
       "title": "Pharmacy Technician",
@@ -75870,156 +75850,7 @@
       "url": "https://troweprice.wd5.myworkdayjobs.com/job/Owings-Mills-MD/Product-Owner--Money-Movement_82613"
     }
   },
-  "Aptean": {
-    "https://www.aptean.com/en-US/request-demo": {
-      "title": "Request a Demo",
-      "url": "https://www.aptean.com/en-US/request-demo"
-    },
-    "https://www.aptean.com/en-US/careers": {
-      "title": "Careers",
-      "url": "https://www.aptean.com/en-US/careers"
-    },
-    "https://www.aptean.com/en-US/careers/candidate-journey": {
-      "title": "Candidate Journey",
-      "url": "https://www.aptean.com/en-US/careers/candidate-journey"
-    },
-    "https://www.aptean.com/en-US/careers/early-careers": {
-      "title": "Early Careers",
-      "url": "https://www.aptean.com/en-US/careers/early-careers"
-    },
-    "https://www.aptean.com/en-US/careers/jobs": {
-      "title": "Open Jobs",
-      "url": "https://www.aptean.com/en-US/careers/jobs"
-    },
-    "https://www.aptean.com/en-US/careers/our-culture": {
-      "title": "Our Culture",
-      "url": "https://www.aptean.com/en-US/careers/our-culture"
-    },
-    "https://www.aptean.com/careers/jobs/6866": {
-      "title": "See Details",
-      "url": "https://www.aptean.com/careers/jobs/6866"
-    },
-    "https://americas-aptean.icims.com/jobs/6866/login": {
-      "title": "Apply Now",
-      "url": "https://americas-aptean.icims.com/jobs/6866/login"
-    },
-    "https://www.aptean.com/careers/jobs/6867": {
-      "title": "See Details",
-      "url": "https://www.aptean.com/careers/jobs/6867"
-    },
-    "https://americas-aptean.icims.com/jobs/6867/login": {
-      "title": "Apply Now",
-      "url": "https://americas-aptean.icims.com/jobs/6867/login"
-    },
-    "https://www.aptean.com/careers/jobs/6964": {
-      "title": "See Details",
-      "url": "https://www.aptean.com/careers/jobs/6964"
-    },
-    "https://americas-aptean.icims.com/jobs/6964/login": {
-      "title": "Apply Now",
-      "url": "https://americas-aptean.icims.com/jobs/6964/login"
-    },
-    "https://www.aptean.com/careers/jobs/6962": {
-      "title": "See Details",
-      "url": "https://www.aptean.com/careers/jobs/6962"
-    },
-    "https://emea-aptean.icims.com/jobs/6962/login": {
-      "title": "Apply Now",
-      "url": "https://emea-aptean.icims.com/jobs/6962/login"
-    },
-    "https://www.aptean.com/careers/jobs/6946": {
-      "title": "See Details",
-      "url": "https://www.aptean.com/careers/jobs/6946"
-    },
-    "https://emea-aptean.icims.com/jobs/6946/login": {
-      "title": "Apply Now",
-      "url": "https://emea-aptean.icims.com/jobs/6946/login"
-    },
-    "https://www.aptean.com/careers/jobs/6881": {
-      "title": "See Details",
-      "url": "https://www.aptean.com/careers/jobs/6881"
-    },
-    "https://americas-aptean.icims.com/jobs/6881/login": {
-      "title": "Apply Now",
-      "url": "https://americas-aptean.icims.com/jobs/6881/login"
-    },
-    "https://www.aptean.com/careers/jobs/6953": {
-      "title": "See Details",
-      "url": "https://www.aptean.com/careers/jobs/6953"
-    },
-    "https://emea-aptean.icims.com/jobs/6953/login": {
-      "title": "Apply Now",
-      "url": "https://emea-aptean.icims.com/jobs/6953/login"
-    },
-    "https://www.aptean.com/careers/jobs/6958": {
-      "title": "See Details",
-      "url": "https://www.aptean.com/careers/jobs/6958"
-    },
-    "https://americas-aptean.icims.com/jobs/6958/login": {
-      "title": "Apply Now",
-      "url": "https://americas-aptean.icims.com/jobs/6958/login"
-    },
-    "https://www.aptean.com/careers/jobs/6957": {
-      "title": "See Details",
-      "url": "https://www.aptean.com/careers/jobs/6957"
-    },
-    "https://americas-aptean.icims.com/jobs/6957/login": {
-      "title": "Apply Now",
-      "url": "https://americas-aptean.icims.com/jobs/6957/login"
-    },
-    "https://www.aptean.com/careers/jobs/6956": {
-      "title": "See Details",
-      "url": "https://www.aptean.com/careers/jobs/6956"
-    },
-    "https://americas-aptean.icims.com/jobs/6956/login": {
-      "title": "Apply Now",
-      "url": "https://americas-aptean.icims.com/jobs/6956/login"
-    },
-    "https://www.aptean.com/en-US/careers/jobs/6866": {
-      "title": "See Details",
-      "url": "https://www.aptean.com/en-US/careers/jobs/6866"
-    },
-    "https://www.aptean.com/en-US/careers/jobs/6867": {
-      "title": "See Details",
-      "url": "https://www.aptean.com/en-US/careers/jobs/6867"
-    },
-    "https://www.aptean.com/en-US/careers/jobs/6964": {
-      "title": "See Details",
-      "url": "https://www.aptean.com/en-US/careers/jobs/6964"
-    },
-    "https://www.aptean.com/en-US/careers/jobs/6962": {
-      "title": "See Details",
-      "url": "https://www.aptean.com/en-US/careers/jobs/6962"
-    },
-    "https://www.aptean.com/en-US/careers/jobs/6946": {
-      "title": "See Details",
-      "url": "https://www.aptean.com/en-US/careers/jobs/6946"
-    },
-    "https://www.aptean.com/en-US/careers/jobs/6881": {
-      "title": "See Details",
-      "url": "https://www.aptean.com/en-US/careers/jobs/6881"
-    },
-    "https://www.aptean.com/en-US/careers/jobs/6953": {
-      "title": "See Details",
-      "url": "https://www.aptean.com/en-US/careers/jobs/6953"
-    },
-    "https://www.aptean.com/en-US/careers/jobs/6958": {
-      "title": "See Details",
-      "url": "https://www.aptean.com/en-US/careers/jobs/6958"
-    },
-    "https://www.aptean.com/en-US/careers/jobs/6957": {
-      "title": "See Details",
-      "url": "https://www.aptean.com/en-US/careers/jobs/6957"
-    },
-    "https://www.aptean.com/en-US/careers/jobs/6956": {
-      "title": "See Details",
-      "url": "https://www.aptean.com/en-US/careers/jobs/6956"
-    },
-    "https://www.aptean.com/en-US/request-pricing": {
-      "title": "Request Pricing",
-      "url": "https://www.aptean.com/en-US/request-pricing"
-    }
-  },
+  "Aptean": {},
   "Intuitive Surgical": {
     "https://careers.intuitive.com/en/jobs/": {
       "title": "View all jobs",
