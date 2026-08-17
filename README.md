@@ -44,8 +44,28 @@ no code changes needed.
   (the `wd` number varies by company — could be wd1, wd3, wd5, etc). This covers
   a large share of big employers (NVIDIA, HP, Schwab, and many others run on it).
   Just paste the URL as-is from your browser, no need to figure out the parts yourself.
+- If iCIMS, it looks like `companyname.icims.com/jobs/search?ss=1`.
 - Anything else, just paste their normal careers page URL. It'll use the fallback
   scraper, which is less reliable — see note below.
+
+**A company's own careers page is often a skin over one of the above.** Before
+settling for the fallback scraper, click through to an actual job posting and
+look at where "Apply" goes — `careers.icf.com` turned out to be Workday
+underneath, and `aptean.com/careers` turned out to be iCIMS. Using the
+underlying URL is far more reliable than scraping the pretty front-end.
+
+**Narrowing a company that posts a lot:** for Workday, add `?q=keyword` to the
+URL and it's passed through to the search. For Amazon, add `?base_query=keyword`.
+Without a filter, employers like CVS (19,000 postings) or JPMorgan (7,000) will
+dominate your alerts.
+
+**Sites that publish a job sitemap:** if a career site renders jobs in JavaScript
+but has an XML sitemap of postings, add `"type": "sitemap"` alongside the URL and
+point it at the sitemap:
+
+```json
+{ "name": "Flowserve", "url": "https://careers.flowserve.com/sitemap.xml", "type": "sitemap" }
+```
 
 ### 6. Turn it on
 - Push everything to GitHub. The workflow runs automatically every 2 hours.
@@ -55,6 +75,21 @@ no code changes needed.
   you'll only get pinged for postings that show up *after* that.
 
 ## Known limitations
+
+- **Alerts are capped at 50 per run** (`MAX_ALERTS_PER_RUN` in `check_jobs.py`).
+  Past that you get one summary message with a per-company breakdown, and the
+  full list stays in the Actions log. This exists because a company changing
+  its careers URL can otherwise turn one run into thousands of messages and
+  get the bot rate-limited by Telegram.
+- **Sites that block datacenter traffic can't be watched from here.** Cloudflare
+  and Akamai bot protection reject GitHub Actions runners outright (HTTP 403, or
+  a JavaScript challenge page instead of content) no matter what headers are
+  sent. Known cases: Credit One Bank, UC Davis, Hertz. Use the company's own
+  email job alerts or a Google Alert for these.
+- **Keep the User-Agent current.** iCIMS answers noticeably stale User-Agents
+  with a bare `405 Method Not Allowed`, which reads like a broken endpoint
+  rather than a blocked client. If several iCIMS companies start returning 405
+  at once, bump the Chrome version in `HEADERS` first.
 
 - **Workday quirks:** Workday's job data isn't officially documented as a public
   API — it's the same internal endpoint the career page itself calls in the
