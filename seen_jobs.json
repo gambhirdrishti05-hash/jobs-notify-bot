@@ -1,5 +1,11 @@
 {
   "JPMorgan Chase": {
+    "210772725": {
+      "title": "Business Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772725",
+      "location": "Columbus, OH, United States",
+      "country_code": "US"
+    },
     "210782168": {
       "title": "Investment Banking - Strategic Investment Group - Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210782168",
@@ -142,12 +148,6 @@
       "title": "Compliance  - Senior Associate Product Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742812",
       "location": "Newark, DE, United States",
-      "country_code": "US"
-    },
-    "210779628": {
-      "title": "Global Technology Financial Planning & Analysis - Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779628",
-      "location": "Plano, TX, United States",
       "country_code": "US"
     },
     "210779537": {
@@ -1008,12 +1008,6 @@
       "location": "Newark, DE, United States",
       "country_code": "US"
     },
-    "210757105": {
-      "title": "Banker Analyst - Commercial & Specialized Industries - Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210757105",
-      "location": "Austin, TX, United States",
-      "country_code": "US"
-    },
     "210712215": {
       "title": "AWM- Mortgage Specialist Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210712215",
@@ -1240,6 +1234,12 @@
       "title": "Investment Banking - Strategic Investment Group, Infrastructure - Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210626089",
       "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210781614": {
+      "title": "Liquidity & Account Solutions -  Business Intelligence & Analytics Program Manager- Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781614",
+      "location": "NY, United States",
       "country_code": "US"
     },
     "210777475": {
@@ -1800,24 +1800,6 @@
       "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
-    "210765627": {
-      "title": "Digital Markets Sales Applied AI and Insights \u2013 Product Manager \u2013 Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765627",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
-    "210760608": {
-      "title": "External Reporting Controller- Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210760608",
-      "location": "Brooklyn, NY, United States",
-      "country_code": "US"
-    },
-    "210758114": {
-      "title": "External Reporting Controller, Vice President - Commercial Investment Banking",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758114",
-      "location": "Brooklyn, NY, United States",
-      "country_code": "US"
-    },
     "210774710": {
       "title": "Lead Software Engineer - Data Engineer and Applied AI",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774710",
@@ -1900,6 +1882,12 @@
       "title": "Treasury Research & Analytics, Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210701592",
       "location": "Chicago, IL, United States",
+      "country_code": "US"
+    },
+    "210765627": {
+      "title": "Digital Markets Sales Applied AI and Insights \u2013 Product Manager \u2013 Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765627",
+      "location": "New York, NY, United States",
       "country_code": "US"
     },
     "210763928": {
@@ -3620,6 +3608,16 @@
   },
   "Waters Corporation": {},
   "CVS Health": {
+    "/job/Work-At-Home-Pennsylvania/Senior-Manager--Client-Business-Analytics-Consultant_R0998776-1": {
+      "title": "Senior Manager, Client Business Analytics Consultant",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Pennsylvania/Senior-Manager--Client-Business-Analytics-Consultant_R0998776-1",
+      "location": "13 Locations"
+    },
+    "/job/RI---Woonsocket/Supply-Chain-Senior-Analyst_R1010239": {
+      "title": "Supply Chain Senior Analyst",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Supply-Chain-Senior-Analyst_R1010239",
+      "location": "RI - Woonsocket"
+    },
     "/job/Field-Florida/Bilingual-Case-Management-Analyst---Field-in-Miami-Dade-County--FL_R0985257": {
       "title": "Bilingual Case Management Analyst - Field in Miami-Dade County, FL",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Field-Florida/Bilingual-Case-Management-Analyst---Field-in-Miami-Dade-County--FL_R0985257",
@@ -3769,11 +3767,6 @@
       "title": "Data Engineer",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CA---Work-from-home/Data-Engineer_R1002562",
       "location": "48 Locations"
-    },
-    "/job/TX---Work-from-home/Senior-Analyst---Software-Development-Engineering_R1006565-1": {
-      "title": "Senior Analyst - Software Development Engineering",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Senior-Analyst---Software-Development-Engineering_R1006565-1",
-      "location": "TX - Work from home"
     },
     "/job/RI---Cumberland/Accounting-Analyst_R0890658": {
       "title": "Accounting Analyst",
@@ -4394,11 +4387,6 @@
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Business-Analyst-Scrum-Master--AI-focus---Remote-US-_R2602816",
       "location": "Reston, VA"
     },
-    "/job/Reston-VA/Senior-Data-Analyst--Databricks----Remote-USA_R2602118": {
-      "title": "Senior Data & User Acceptance Testing (UAT) Analyst (Remote - US)",
-      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Senior-Data-Analyst--Databricks----Remote-USA_R2602118",
-      "location": "Reston, VA"
-    },
     "/job/Reston-VA/ICF-Resources--LLC--IT-Project-Manager--Business-Analyst---Reston--VA_R2601992": {
       "title": "ICF Resources, LLC: IT Project Manager, Business Analyst \u2013 Reston, VA",
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/ICF-Resources--LLC--IT-Project-Manager--Business-Analyst---Reston--VA_R2601992",
@@ -4645,6 +4633,11 @@
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Senior-Portfolio-Investment-Analyst---Multi-Asset-and-ETFs_82995",
       "location": "Baltimore, MD"
     },
+    "/job/Washington-DC/Lead-Data-Analyst--Investment-Data-Strategy--Washington-DC-or-Baltimore--MD-_83070": {
+      "title": "Lead Data Analyst\u2013 Investment Data Strategy (Washington DC or Baltimore, MD)",
+      "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Washington-DC/Lead-Data-Analyst--Investment-Data-Strategy--Washington-DC-or-Baltimore--MD-_83070",
+      "location": "2 Locations"
+    },
     "/job/Baltimore-MD/Lead-Analyst--Middle-Office-Distribution-and-Funding--Private-Assets-Change-Management-_82044": {
       "title": "Lead Analyst, Middle Office Distribution and Funding (Private Assets Change Management)",
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Lead-Analyst--Middle-Office-Distribution-and-Funding--Private-Assets-Change-Management-_82044",
@@ -4653,11 +4646,6 @@
     "/job/Baltimore-MD/Senior-Business-Analyst---Investment-Data-Strategy_82743": {
       "title": "Senior Data Analyst- Investment Data Strategy (Baltimore, MD or Washington DC)",
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Senior-Business-Analyst---Investment-Data-Strategy_82743",
-      "location": "2 Locations"
-    },
-    "/job/Washington-DC/Lead-Data-Analyst--Investment-Data-Strategy--Washington-DC-or-Baltimore--MD-_83070": {
-      "title": "Lead Data Analyst\u2013 Investment Data Strategy (Washington DC or Baltimore, MD)",
-      "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Washington-DC/Lead-Data-Analyst--Investment-Data-Strategy--Washington-DC-or-Baltimore--MD-_83070",
       "location": "2 Locations"
     },
     "/job/Baltimore-MD/AI-Data-Engineer_81558": {
@@ -4713,16 +4701,6 @@
     "/job/Somerville-MA/Applications-Analyst-I_RQ4071746-1": {
       "title": "Applications Analyst I",
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Applications-Analyst-I_RQ4071746-1",
-      "location": "Somerville-MA"
-    },
-    "/job/Somerville-MA/Financial-Analyst-II_RQ4075785-1": {
-      "title": "Financial Analyst II",
-      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Financial-Analyst-II_RQ4075785-1",
-      "location": "Somerville-MA"
-    },
-    "/job/Somerville-MA/Financial-Analyst-Senior_RQ4075768": {
-      "title": "Senior Financial Analyst",
-      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Financial-Analyst-Senior_RQ4075768",
       "location": "Somerville-MA"
     },
     "/job/Salem-MA/Trauma-data-Analyst_RQ4075240": {
@@ -5160,6 +5138,75 @@
       "title": "Data Scientist II",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Data-Scientist-II_26020552-1",
       "location": "2 Locations"
+    }
+  },
+  "Qualus": {
+    "5424": {
+      "title": "Business Intelligence Specialist",
+      "url": "https://careers-qualus.icims.com/jobs/5424/business-intelligence-specialist/job"
+    },
+    "5396": {
+      "title": "Business Analyst",
+      "url": "https://careers-qualus.icims.com/jobs/5396/business-analyst/job"
+    },
+    "5350": {
+      "title": "Demand Side Management Analyst",
+      "url": "https://careers-qualus.icims.com/jobs/5350/demand-side-management-analyst/job"
+    },
+    "5284": {
+      "title": "Cost Analyst",
+      "url": "https://careers-qualus.icims.com/jobs/5284/cost-analyst/job"
+    }
+  },
+  "Gainwell": {
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Workforce-Management-Senior-Analyst-OH-99999/1408491300/": {
+      "title": "Workforce Management Senior Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Workforce-Management-Senior-Analyst-OH-99999/1408491300/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-Third-Party-Liability-%28TPL%29-TX-99999/1420787800/": {
+      "title": "Business Analyst - Third Party Liability (TPL)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-Third-Party-Liability-%28TPL%29-TX-99999/1420787800/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-Business-Analyst-IN-99999/1420680400/": {
+      "title": "Early Career Business Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-Business-Analyst-IN-99999/1420680400/"
+    }
+  },
+  "Happen Bank": {
+    "/job/Lehi-UT/Fraud-Analyst_R0007449": {
+      "title": "Fraud Analyst",
+      "url": "https://lendingclub.wd1.myworkdayjobs.com/external/job/Lehi-UT/Fraud-Analyst_R0007449",
+      "location": "Lehi, UT"
+    },
+    "/job/San-Francisco-CA/Sr-Personal-Loans-Analyst_R0007435": {
+      "title": "Sr Personal Loans Analyst",
+      "url": "https://lendingclub.wd1.myworkdayjobs.com/external/job/San-Francisco-CA/Sr-Personal-Loans-Analyst_R0007435",
+      "location": "San Francisco, CA"
+    },
+    "/job/San-Francisco-CA/Sr-Marketing-Automation-Analyst_R0007436": {
+      "title": "Sr Marketing Automation Analyst",
+      "url": "https://lendingclub.wd1.myworkdayjobs.com/external/job/San-Francisco-CA/Sr-Marketing-Automation-Analyst_R0007436",
+      "location": "San Francisco, CA"
+    },
+    "/job/Boston-MA/Banking---Deposits-Data-Analyst_R0007452": {
+      "title": "Banking & Deposits Data Analyst",
+      "url": "https://lendingclub.wd1.myworkdayjobs.com/external/job/Boston-MA/Banking---Deposits-Data-Analyst_R0007452",
+      "location": "Boston, MA"
+    },
+    "/job/San-Francisco-CA/SEC-Reporting---Technical-Accounting-Manager_R0007440-1": {
+      "title": "SEC Reporting & Technical Accounting Manager",
+      "url": "https://lendingclub.wd1.myworkdayjobs.com/external/job/San-Francisco-CA/SEC-Reporting---Technical-Accounting-Manager_R0007440-1",
+      "location": "San Francisco, CA"
+    },
+    "/job/San-Francisco-CA/VP--Modeling_R0006699": {
+      "title": "VP, Modeling & Data Science",
+      "url": "https://lendingclub.wd1.myworkdayjobs.com/external/job/San-Francisco-CA/VP--Modeling_R0006699",
+      "location": "San Francisco, CA"
+    },
+    "/job/San-Francisco-CA/Lead-Data-Engineer_R0007439": {
+      "title": "Lead Data Engineer",
+      "url": "https://lendingclub.wd1.myworkdayjobs.com/external/job/San-Francisco-CA/Lead-Data-Engineer_R0007439",
+      "location": "San Francisco, CA"
     }
   }
 }
