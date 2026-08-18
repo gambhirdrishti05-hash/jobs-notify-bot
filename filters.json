@@ -1,0 +1,55 @@
+{
+  "_comment": "Filters applied to every company. Edit this file to tune what you get alerted about — no code changes needed. Set 'enabled' to false to turn a filter off entirely.",
+
+  "location": {
+    "enabled": true,
+    "countries": ["US"],
+    "_include_unknown": "Some sites give a location we can't classify ('2 Locations', 'Remote', or nothing at all). true = let those through rather than risk missing a real US role.",
+    "include_unknown": true
+  },
+
+  "roles": {
+    "enabled": true,
+    "_include": "A job's TITLE must match at least one of these (case-insensitive, matched as substrings). 'analyst' alone covers business analyst, data analyst, financial analyst, research analyst, and so on.",
+    "include": [
+      "analyst",
+      "analytics",
+      "analytic",
+      "business intelligence",
+      "market research",
+      "insight",
+      "data scien",
+      "decision scien",
+      "statistic",
+      "reporting",
+      "data engineer"
+    ],
+    "_exclude": "Titles matching any of these are dropped even if they matched above. Use this to cut role families you don't want.",
+    "exclude": [
+      "laboratory",
+      "lab analyst",
+      "chemist",
+      "clinical",
+      "nurse",
+      "pharmacist",
+      "phlebotom",
+      "quality control analyst",
+      "credit analyst",
+      "security analyst",
+      "soc analyst",
+      "network analyst",
+      "help desk",
+      "service desk"
+    ]
+  },
+
+  "_search_keywords": "Sent to the search box of platforms that have one (Workday, Oracle, Amazon), so we pull a few hundred candidate jobs instead of every posting the company has. Keep these broader than the title filter above — this is a coarse pre-filter, the title rules do the precise work.",
+  "search_keywords": [
+    "analyst",
+    "analytics",
+    "business intelligence",
+    "market research",
+    "insights",
+    "data science"
+  ]
+}

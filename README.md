@@ -74,6 +74,47 @@ point it at the sitemap:
 - First run for each company just records what's currently posted (no alert spam) —
   you'll only get pinged for postings that show up *after* that.
 
+## Filtering what you get alerted about
+
+`filters.json` applies to every company. Edit it and push — no code changes.
+
+**Location.** Only US postings get through by default:
+
+```json
+"location": { "enabled": true, "countries": ["US"], "include_unknown": true }
+```
+
+Where a platform gives us a real country field we use it (Oracle, Amazon), and
+Workday gets a country facet applied server-side where the tenant exposes one.
+Everything else is read from the location text — `US-CA-San Francisco`,
+`Austin, TX`, `Work At Home-Texas` and similar all resolve correctly.
+
+`include_unknown` covers postings whose location we can't classify — `2 Locations`,
+`Hybrid`, or sites that publish no location at all. It defaults to `true` so you
+don't silently miss a real US role; set it to `false` if you'd rather have a
+tighter feed and accept losing some.
+
+**Roles.** A job's *title* must match one of `roles.include` and none of
+`roles.exclude`. `"analyst"` on its own covers business analyst, data analyst,
+research analyst and the rest, so the list stays short. The `exclude` list is
+what keeps unrelated analyst roles (lab, clinical, security, credit) out — add
+to it whenever something irrelevant slips through.
+
+**`search_keywords`** is a separate, coarser list sent to the search box of
+platforms that have one (Workday, Oracle, Amazon). It exists so we pull a few
+hundred candidate postings instead of every job the company has — Mass General
+Brigham is 2,000+ postings but ~25 analyst roles. Keep it *broader* than your
+title rules; the title rules do the precise work. If you add a role family to
+`roles.include`, add a matching term here too or those jobs will never be
+fetched in the first place.
+
+Every run prints what it dropped, so you can see the filters working:
+
+```
+Checking Mass General Brigham...
+  Filtered 2085 → 25 (dropped 2060 on role, 0 on location)
+```
+
 ## Known limitations
 
 - **Alerts are capped at 50 per run** (`MAX_ALERTS_PER_RUN` in `check_jobs.py`).

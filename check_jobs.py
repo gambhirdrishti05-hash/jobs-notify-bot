@@ -33,6 +33,7 @@ from bs4 import BeautifulSoup
 
 COMPANIES_FILE = "companies.json"
 SEEN_FILE = "seen_jobs.json"
+FILTERS_FILE = "filters.json"
 
 # Ceiling on Telegram messages per run. A company changing its URL, or a
 # fetcher that starts seeing postings it previously truncated, can turn a
@@ -99,6 +100,151 @@ def with_params(url, **overrides):
         else:
             query[key] = [str(value)]
     return urlunparse(parts._replace(query=urlencode(query, doseq=True)))
+
+
+# ═══════════════════════════════════════════════════════════════
+# Filtering — location and role, applied to every company alike
+# ═══════════════════════════════════════════════════════════════
+
+US_STATES = {
+    "alabama": "AL", "alaska": "AK", "arizona": "AZ", "arkansas": "AR",
+    "california": "CA", "colorado": "CO", "connecticut": "CT", "delaware": "DE",
+    "florida": "FL", "georgia": "GA", "hawaii": "HI", "idaho": "ID",
+    "illinois": "IL", "indiana": "IN", "iowa": "IA", "kansas": "KS",
+    "kentucky": "KY", "louisiana": "LA", "maine": "ME", "maryland": "MD",
+    "massachusetts": "MA", "michigan": "MI", "minnesota": "MN",
+    "mississippi": "MS", "missouri": "MO", "montana": "MT", "nebraska": "NE",
+    "nevada": "NV", "new hampshire": "NH", "new jersey": "NJ",
+    "new mexico": "NM", "new york": "NY", "north carolina": "NC",
+    "north dakota": "ND", "ohio": "OH", "oklahoma": "OK", "oregon": "OR",
+    "pennsylvania": "PA", "rhode island": "RI", "south carolina": "SC",
+    "south dakota": "SD", "tennessee": "TN", "texas": "TX", "utah": "UT",
+    "vermont": "VT", "virginia": "VA", "washington": "WA",
+    "west virginia": "WV", "wisconsin": "WI", "wyoming": "WY",
+    "district of columbia": "DC",
+}
+
+# State codes only count in a positional context — a bare "IN" or "OR"
+# in free text is almost never Indiana or Oregon.
+_STATE_CODES = "|".join(sorted(set(US_STATES.values())))
+US_PATTERNS = [
+    re.compile(r'\b(?:united states|usa|u\.s\.a?\.?)\b', re.I),
+    re.compile(r'\bUS-[A-Z]{2}\b'),                      # iCIMS: US-CA-San Francisco
+    re.compile(r',\s*(?:%s)\b' % _STATE_CODES),          # "Austin, TX"
+    re.compile(r'^\s*(?:%s)\s*[-–]' % _STATE_CODES),     # "NY - Work from home"
+    re.compile(r'[-–]\s*(?:%s)\s*$' % _STATE_CODES),     # "Chelmsford-MA"
+    re.compile(r'\b(?:%s)\b' % "|".join(US_STATES), re.I),   # "Work At Home-Texas"
+]
+
+# Checked only after the US patterns, so "Birmingham, AL" stays a US hit.
+NON_US_SIGNALS = [
+    "india", "bengaluru", "bangalore", "hyderabad", "mumbai", "pune", "chennai",
+    "gurgaon", "gurugram", "noida", "kolkata", "united kingdom", "england",
+    "london", "manchester, uk", "edinburgh", "glasgow", "belfast", "dublin",
+    "ireland", "france", "paris", "germany", "berlin", "munich", "frankfurt",
+    "hamburg", "spain", "madrid", "barcelona", "italy", "milan", "rome",
+    "netherlands", "amsterdam", "belgium", "brussels", "luxembourg",
+    "switzerland", "zurich", "geneva", "austria", "vienna", "sweden",
+    "stockholm", "norway", "oslo", "denmark", "copenhagen", "finland",
+    "helsinki", "poland", "warsaw", "krakow", "czechia", "czech republic",
+    "prague", "hungary", "budapest", "romania", "bucharest", "portugal",
+    "lisbon", "greece", "athens", "turkey", "türkiye", "istanbul", "russia",
+    "china", "shanghai", "beijing", "shenzhen", "hong kong", "taiwan",
+    "taipei", "japan", "tokyo", "osaka", "korea", "seoul", "singapore",
+    "malaysia", "kuala lumpur", "indonesia", "jakarta", "thailand",
+    "bangkok", "vietnam", "philippines", "manila", "australia", "sydney",
+    "melbourne", "brisbane", "perth", "new zealand", "auckland", "canada",
+    "toronto", "vancouver", "montreal", "ottawa", "calgary", "mexico",
+    "brazil", "sao paulo", "são paulo", "argentina", "buenos aires", "chile",
+    "colombia", "bogota", "peru", "costa rica", "uae", "dubai", "abu dhabi",
+    "saudi arabia", "riyadh", "qatar", "doha", "israel", "tel aviv", "egypt",
+    "south africa", "johannesburg", "nigeria", "kenya", "morocco",
+]
+
+
+def load_filters():
+    raw = load_json(FILTERS_FILE, {})
+    loc = raw.get("location", {})
+    roles = raw.get("roles", {})
+    return {
+        "location_enabled": loc.get("enabled", False),
+        "countries": {c.upper() for c in loc.get("countries", [])},
+        "include_unknown": loc.get("include_unknown", True),
+        "roles_enabled": roles.get("enabled", False),
+        "include": [s.lower() for s in roles.get("include", [])],
+        "exclude": [s.lower() for s in roles.get("exclude", [])],
+        "search_keywords": raw.get("search_keywords", []),
+    }
+
+
+def classify_location(text, country_code=None):
+    """
+    Return "US", "OTHER", or "UNKNOWN".
+
+    Prefers an explicit country code where the platform gives us one
+    (Oracle and Amazon do); otherwise reads the human-readable location
+    string, checking US signals before foreign ones so that genuinely
+    ambiguous city names like Birmingham resolve correctly when the
+    state is present.
+    """
+    if country_code:
+        code = country_code.strip().upper()
+        if code in ("US", "USA", "UNITED STATES"):
+            return "US"
+        if code:
+            return "OTHER"
+
+    if not text:
+        return "UNKNOWN"
+    text = text.strip()
+    if not text:
+        return "UNKNOWN"
+
+    for pattern in US_PATTERNS:
+        if pattern.search(text):
+            return "US"
+
+    lowered = text.lower()
+    for signal in NON_US_SIGNALS:
+        if signal in lowered:
+            return "OTHER"
+
+    return "UNKNOWN"
+
+
+def location_allowed(job, filters):
+    if not filters["location_enabled"] or not filters["countries"]:
+        return True
+    verdict = classify_location(job.get("location"), job.get("country_code"))
+    if verdict == "UNKNOWN":
+        return filters["include_unknown"]
+    return verdict in filters["countries"]
+
+
+def role_allowed(title, filters):
+    if not filters["roles_enabled"]:
+        return True
+    lowered = (title or "").lower()
+    if filters["include"] and not any(k in lowered for k in filters["include"]):
+        return False
+    if any(k in lowered for k in filters["exclude"]):
+        return False
+    return True
+
+
+def apply_filters(jobs, filters):
+    """Drop jobs that fail the role or location rules. Returns (kept, stats)."""
+    kept = {}
+    dropped_role = dropped_location = 0
+    for job_id, job in jobs.items():
+        if not role_allowed(job.get("title"), filters):
+            dropped_role += 1
+            continue
+        if not location_allowed(job, filters):
+            dropped_location += 1
+            continue
+        kept[job_id] = job
+    return kept, {"role": dropped_role, "location": dropped_location}
 
 
 # ═══════════════════════════════════════════════════════════════
@@ -181,7 +327,9 @@ def fetch_greenhouse(slug):
     r = requests.get(api, headers=HEADERS, timeout=20)
     r.raise_for_status()
     jobs = r.json().get("jobs", [])
-    return {str(j["id"]): {"title": j["title"], "url": j["absolute_url"]} for j in jobs}
+    return {str(j["id"]): {"title": j["title"], "url": j["absolute_url"],
+                           "location": (j.get("location") or {}).get("name")}
+            for j in jobs}
 
 
 def fetch_lever(slug):
@@ -189,64 +337,108 @@ def fetch_lever(slug):
     r = requests.get(api, headers=HEADERS, timeout=20)
     r.raise_for_status()
     jobs = r.json()
-    return {j["id"]: {"title": j["text"], "url": j["hostedUrl"]} for j in jobs}
+    return {j["id"]: {"title": j["text"], "url": j["hostedUrl"],
+                      "location": (j.get("categories") or {}).get("location")}
+            for j in jobs}
 
 
-def fetch_workday(tenant, dc, site, base_url, max_jobs=4000):
+def workday_us_facet(api, country_names):
+    """
+    Workday exposes a locationCountry facet whose IDs are tenant-specific,
+    but they're listed in any search response, so we can look ours up at
+    runtime. Not every tenant publishes it (US-only employers generally
+    don't) — returns None there and we fall back to filtering on the
+    location text.
+    """
+    r = requests.post(
+        api,
+        json={"appliedFacets": {}, "limit": 1, "offset": 0, "searchText": ""},
+        headers={**HEADERS, "Content-Type": "application/json"},
+        timeout=30,
+    )
+    r.raise_for_status()
+    stack = list(r.json().get("facets", []))
+    while stack:
+        node = stack.pop()
+        values = node.get("values") or []
+        if node.get("facetParameter") == "locationCountry":
+            for v in values:
+                if any(n.lower() in v.get("descriptor", "").lower() for n in country_names):
+                    return v.get("id")
+        stack.extend(v for v in values if isinstance(v, dict) and v.get("values"))
+    return None
+
+
+def _workday_page(api, facets, search_text, offset, limit):
+    r = requests.post(
+        api,
+        json={"appliedFacets": facets, "limit": limit, "offset": offset,
+              "searchText": search_text},
+        headers={**HEADERS, "Content-Type": "application/json"},
+        timeout=30,
+    )
+    r.raise_for_status()
+    return r.json()
+
+
+def fetch_workday(tenant, dc, site, base_url, filters=None, max_jobs=4000):
     """
     Workday's cxs endpoint reports `total` only on the first response —
     later pages come back with total=0. Capture it once, or the
     `offset >= total` check trips on page two and silently truncates
     every company to the first 40 postings.
 
-    A `?q=` on the career-page URL is the keyword box; forward it as
-    searchText so a URL the user deliberately narrowed stays narrow
-    (CVS Health is 19k postings unfiltered vs 128 for "analyst").
+    Rather than pull every posting and filter afterwards, we run one
+    search per configured keyword and union the results — CVS Health is
+    19,000 postings unfiltered but a few hundred across the analyst
+    keywords. A `?q=` on the career-page URL still wins if present.
     """
+    filters = filters or {}
     api = f"https://{tenant}.{dc}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs"
-    search_text = parse_qs(urlparse(base_url).query).get("q", [""])[0]
-    if search_text:
-        print(f"    (filtering on q={search_text!r})")
+
+    url_q = parse_qs(urlparse(base_url).query).get("q", [""])[0]
+    searches = [url_q] if url_q else (filters.get("search_keywords") or [""])
+
+    applied = {}
+    if filters.get("location_enabled") and "US" in filters.get("countries", set()):
+        facet_id = workday_us_facet(api, ["United States"])
+        if facet_id:
+            applied["locationCountry"] = [facet_id]
+
     jobs = {}
-    offset = 0
-    limit = 20
-    total = None
-    while True:
-        r = requests.post(
-            api,
-            json={"appliedFacets": {}, "limit": limit, "offset": offset,
-                  "searchText": search_text},
-            headers={**HEADERS, "Content-Type": "application/json"},
-            timeout=20
-        )
-        r.raise_for_status()
-        data = r.json()
-        postings = data.get("jobPostings", [])
-        if not postings:
-            break
-        if total is None:
-            total = data.get("total", 0)
-        for p in postings:
-            path = p.get("externalPath", "")
-            job_id = path or p.get("title", "")
-            jobs[job_id] = {
-                "title": p.get("title", "Untitled"),
-                # externalPath is "/job/Location/Title_R123" — relative to the
-                # career *site*, not the host. Without the site segment every
-                # link 404s.
-                "url": f"https://{tenant}.{dc}.myworkdayjobs.com/{site}{path}"
-            }
-        offset += limit
-        if offset >= total or len(postings) < limit:
-            break
-        if offset >= max_jobs:
-            print(f"  [WARN] Workday: stopped at {max_jobs} of {total} postings",
-                  file=sys.stderr)
-            break
+    for search_text in searches:
+        offset = 0
+        limit = 20
+        total = None
+        while True:
+            data = _workday_page(api, applied, search_text, offset, limit)
+            postings = data.get("jobPostings", [])
+            if not postings:
+                break
+            if total is None:
+                total = data.get("total", 0)
+            for p in postings:
+                path = p.get("externalPath", "")
+                job_id = path or p.get("title", "")
+                jobs[job_id] = {
+                    "title": p.get("title", "Untitled"),
+                    # externalPath is "/job/Location/Title_R123" — relative to
+                    # the career *site*, not the host. Without the site segment
+                    # every link 404s.
+                    "url": f"https://{tenant}.{dc}.myworkdayjobs.com/{site}{path}",
+                    "location": p.get("locationsText"),
+                }
+            offset += limit
+            if offset >= total or len(postings) < limit:
+                break
+            if offset >= max_jobs:
+                print(f"  [WARN] Workday: stopped at {max_jobs} of {total} for "
+                      f"search {search_text!r}", file=sys.stderr)
+                break
     return jobs
 
 
-def fetch_oracle_cloud(host, site_number, max_jobs=4000):
+def fetch_oracle_cloud(host, site_number, filters=None, max_jobs=4000):
     """
     Oracle Fusion HCM ("Oracle Recruiting Cloud").
 
@@ -258,47 +450,85 @@ def fetch_oracle_cloud(host, site_number, max_jobs=4000):
         several tenants (JPMorgan among them) don't populate
         RequisitionNumber at all, which yields .../job/ links.
     """
+    filters = filters or {}
     api = f"https://{host}/hcmRestApi/resources/latest/recruitingCEJobRequisitions"
+    searches = filters.get("search_keywords") or [None]
     jobs = {}
-    offset = 0
-    limit = 200
-    total = None
-    while True:
-        finder = (
-            f"findReqs;siteNumber={site_number},limit={limit},offset={offset},"
-            f"sortBy=POSTING_DATES_DESC"
-        )
-        params = {
-            "onlyData": "true",
-            "expand": "requisitionList.secondaryLocations,flexFieldsFacet.values",
-            "finder": finder,
-        }
-        r = requests.get(api, params=params, headers=HEADERS, timeout=30)
-        r.raise_for_status()
-        items = r.json().get("items", [])
-        if not items:
-            break
-        if total is None:
-            total = items[0].get("TotalJobsCount")
-        reqs = items[0].get("requisitionList", [])
-        if not reqs:
-            break
-        for job in reqs:
-            job_id = job.get("Id") or job.get("RequisitionNumber")
-            if not job_id:
-                continue
-            jobs[str(job_id)] = {
-                "title": job.get("Title", "Untitled"),
-                "url": f"https://{host}/hcmUI/CandidateExperience/en/sites/{site_number}/job/{job_id}",
+    for keyword in searches:
+        offset = 0
+        limit = 200
+        total = None
+        while True:
+            finder = f"findReqs;siteNumber={site_number}"
+            if keyword:
+                finder += f",keyword={keyword}"
+            finder += f",limit={limit},offset={offset},sortBy=POSTING_DATES_DESC"
+            params = {
+                "onlyData": "true",
+                "expand": "requisitionList.secondaryLocations,flexFieldsFacet.values",
+                "finder": finder,
             }
-        offset += limit
-        if len(reqs) < limit:
-            break
-        if offset >= max_jobs:
-            print(f"  [WARN] Oracle Cloud: stopped at {max_jobs} of {total} postings "
-                  f"— narrow the URL with a keyword filter to see the rest", file=sys.stderr)
-            break
+            r = requests.get(api, params=params, headers=HEADERS, timeout=30)
+            r.raise_for_status()
+            items = r.json().get("items", [])
+            if not items:
+                break
+            if total is None:
+                total = items[0].get("TotalJobsCount")
+            reqs = items[0].get("requisitionList", [])
+            if not reqs:
+                break
+            for job in reqs:
+                job_id = job.get("Id") or job.get("RequisitionNumber")
+                if not job_id:
+                    continue
+                jobs[str(job_id)] = {
+                    "title": job.get("Title", "Untitled"),
+                    "url": f"https://{host}/hcmUI/CandidateExperience/en/sites/{site_number}/job/{job_id}",
+                    "location": job.get("PrimaryLocation"),
+                    "country_code": job.get("PrimaryLocationCountry"),
+                }
+            offset += limit
+            if len(reqs) < limit:
+                break
+            if offset >= max_jobs:
+                print(f"  [WARN] Oracle Cloud: stopped at {max_jobs} of {total} for "
+                      f"keyword {keyword!r}", file=sys.stderr)
+                break
     return jobs
+
+
+def icims_row_location(anchor):
+    """
+    iCIMS listings carry per-row metadata as <dt>label</dt><dd>value</dd>
+    pairs — commonly "Job Locations" (US-CA-San Francisco) and "Country".
+    Not every portal enables them; returns {} when absent, which leaves
+    the job's location unknown rather than guessing.
+    """
+    row = anchor
+    for _ in range(6):
+        row = row.parent
+        if row is None:
+            return {}
+        classes = " ".join(row.get("class") or [])
+        if "row" in classes.split() or "iCIMS_JobsTable" in classes:
+            break
+    else:
+        return {}
+
+    found = {}
+    for tag in row.find_all("div", class_="iCIMS_JobHeaderTag"):
+        label = tag.find("dt")
+        value = tag.find("dd")
+        if not label or not value:
+            continue
+        key = label.get_text(strip=True).lower()
+        text = value.get_text(" ", strip=True)
+        if "location" in key:
+            found["location"] = text
+        elif "country" in key:
+            found["country_code"] = text
+    return found
 
 
 def fetch_icims(base_url, original_url, max_pages=40):
@@ -342,6 +572,7 @@ def fetch_icims(base_url, original_url, max_pages=40):
             full_url = href if href.startswith("http") else requests.compat.urljoin(base_url, href)
             # Drop in_iframe so the link opens as a normal page in Telegram
             jobs[job_id] = {"title": text, "url": with_params(full_url, in_iframe=None)}
+            jobs[job_id].update(icims_row_location(a))
 
         # Empty page = past the end. A page with no IDs we haven't already
         # seen means the portal ignored `pr` and re-served an earlier page;
@@ -366,11 +597,12 @@ def fetch_ashby(slug):
         job_id = job.get("id", "")
         title = job.get("title", "Untitled")
         job_url = f"https://jobs.ashbyhq.com/{slug}/{job_id}"
-        jobs[job_id] = {"title": title, "url": job_url}
+        jobs[job_id] = {"title": title, "url": job_url,
+                        "location": job.get("location")}
     return jobs
 
 
-def fetch_amazon(url, max_jobs=2000):
+def fetch_amazon(url, filters=None, max_jobs=2000):
     """
     amazon.jobs backs its search page with a public JSON endpoint at
     /en/search.json. Any filters on the URL the user supplied
@@ -379,37 +611,44 @@ def fetch_amazon(url, max_jobs=2000):
     result_limit is capped at 100 by the server — asking for more
     returns a null job list rather than an error.
     """
+    filters = filters or {}
     user_params = {k: v[0] for k, v in parse_qs(urlparse(url).query).items()}
     api = "https://www.amazon.jobs/en/search.json"
+    searches = ([user_params["base_query"]] if user_params.get("base_query")
+                else (filters.get("search_keywords") or [""]))
     jobs = {}
-    limit = 100
-    offset = 0
-    total = None
-    while True:
-        params = {**user_params, "result_limit": limit, "offset": offset, "sort": "recent"}
-        r = requests.get(api, params=params, headers=HEADERS, timeout=30)
-        r.raise_for_status()
-        data = r.json()
-        batch = data.get("jobs") or []
-        if not batch:
-            break
-        if total is None:
-            total = data.get("hits")
-        for job in batch:
-            job_id = str(job.get("id_icims") or job.get("id") or "")
-            if not job_id:
-                continue
-            jobs[job_id] = {
-                "title": job.get("title", "Untitled"),
-                "url": "https://www.amazon.jobs" + job.get("job_path", ""),
-            }
-        offset += limit
-        if len(batch) < limit:
-            break
-        if offset >= max_jobs:
-            print(f"  [WARN] Amazon: stopped at {max_jobs} of {total} postings "
-                  f"— add filters (e.g. ?base_query=analyst) to narrow it", file=sys.stderr)
-            break
+    for keyword in searches:
+        offset = 0
+        limit = 100
+        total = None
+        while True:
+            params = {**user_params, "base_query": keyword,
+                      "result_limit": limit, "offset": offset, "sort": "recent"}
+            r = requests.get(api, params=params, headers=HEADERS, timeout=30)
+            r.raise_for_status()
+            data = r.json()
+            batch = data.get("jobs") or []
+            if not batch:
+                break
+            if total is None:
+                total = data.get("hits")
+            for job in batch:
+                job_id = str(job.get("id_icims") or job.get("id") or "")
+                if not job_id:
+                    continue
+                jobs[job_id] = {
+                    "title": job.get("title", "Untitled"),
+                    "url": "https://www.amazon.jobs" + job.get("job_path", ""),
+                    "location": job.get("normalized_location"),
+                    "country_code": job.get("country_code"),
+                }
+            offset += limit
+            if len(batch) < limit:
+                break
+            if offset >= max_jobs:
+                print(f"  [WARN] Amazon: stopped at {max_jobs} of {total} for "
+                      f"query {keyword!r}", file=sys.stderr)
+                break
     return jobs
 
 
@@ -445,12 +684,23 @@ def fetch_sitemap(url):
     jobs = {}
     for job_url in locs:
         # e.g. /bridgeville-pa/manual-machinist/2AB5BF82.../job/
-        m = re.search(r'/([^/]+)/([0-9A-Fa-f]{16,})/job/?$', job_url)
+        m = re.search(r'/([^/]+)/([^/]+)/([0-9A-Fa-f]{16,})/job/?$', job_url)
         if not m:
             continue
-        slug, job_id = m.group(1), m.group(2)
-        title = slug.replace("-", " ").title()
-        jobs[job_id] = {"title": title, "url": job_url}
+        place_slug, title_slug, job_id = m.group(1), m.group(2), m.group(3)
+
+        # The place slug ends in a region code: "bridgeville-pa" (US) or
+        # "queretaro-mex" (not). A 2-letter US state code is the only thing
+        # we treat as a positive match; anything else is a foreign posting.
+        parts = place_slug.split("-")
+        region = parts[-1].upper() if len(parts) > 1 else ""
+        location = f"{' '.join(parts[:-1]).title()}, {region}" if region else place_slug.title()
+        jobs[job_id] = {
+            "title": title_slug.replace("-", " ").title(),
+            "url": job_url,
+            "location": location,
+            "country_code": "US" if region in set(US_STATES.values()) else region,
+        }
     return jobs
 
 
@@ -519,7 +769,8 @@ def fetch_generic(url):
 # Main router — detects platform, calls the right fetcher
 # ═══════════════════════════════════════════════════════════════
 
-def fetch_company_jobs(company):
+def fetch_company_jobs(company, filters=None):
+    filters = filters or {}
     url = company["url"]
     name = company["name"]
 
@@ -542,7 +793,7 @@ def fetch_company_jobs(company):
 
         if is_amazon(url):
             print(f"  [Amazon] {name}")
-            return fetch_amazon(url)
+            return fetch_amazon(url, filters)
         elif gh_slug:
             print(f"  [Greenhouse] {name}")
             return fetch_greenhouse(gh_slug)
@@ -552,11 +803,11 @@ def fetch_company_jobs(company):
         elif wd_parts:
             tenant, dc, site = wd_parts
             print(f"  [Workday] {name} (tenant={tenant}, dc={dc}, site={site})")
-            return fetch_workday(tenant, dc, site, url)
+            return fetch_workday(tenant, dc, site, url, filters)
         elif oc_parts:
             host, site_number = oc_parts
             print(f"  [Oracle Cloud] {name} (host={host}, site={site_number})")
-            return fetch_oracle_cloud(host, site_number)
+            return fetch_oracle_cloud(host, site_number, filters)
         elif icims_base:
             print(f"  [iCIMS] {name} (base={icims_base})")
             return fetch_icims(icims_base, url)
@@ -604,16 +855,31 @@ def send_telegram(message):
 def main():
     companies = load_json(COMPANIES_FILE, [])
     seen = load_json(SEEN_FILE, {})
+    filters = load_filters()
+
+    active = []
+    if filters["roles_enabled"]:
+        active.append(f"roles ({len(filters['include'])} keywords)")
+    if filters["location_enabled"]:
+        active.append(f"location ({', '.join(sorted(filters['countries']))})")
+    print(f"Filters: {' + '.join(active) if active else 'none'}\n")
 
     pending = []
 
     for company in companies:
         name = company["name"]
         print(f"Checking {name}...")
-        current_jobs = fetch_company_jobs(company)
+        current_jobs = fetch_company_jobs(company, filters)
 
         if current_jobs is None:
             continue
+
+        fetched = len(current_jobs)
+        current_jobs, dropped = apply_filters(current_jobs, filters)
+        if dropped["role"] or dropped["location"]:
+            print(f"  Filtered {fetched} → {len(current_jobs)} "
+                  f"(dropped {dropped['role']} on role, "
+                  f"{dropped['location']} on location)")
 
         prev_ids = set(seen.get(name, {}).keys())
         current_ids = set(current_jobs.keys())
@@ -636,7 +902,8 @@ def main():
     save_json(SEEN_FILE, seen)
 
     for name, job in pending[:MAX_ALERTS_PER_RUN]:
-        send_telegram(f"🆕 <b>{name}</b>\n{job['title']}\n{job['url']}")
+        where = f"\n📍 {job['location']}" if job.get("location") else ""
+        send_telegram(f"🆕 <b>{name}</b>\n{job['title']}{where}\n{job['url']}")
 
     suppressed = len(pending) - MAX_ALERTS_PER_RUN
     if suppressed > 0:
