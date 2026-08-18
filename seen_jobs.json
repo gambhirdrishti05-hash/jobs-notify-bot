@@ -20,6 +20,10 @@
       "title": "India Broking Equity & Currency Derivatives Operations (Futures & Options) - Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772311"
     },
+    "210772766": {
+      "title": "Trade and Working Capital - Payments & Loans  Analyst - Night Shift",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772766"
+    },
     "210773696": {
       "title": "Lead Software Engineer- Automation testing",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773696"
@@ -32,6 +36,10 @@
       "title": "Lead Software Engineer -Full Stack Java/Spring/AWS",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774564"
     },
+    "210776755": {
+      "title": "Product Director - Debit Product",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776755"
+    },
     "210778603": {
       "title": "Liquidity Risk Lead - Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778603"
@@ -43,6 +51,10 @@
     "210778873": {
       "title": "Relationship Banker - (New Build) Hilton Head - Hilton Head Island, SC",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778873"
+    },
+    "210779102": {
+      "title": "Technology Support II (ServiceNow)",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779102"
     },
     "210779221": {
       "title": "Analyst - Sourcing",
@@ -64,6 +76,10 @@
       "title": "Product Manager \u2013 Payments Sales Experience - Senior Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780416"
     },
+    "210780425": {
+      "title": "Payment Lifecycle Specialist",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780425"
+    },
     "210780478": {
       "title": "Client Operations Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780478"
@@ -71,6 +87,10 @@
     "210780704": {
       "title": "Sr Principal Software Engineer",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780704"
+    },
+    "210780890": {
+      "title": "Senior Director of Software Engineering - Data Governance, Program Management, AWS",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780890"
     },
     "210780899": {
       "title": "WKO Banking Middle Office - Associate",
@@ -15979,26 +15999,6 @@
     "210747231": {
       "title": "J.P. Morgan Wealth Management - Private Client Advisor - Central Sarasota",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747231"
-    },
-    "210755023": {
-      "title": "Wealth Management Investment Solutions, Fund Administration Team, Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210755023"
-    },
-    "210757007": {
-      "title": "Senior Home Lending Advisor - Tucson AZ",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210757007"
-    },
-    "210757589": {
-      "title": "Community Impact Operations Leader",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210757589"
-    },
-    "210758693": {
-      "title": "Lead Software Engineer - Java/AWS/Agentic",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758693"
-    },
-    "210758862": {
-      "title": "Stock Plan Administrator \u2013 Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758862"
     }
   },
   "PJT Partners": {
@@ -18613,7 +18613,7 @@
   },
   "Amazon": {
     "10504458": {
-      "title": "[2028\u5352\u5165\u793e\u30fb\u6b63\u793e\u54e1] Financial Analyst",
+      "title": "[2028\u5e74\u5165\u793e\u30fb\u6b63\u793e\u54e1] Financial Analyst",
       "url": "https://www.amazon.jobs/en/jobs/10504458/2028-financial-analyst"
     },
     "10503424": {
@@ -20947,10 +20947,6 @@
     "10435166": {
       "title": "Oracle Applications Functional Analyst, FinTech Applications, Fintech OFA Entity Management",
       "url": "https://www.amazon.jobs/en/jobs/10435166/oracle-applications-functional-analyst-fintech-applications-fintech-ofa-entity-management"
-    },
-    "10422063": {
-      "title": "Non-Inventory Receiver",
-      "url": "https://www.amazon.jobs/en/jobs/10422063/non-inventory-receiver"
     },
     "10432513": {
       "title": "Senior Financial Analyst, Amazon Leo",
@@ -27028,6 +27024,10 @@
     }
   },
   "ICF Incorporated": {
+    "/job/New-Delhi-India/Policy-Specialist-Fixed-Term-Role_R2602788": {
+      "title": "Policy Specialist-Fixed Term Role",
+      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/New-Delhi-India/Policy-Specialist-Fixed-Term-Role_R2602788"
+    },
     "/job/Nationwide-Remote-Office-US99/Intake-and-Case-Initiation-Supervisor_R2602768": {
       "title": "Intake and Case Initiation Supervisor",
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Nationwide-Remote-Office-US99/Intake-and-Case-Initiation-Supervisor_R2602768"
@@ -39074,13 +39074,13 @@
       "title": "Account Manager",
       "url": "https://jobs.jobvite.com/webmd/job/ozTQzfwB"
     },
-    "https://jobs.jobvite.com/webmd/job/opcqAfwl": {
-      "title": "Account Manager",
-      "url": "https://jobs.jobvite.com/webmd/job/opcqAfwl"
-    },
     "https://jobs.jobvite.com/webmd/job/oQAqAfwa": {
       "title": "Account Manager",
       "url": "https://jobs.jobvite.com/webmd/job/oQAqAfwa"
+    },
+    "https://jobs.jobvite.com/webmd/job/opcqAfwl": {
+      "title": "Account Manager",
+      "url": "https://jobs.jobvite.com/webmd/job/opcqAfwl"
     },
     "https://jobs.jobvite.com/webmd/job/oIlfAfwC": {
       "title": "Advertising Ops Associate",
