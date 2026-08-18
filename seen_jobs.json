@@ -12,6 +12,10 @@
       "title": "India Broking Equity & Currency Derivatives Operations (Futures & Options) - Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772311"
     },
+    "210774374": {
+      "title": "Software Engineer III\u2013 Mobile Android",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774374"
+    },
     "210778603": {
       "title": "Liquidity Risk Lead - Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778603"
@@ -23,6 +27,10 @@
     "210778873": {
       "title": "Relationship Banker - (New Build) Hilton Head - Hilton Head Island, SC",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778873"
+    },
+    "210779221": {
+      "title": "Analyst - Sourcing",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779221"
     },
     "210779580": {
       "title": "Private Client Banker - (New Build) High Point - High Point, NC",
@@ -2907,10 +2915,6 @@
     "210778384": {
       "title": "Part Time (20 Hours) Associate Banker, San Diego 4S Ranch Branch, San Diego, CA",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778384"
-    },
-    "210778392": {
-      "title": "Part Time (20 Hours) Associate Banker, San Diego 4S Branch, San Diego, CA",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778392"
     },
     "210778409": {
       "title": "Commerce Payments - Control Manager - Vice President",
@@ -11196,10 +11200,6 @@
       "title": "EMEA Employee Dining Lead",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210769024"
     },
-    "210769190": {
-      "title": "Java AI Lead Software Engineer",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210769190"
-    },
     "210769813": {
       "title": "Lead Site Reliability Engineer",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210769813"
@@ -15971,34 +15971,6 @@
     "210758693": {
       "title": "Lead Software Engineer - Java/AWS/Agentic",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758693"
-    },
-    "210758862": {
-      "title": "Stock Plan Administrator \u2013 Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758862"
-    },
-    "210759065": {
-      "title": "Director of Software Engineering",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210759065"
-    },
-    "210759174": {
-      "title": "Design Strategy - Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210759174"
-    },
-    "210761361": {
-      "title": "J.P.Morgan Wealth Management - Private Client Advisor - Wesley Chapel and Zephyrhills, FL",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761361"
-    },
-    "210761844": {
-      "title": "CCB Risk Program Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761844"
-    },
-    "210762257": {
-      "title": "Vice President Agility Data Analytics Lead - Digital Products",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762257"
-    },
-    "210763727": {
-      "title": "Branch Operations Lead - Geary and Parker Branch - San Francisco, CA",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763727"
     }
   },
   "PJT Partners": {
@@ -39070,13 +39042,13 @@
       "title": "Account Manager",
       "url": "https://jobs.jobvite.com/webmd/job/ozTQzfwB"
     },
-    "https://jobs.jobvite.com/webmd/job/opcqAfwl": {
-      "title": "Account Manager",
-      "url": "https://jobs.jobvite.com/webmd/job/opcqAfwl"
-    },
     "https://jobs.jobvite.com/webmd/job/oQAqAfwa": {
       "title": "Account Manager",
       "url": "https://jobs.jobvite.com/webmd/job/oQAqAfwa"
+    },
+    "https://jobs.jobvite.com/webmd/job/opcqAfwl": {
+      "title": "Account Manager",
+      "url": "https://jobs.jobvite.com/webmd/job/opcqAfwl"
     },
     "https://jobs.jobvite.com/webmd/job/oIlfAfwC": {
       "title": "Advertising Ops Associate",
