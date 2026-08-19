@@ -1,5 +1,23 @@
 {
   "JPMorgan Chase": {
+    "210780831": {
+      "title": "Strategic Financing Solutions \u2013 Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780831",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210747096": {
+      "title": "Corporate Meetings & Events - Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747096",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210779705": {
+      "title": "Investment Banking - Director Advisory Services- Associate/Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779705",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
     "210773869": {
       "title": "2027 Data & AI Program - Summer Internship - Analyst - United States",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869",
@@ -39,12 +57,6 @@
     "210781704": {
       "title": "Firmwide Strategy Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781704",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
-    "210747096": {
-      "title": "Corporate Meetings & Events - Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747096",
       "location": "New York, NY, United States",
       "country_code": "US"
     },
@@ -1212,6 +1224,12 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
+    "210779872": {
+      "title": "J. P. Morgan Wealth Management - Vice President, Exposure Management & Risk Analytics",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779872",
+      "location": "Chicago, IL, United States",
+      "country_code": "US"
+    },
     "210780362": {
       "title": "Product Manager \u2013 Personalization & Customer Insights (ML Product Portfolio)",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780362",
@@ -1788,18 +1806,6 @@
       "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
-    "210760230": {
-      "title": "Strategic Analytics - Card Portfolio Risk \u2013 Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210760230",
-      "location": "Wilmington, DE, United States",
-      "country_code": "US"
-    },
-    "210765627": {
-      "title": "Digital Markets Sales Applied AI and Insights \u2013 Product Manager \u2013 Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765627",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
     "210774710": {
       "title": "Lead Software Engineer - Data Engineer and Applied AI",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774710",
@@ -1882,6 +1888,12 @@
       "title": "Treasury Research & Analytics, Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210701592",
       "location": "Chicago, IL, United States",
+      "country_code": "US"
+    },
+    "210765627": {
+      "title": "Digital Markets Sales Applied AI and Insights \u2013 Product Manager \u2013 Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765627",
+      "location": "New York, NY, United States",
       "country_code": "US"
     },
     "210763928": {
@@ -2023,16 +2035,6 @@
       "url": "https://pjtpartners.wd1.myworkdayjobs.com/Careers/job/New-York/Analyst---Financial-Controller_R0003415",
       "location": "New York"
     },
-    "/job/New-York/Analyst---Management--AI-Team-_R0003383": {
-      "title": "Analyst - Management (AI Team)",
-      "url": "https://pjtpartners.wd1.myworkdayjobs.com/Careers/job/New-York/Analyst---Management--AI-Team-_R0003383",
-      "location": "New York"
-    },
-    "/job/New-York/Analyst---PJT-Camberview--Governance-_R0003488": {
-      "title": "Analyst - PJT Camberview (Governance)",
-      "url": "https://pjtpartners.wd1.myworkdayjobs.com/Careers/job/New-York/Analyst---PJT-Camberview--Governance-_R0003488",
-      "location": "2 Locations"
-    },
     "/job/New-York/Analyst---Park-Hill-Corporate--DealCloud-_R0003386": {
       "title": "Analyst - PJT Park Hill (Corporate - DealCloud)",
       "url": "https://pjtpartners.wd1.myworkdayjobs.com/Careers/job/New-York/Analyst---Park-Hill-Corporate--DealCloud-_R0003386",
@@ -2080,6 +2082,12 @@
     }
   },
   "Amazon": {
+    "10506822": {
+      "title": "Category Analyst, Category Analytics",
+      "url": "https://www.amazon.jobs/en/jobs/10506822/category-analyst-category-analytics",
+      "location": "Austin, Texas, USA",
+      "country_code": "USA"
+    },
     "10505804": {
       "title": "Sr Financial Analyst, AWS SMGS Ops Finance",
       "url": "https://www.amazon.jobs/en/jobs/10505804/sr-financial-analyst-aws-smgs-ops-finance",
@@ -2968,12 +2976,6 @@
       "location": "New York, New York, USA",
       "country_code": "USA"
     },
-    "10460001": {
-      "title": "Senior Financial Analyst, AWS Applied AI Solutions Core Services Finance",
-      "url": "https://www.amazon.jobs/en/jobs/10460001/senior-financial-analyst-aws-applied-ai-solutions-core-services-finance",
-      "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
     "10471711": {
       "title": "Senior Financial Analyst, AWS Data Center Real Estate",
       "url": "https://www.amazon.jobs/en/jobs/10471711/senior-financial-analyst-aws-data-center-real-estate",
@@ -3583,6 +3585,11 @@
   },
   "Waters Corporation": {},
   "CVS Health": {
+    "/job/OH---Work-from-hom/Senior-Financial-Analyst--Omnicare--Financial-Planning---Analysis-_R1006774": {
+      "title": "Senior Financial Analyst, Omnicare (Financial Planning & Analysis)",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OH---Work-from-hom/Senior-Financial-Analyst--Omnicare--Financial-Planning---Analysis-_R1006774",
+      "location": "OH - Work from hom"
+    },
     "/job/KS---Work-from-home/Sr-Analyst-Ntwrk-Relations_R0916767": {
       "title": "Network Relations, Senior Analyst",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/KS---Work-from-home/Sr-Analyst-Ntwrk-Relations_R0916767",
@@ -3983,11 +3990,6 @@
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/KY---Glasgow/Senior-Operations---Inventory-Analyst_R0984545",
       "location": "KY - Glasgow"
     },
-    "/job/CT---Hartford/Senior-Analyst--IT-Corporate-Audit---Cybersecurity_R0940435": {
-      "title": "Senior Analyst, IT Corporate Audit - Cybersecurity",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Senior-Analyst--IT-Corporate-Audit---Cybersecurity_R0940435",
-      "location": "2 Locations"
-    },
     "/job/AZ---Scottsdale/Pharmacy-Benefits-Management--PBM--Underwriting--Senior-Analyst_R0969670": {
       "title": "Pharmacy Benefits Management (PBM) Underwriting, Senior Analyst",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Pharmacy-Benefits-Management--PBM--Underwriting--Senior-Analyst_R0969670",
@@ -4097,11 +4099,6 @@
       "title": "Senior Analyst, Financial Planning & Analysis",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Cumberland/Senior-Analyst--Financial-Planning---Analysis_R0889474",
       "location": "RI - Cumberland"
-    },
-    "/job/Field-Illinois/Analyst--Case-Management--Field---Winnnebago-Jo-Daviess-County--IL-or-surrounding-areas-_R0937598": {
-      "title": "Analyst, Case Management (Field - Winnnebago/Jo Daviess County, IL or surrounding areas)",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Field-Illinois/Analyst--Case-Management--Field---Winnnebago-Jo-Daviess-County--IL-or-surrounding-areas-_R0937598",
-      "location": "2 Locations"
     },
     "/job/FL---Tampa/Bilingual-Analyst--Case-Management----5-000-New-Hire-Bonus---Field--33603--33604--or-33612_R0915266": {
       "title": "Bilingual Analyst, Case Management - $5,000 New Hire Bonus \u2013 Field, 33603, 33604, or 33612",
@@ -4463,6 +4460,11 @@
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Colorado-Springs-CO/Portfolio-Construction-Analyst_83079",
       "location": "2 Locations"
     },
+    "/job/Baltimore-MD/ETF-Specialist-Analyst_81551": {
+      "title": "ETF Specialist Analyst",
+      "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/ETF-Specialist-Analyst_81551",
+      "location": "Baltimore, MD"
+    },
     "/job/Baltimore-MD/Multi-Asset-Product-Analyst_81079": {
       "title": "Multi Asset Product Analyst",
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Multi-Asset-Product-Analyst_81079",
@@ -4501,6 +4503,11 @@
     "/job/Baltimore-MD/Investment-AI-Solutions-Analyst_81557": {
       "title": "Investment AI Solutions Analyst",
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Investment-AI-Solutions-Analyst_81557",
+      "location": "2 Locations"
+    },
+    "/job/New-York-NY/ETF-Capital-Markets-Analyst_81552": {
+      "title": "ETF Capital Markets Analyst",
+      "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/New-York-NY/ETF-Capital-Markets-Analyst_81552",
       "location": "2 Locations"
     },
     "/job/Owings-Mills-MD/Sr-Analyst--AI---Global-Compliance-_79914": {
@@ -4603,6 +4610,11 @@
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Senior-Portfolio-Investment-Analyst---Multi-Asset-and-ETFs_82995",
       "location": "Baltimore, MD"
     },
+    "/job/Washington-DC/Lead-Data-Analyst--Investment-Data-Strategy--Washington-DC-or-Baltimore--MD-_83070": {
+      "title": "Lead Data Analyst\u2013 Investment Data Strategy (Washington DC or Baltimore, MD)",
+      "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Washington-DC/Lead-Data-Analyst--Investment-Data-Strategy--Washington-DC-or-Baltimore--MD-_83070",
+      "location": "2 Locations"
+    },
     "/job/Baltimore-MD/Lead-Analyst--Middle-Office-Distribution-and-Funding--Private-Assets-Change-Management-_82044": {
       "title": "Lead Analyst, Middle Office Distribution and Funding (Private Assets Change Management)",
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Lead-Analyst--Middle-Office-Distribution-and-Funding--Private-Assets-Change-Management-_82044",
@@ -4611,11 +4623,6 @@
     "/job/Baltimore-MD/Senior-Business-Analyst---Investment-Data-Strategy_82743": {
       "title": "Senior Data Analyst- Investment Data Strategy (Baltimore, MD or Washington DC)",
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Senior-Business-Analyst---Investment-Data-Strategy_82743",
-      "location": "2 Locations"
-    },
-    "/job/Washington-DC/Lead-Data-Analyst--Investment-Data-Strategy--Washington-DC-or-Baltimore--MD-_83070": {
-      "title": "Lead Data Analyst\u2013 Investment Data Strategy (Washington DC or Baltimore, MD)",
-      "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Washington-DC/Lead-Data-Analyst--Investment-Data-Strategy--Washington-DC-or-Baltimore--MD-_83070",
       "location": "2 Locations"
     },
     "/job/Baltimore-MD/AI-Data-Engineer_81558": {
@@ -4793,6 +4800,18 @@
   "UBS": {},
   "CBRE": {},
   "Carnival Corporation": {
+    "13809": {
+      "title": "Analyst, Entertainment Operations",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13809",
+      "location": "Miami, FL, United States",
+      "country_code": "US"
+    },
+    "13774": {
+      "title": "Analyst, Maritime OT Cyber Safety Compliance",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13774",
+      "location": "Miami, FL, United States",
+      "country_code": "US"
+    },
     "13764": {
       "title": "Analyst, Financial Data",
       "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13764",
@@ -5004,11 +5023,6 @@
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jersey-City/Quantitative-Finance-Analyst_26026466-1",
       "location": "2 Locations"
     },
-    "/job/Dallas/Oil---Gas-Land-and-Title-Analyst--SAM-Associate-II_26026179": {
-      "title": "Oil & Gas Land and Title Analyst/ SAM Associate II",
-      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Dallas/Oil---Gas-Land-and-Title-Analyst--SAM-Associate-II_26026179",
-      "location": "Dallas"
-    },
     "/job/Newark/Sr-Quantitative-Finance-Analyst_26024390-2": {
       "title": "Sr. Quantitative Finance Analyst",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Newark/Sr-Quantitative-Finance-Analyst_26024390-2",
@@ -5124,13 +5138,13 @@
     }
   },
   "Gainwell": {
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Programmer-Analyst-CA-99999/1402119100/": {
-      "title": "Experienced Programmer Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Programmer-Analyst-CA-99999/1402119100/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402168000/": {
       "title": "Operational Analyst - Verint Operations Manager Configuration",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402168000/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Programmer-Analyst-CA-99999/1402119100/": {
+      "title": "Experienced Programmer Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Programmer-Analyst-CA-99999/1402119100/"
     },
     "https://jobs.gainwelltechnologies.com/job/Bangalore-Data-Science-AI-Engineer-KA-560100/1420906900/": {
       "title": "Data Science AI Engineer",
@@ -5139,10 +5153,6 @@
     "https://jobs.gainwelltechnologies.com/job/Bangalore-Lead-Data-Science-AI-Engineer-KA-560100/1420907300/": {
       "title": "Lead Data Science AI Engineer",
       "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Lead-Data-Science-AI-Engineer-KA-560100/1420907300/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Workforce-Management-Senior-Analyst-OH-99999/1408491300/": {
-      "title": "Workforce Management Senior Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Workforce-Management-Senior-Analyst-OH-99999/1408491300/"
     }
   },
   "Happen Bank": {
@@ -5258,6 +5268,38 @@
     "https://jobs.cmacgm-group.com/CNC/job/Singapore-Pricing-Analyst%2C-Intra-Asia/1393618633/": {
       "title": "Pricing Analyst, Intra-Asia",
       "url": "https://jobs.cmacgm-group.com/CNC/job/Singapore-Pricing-Analyst%2C-Intra-Asia/1393618633/"
+    }
+  },
+  "Beyond Finance": {
+    "6129655": {
+      "title": "Business Analytics Associate",
+      "url": "https://job-boards.greenhouse.io/beyondfinance/jobs/6129655",
+      "location": "Chicago, IL"
+    },
+    "6129668": {
+      "title": "Director of Strategy & Analytics",
+      "url": "https://job-boards.greenhouse.io/beyondfinance/jobs/6129668",
+      "location": "Chicago, IL"
+    },
+    "6129669": {
+      "title": "Manager of Marketing Analytics",
+      "url": "https://job-boards.greenhouse.io/beyondfinance/jobs/6129669",
+      "location": "Chicago, IL"
+    },
+    "6129675": {
+      "title": "Manager, Strategy & Analytics",
+      "url": "https://job-boards.greenhouse.io/beyondfinance/jobs/6129675",
+      "location": "Chicago, IL"
+    },
+    "6176019": {
+      "title": "Sr. Analyst, Marketing Analytics",
+      "url": "https://job-boards.greenhouse.io/beyondfinance/jobs/6176019",
+      "location": "Chicago, IL"
+    },
+    "6961066": {
+      "title": "Strategy & Operations Analyst",
+      "url": "https://job-boards.greenhouse.io/beyondfinance/jobs/6961066",
+      "location": "Chicago, IL"
     }
   }
 }
