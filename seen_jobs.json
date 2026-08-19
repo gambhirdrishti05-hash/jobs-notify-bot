@@ -1,9 +1,21 @@
 {
   "JPMorgan Chase": {
+    "210782262": {
+      "title": "Capital Risk Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210782262",
+      "location": "Brooklyn, NY, United States",
+      "country_code": "US"
+    },
     "210780831": {
       "title": "Strategic Financing Solutions \u2013 Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780831",
       "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210755089": {
+      "title": "Credit Support Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210755089",
+      "location": "Plano, TX, United States",
       "country_code": "US"
     },
     "210779705": {
@@ -61,7 +73,7 @@
       "country_code": "US"
     },
     "210781796": {
-      "title": "Data Scientist Data Product Owner - Sr Associate",
+      "title": "Data Scientist - Sr Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781796",
       "location": "Jacksonville, FL, United States",
       "country_code": "US"
@@ -414,6 +426,12 @@
       "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
+    "210777022": {
+      "title": "Credit E-Sales \u2013 Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777022",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
     "210776898": {
       "title": "Investment Banking - Equity Capital Markets, Convertibles \u2013 Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776898",
@@ -744,16 +762,16 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
-    "210763529": {
-      "title": "2027 Asset & Wealth Management Risk Full Time Analyst Program",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763529",
-      "location": "Columbus, OH, United States",
-      "country_code": "US"
-    },
     "210763462": {
       "title": "2027 Global Private Bank Investment Solutions Program (Full-Time Analyst)",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763462",
       "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210763529": {
+      "title": "2027 Asset & Wealth Management Risk Full Time Analyst Program",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763529",
+      "location": "Columbus, OH, United States",
       "country_code": "US"
     },
     "210763905": {
@@ -1264,6 +1282,12 @@
       "title": "Risk Management - Risk Reporting Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210751117",
       "location": "Newark, DE, United States",
+      "country_code": "US"
+    },
+    "210737118": {
+      "title": "Data Engineer II - AWS/PySpark/ETL",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210737118",
+      "location": "OH, United States",
       "country_code": "US"
     },
     "210753309": {
@@ -2997,7 +3021,7 @@
     "10464075": {
       "title": "Senior Financial Analyst, Echo Sales and Marketing",
       "url": "https://www.amazon.jobs/en/jobs/10464075/senior-financial-analyst-echo-sales-and-marketing",
-      "location": "Sunnyvale, California, USA",
+      "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
     "10461970": {
@@ -4488,6 +4512,11 @@
     }
   },
   "Mayer Brown LLP": {
+    "5916": {
+      "title": "Senior Analyst: Quality Control",
+      "url": "https://globalcareers-mayerbrown.icims.com/jobs/5916/senior-analyst%3a-quality-control/job",
+      "location": "Hybrid"
+    },
     "5858": {
       "title": "Senior Analyst: Client Pricing",
       "url": "https://globalcareers-mayerbrown.icims.com/jobs/5858/senior-analyst%3a-client-pricing/job",
@@ -5000,6 +5029,16 @@
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Senior-Private-Credit-Fund-Analyst_26022599",
       "location": "New York"
     },
+    "/job/Jersey-City/Quantitative-Finance-Analyst_26030315": {
+      "title": "Quantitative Finance Analyst",
+      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jersey-City/Quantitative-Finance-Analyst_26030315",
+      "location": "2 Locations"
+    },
+    "/job/Charlotte/Data-Support-Sr-Analyst_26030323": {
+      "title": "Data Support Sr. Analyst",
+      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Data-Support-Sr-Analyst_26030323",
+      "location": "2 Locations"
+    },
     "/job/Jacksonville/Account-Management-Ops-Analyst---Loan-Management-Account-Operations_26029602-2": {
       "title": "Account Management Ops Analyst - Loan Management Account Operations",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jacksonville/Account-Management-Ops-Analyst---Loan-Management-Account-Operations_26029602-2",
@@ -5205,13 +5244,13 @@
     }
   },
   "Gainwell": {
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Programmer-Analyst-CA-99999/1402119100/": {
-      "title": "Experienced Programmer Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Programmer-Analyst-CA-99999/1402119100/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402168000/": {
       "title": "Operational Analyst - Verint Operations Manager Configuration",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402168000/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Programmer-Analyst-CA-99999/1402119100/": {
+      "title": "Experienced Programmer Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Programmer-Analyst-CA-99999/1402119100/"
     },
     "https://jobs.gainwelltechnologies.com/job/Bangalore-Data-Science-AI-Engineer-KA-560100/1420906900/": {
       "title": "Data Science AI Engineer",
@@ -5220,10 +5259,6 @@
     "https://jobs.gainwelltechnologies.com/job/Bangalore-Lead-Data-Science-AI-Engineer-KA-560100/1420907300/": {
       "title": "Lead Data Science AI Engineer",
       "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Lead-Data-Science-AI-Engineer-KA-560100/1420907300/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Workforce-Management-Senior-Analyst-OH-99999/1408491300/": {
-      "title": "Workforce Management Senior Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Workforce-Management-Senior-Analyst-OH-99999/1408491300/"
     }
   },
   "Happen Bank": {
@@ -5291,6 +5326,10 @@
     "https://jobs.cmacgm-group.com/job/Seoul-VIE-Agency-Trade-Analyst-Seoul/1412670433/": {
       "title": "VIE Agency Trade Analyst - Seoul",
       "url": "https://jobs.cmacgm-group.com/job/Seoul-VIE-Agency-Trade-Analyst-Seoul/1412670433/"
+    },
+    "https://jobs.cmacgm-group.com/CEVALogistics/job/Houston-Tx-Security-Operations-Center-Analyst-TX-77001/1428066433/": {
+      "title": "Security Operations Center Analyst",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Houston-Tx-Security-Operations-Center-Analyst-TX-77001/1428066433/"
     },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Marseille-APPRENTICESHIP-Global-Treasury-Analyst/1375842133/": {
       "title": "APPRENTICESHIP - Global Treasury Analyst",
