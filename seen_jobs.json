@@ -330,12 +330,6 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
-    "210771139": {
-      "title": "Solution Analyst III \u2013 ServiceNow",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771139",
-      "location": "San Francisco, CA, United States",
-      "country_code": "US"
-    },
     "210774998": {
       "title": "Credit Risk Management and Analytics Senior Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774998",
@@ -744,16 +738,16 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
-    "210763529": {
-      "title": "2027 Asset & Wealth Management Risk Full Time Analyst Program",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763529",
-      "location": "Columbus, OH, United States",
-      "country_code": "US"
-    },
     "210763462": {
       "title": "2027 Global Private Bank Investment Solutions Program (Full-Time Analyst)",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763462",
       "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210763529": {
+      "title": "2027 Asset & Wealth Management Risk Full Time Analyst Program",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763529",
+      "location": "Columbus, OH, United States",
       "country_code": "US"
     },
     "210763905": {
@@ -5154,6 +5148,14 @@
     }
   },
   "Gainwell": {
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402168000/": {
+      "title": "Operational Analyst - Verint Operations Manager Configuration",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402168000/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Programmer-Analyst-CA-99999/1402119100/": {
+      "title": "Experienced Programmer Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Programmer-Analyst-CA-99999/1402119100/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Bangalore-Data-Science-AI-Engineer-KA-560100/1420906900/": {
       "title": "Data Science AI Engineer",
       "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Data-Science-AI-Engineer-KA-560100/1420906900/"
@@ -5173,10 +5175,6 @@
     "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-Third-Party-Liability-%28TPL%29-TX-99999/1420787800/": {
       "title": "Business Analyst - Third Party Liability (TPL)",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-Third-Party-Liability-%28TPL%29-TX-99999/1420787800/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-Business-Analyst-IN-99999/1420680400/": {
-      "title": "Early Career Business Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-Business-Analyst-IN-99999/1420680400/"
     }
   },
   "Happen Bank": {
