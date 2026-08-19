@@ -6,15 +6,15 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
-    "210747096": {
-      "title": "Corporate Meetings & Events - Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210747096",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
     "210779705": {
       "title": "Investment Banking - Director Advisory Services- Associate/Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779705",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210781072": {
+      "title": "Wealth Management Solutions, Research Analyst - Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781072",
       "location": "New York, NY, United States",
       "country_code": "US"
     },
@@ -63,7 +63,7 @@
     "210781796": {
       "title": "Data Scientist Data Product Owner - Sr Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781796",
-      "location": "FL, United States",
+      "location": "Jacksonville, FL, United States",
       "country_code": "US"
     },
     "210780992": {
@@ -1224,10 +1224,34 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
+    "210748470": {
+      "title": "Risk Management - Strategic Analytics Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210748470",
+      "location": "Wilmington, DE, United States",
+      "country_code": "US"
+    },
+    "210767265": {
+      "title": "Card Data and Analytics Team - Quant Analytics Senior Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767265",
+      "location": "Wilmington, DE, United States",
+      "country_code": "US"
+    },
+    "210776841": {
+      "title": "Vice President, Digital Marketing Analytics",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776841",
+      "location": "Wilmington, DE, United States",
+      "country_code": "US"
+    },
     "210779872": {
       "title": "J. P. Morgan Wealth Management - Vice President, Exposure Management & Risk Analytics",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779872",
       "location": "Chicago, IL, United States",
+      "country_code": "US"
+    },
+    "210779693": {
+      "title": "Advanced Treasury Analytics Markets - Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779693",
+      "location": "NY, United States",
       "country_code": "US"
     },
     "210780362": {
@@ -1239,6 +1263,12 @@
     "210751117": {
       "title": "Risk Management - Risk Reporting Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210751117",
+      "location": "Newark, DE, United States",
+      "country_code": "US"
+    },
+    "210753309": {
+      "title": "Trade Lifecycle Associate I \u2013 Securities Operations Regulatory Reporting",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210753309",
       "location": "Newark, DE, United States",
       "country_code": "US"
     },
@@ -2082,6 +2112,18 @@
     }
   },
   "Amazon": {
+    "10507174": {
+      "title": "Data Engineer II - AMZ10414442",
+      "url": "https://www.amazon.jobs/en/jobs/10507174/data-engineer-ii-amz10414442",
+      "location": "Dallas, Texas, USA",
+      "country_code": "USA"
+    },
+    "10507108": {
+      "title": "Financial Analyst II - AMZ10141608",
+      "url": "https://www.amazon.jobs/en/jobs/10507108/financial-analyst-ii-amz10141608",
+      "location": "Arlington, Virginia, USA",
+      "country_code": "USA"
+    },
     "10506822": {
       "title": "Category Analyst, Category Analytics",
       "url": "https://www.amazon.jobs/en/jobs/10506822/category-analyst-category-analytics",
@@ -3585,6 +3627,26 @@
   },
   "Waters Corporation": {},
   "CVS Health": {
+    "/job/TX---Work-from-home/Medical-Claim-Analyst_R0991869": {
+      "title": "Medical Claim Analyst",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Medical-Claim-Analyst_R0991869",
+      "location": "TX - Work from home"
+    },
+    "/job/IL---Work-from-home/Business-Analytics-Senior-Analyst_R0944313-1": {
+      "title": "Business Analytics Senior Analyst",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Business-Analytics-Senior-Analyst_R0944313-1",
+      "location": "IL - Work from home"
+    },
+    "/job/IL---Northbrook/Senior-Analyst--FP-A---Legislative--Initiatives---Pricing-Integration_R1000832": {
+      "title": "Senior Analyst, FP&A \u2013 Legislative, Initiatives & Pricing Integration",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Northbrook/Senior-Analyst--FP-A---Legislative--Initiatives---Pricing-Integration_R1000832",
+      "location": "50 Locations"
+    },
+    "/job/RI---Cumberland/Senior-Analyst--Corporate-Audit_R1009359": {
+      "title": "Senior Analyst, Corporate Audit",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Cumberland/Senior-Analyst--Corporate-Audit_R1009359",
+      "location": "RI - Cumberland"
+    },
     "/job/OH---Work-from-hom/Senior-Financial-Analyst--Omnicare--Financial-Planning---Analysis-_R1006774": {
       "title": "Senior Financial Analyst, Omnicare (Financial Planning & Analysis)",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OH---Work-from-hom/Senior-Financial-Analyst--Omnicare--Financial-Planning---Analysis-_R1006774",
@@ -4364,6 +4426,11 @@
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Senior-Economic-Analyst--Reston--VA-or-Waltham--MA-HYBRID-role-_R2602807",
       "location": "Reston, VA"
     },
+    "/job/Dallas-TX/Business-Intelligence-Developer--Fabric-_R2601836": {
+      "title": "Business Intelligence Developer (Fabric)",
+      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Dallas-TX/Business-Intelligence-Developer--Fabric-_R2601836",
+      "location": "4 Locations"
+    },
     "/job/Reston-VA/Data-Engineer--Clearance-Required-_R2601816": {
       "title": "Data Engineer (Clearance Required)",
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Data-Engineer--Clearance-Required-_R2601816",
@@ -4680,6 +4747,11 @@
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Applications-Analyst-I_RQ4071746-1",
       "location": "Somerville-MA"
     },
+    "/job/Boston-MA/Data-Analyst-Programmer_RQ4074709": {
+      "title": "Data Analyst/Programmer",
+      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Data-Analyst-Programmer_RQ4074709",
+      "location": "Boston-MA"
+    },
     "/job/Salem-MA/Trauma-data-Analyst_RQ4075240": {
       "title": "Trauma data Analyst",
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Salem-MA/Trauma-data-Analyst_RQ4075240",
@@ -4744,11 +4816,6 @@
       "title": "Financial Analyst I, Center for Comparative Medicine",
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Charlestown-MA/Financial-Analyst-I--Center-for-Comparative-Medicne_RQ4076442",
       "location": "Charlestown-MA"
-    },
-    "/job/Boston-MA/Data-Analyst-Per-Diem-NEUROLOGY-sl_RQ4076553-1": {
-      "title": "Data Analyst Per Diem NEUROLOGY sl",
-      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Data-Analyst-Per-Diem-NEUROLOGY-sl_RQ4076553-1",
-      "location": "Boston-MA"
     },
     "/job/Northampton-MA/Sr-Financial-Analyst--Hybrid----40hrs-Day-Shift_RQ4074249": {
       "title": "Sr. Financial Analyst (Hybrid) - 40hrs/Day Shift",
@@ -5138,13 +5205,13 @@
     }
   },
   "Gainwell": {
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402168000/": {
-      "title": "Operational Analyst - Verint Operations Manager Configuration",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402168000/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Programmer-Analyst-CA-99999/1402119100/": {
       "title": "Experienced Programmer Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Programmer-Analyst-CA-99999/1402119100/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402168000/": {
+      "title": "Operational Analyst - Verint Operations Manager Configuration",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402168000/"
     },
     "https://jobs.gainwelltechnologies.com/job/Bangalore-Data-Science-AI-Engineer-KA-560100/1420906900/": {
       "title": "Data Science AI Engineer",
@@ -5153,6 +5220,10 @@
     "https://jobs.gainwelltechnologies.com/job/Bangalore-Lead-Data-Science-AI-Engineer-KA-560100/1420907300/": {
       "title": "Lead Data Science AI Engineer",
       "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Lead-Data-Science-AI-Engineer-KA-560100/1420907300/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Workforce-Management-Senior-Analyst-OH-99999/1408491300/": {
+      "title": "Workforce Management Senior Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Workforce-Management-Senior-Analyst-OH-99999/1408491300/"
     }
   },
   "Happen Bank": {
@@ -5300,6 +5371,12 @@
       "title": "Strategy & Operations Analyst",
       "url": "https://job-boards.greenhouse.io/beyondfinance/jobs/6961066",
       "location": "Chicago, IL"
+    }
+  },
+  "Cornerstone": {
+    "4410": {
+      "title": "Data Analyst, Economic Consulting (US)",
+      "url": "https://exp-chire.icims.com/jobs/4410/data-analyst%2c-economic-consulting-%28us%29/job"
     }
   }
 }
