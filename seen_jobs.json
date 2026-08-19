@@ -1254,9 +1254,21 @@
       "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
+    "210771301": {
+      "title": "Analytics Solutions Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771301",
+      "location": "Plano, TX, United States",
+      "country_code": "US"
+    },
     "210776841": {
       "title": "Vice President, Digital Marketing Analytics",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776841",
+      "location": "Wilmington, DE, United States",
+      "country_code": "US"
+    },
+    "210774332": {
+      "title": "Quant Analytics Senior Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774332",
       "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
@@ -1294,6 +1306,12 @@
       "title": "Trade Lifecycle Associate I \u2013 Securities Operations Regulatory Reporting",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210753309",
       "location": "Newark, DE, United States",
+      "country_code": "US"
+    },
+    "210767620": {
+      "title": "Lead Software Engineer - Python Quant Data Engineer",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767620",
+      "location": "Jersey City, NJ, United States",
       "country_code": "US"
     },
     "210781614": {
@@ -2089,6 +2107,11 @@
       "url": "https://pjtpartners.wd1.myworkdayjobs.com/Careers/job/New-York/Analyst---Financial-Controller_R0003415",
       "location": "New York"
     },
+    "/job/New-York/Analyst---PJT-Camberview--Governance-_R0003488": {
+      "title": "Analyst - PJT Camberview (Governance)",
+      "url": "https://pjtpartners.wd1.myworkdayjobs.com/Careers/job/New-York/Analyst---PJT-Camberview--Governance-_R0003488",
+      "location": "2 Locations"
+    },
     "/job/New-York/Analyst---Park-Hill-Corporate--DealCloud-_R0003386": {
       "title": "Analyst - PJT Park Hill (Corporate - DealCloud)",
       "url": "https://pjtpartners.wd1.myworkdayjobs.com/Careers/job/New-York/Analyst---Park-Hill-Corporate--DealCloud-_R0003386",
@@ -2136,6 +2159,12 @@
     }
   },
   "Amazon": {
+    "10507431": {
+      "title": "Product Safety Assurance Analyst - Perishables, Product Safety Assurance Team, Worldwide Grocery Stores (WWGS), Whole Foods Market NA",
+      "url": "https://www.amazon.jobs/en/jobs/10507431/product-safety-assurance-analyst-perishables-product-safety-assurance-team-worldwide-grocery-stores-wwgs-whole-foods-market-na",
+      "location": "Austin, Texas, USA",
+      "country_code": "USA"
+    },
     "10507174": {
       "title": "Data Engineer II - AMZ10414442",
       "url": "https://www.amazon.jobs/en/jobs/10507174/data-engineer-ii-amz10414442",
@@ -2176,6 +2205,12 @@
       "title": "Senior Financial Analyst, Amazon Inbound Finance ",
       "url": "https://www.amazon.jobs/en/jobs/10505292/senior-financial-analyst-amazon-inbound-finance",
       "location": "Irving, Texas, USA",
+      "country_code": "USA"
+    },
+    "10507439": {
+      "title": "Senior Financial Analyst, Sustainability Finance",
+      "url": "https://www.amazon.jobs/en/jobs/10507439/senior-financial-analyst-sustainability-finance",
+      "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
     "10505531": {
@@ -2404,6 +2439,12 @@
       "title": "Food Safety Analyst II (Orange County, CA OR San Diego County, CA), Retail Food Safety Team, Worldwide Grocery Stores",
       "url": "https://www.amazon.jobs/en/jobs/10491436/food-safety-analyst-ii-orange-county-ca-or-san-diego-county-ca-retail-food-safety-team-worldwide-grocery-stores",
       "location": "California, USA",
+      "country_code": "USA"
+    },
+    "10507440": {
+      "title": "Senior Financial Analyst, AWS Infra Finance",
+      "url": "https://www.amazon.jobs/en/jobs/10507440/senior-financial-analyst-aws-infra-finance",
+      "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
     "10496562": {
@@ -4171,11 +4212,6 @@
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---New-Haven/Analyst--Patient-Relations_R0978633",
       "location": "CT - New Haven"
     },
-    "/job/CT---New-Britain/Analyst-Patient-Relations_R0970454-1": {
-      "title": "Analyst,Patient Relations",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---New-Britain/Analyst-Patient-Relations_R0970454-1",
-      "location": "CT - New Britain"
-    },
     "/job/IL---Waukegan/Patient-Relations-Analyst_R0950858": {
       "title": "Patient Relations Analyst",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Waukegan/Patient-Relations-Analyst_R0950858",
@@ -4787,7 +4823,7 @@
       "location": "Salem-MA"
     },
     "/job/Somerville-MA/Compensation-Analyst-II_RQ4075469": {
-      "title": "Compensation Analyst II",
+      "title": "Senior Compensation Analyst",
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Compensation-Analyst-II_RQ4075469",
       "location": "Somerville-MA"
     },
@@ -5029,6 +5065,21 @@
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Senior-Private-Credit-Fund-Analyst_26022599",
       "location": "New York"
     },
+    "/job/Jacksonville/Markets-Support-Analyst_26029147-1": {
+      "title": "Markets Support Analyst",
+      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jacksonville/Markets-Support-Analyst_26029147-1",
+      "location": "Jacksonville"
+    },
+    "/job/Charlotte/Quantitative-Finance-Analyst_26030333": {
+      "title": "Quantitative Finance Analyst",
+      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Quantitative-Finance-Analyst_26030333",
+      "location": "3 Locations"
+    },
+    "/job/Charlotte/Quantitative-Finance-Analyst_26030330": {
+      "title": "Quantitative Finance Analyst",
+      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Quantitative-Finance-Analyst_26030330",
+      "location": "3 Locations"
+    },
     "/job/Jersey-City/Quantitative-Finance-Analyst_26030315": {
       "title": "Quantitative Finance Analyst",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jersey-City/Quantitative-Finance-Analyst_26030315",
@@ -5259,6 +5310,10 @@
     "https://jobs.gainwelltechnologies.com/job/Bangalore-Lead-Data-Science-AI-Engineer-KA-560100/1420907300/": {
       "title": "Lead Data Science AI Engineer",
       "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Lead-Data-Science-AI-Engineer-KA-560100/1420907300/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Workforce-Management-Senior-Analyst-OH-99999/1408491300/": {
+      "title": "Workforce Management Senior Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Workforce-Management-Senior-Analyst-OH-99999/1408491300/"
     }
   },
   "Happen Bank": {
