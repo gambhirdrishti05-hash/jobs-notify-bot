@@ -714,12 +714,6 @@
       "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
-    "210763762": {
-      "title": "Global Corporate Banking - Infrastructure - Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763762",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
     "210769735": {
       "title": "Loan Origination Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210769735",
@@ -1240,6 +1234,12 @@
       "title": "Investment Banking - Strategic Investment Group, Infrastructure - Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210626089",
       "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210781478": {
+      "title": "Analytics Solutions Associate - Client Data Management",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781478",
+      "location": "Chicago, IL, United States",
       "country_code": "US"
     },
     "210748470": {
@@ -5295,13 +5295,13 @@
     }
   },
   "Gainwell": {
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402168000/": {
-      "title": "Operational Analyst - Verint Operations Manager Configuration",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402168000/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Programmer-Analyst-CA-99999/1402119100/": {
       "title": "Experienced Programmer Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Programmer-Analyst-CA-99999/1402119100/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402168000/": {
+      "title": "Operational Analyst - Verint Operations Manager Configuration",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402168000/"
     },
     "https://jobs.gainwelltechnologies.com/job/Bangalore-Data-Science-AI-Engineer-KA-560100/1420906900/": {
       "title": "Data Science AI Engineer",
@@ -5310,10 +5310,6 @@
     "https://jobs.gainwelltechnologies.com/job/Bangalore-Lead-Data-Science-AI-Engineer-KA-560100/1420907300/": {
       "title": "Lead Data Science AI Engineer",
       "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Lead-Data-Science-AI-Engineer-KA-560100/1420907300/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Workforce-Management-Senior-Analyst-OH-99999/1408491300/": {
-      "title": "Workforce Management Senior Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Workforce-Management-Senior-Analyst-OH-99999/1408491300/"
     }
   },
   "Happen Bank": {
@@ -5331,6 +5327,11 @@
       "title": "Sr Marketing Automation Analyst",
       "url": "https://lendingclub.wd1.myworkdayjobs.com/external/job/San-Francisco-CA/Sr-Marketing-Automation-Analyst_R0007436",
       "location": "San Francisco, CA"
+    },
+    "/job/San-Francisco-CA/Sr-Compliance-Data-Analyst_R0007455": {
+      "title": "Sr Compliance Data Analyst",
+      "url": "https://lendingclub.wd1.myworkdayjobs.com/external/job/San-Francisco-CA/Sr-Compliance-Data-Analyst_R0007455",
+      "location": "3 Locations"
     },
     "/job/Boston-MA/Banking---Deposits-Data-Analyst_R0007452": {
       "title": "Banking & Deposits Data Analyst",
