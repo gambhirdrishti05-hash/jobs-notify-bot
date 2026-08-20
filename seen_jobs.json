@@ -2759,12 +2759,6 @@
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
-    "10486983": {
-      "title": "Senior Business Intelligence Engineer, WW FBA Central Analytics",
-      "url": "https://www.amazon.jobs/en/jobs/10486983/senior-business-intelligence-engineer-ww-fba-central-analytics",
-      "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
     "10483478": {
       "title": "Senior Financial Analyst, North America Transport Controllership",
       "url": "https://www.amazon.jobs/en/jobs/10483478/senior-financial-analyst-north-america-transport-controllership",
@@ -3224,12 +3218,6 @@
     "10455546": {
       "title": "Business Analyst, Category and Sales Finance - 3P NASBP",
       "url": "https://www.amazon.jobs/en/jobs/10455546/business-analyst-category-and-sales-finance-3p-nasbp",
-      "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
-    "10444001": {
-      "title": "Senior Data Scientist, Alexa For Shopping (Rufus)",
-      "url": "https://www.amazon.jobs/en/jobs/10444001/senior-data-scientist-alexa-for-shopping-rufus",
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
@@ -5283,13 +5271,13 @@
       "title": "Operational Analyst - Verint Operations Manager Configuration",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402339600/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402168000/": {
-      "title": "Operational Analyst - Verint Operations Manager Configuration",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402168000/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Programmer-Analyst-CA-99999/1402119100/": {
       "title": "Experienced Programmer Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Programmer-Analyst-CA-99999/1402119100/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402168000/": {
+      "title": "Operational Analyst - Verint Operations Manager Configuration",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402168000/"
     },
     "https://jobs.gainwelltechnologies.com/job/Bangalore-Data-Science-AI-Engineer-KA-560100/1420906900/": {
       "title": "Data Science AI Engineer",
