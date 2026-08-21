@@ -84,12 +84,6 @@
       "location": "Newark, DE, United States",
       "country_code": "US"
     },
-    "210770297": {
-      "title": "Wealth Management, Multi Asset Private Markets Investments Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770297",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
     "210783292": {
       "title": "Analyst, Data Analytics, Commercial & Investment Bank, Tech Strategy and Execution",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783292",
@@ -1962,12 +1956,6 @@
       "location": "Newark, DE, United States",
       "country_code": "US"
     },
-    "210766324": {
-      "title": "Product Manager, Agentic Treasury-Payments Data & Analytics-Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766324",
-      "location": "Jersey City, NJ, United States",
-      "country_code": "US"
-    },
     "210767047": {
       "title": "Workplace Solutions - Executive Director, Head of Financial Reporting (North America)",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767047",
@@ -2379,6 +2367,12 @@
       "title": "Senior Financial Analyst, WW Ops Finance",
       "url": "https://www.amazon.jobs/en/jobs/10508014/senior-financial-analyst-ww-ops-finance",
       "location": "Bellevue, Washington, USA",
+      "country_code": "USA"
+    },
+    "10509647": {
+      "title": "Sr BIE, ASP Business Intelligence",
+      "url": "https://www.amazon.jobs/en/jobs/10509647/sr-bie-asp-business-intelligence",
+      "location": "Austin, Texas, USA",
       "country_code": "USA"
     },
     "10499284": {
@@ -3443,12 +3437,6 @@
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
-    "10419128": {
-      "title": "Sr Financial Analyst, Ads FP&A, Amazon Advertising Sales Finance",
-      "url": "https://www.amazon.jobs/en/jobs/10419128/sr-financial-analyst-ads-fp-a-amazon-advertising-sales-finance",
-      "location": "New York, New York, USA",
-      "country_code": "USA"
-    },
     "10418905": {
       "title": "Senior Financial Analyst, APM Finance - Stores Verticals",
       "url": "https://www.amazon.jobs/en/jobs/10418905/senior-financial-analyst-apm-finance-stores-verticals",
@@ -3459,12 +3447,6 @@
       "title": "Sr. Financial Analyst, Devices Accessories FP&A",
       "url": "https://www.amazon.jobs/en/jobs/10432939/sr-financial-analyst-devices-accessories-fp-a",
       "location": "Sunnyvale, California, USA",
-      "country_code": "USA"
-    },
-    "10417382": {
-      "title": "Sr. Financial Analyst, Amazon Autos",
-      "url": "https://www.amazon.jobs/en/jobs/10417382/sr-financial-analyst-amazon-autos",
-      "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
     "10421330": {
@@ -5134,12 +5116,6 @@
       "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13218",
       "location": "Miami, FL, United States",
       "country_code": "US"
-    },
-    "12699": {
-      "title": "Senior Manager, Ecommerce Analytics",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/12699",
-      "location": "Miami, FL, United States",
-      "country_code": "US"
     }
   },
   "Bank of America": {
@@ -5387,13 +5363,13 @@
       "title": "Senior or Advisor Business Analyst - Provider+",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-or-Advisor-Business-Analyst-Provider%2B-NC-99999/1421631100/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402168000/": {
-      "title": "Operational Analyst - Verint Operations Manager Configuration",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402168000/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Programmer-Analyst-CA-99999/1402119100/": {
       "title": "Experienced Programmer Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Programmer-Analyst-CA-99999/1402119100/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402168000/": {
+      "title": "Operational Analyst - Verint Operations Manager Configuration",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402168000/"
     }
   },
   "Happen Bank": {
@@ -5501,10 +5477,6 @@
       "title": "Trade Analyst",
       "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Trade-Analyst-VA-23501/1425410533/"
     },
-    "https://jobs.cmacgm-group.com/CNC/job/Singapore-Pricing-Analyst%2C-Intra-Asia/1393618633/": {
-      "title": "Pricing Analyst, Intra-Asia",
-      "url": "https://jobs.cmacgm-group.com/CNC/job/Singapore-Pricing-Analyst%2C-Intra-Asia/1393618633/"
-    },
     "https://jobs.cmacgm-group.com/job/Singapore-Trade-Analyst%2C-Transpacific/1411142733/": {
       "title": "Trade Analyst, Transpacific",
       "url": "https://jobs.cmacgm-group.com/job/Singapore-Trade-Analyst%2C-Transpacific/1411142733/"
@@ -5543,5 +5515,512 @@
     }
   },
   "Cornerstone": {},
-  "CarGurus": {}
+  "CarGurus": {},
+  "State Street": {
+    "/job/Burlington-Massachusetts/Business-Analyst_R-791273": {
+      "title": "Business Analyst",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analyst_R-791273",
+      "location": "Burlington Massachusetts"
+    },
+    "/job/Burlington-Massachusetts/Primary-Systems-Analyst_R-779287-1": {
+      "title": "Primary Systems Analyst",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Primary-Systems-Analyst_R-779287-1",
+      "location": "Burlington Massachusetts"
+    },
+    "/job/Burlington-Massachusetts/Senior-Business-Analyst_R-783214": {
+      "title": "Senior Business Analyst",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Senior-Business-Analyst_R-783214",
+      "location": "Burlington Massachusetts"
+    },
+    "/job/Boston-Massachusetts/Systems-Operations---Admin--Sr-Associate_R-789840": {
+      "title": "Systems Analyst, Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Systems-Operations---Admin--Sr-Associate_R-789840",
+      "location": "2 Locations"
+    },
+    "/job/Austin-Texas/Systems-Analyst--Officer_R-790190-1": {
+      "title": "Systems Analyst, Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Austin-Texas/Systems-Analyst--Officer_R-790190-1",
+      "location": "Austin, Texas"
+    },
+    "/job/Quincy-Massachusetts/Cyber-Product-Analyst_R-790592": {
+      "title": "Cyber Product Analyst",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Cyber-Product-Analyst_R-790592",
+      "location": "Quincy, Massachusetts"
+    },
+    "/job/Burlington-Massachusetts/Systems-Analyst--AVP_R-792361": {
+      "title": "Systems Analyst, AVP",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Systems-Analyst--AVP_R-792361",
+      "location": "Burlington Massachusetts"
+    },
+    "/job/Sydney-Australia/FIX-Analyst--AVP_R-792800": {
+      "title": "FIX Analyst, AVP",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sydney-Australia/FIX-Analyst--AVP_R-792800",
+      "location": "2 Locations"
+    },
+    "/job/Burlington-Massachusetts/Business-Analyst--AVP_R-784953": {
+      "title": "Business Analyst, AVP",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analyst--AVP_R-784953",
+      "location": "Burlington Massachusetts"
+    },
+    "/job/Burlington-Massachusetts/Business-Analyst--AVP_R-794893": {
+      "title": "Business Analyst, AVP",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analyst--AVP_R-794893",
+      "location": "Burlington Massachusetts"
+    },
+    "/job/Gdansk-Poland/PMO-Analyst--Officer_R-793670": {
+      "title": "PMO Analyst, Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/PMO-Analyst--Officer_R-793670",
+      "location": "3 Locations"
+    },
+    "/job/Krakow-Poland/PMO-Analyst--Officer_R-793672": {
+      "title": "PMO Analyst, Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/PMO-Analyst--Officer_R-793672",
+      "location": "3 Locations"
+    },
+    "/job/Quincy-Massachusetts/Threat-Assurance-Analyst_R-795239": {
+      "title": "Threat Assurance Analyst",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Threat-Assurance-Analyst_R-795239",
+      "location": "Quincy, Massachusetts"
+    },
+    "/job/Burlington-Massachusetts/Senior-Business-Analyst_R-794985": {
+      "title": "Senior Business Analyst",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Senior-Business-Analyst_R-794985",
+      "location": "Burlington Massachusetts"
+    },
+    "/job/Burlington-Massachusetts/Primary-System-Analyst--Off_R-785357": {
+      "title": "Primary System Analyst, Off",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Primary-System-Analyst--Off_R-785357",
+      "location": "Burlington Massachusetts"
+    },
+    "/job/Burlington-Massachusetts/Primary-System-Analyst--Off_R-785353": {
+      "title": "Primary System Analyst, Off",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Primary-System-Analyst--Off_R-785353",
+      "location": "Burlington Massachusetts"
+    },
+    "/job/Quincy-Massachusetts/Cyber-Threat-Intelligence-Analyst_R-793440": {
+      "title": "Cyber Threat Intelligence Analyst",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Cyber-Threat-Intelligence-Analyst_R-793440",
+      "location": "Quincy, Massachusetts"
+    },
+    "/job/Boston-Massachusetts/Compensation-Analyst--Sr-Associate_R-794801-4": {
+      "title": "Compensation Analyst, Sr. Associate",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Compensation-Analyst--Sr-Associate_R-794801-4",
+      "location": "Boston, Massachusetts"
+    },
+    "/job/BOSTON/Technical-Business-Analyst--Officer_R-794000": {
+      "title": "Technical Business Analyst, Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/BOSTON/Technical-Business-Analyst--Officer_R-794000",
+      "location": "3 Locations"
+    },
+    "/job/Quincy-Massachusetts/Cryptographic-Agility-Surveillance-Analyst_R-795244-1": {
+      "title": "Cryptographic Agility Surveillance Analyst",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Cryptographic-Agility-Surveillance-Analyst_R-795244-1",
+      "location": "6 Locations"
+    },
+    "/job/Burlington-Massachusetts/Primary-System-Analyst--Off_R-794570": {
+      "title": "Primary System Analyst, Off",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Primary-System-Analyst--Off_R-794570",
+      "location": "Burlington Massachusetts"
+    },
+    "/job/Burlington-Massachusetts/Primary-Systems-Analyst--Off_R-795662": {
+      "title": "Primary Systems Analyst, Off",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Primary-Systems-Analyst--Off_R-795662",
+      "location": "Burlington Massachusetts"
+    },
+    "/job/Quincy-Massachusetts/Technical-Business-Analyst-AVP_R-791484-1": {
+      "title": "Technical Business Analyst,AVP",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Technical-Business-Analyst-AVP_R-791484-1",
+      "location": "Quincy, Massachusetts"
+    },
+    "/job/Burlington-Massachusetts/Primary-System-Analyst--Off-1_R-785355": {
+      "title": "Primary System Analyst, Off-1",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Primary-System-Analyst--Off-1_R-785355",
+      "location": "Burlington Massachusetts"
+    },
+    "/job/Quincy-Massachusetts/Alpha---Mapping-Lead--Vice-President_R-786592": {
+      "title": "Lead Business Analyst, Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Alpha---Mapping-Lead--Vice-President_R-786592",
+      "location": "3 Locations"
+    },
+    "/job/Boston-Massachusetts/Markets-Capital-Optimization-Analyst--Officer_R-788670": {
+      "title": "Markets Capital Optimization Analyst, Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Markets-Capital-Optimization-Analyst--Officer_R-788670",
+      "location": "Boston, Massachusetts"
+    },
+    "/job/Irvine-California/Business-Analyst---Project-Manager--Officer_R-791677": {
+      "title": "Business Analyst / Project Manager, Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Business-Analyst---Project-Manager--Officer_R-791677",
+      "location": "Irvine, California"
+    },
+    "/job/Clifton-New-Jersey/Quantitative-Analyst--Assistant-Vice-President_R-790888-1": {
+      "title": "Quantitative Analyst, Assistant Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/Quantitative-Analyst--Assistant-Vice-President_R-790888-1",
+      "location": "Clifton, New Jersey"
+    },
+    "/job/Cambridge-Massachusetts/Machine-Learning-Quantitative-Research-Analyst_R-793399": {
+      "title": "Machine Learning Quantitative Research Analyst",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/Machine-Learning-Quantitative-Research-Analyst_R-793399",
+      "location": "Cambridge, Massachusetts"
+    },
+    "/job/Quincy-Massachusetts/Account-Service-Implementation-Analyst--Officer_R-793986": {
+      "title": "Account Service Implementation Analyst, Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Account-Service-Implementation-Analyst--Officer_R-793986",
+      "location": "Quincy, Massachusetts"
+    },
+    "/job/Boston-Massachusetts/IT-Business-Analyst-Product-Owner_R-795109-1": {
+      "title": "IT Business Analyst/Product Owner",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/IT-Business-Analyst-Product-Owner_R-795109-1",
+      "location": "Boston, Massachusetts"
+    },
+    "/job/OSLPUN-CWTOP456-9/Investment-Performance-Analyst--Associate-2_R-794159": {
+      "title": "Investment Performance Analyst, Associate 2",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/OSLPUN-CWTOP456-9/Investment-Performance-Analyst--Associate-2_R-794159",
+      "location": "OSL/PUN-CWTOP456-9"
+    },
+    "/job/Gdansk-Poland/Senior-Depositary-Analyst---Associate-2_R-795562-1": {
+      "title": "Senior Depositary Analyst , Associate 2",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Senior-Depositary-Analyst---Associate-2_R-795562-1",
+      "location": "2 Locations"
+    },
+    "/job/Boston-Massachusetts/GlobalLink---Product-Business-Analyst---AVP_R-795827-1": {
+      "title": "GlobalLink - Product/Business Analyst - AVP",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/GlobalLink---Product-Business-Analyst---AVP_R-795827-1",
+      "location": "Boston, Massachusetts"
+    },
+    "/job/Burlington-Massachusetts/Business-Analyst-EDM-and-Data-Warhouse-2_R-783215": {
+      "title": "Business Analyst \u2013 Data Integration and ETL\u00a0",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analyst-EDM-and-Data-Warhouse-2_R-783215",
+      "location": "Burlington Massachusetts"
+    },
+    "/job/Boston-Massachusetts/People-Analytics-Analyst--Assistant-Vice-President_R-789294-3": {
+      "title": "People Analytics Analyst, Assistant Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/People-Analytics-Analyst--Assistant-Vice-President_R-789294-3",
+      "location": "Boston, Massachusetts"
+    },
+    "/job/Burlington-Massachusetts/Sr-SaaS-Onboarding-Technical-Analyst--AVP--_R-786596-1": {
+      "title": "Sr. SaaS Onboarding Technical Analyst, AVP \u00a0",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Sr-SaaS-Onboarding-Technical-Analyst--AVP--_R-786596-1",
+      "location": "Burlington Massachusetts"
+    },
+    "/job/Quincy-Massachusetts/Alpha-Account-Services-Data-Analyst--Officer_R-793988": {
+      "title": "Alpha Account Services Data Analyst, Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Alpha-Account-Services-Data-Analyst--Officer_R-793988",
+      "location": "Quincy, Massachusetts"
+    },
+    "/job/Gdansk-Poland/Business-Analyst--hybrid--Officer_R-794962": {
+      "title": "Business Analyst - Server Framework, hybrid, Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Business-Analyst--hybrid--Officer_R-794962",
+      "location": "2 Locations"
+    },
+    "/job/Krakow-Poland/PMO-Senior-Analyst--Assistant-Vice-President_R-793673-1": {
+      "title": "PMO Senior Analyst, Assistant Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/PMO-Senior-Analyst--Assistant-Vice-President_R-793673-1",
+      "location": "3 Locations"
+    },
+    "/job/Quincy-Massachusetts/Threat-Intelligence-Data---Engineering-TIDE--Analyst_R-794884": {
+      "title": "Threat Intelligence Data & Engineering(TIDE) Analyst",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Threat-Intelligence-Data---Engineering-TIDE--Analyst_R-794884",
+      "location": "Quincy, Massachusetts"
+    },
+    "/job/Krakow-Poland/Alpha-Account-Services-Data-Analyst--Officer_R-795253": {
+      "title": "Alpha Account Services Data Analyst, Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Alpha-Account-Services-Data-Analyst--Officer_R-795253",
+      "location": "2 Locations"
+    },
+    "/job/Gdansk-Poland/Alpha-Account-Services-Data-Analyst--Officer_R-795339": {
+      "title": "Alpha Account Services Data Analyst, Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Alpha-Account-Services-Data-Analyst--Officer_R-795339",
+      "location": "2 Locations"
+    },
+    "/job/Stamford/AML-Technology-Data-Analyst---Vice-President_R-795418": {
+      "title": "AML Technology Data Analyst \u2013 Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Stamford/AML-Technology-Data-Analyst---Vice-President_R-795418",
+      "location": "Stamford"
+    },
+    "/job/Irvine-California/Senior-Business-Systems-Analyst--Vice-President_R-795750": {
+      "title": "Senior Business Systems Analyst, Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Senior-Business-Systems-Analyst--Vice-President_R-795750",
+      "location": "Irvine, California"
+    },
+    "/job/Gdansk-Poland/Alpha-Account-Services-Data-Analyst--Officer_R-796023-1": {
+      "title": "Alpha Account Services Data Analyst, Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Alpha-Account-Services-Data-Analyst--Officer_R-796023-1",
+      "location": "2 Locations"
+    },
+    "/job/Princeton-New-Jersey/Alternative-Investments-Business-Transformation-Business-Analyst--Officer_R-785364": {
+      "title": "Alternative Investments Business Transformation Business Analyst, Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Princeton-New-Jersey/Alternative-Investments-Business-Transformation-Business-Analyst--Officer_R-785364",
+      "location": "Princeton, New Jersey"
+    },
+    "/job/Quincy-Massachusetts/Technology-Application-Support-Analyst--Vice-President_R-790089": {
+      "title": "Technology Application Support Analyst, Assistant Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Technology-Application-Support-Analyst--Vice-President_R-790089",
+      "location": "Quincy, Massachusetts"
+    },
+    "/job/Quincy-Massachusetts/Transaction-Management-Implementation-Analyst--Assistant-Vice-President_R-791225": {
+      "title": "Transaction Management Implementation Analyst, Assistant Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Transaction-Management-Implementation-Analyst--Assistant-Vice-President_R-791225",
+      "location": "Quincy, Massachusetts"
+    },
+    "/job/London-England/Solutions-Engineer--AVP_R-790904": {
+      "title": "New Business Solutions Analyst, Assistant Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Solutions-Engineer--AVP_R-790904",
+      "location": "2 Locations"
+    },
+    "/job/Irvine-California/Middle-Office-Project-Manager-Business-Analyst--Officer_R-791678": {
+      "title": "Middle Office Project Manager/Business Analyst, Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Middle-Office-Project-Manager-Business-Analyst--Officer_R-791678",
+      "location": "Irvine, California"
+    },
+    "/job/Irvine-California/Middle-Office-Project-Manager-Business-Analyst--Officer_R-791679": {
+      "title": "Middle Office Project Manager/Business Analyst, Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Middle-Office-Project-Manager-Business-Analyst--Officer_R-791679",
+      "location": "2 Locations"
+    },
+    "/job/Irvine-California/Middle-Office-Project-Manager-Business-Analyst--Officer_R-791680": {
+      "title": "Middle Office Project Manager/Business Analyst, Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Middle-Office-Project-Manager-Business-Analyst--Officer_R-791680",
+      "location": "2 Locations"
+    },
+    "/job/Burlington-Massachusetts/AI-Platform-SME--AVP_R-792291-1": {
+      "title": "AI Product Business Analyst - AI Enablement, AVP",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/AI-Platform-SME--AVP_R-792291-1",
+      "location": "Burlington Massachusetts"
+    },
+    "/job/Boston-Massachusetts/AML-Analyst--Officer---State-Street-Investment-Management_R-792365": {
+      "title": "AML Analyst, Officer - State Street Investment Management",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/AML-Analyst--Officer---State-Street-Investment-Management_R-792365",
+      "location": "Boston, Massachusetts"
+    },
+    "/job/Boston-Massachusetts/Alternative-Investments-Business-Transformation-Business-Analyst--Officer_R-780186-1": {
+      "title": "Alternative Investments Business Transformation Business Analyst, Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Alternative-Investments-Business-Transformation-Business-Analyst--Officer_R-780186-1",
+      "location": "4 Locations"
+    },
+    "/job/Krakow-Poland/Organization-Change-Management-Analyst--Assistant-Vice-President_R-794303": {
+      "title": "Organization Change Management Analyst, Assistant Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Organization-Change-Management-Analyst--Assistant-Vice-President_R-794303",
+      "location": "2 Locations"
+    },
+    "/job/Boston-Massachusetts/Front-Office-Credit-Risk-Analyst--Officer--Onsite-_R-795291": {
+      "title": "Front Office Credit Risk Analyst, Officer (Onsite)",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Front-Office-Credit-Risk-Analyst--Officer--Onsite-_R-795291",
+      "location": "Boston, Massachusetts"
+    },
+    "/job/Boston-Massachusetts/FP-A-Analyst--Assistant-Vice-President--SSIM_R-795955-1": {
+      "title": "FP&A Analyst, Assistant Vice President, SSIM",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/FP-A-Analyst--Assistant-Vice-President--SSIM_R-795955-1",
+      "location": "Boston, Massachusetts"
+    },
+    "/job/Quincy-Massachusetts/Alternatives-Business-Transformation-Business-Analyst--Assistant-Vice-President_R-786297": {
+      "title": "Alternatives Business Transformation Business Analyst, Assistant Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Alternatives-Business-Transformation-Business-Analyst--Assistant-Vice-President_R-786297",
+      "location": "Quincy, Massachusetts"
+    },
+    "/job/Quincy-Massachusetts/Alternatives-Business-Transformation-Business-Analyst--Assistant-Vice-President_R-786299": {
+      "title": "Alternatives Business Transformation Business Analyst, Assistant Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Alternatives-Business-Transformation-Business-Analyst--Assistant-Vice-President_R-786299",
+      "location": "Quincy, Massachusetts"
+    },
+    "/job/Quincy-Massachusetts/Alternatives-Business-Transformation-Business-Analyst--Assistant-Vice-President_R-786296": {
+      "title": "Alternatives Business Transformation Business Analyst, Assistant Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Alternatives-Business-Transformation-Business-Analyst--Assistant-Vice-President_R-786296",
+      "location": "Quincy, Massachusetts"
+    },
+    "/job/Quincy-Massachusetts/Alternatives-Business-Transformation-Business-Analyst--Assistant-Vice-President_R-786298-1": {
+      "title": "Alternatives Business Transformation Business Analyst, Assistant Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Alternatives-Business-Transformation-Business-Analyst--Assistant-Vice-President_R-786298-1",
+      "location": "Quincy, Massachusetts"
+    },
+    "/job/Quincy-Massachusetts/Client-implementation-Analyst--Alpha-Performance--Assistant-Vice-President_R-792639": {
+      "title": "Client implementation Analyst, Alpha Performance, Assistant Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Client-implementation-Analyst--Alpha-Performance--Assistant-Vice-President_R-792639",
+      "location": "Quincy, Massachusetts"
+    },
+    "/job/Boston-Massachusetts/T26-9082--IT-Business-Analysis--VP_R-792377": {
+      "title": "Sr. Compliance Tech. Business Analyst, Vice President, Onsite",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/T26-9082--IT-Business-Analysis--VP_R-792377",
+      "location": "Boston, Massachusetts"
+    },
+    "/job/Gdansk-Poland/Account-Services-Implementation-Analyst-and-Project-Manager--Officer_R-795337": {
+      "title": "Account Services Implementation Analyst and Project Manager, Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Account-Services-Implementation-Analyst-and-Project-Manager--Officer_R-795337",
+      "location": "2 Locations"
+    },
+    "/job/Gdansk-Poland/Account-Services-Implementation-Analyst-and-Project-Manager--Officer_R-796024-1": {
+      "title": "Account Services Implementation Analyst and Project Manager, Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Account-Services-Implementation-Analyst-and-Project-Manager--Officer_R-796024-1",
+      "location": "2 Locations"
+    },
+    "/job/Burlington-Massachusetts/Client-implementation-Analyst--Alpha-Performance--Assistant-Vice-President_R-796198": {
+      "title": "Client implementation Analyst, Alpha Performance, Assistant Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Client-implementation-Analyst--Alpha-Performance--Assistant-Vice-President_R-796198",
+      "location": "Burlington Massachusetts"
+    },
+    "/job/Boston-Massachusetts/Quantitative-Risk-Analyst--Model-Risk-Management--Assistant-Vice-President_R-791161": {
+      "title": "Quantitative Risk Analyst, Model Risk Management, Assistant Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Quantitative-Risk-Analyst--Model-Risk-Management--Assistant-Vice-President_R-791161",
+      "location": "Boston, Massachusetts"
+    },
+    "/job/Burlington-Massachusetts/Alpha-Data-Services--Senior-Implementation-Business-Analyst--Vice-President_R-792919": {
+      "title": "Alpha Data Services, Senior Implementation Business Analyst, Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Alpha-Data-Services--Senior-Implementation-Business-Analyst--Vice-President_R-792919",
+      "location": "Burlington Massachusetts"
+    },
+    "/job/Quincy-Massachusetts/Senior-Business-Analyst--AVP-II---State-Street-Investment-Management_R-794219": {
+      "title": "Senior Business Analyst, AVP II - State Street Investment Management",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Senior-Business-Analyst--AVP-II---State-Street-Investment-Management_R-794219",
+      "location": "Quincy, Massachusetts"
+    },
+    "/job/Boston-Massachusetts/North-America-Sales-Analyst--Officer---State-Street-Investment-Management_R-794458": {
+      "title": "North America Sales Analyst, Officer \u2013 State Street Investment Management",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/North-America-Sales-Analyst--Officer---State-Street-Investment-Management_R-794458",
+      "location": "Boston, Massachusetts"
+    },
+    "/job/Gdansk-Poland/Senior-Business-Analyst--hybrid--Assistant-Vice-President_R-794967": {
+      "title": "Senior Business Analyst - Server Framework, hybrid, Assistant Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Senior-Business-Analyst--hybrid--Assistant-Vice-President_R-794967",
+      "location": "2 Locations"
+    },
+    "/job/Gdansk-Poland/Senior-Business-Analyst---Application-Services--hybrid--Assistant-Vice-President_R-794966": {
+      "title": "Senior Business Analyst - Application Services, hybrid, Assistant Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Senior-Business-Analyst---Application-Services--hybrid--Assistant-Vice-President_R-794966",
+      "location": "2 Locations"
+    },
+    "/job/Boston-Massachusetts/Securities-Finance-Front-Office-Market-Risk-Analyst--Vice-Presidentnalyst_R-796386": {
+      "title": "Securities Finance Front Office Market Risk Analyst, Vice Presidentnalyst",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Securities-Finance-Front-Office-Market-Risk-Analyst--Vice-Presidentnalyst_R-796386",
+      "location": "2 Locations"
+    },
+    "/job/Boston-Massachusetts/North-America-Sales-Analyst--Senior-Associate---State-Street-Investment-Management_R-794770-5": {
+      "title": "North America Sales Analyst, Senior Associate \u2013 State Street Investment Management",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/North-America-Sales-Analyst--Senior-Associate---State-Street-Investment-Management_R-794770-5",
+      "location": "Boston, Massachusetts"
+    },
+    "/job/Boston-Massachusetts/North-America-Strategic-Insights-Analyst--VP---State-Street-Investment-Management_R-795428": {
+      "title": "North America Strategic Insights Analyst, VP - State Street Investment Management",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/North-America-Strategic-Insights-Analyst--VP---State-Street-Investment-Management_R-795428",
+      "location": "2 Locations"
+    },
+    "/job/Dallas/Wealth-Strategy-Analyst---Product-Management--Officer--Wealth-Custody-and-Clearing-_R-795658": {
+      "title": "Wealth Strategy Analyst & Product Management, Officer (Wealth Custody and Clearing)",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Dallas/Wealth-Strategy-Analyst---Product-Management--Officer--Wealth-Custody-and-Clearing-_R-795658",
+      "location": "Dallas"
+    },
+    "/job/Boston-Massachusetts/Control-Framework-Business-Analyst---Alpha-Data-Services--Assistant-Vice-President_R-796304": {
+      "title": "Control Framework Business Analyst - Alpha Data Services, Assistant Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Control-Framework-Business-Analyst---Alpha-Data-Services--Assistant-Vice-President_R-796304",
+      "location": "Boston, Massachusetts"
+    },
+    "/job/Boston-Massachusetts/Front-Office-Market-Risk-Analyst--Prime-Services-and-Broker-Dealer---Vice-President_R-793857": {
+      "title": "Front Office Market Risk Analyst (Prime Services and Broker Dealer), Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Front-Office-Market-Risk-Analyst--Prime-Services-and-Broker-Dealer---Vice-President_R-793857",
+      "location": "Boston, Massachusetts"
+    },
+    "/job/Quincy-Massachusetts/Performance-Analytics-Product-Development--AVP_R-790885": {
+      "title": "Performance Analytics Product Development, AVP",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Performance-Analytics-Product-Development--AVP_R-790885",
+      "location": "2 Locations"
+    },
+    "/job/Quincy-Massachusetts/GCS--Data-Scientist--AVP_R-794430": {
+      "title": "GCS, Data Scientist, AVP",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/GCS--Data-Scientist--AVP_R-794430",
+      "location": "Quincy, Massachusetts"
+    },
+    "/job/Quincy-Massachusetts/Data-Engineer-Senior-Developer--AVP_R-794904": {
+      "title": "Data Engineer Senior Developer, AVP",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Data-Engineer-Senior-Developer--AVP_R-794904",
+      "location": "2 Locations"
+    },
+    "/job/Boston-Massachusetts/Software-Engineering-Lead---Financial-Data-Engineering--VP---State-Street-Investment-Management_R-788709": {
+      "title": "Software Engineering Lead \u2013 Investment Analytics, VP - State Street Investment Management",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Software-Engineering-Lead---Financial-Data-Engineering--VP---State-Street-Investment-Management_R-788709",
+      "location": "2 Locations"
+    },
+    "/job/Quincy-Massachusetts/Data-Engineer--Officer---State-Street-Investment-Management_R-795510-1": {
+      "title": "Data Engineer, Officer - State Street Investment Management",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Data-Engineer--Officer---State-Street-Investment-Management_R-795510-1",
+      "location": "Quincy, Massachusetts"
+    },
+    "/job/Boston-Massachusetts/Data-Analytics---Management--AVP_R-788153": {
+      "title": "Data Analytics & Management, AVP",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Data-Analytics---Management--AVP_R-788153",
+      "location": "Boston, Massachusetts"
+    },
+    "/job/Boston-Massachusetts/Data-Analytics---Management--VP_R-788152": {
+      "title": "Data Analytics & Management, VP",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Data-Analytics---Management--VP_R-788152",
+      "location": "Boston, Massachusetts"
+    },
+    "/job/BOSTON/Officer---Revenue-Analytics_R-794892-5": {
+      "title": "Officer - Revenue Analytics",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/BOSTON/Officer---Revenue-Analytics_R-794892-5",
+      "location": "BOSTON"
+    },
+    "/job/Boston-Massachusetts/Legal-Data-Engineering--Assistant-Vice-President_R-795799-5": {
+      "title": "Legal Data Engineering, Assistant Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Legal-Data-Engineering--Assistant-Vice-President_R-795799-5",
+      "location": "Boston, Massachusetts"
+    },
+    "/job/Boston-Massachusetts/Cloud-Data-Engineer--AVP_R-795586": {
+      "title": "Cloud Data Engineer, AVP",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Cloud-Data-Engineer--AVP_R-795586",
+      "location": "Boston, Massachusetts"
+    },
+    "/job/Cambridge-Massachusetts/AI-and-Trading-Analytics-Researcher--AVP_R-795656-1": {
+      "title": "AI and Trading Analytics Researcher, AVP",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/AI-and-Trading-Analytics-Researcher--AVP_R-795656-1",
+      "location": "Cambridge, Massachusetts"
+    },
+    "/job/New-York-New-York/Liquidity-Methodology-and-Analytics--AVP_R-795078": {
+      "title": "Liquidity Methodology and Analytics, AVP",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/New-York-New-York/Liquidity-Methodology-and-Analytics--AVP_R-795078",
+      "location": "New York, New York"
+    },
+    "/job/Burlington-Massachusetts/Product-Manager---Analytics--AI-Private-Markets_R-786885": {
+      "title": "Product Manager - Analytics, AI Private Markets",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Product-Manager---Analytics--AI-Private-Markets_R-786885",
+      "location": "Burlington Massachusetts"
+    },
+    "/job/Kilkenny/Financial-Reporting--Assistant-Vice-President_R-788507": {
+      "title": "Financial Reporting, Assistant Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kilkenny/Financial-Reporting--Assistant-Vice-President_R-788507",
+      "location": "Kilkenny"
+    },
+    "/job/Krakow-Poland/Senior-Risk-Analytics-Products-Developer--Assistant-Vice-President-of-Non-Financial-Risk-Analytics---NFR---hybrid--Krakow-Gdansk_R-791338": {
+      "title": "Senior Risk Analytics Products Developer, Assistant Vice President of Non Financial Risk Analytics, (NFR), hybrid, Krakow/Gdansk",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Senior-Risk-Analytics-Products-Developer--Assistant-Vice-President-of-Non-Financial-Risk-Analytics---NFR---hybrid--Krakow-Gdansk_R-791338",
+      "location": "2 Locations"
+    },
+    "/job/Boston-Massachusetts/Data-Analytics_R-794351": {
+      "title": "Data Analytics",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Data-Analytics_R-794351",
+      "location": "Boston, Massachusetts"
+    },
+    "/job/Quincy-Massachusetts/SIEM-Data-Engineer_R-794331": {
+      "title": "SIEM Data Engineer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/SIEM-Data-Engineer_R-794331",
+      "location": "Quincy, Massachusetts"
+    },
+    "/job/Quincy-Massachusetts/Senior-SIEM-Data-Engineer_R-794334-1": {
+      "title": "Senior SIEM Data Engineer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Senior-SIEM-Data-Engineer_R-794334-1",
+      "location": "Quincy, Massachusetts"
+    },
+    "/job/Quincy-Massachusetts/Sr-Databricks-Data-Engineer--Vice-President--Hybrid_R-789490-1": {
+      "title": "Sr. Databricks Data Engineer, Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Sr-Databricks-Data-Engineer--Vice-President--Hybrid_R-789490-1",
+      "location": "2 Locations"
+    },
+    "/job/Boston-Massachusetts/Global-Head-of-Insight-Generation-and-AI-Adoption--MD---State-Street-Investment-Management_R-792525": {
+      "title": "Global Head of Insight Generation and AI Adoption, MD - State Street Investment Management",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Global-Head-of-Insight-Generation-and-AI-Adoption--MD---State-Street-Investment-Management_R-792525",
+      "location": "Boston, Massachusetts"
+    },
+    "/job/Quincy-Massachusetts/Data-Engineering-and-Development-VP_R-796205-1": {
+      "title": "Data Engineering and Development VP",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Data-Engineering-and-Development-VP_R-796205-1",
+      "location": "Quincy, Massachusetts"
+    }
+  }
 }
