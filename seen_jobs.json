@@ -2975,12 +2975,6 @@
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
-    "10477449": {
-      "title": "Data Engineer II, GTPC Tech, Compliance & Assurance, AWS Security",
-      "url": "https://www.amazon.jobs/en/jobs/10477449/data-engineer-ii-gtpc-tech-compliance-assurance-aws-security",
-      "location": "New York, New York, USA",
-      "country_code": "USA"
-    },
     "10472951": {
       "title": "Business Analyst, Global Network Delivery",
       "url": "https://www.amazon.jobs/en/jobs/10472951/business-analyst-global-network-delivery",
@@ -3675,6 +3669,12 @@
       "title": "Business Analyst , Worldwide Grocery Stores (WWGS)",
       "url": "https://www.amazon.jobs/en/jobs/10376337/business-analyst-worldwide-grocery-stores-wwgs",
       "location": "New York, New York, USA",
+      "country_code": "USA"
+    },
+    "3188436": {
+      "title": "Senior Finance Analyst, NA Amazon Logistics Field Finance UTR Execution",
+      "url": "https://www.amazon.jobs/en/jobs/3188436/senior-finance-analyst-na-amazon-logistics-field-finance-utr-execution",
+      "location": "Nashville, Tennessee, USA",
       "country_code": "USA"
     },
     "3187319": {
@@ -5294,6 +5294,10 @@
     }
   },
   "Gainwell": {
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Analyst-Remote-AR-99999/1412088100/": {
+      "title": "Provider Enrollment Analyst - Remote",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Analyst-Remote-AR-99999/1412088100/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Quality-Assurance-Analyst-AR-%28Remote%29-AR-99999/1412097000/": {
       "title": "Provider Enrollment Quality Assurance Analyst - AR (Remote)",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Quality-Assurance-Analyst-AR-%28Remote%29-AR-99999/1412097000/"
@@ -5302,13 +5306,13 @@
       "title": "Experienced Data Science AI Engineer",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Data-Science-AI-Engineer-TX-99999/1394079400/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Analyst-Remote-AR-99999/1412088100/": {
-      "title": "Provider Enrollment Analyst - Remote",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Analyst-Remote-AR-99999/1412088100/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402339600/": {
       "title": "Operational Analyst - Verint Operations Manager Configuration",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402339600/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-or-Advisor-Business-Analyst-Provider%2B-NC-99999/1421631100/": {
+      "title": "Senior or Advisor Business Analyst - Provider+",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-or-Advisor-Business-Analyst-Provider%2B-NC-99999/1421631100/"
     }
   },
   "Happen Bank": {
