@@ -1,5 +1,11 @@
 {
   "JPMorgan Chase": {
+    "210745261": {
+      "title": "US Equity Research - Retailing - Hardlines/Broadlines - Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745261",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
     "210782319": {
       "title": "Banker Analyst - Commercial & Specialized Industries - Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210782319",
@@ -1326,6 +1332,12 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
+    "210770599": {
+      "title": "Vice President Product Delivery Manager - Data Analytics Platform",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770599",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
     "210781614": {
       "title": "Liquidity & Account Solutions -  Business Intelligence & Analytics Program Manager- Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781614",
@@ -1342,12 +1354,6 @@
       "title": "Marketing Analytics Vice President Card Data Analytics",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210782775",
       "location": "Wilmington, DE, United States",
-      "country_code": "US"
-    },
-    "210780609": {
-      "title": "Product Manager, Vice President - Consumer & Community Banking Data & Analytics",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780609",
-      "location": "Plano, TX, United States",
       "country_code": "US"
     },
     "210777512": {
@@ -1468,12 +1474,6 @@
       "title": "Data Scientist-Senior Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776596",
       "location": "Plano, TX, United States",
-      "country_code": "US"
-    },
-    "210772012": {
-      "title": "Lead Data Engineer - Snowflake/Python/AWS",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772012",
-      "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
     "210727002": {
@@ -5366,10 +5366,6 @@
     "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Programmer-Analyst-CA-99999/1402119100/": {
       "title": "Experienced Programmer Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Programmer-Analyst-CA-99999/1402119100/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402168000/": {
-      "title": "Operational Analyst - Verint Operations Manager Configuration",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402168000/"
     }
   },
   "Happen Bank": {
