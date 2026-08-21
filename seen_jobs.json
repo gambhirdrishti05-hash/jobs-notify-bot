@@ -1386,6 +1386,18 @@
       "location": "Chicago, IL, United States",
       "country_code": "US"
     },
+    "210783668": {
+      "title": "Data Scientist Lead-Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783668",
+      "location": "Columbus, OH, United States",
+      "country_code": "US"
+    },
+    "210782113": {
+      "title": "Data Scientist Lead-Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210782113",
+      "location": "Jacksonville, FL, United States",
+      "country_code": "US"
+    },
     "210783274": {
       "title": "AI Data Scientist Lead",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783274",
@@ -1396,6 +1408,12 @@
       "title": "AI Data Scientist - Senior Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783299",
       "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210769357": {
+      "title": "Data Engineer III",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210769357",
+      "location": "Plano, TX, United States",
       "country_code": "US"
     },
     "210778981": {
@@ -1992,12 +2010,6 @@
       "location": "Jersey City, NJ, United States",
       "country_code": "US"
     },
-    "210764694": {
-      "title": "Card Analytics Data Scientist Lead-Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764694",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
     "210774710": {
       "title": "Lead Software Engineer - Data Engineer and Applied AI",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774710",
@@ -2008,6 +2020,12 @@
       "title": "ESG Controller Sustainable Financing Reporting Lead - Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210705264",
       "location": "Newark, DE, United States",
+      "country_code": "US"
+    },
+    "210764694": {
+      "title": "Card Analytics Data Scientist Lead-Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764694",
+      "location": "New York, NY, United States",
       "country_code": "US"
     },
     "210761341": {
@@ -3771,14 +3789,14 @@
   "Waters Corporation": {},
   "CVS Health": {
     "/job/NY---New-York/Data-Analyst_R0993501-1": {
-      "title": "Data Analyst",
+      "title": "Data Science Analyst",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Analyst_R0993501-1",
       "location": "NY - New York"
     },
-    "/job/WI---Work-from-home/Financial-Operations-Analyst_R0980367-1": {
-      "title": "Financial Operations Analyst",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/WI---Work-from-home/Financial-Operations-Analyst_R0980367-1",
-      "location": "49 Locations"
+    "/job/TX---Work-from-home/Analyst-FP-A_R1008470": {
+      "title": "Analyst,FP&A",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Analyst-FP-A_R1008470",
+      "location": "TX - Work from home"
     },
     "/job/CT---Hartford/Senior-Manager--Business-Analytics_R1016963": {
       "title": "Senior Manager, Business Analytics",
@@ -4813,21 +4831,41 @@
     }
   },
   "Garver": {
+    "https://garverusa.com/careers/jobdescription/Enterprise%20Solutions/Arkansas/Fayetteville/Business%20Analytics%20Manager/?gnk=job&gni=8a78859e9fd3bb2501a02654ac423137&d=detail": {
+      "title": "Business Analytics Manager",
+      "url": "https://garverusa.com/careers/jobdescription/Enterprise%20Solutions/Arkansas/Fayetteville/Business%20Analytics%20Manager/?gnk=job&gni=8a78859e9fd3bb2501a02654ac423137&d=detail"
+    },
     "https://garverusa.com/careers/jobdescription/Enterprise%20Solutions/Arkansas/Fayetteville/Business%20Intelligence%20Analyst/?gnk=job&gni=8a78879e9fd3ba5c01a01035addd7007&d=detail": {
       "title": "Business Intelligence Analyst",
       "url": "https://garverusa.com/careers/jobdescription/Enterprise%20Solutions/Arkansas/Fayetteville/Business%20Intelligence%20Analyst/?gnk=job&gni=8a78879e9fd3ba5c01a01035addd7007&d=detail"
+    },
+    "https://garverusa.com/careers/jobdescription/Enterprise%20Solutions/Arkansas/North%20Little%20Rock/Business%20Analytics%20Manager/?gnk=job&gni=8a78859e9fd3bb2501a02656bf923185&d=detail": {
+      "title": "Business Analytics Manager",
+      "url": "https://garverusa.com/careers/jobdescription/Enterprise%20Solutions/Arkansas/North%20Little%20Rock/Business%20Analytics%20Manager/?gnk=job&gni=8a78859e9fd3bb2501a02656bf923185&d=detail"
     },
     "https://garverusa.com/careers/jobdescription/Enterprise%20Solutions/Arkansas/North%20Little%20Rock/Business%20Intelligence%20Analyst/?gnk=job&gni=8a78879e9fd3ba5c01a0103688f77095&d=detail": {
       "title": "Business Intelligence Analyst",
       "url": "https://garverusa.com/careers/jobdescription/Enterprise%20Solutions/Arkansas/North%20Little%20Rock/Business%20Intelligence%20Analyst/?gnk=job&gni=8a78879e9fd3ba5c01a0103688f77095&d=detail"
     },
+    "https://garverusa.com/careers/jobdescription/Enterprise%20Solutions/Texas/Austin/Business%20Analytics%20Manager/?gnk=job&gni=8a78859e9fd3bb2501a02655a9783167&d=detail": {
+      "title": "Business Analytics Manager",
+      "url": "https://garverusa.com/careers/jobdescription/Enterprise%20Solutions/Texas/Austin/Business%20Analytics%20Manager/?gnk=job&gni=8a78859e9fd3bb2501a02655a9783167&d=detail"
+    },
     "https://garverusa.com/careers/jobdescription/Enterprise%20Solutions/Texas/Austin/Business%20Intelligence%20Analyst/?gnk=job&gni=8a78879e9fd3ba5c01a0103271f16e45&d=detail": {
       "title": "Business Intelligence Analyst",
       "url": "https://garverusa.com/careers/jobdescription/Enterprise%20Solutions/Texas/Austin/Business%20Intelligence%20Analyst/?gnk=job&gni=8a78879e9fd3ba5c01a0103271f16e45&d=detail"
     },
+    "https://garverusa.com/careers/jobdescription/Enterprise%20Solutions/Texas/Frisco/Business%20Analytics%20Manager/?gnk=job&gni=8a78859e9fd3bb2501a0265397bb3102&d=detail": {
+      "title": "Business Analytics Manager",
+      "url": "https://garverusa.com/careers/jobdescription/Enterprise%20Solutions/Texas/Frisco/Business%20Analytics%20Manager/?gnk=job&gni=8a78859e9fd3bb2501a0265397bb3102&d=detail"
+    },
     "https://garverusa.com/careers/jobdescription/Enterprise%20Solutions/Texas/Frisco/Business%20Intelligence%20Analyst/?gnk=job&gni=8a78879e9fd3ba5c01a010343cd46f42&d=detail": {
       "title": "Business Intelligence Analyst",
       "url": "https://garverusa.com/careers/jobdescription/Enterprise%20Solutions/Texas/Frisco/Business%20Intelligence%20Analyst/?gnk=job&gni=8a78879e9fd3ba5c01a010343cd46f42&d=detail"
+    },
+    "https://garverusa.com/careers/jobdescription/Enterprise%20Solutions/Texas/Round%20Rock/Business%20Analytics%20Manager/?gnk=job&gni=8a78859e9fd3bb2501a0265603c13178&d=detail": {
+      "title": "Business Analytics Manager",
+      "url": "https://garverusa.com/careers/jobdescription/Enterprise%20Solutions/Texas/Round%20Rock/Business%20Analytics%20Manager/?gnk=job&gni=8a78859e9fd3bb2501a0265603c13178&d=detail"
     },
     "https://garverusa.com/careers/jobdescription/Enterprise%20Solutions/Texas/Round%20Rock/Business%20Intelligence%20Analyst/?gnk=job&gni=8a7887a19fd3ba9001a0105b3e2b346e&d=detail": {
       "title": "Business Intelligence Analyst",
@@ -5108,6 +5146,11 @@
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Senior-Private-Credit-Fund-Analyst_26022599",
       "location": "New York"
     },
+    "/job/Jacksonville/GEAR-Information-Management-Analyst_26030007": {
+      "title": "GEAR Information Management Analyst",
+      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jacksonville/GEAR-Information-Management-Analyst_26030007",
+      "location": "Jacksonville"
+    },
     "/job/Jersey-City/Sr-Quantitative-Finance-Analyst_26030455": {
       "title": "Sr. Quantitative Finance Analyst",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jersey-City/Sr-Quantitative-Finance-Analyst_26030455",
@@ -5182,11 +5225,6 @@
       "title": "Risk Process Analyst",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Risk-Process-Analyst_26027282",
       "location": "9 Locations"
-    },
-    "/job/Charlotte/Malware-Defense-Web-Analyst--Delivery-_26026406": {
-      "title": "Malware Defense Web Analyst (Delivery)",
-      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Malware-Defense-Web-Analyst--Delivery-_26026406",
-      "location": "3 Locations"
     },
     "/job/Denver/Malware-Defense-Endpoint-Analyst-and-Incident-Response_26025821": {
       "title": "Malware Defense Endpoint Analyst and Incident Response",
@@ -5333,13 +5371,17 @@
       "title": "Provider Enrollment Quality Assurance Analyst - AR (Remote)",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Quality-Assurance-Analyst-AR-%28Remote%29-AR-99999/1412097000/"
     },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Data-Science-AI-Engineer-TX-99999/1394079400/": {
+      "title": "Experienced Data Science AI Engineer",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Data-Science-AI-Engineer-TX-99999/1394079400/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Analyst-Remote-AR-99999/1412088100/": {
       "title": "Provider Enrollment Analyst - Remote",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Analyst-Remote-AR-99999/1412088100/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Data-Science-AI-Engineer-TX-99999/1394079400/": {
-      "title": "Experienced Data Science AI Engineer",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Data-Science-AI-Engineer-TX-99999/1394079400/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Manager%2C-Healthcare-Data-Integration-and-Analytics-TX-99999/1422120600/": {
+      "title": "Senior Manager, Healthcare Data Integration and Analytics",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Manager%2C-Healthcare-Data-Integration-and-Analytics-TX-99999/1422120600/"
     }
   },
   "Happen Bank": {
@@ -5852,11 +5894,6 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Senior-Business-Analyst---Application-Services--hybrid--Assistant-Vice-President_R-794966",
       "location": "2 Locations"
     },
-    "/job/Boston-Massachusetts/Securities-Finance-Front-Office-Market-Risk-Analyst--Vice-Presidentnalyst_R-796386": {
-      "title": "Securities Finance Front Office Market Risk Analyst, Vice Presidentnalyst",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Securities-Finance-Front-Office-Market-Risk-Analyst--Vice-Presidentnalyst_R-796386",
-      "location": "2 Locations"
-    },
     "/job/Boston-Massachusetts/North-America-Sales-Analyst--Senior-Associate---State-Street-Investment-Management_R-794770-5": {
       "title": "North America Sales Analyst, Senior Associate \u2013 State Street Investment Management",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/North-America-Sales-Analyst--Senior-Associate---State-Street-Investment-Management_R-794770-5",
@@ -6105,10 +6142,5 @@
       "location": "2 Locations"
     }
   },
-  "Deloitte": {
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Delivery-Senior-Consultant-Data-Engineering-and-Conversion-Solutions/363870": {
-      "title": "Delivery Senior Consultant, Data Engineering and Conversion Solutions",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Delivery-Senior-Consultant-Data-Engineering-and-Conversion-Solutions/363870"
-    }
-  }
+  "Deloitte": {}
 }
