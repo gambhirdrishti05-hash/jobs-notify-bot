@@ -1326,6 +1326,12 @@
       "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
+    "210774454": {
+      "title": "Focused Analytics Solutions Team Program (USA)",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774454",
+      "location": "Columbus, OH, United States",
+      "country_code": "US"
+    },
     "210781987": {
       "title": "Quant Analytics Associate Senior - Regulatory Operations",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781987",
@@ -1354,6 +1360,12 @@
       "title": "Data Scientist Senior Associate \u2014 Business Observability & AI Platform",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781042",
       "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
+    "210780362": {
+      "title": "Product Manager \u2013 Personalization & Customer Insights (ML Product Portfolio)",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780362",
+      "location": "New York, NY, United States",
       "country_code": "US"
     },
     "210778981": {
@@ -1974,12 +1986,6 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
-    "210764047": {
-      "title": "Strategic Analytics Senior Associate, Acquisitions Risk",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764047",
-      "location": "Wilmington, DE, United States",
-      "country_code": "US"
-    },
     "210774710": {
       "title": "Lead Software Engineer - Data Engineer and Applied AI",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774710",
@@ -2062,6 +2068,12 @@
       "title": "Treasury Research & Analytics, Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210701592",
       "location": "Chicago, IL, United States",
+      "country_code": "US"
+    },
+    "210764047": {
+      "title": "Strategic Analytics Senior Associate, Acquisitions Risk",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764047",
+      "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
     "210765627": {
@@ -2271,6 +2283,12 @@
       "title": "Financial Analyst II - AMZ10141608",
       "url": "https://www.amazon.jobs/en/jobs/10507108/financial-analyst-ii-amz10141608",
       "location": "Arlington, Virginia, USA",
+      "country_code": "USA"
+    },
+    "10510059": {
+      "title": "AWSI Operations Analyst , AWSI Business Operations:  FaaST",
+      "url": "https://www.amazon.jobs/en/jobs/10510059/awsi-operations-analyst-awsi-business-operations-faast",
+      "location": "New York, New York, USA",
       "country_code": "USA"
     },
     "10506822": {
@@ -3734,6 +3752,11 @@
   },
   "Waters Corporation": {},
   "CVS Health": {
+    "/job/Hartford-Farmington-Ave-Rogers/Senior-Analyst--Underwriter_R0998638": {
+      "title": "Senior Analyst, Underwriter",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Hartford-Farmington-Ave-Rogers/Senior-Analyst--Underwriter_R0998638",
+      "location": "4 Locations"
+    },
     "/job/NJ---Lumberton/Operational-Excellence-Analyst_R1011575-1": {
       "title": "Operational Excellence Analyst",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---Lumberton/Operational-Excellence-Analyst_R1011575-1",
@@ -3903,11 +3926,6 @@
       "title": "Sr. Data Engineer",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Sr-Data-Engineer_R1011834",
       "location": "TX - Irving"
-    },
-    "/job/Hartford-Farmington-Ave-Rogers/Senior-Analyst--Underwriter_R0998638": {
-      "title": "Senior Analyst, Underwriter",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Hartford-Farmington-Ave-Rogers/Senior-Analyst--Underwriter_R0998638",
-      "location": "4 Locations"
     },
     "/job/CT---Hartford/Manager--Medical-Economics_R0887022-1": {
       "title": "Medical Economics Analyst",
@@ -5298,10 +5316,6 @@
     }
   },
   "Gainwell": {
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Analyst-Remote-AR-99999/1412088100/": {
-      "title": "Provider Enrollment Analyst - Remote",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Analyst-Remote-AR-99999/1412088100/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Quality-Assurance-Analyst-AR-%28Remote%29-AR-99999/1412097000/": {
       "title": "Provider Enrollment Quality Assurance Analyst - AR (Remote)",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Quality-Assurance-Analyst-AR-%28Remote%29-AR-99999/1412097000/"
@@ -5310,13 +5324,13 @@
       "title": "Experienced Data Science AI Engineer",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Data-Science-AI-Engineer-TX-99999/1394079400/"
     },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Analyst-Remote-AR-99999/1412088100/": {
+      "title": "Provider Enrollment Analyst - Remote",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Analyst-Remote-AR-99999/1412088100/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402339600/": {
       "title": "Operational Analyst - Verint Operations Manager Configuration",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402339600/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-or-Advisor-Business-Analyst-Provider%2B-NC-99999/1421631100/": {
-      "title": "Senior or Advisor Business Analyst - Provider+",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-or-Advisor-Business-Analyst-Provider%2B-NC-99999/1421631100/"
     }
   },
   "Happen Bank": {
@@ -5973,6 +5987,24 @@
       "title": "Data Engineering and Development VP",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Data-Engineering-and-Development-VP_R-796205-1",
       "location": "Quincy, Massachusetts"
+    }
+  },
+  "Capital One": {
+    "https://www.capitalonecareers.com/job/mclean/senior-associate-data-science/1732/98837480848": {
+      "title": "9883748084808/06/2026Senior Associate, Data ScienceMcLean, VA",
+      "url": "https://www.capitalonecareers.com/job/mclean/senior-associate-data-science/1732/98837480848"
+    },
+    "https://www.capitalonecareers.com/job/mclean/investment-banking-analyst-kippsdesanto-2027/1732/99533575792": {
+      "title": "9953357579208/21/2026Investment Banking Analyst - KippsDeSanto - 2027McLean, VA",
+      "url": "https://www.capitalonecareers.com/job/mclean/investment-banking-analyst-kippsdesanto-2027/1732/99533575792"
+    },
+    "https://www.capitalonecareers.com/job/chicago/manager-data-scientist-data-solutions-and-modeling/1732/99533575488": {
+      "title": "9953357548808/21/2026Manager, Data Scientist, Data Solutions and ModelingChicago, IL",
+      "url": "https://www.capitalonecareers.com/job/chicago/manager-data-scientist-data-solutions-and-modeling/1732/99533575488"
+    },
+    "https://www.capitalonecareers.com/job/mclean/senior-associate-data-science/1732/98837480256": {
+      "title": "9883748025608/06/2026Senior Associate, Data ScienceMcLean, VA",
+      "url": "https://www.capitalonecareers.com/job/mclean/senior-associate-data-science/1732/98837480256"
     }
   }
 }
