@@ -12,6 +12,12 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
+    "210783755": {
+      "title": "Marketing Copy Review Analyst - Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783755",
+      "location": "Wilmington, DE, United States",
+      "country_code": "US"
+    },
     "210781137": {
       "title": "Data Scientist, Senior Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781137",
@@ -1356,6 +1362,12 @@
       "location": "Jersey City, NJ, United States",
       "country_code": "US"
     },
+    "210776598": {
+      "title": "Data Scientist Lead - Customer Analytics",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776598",
+      "location": "OH, United States",
+      "country_code": "US"
+    },
     "210781042": {
       "title": "Data Scientist Senior Associate \u2014 Business Observability & AI Platform",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781042",
@@ -1986,12 +1998,6 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
-    "210764047": {
-      "title": "Strategic Analytics Senior Associate, Acquisitions Risk",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764047",
-      "location": "Wilmington, DE, United States",
-      "country_code": "US"
-    },
     "210774710": {
       "title": "Lead Software Engineer - Data Engineer and Applied AI",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774710",
@@ -2074,6 +2080,12 @@
       "title": "Treasury Research & Analytics, Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210701592",
       "location": "Chicago, IL, United States",
+      "country_code": "US"
+    },
+    "210764047": {
+      "title": "Strategic Analytics Senior Associate, Acquisitions Risk",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764047",
+      "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
     "210765627": {
@@ -2267,6 +2279,18 @@
     }
   },
   "Amazon": {
+    "10510534": {
+      "title": "UAT Automation Analyst, Amazon Web Services",
+      "url": "https://www.amazon.jobs/en/jobs/10510534/uat-automation-analyst-amazon-web-services",
+      "location": "Arlington, Virginia, USA",
+      "country_code": "USA"
+    },
+    "10510524": {
+      "title": "UAT Automation Analyst, Amazon Web Services",
+      "url": "https://www.amazon.jobs/en/jobs/10510524/uat-automation-analyst-amazon-web-services",
+      "location": "Arlington, Virginia, USA",
+      "country_code": "USA"
+    },
     "10507431": {
       "title": "Product Safety Assurance Analyst - Perishables, Product Safety Assurance Team, Worldwide Grocery Stores (WWGS), Whole Foods Market NA",
       "url": "https://www.amazon.jobs/en/jobs/10507431/product-safety-assurance-analyst-perishables-product-safety-assurance-team-worldwide-grocery-stores-wwgs-whole-foods-market-na",
@@ -2864,12 +2888,6 @@
     "10478761": {
       "title": "Protective Intel Analyst, GRIS Protective Intel",
       "url": "https://www.amazon.jobs/en/jobs/10478761/protective-intel-analyst-gris-protective-intel",
-      "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
-    "10479201": {
-      "title": "Protective Intel Analyst, GRIS Protective Intel",
-      "url": "https://www.amazon.jobs/en/jobs/10479201/protective-intel-analyst-gris-protective-intel",
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
@@ -4011,11 +4029,6 @@
       "title": "Senior Analyst, Corporate Audit",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Cumberland/Senior-Analyst--Corporate-Audit_R1004059",
       "location": "RI - Cumberland"
-    },
-    "/job/Work-At-Home-Ohio/Senior-Analyst--Application-Developer_R0965167": {
-      "title": "Senior Analyst, Application Developer",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Ohio/Senior-Analyst--Application-Developer_R0965167",
-      "location": "Work At Home-Ohio"
     },
     "/job/Field-Florida/Bilingual-Case-Management-Analyst---Field-in-Miami-Dade-County--FL_R0980347": {
       "title": "Bilingual Case Management Analyst - Field in Miami-Dade County, FL",
@@ -5316,21 +5329,17 @@
     }
   },
   "Gainwell": {
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Data-Science-AI-Engineer-TX-99999/1394079400/": {
-      "title": "Experienced Data Science AI Engineer",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Data-Science-AI-Engineer-TX-99999/1394079400/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Quality-Assurance-Analyst-AR-%28Remote%29-AR-99999/1412097000/": {
+      "title": "Provider Enrollment Quality Assurance Analyst - AR (Remote)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Quality-Assurance-Analyst-AR-%28Remote%29-AR-99999/1412097000/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Analyst-Remote-AR-99999/1412088100/": {
       "title": "Provider Enrollment Analyst - Remote",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Analyst-Remote-AR-99999/1412088100/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Quality-Assurance-Analyst-AR-%28Remote%29-AR-99999/1412097000/": {
-      "title": "Provider Enrollment Quality Assurance Analyst - AR (Remote)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Quality-Assurance-Analyst-AR-%28Remote%29-AR-99999/1412097000/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402339600/": {
-      "title": "Operational Analyst - Verint Operations Manager Configuration",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402339600/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Data-Science-AI-Engineer-TX-99999/1394079400/": {
+      "title": "Experienced Data Science AI Engineer",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Data-Science-AI-Engineer-TX-99999/1394079400/"
     }
   },
   "Happen Bank": {
@@ -5632,11 +5641,6 @@
       "title": "IT Business Analyst/Product Owner",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/IT-Business-Analyst-Product-Owner_R-795109-1",
       "location": "Boston, Massachusetts"
-    },
-    "/job/OSLPUN-CWTOP456-9/Investment-Performance-Analyst--Associate-2_R-794159": {
-      "title": "Investment Performance Analyst, Associate 2",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/OSLPUN-CWTOP456-9/Investment-Performance-Analyst--Associate-2_R-794159",
-      "location": "OSL/PUN-CWTOP456-9"
     },
     "/job/Gdansk-Poland/Senior-Depositary-Analyst---Associate-2_R-795562-1": {
       "title": "Senior Depositary Analyst , Associate 2",
@@ -5995,16 +5999,26 @@
     }
   },
   "Capital One": {
+    "https://www.capitalonecareers.com/job/mclean/sr-business-analyst-bank-internal-fraud-defense/1732/99544269136": {
+      "title": "9954426913608/21/2026Sr. Business Analyst - Bank Internal Fraud DefenseMcLean, VA",
+      "url": "https://www.capitalonecareers.com/job/mclean/sr-business-analyst-bank-internal-fraud-defense/1732/99544269136"
+    },
     "https://www.capitalonecareers.com/job/mclean/manager-data-scientist-travel-intelligence-hotels/1732/95857653664": {
       "title": "9585765366406/01/2026Manager, Data Scientist, Travel Intelligence, HotelsMcLean, VA",
       "url": "https://www.capitalonecareers.com/job/mclean/manager-data-scientist-travel-intelligence-hotels/1732/95857653664"
-    },
-    "https://www.capitalonecareers.com/job/chicago/sr-business-analyst-network-business-enablement-strategy-and-transformation-team/1732/99543046144": {
-      "title": "9954304614408/21/2026Sr. Business Analyst, Network Business Enablement Strategy and Transformation TeamChicago, IL",
-      "url": "https://www.capitalonecareers.com/job/chicago/sr-business-analyst-network-business-enablement-strategy-and-transformation-team/1732/99543046144"
     }
   },
   "BMO": {
+    "/job/New-York-NY-USA/Analyst--Investment-Banking--Power--Utilities-and-Infrastructure-_R260024688": {
+      "title": "Analyst, Investment Banking (Power, Utilities and Infrastructure)",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/New-York-NY-USA/Analyst--Investment-Banking--Power--Utilities-and-Infrastructure-_R260024688",
+      "location": "New York, NY, USA"
+    },
+    "/job/Madison-WI-USA/Client-Service-Analyst_R260021733": {
+      "title": "Client Service Analyst",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Madison-WI-USA/Client-Service-Analyst_R260021733",
+      "location": "Madison, WI, USA"
+    },
     "/job/Halifax-NS-CAN/AI-Transformation-Analyst----Commercial-Banking-_R260021231-1": {
       "title": "AI Transformation Analyst, Commercial Banking (New or Recent Graduate)",
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Halifax-NS-CAN/AI-Transformation-Analyst----Commercial-Banking-_R260021231-1",
@@ -6040,11 +6054,6 @@
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Analyst--Lending-Quality-Review---Bilingual-_R260023556-1",
       "location": "11 Locations"
     },
-    "/job/Chicago-IL-USA/Sr-Financial-Analyst_R260023725-1": {
-      "title": "Sr. Financial Analyst",
-      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Sr-Financial-Analyst_R260023725-1",
-      "location": "Chicago, IL, USA"
-    },
     "/job/Hinsdale-IL-USA/Client-Service-Analyst_R260017186": {
       "title": "Client Service Analyst",
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Hinsdale-IL-USA/Client-Service-Analyst_R260017186",
@@ -6075,11 +6084,6 @@
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/REMOTETELETRAVAIL-ON-CAN/Client-Services-Insights---Reporting-Analyst--Global-Asset-Management_R260021482",
       "location": "REMOTE/TELETRAVAIL, ON, CAN"
     },
-    "/job/Madison-WI-USA/Client-Service-Analyst_R260021733": {
-      "title": "Client Service Analyst",
-      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Madison-WI-USA/Client-Service-Analyst_R260021733",
-      "location": "Madison, WI, USA"
-    },
     "/job/Chicago-IL-USA/Financial-Analyst_R260016795": {
       "title": "Commercial Financial Analyst",
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Financial-Analyst_R260016795",
@@ -6099,6 +6103,12 @@
       "title": "Manager, Data & Analytics",
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Manager--Data---Analytics_R260011354",
       "location": "2 Locations"
+    }
+  },
+  "Deloitte": {
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Delivery-Senior-Consultant-Data-Engineering-and-Conversion-Solutions/363870": {
+      "title": "Delivery Senior Consultant, Data Engineering and Conversion Solutions",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Delivery-Senior-Consultant-Data-Engineering-and-Conversion-Solutions/363870"
     }
   }
 }
