@@ -1332,6 +1332,12 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
+    "210781987": {
+      "title": "Quant Analytics Associate Senior - Regulatory Operations",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781987",
+      "location": "Columbus, OH, United States",
+      "country_code": "US"
+    },
     "210770599": {
       "title": "Vice President Product Delivery Manager - Data Analytics Platform",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770599",
@@ -4307,6 +4313,11 @@
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-WA-Camas/Senior-Analyst--Manufacturing-IT_R264756",
       "location": "US, WA, Camas"
     },
+    "/job/US-MA-Wilmington/Associate-Supply-Chain-Analyst_R265318": {
+      "title": "Associate Supply Chain Analyst",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Supply-Chain-Analyst_R265318",
+      "location": "US, MA, Wilmington"
+    },
     "/job/US-MA-Wilmington/Senior-Analyst--Supply-Chain-Planning_R262673": {
       "title": "Senior Analyst, Supply Chain Planning",
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Senior-Analyst--Supply-Chain-Planning_R262673",
@@ -5298,21 +5309,17 @@
       "title": "Provider Enrollment Analyst - Remote",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Analyst-Remote-AR-99999/1412088100/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Quality-Assurance-Analyst-AR-%28Remote%29-AR-99999/1412097000/": {
-      "title": "Provider Enrollment Quality Assurance Analyst - AR (Remote)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Quality-Assurance-Analyst-AR-%28Remote%29-AR-99999/1412097000/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Data-Science-AI-Engineer-TX-99999/1394079400/": {
       "title": "Experienced Data Science AI Engineer",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Data-Science-AI-Engineer-TX-99999/1394079400/"
     },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Quality-Assurance-Analyst-AR-%28Remote%29-AR-99999/1412097000/": {
+      "title": "Provider Enrollment Quality Assurance Analyst - AR (Remote)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Quality-Assurance-Analyst-AR-%28Remote%29-AR-99999/1412097000/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402339600/": {
       "title": "Operational Analyst - Verint Operations Manager Configuration",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Operational-Analyst-Verint-Operations-Manager-Configuration-TX-99999/1402339600/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-or-Advisor-Business-Analyst-Provider%2B-NC-99999/1421631100/": {
-      "title": "Senior or Advisor Business Analyst - Provider+",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-or-Advisor-Business-Analyst-Provider%2B-NC-99999/1421631100/"
     }
   },
   "Happen Bank": {
@@ -5419,6 +5426,10 @@
     "https://jobs.cmacgm-group.com/job/Norfolk-Va-Trade-Analyst-VA-23501/1425410533/": {
       "title": "Trade Analyst",
       "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Trade-Analyst-VA-23501/1425410533/"
+    },
+    "https://jobs.cmacgm-group.com/job/Singapore-Trade-Analyst%2C-Transpacific/1411142733/": {
+      "title": "Trade Analyst, Transpacific",
+      "url": "https://jobs.cmacgm-group.com/job/Singapore-Trade-Analyst%2C-Transpacific/1411142733/"
     }
   },
   "Beyond Finance": {
@@ -5925,6 +5936,11 @@
       "title": "Financial Reporting, Assistant Vice President",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kilkenny/Financial-Reporting--Assistant-Vice-President_R-788507",
       "location": "Kilkenny"
+    },
+    "/job/Quincy-Massachusetts/Financial-Reporting--Officer_R-796356": {
+      "title": "Financial Reporting, Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Financial-Reporting--Officer_R-796356",
+      "location": "Quincy, Massachusetts"
     },
     "/job/Krakow-Poland/Senior-Risk-Analytics-Products-Developer--Assistant-Vice-President-of-Non-Financial-Risk-Analytics---NFR---hybrid--Krakow-Gdansk_R-791338": {
       "title": "Senior Risk Analytics Products Developer, Assistant Vice President of Non Financial Risk Analytics, (NFR), hybrid, Krakow/Gdansk",
