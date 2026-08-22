@@ -4737,6 +4737,11 @@
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Sr-Analyst--Investment-Compliance---NA-Monitoring_82986",
       "location": "Baltimore, MD"
     },
+    "/job/Washington-DC/Lead-Data-Analyst--Investment-Data-Strategy--Washington-DC-or-Baltimore--MD-_83070": {
+      "title": "Lead Data Analyst\u2013 Investment Data Strategy (Washington DC or Baltimore, MD)",
+      "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Washington-DC/Lead-Data-Analyst--Investment-Data-Strategy--Washington-DC-or-Baltimore--MD-_83070",
+      "location": "2 Locations"
+    },
     "/job/Owings-Mills-MD/Senior-Infrastructure-Operations-Analyst---Identity-Access-Management_80824": {
       "title": "Senior Infrastructure Operations Analyst \u2013 Identity Access Management",
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Owings-Mills-MD/Senior-Infrastructure-Operations-Analyst---Identity-Access-Management_80824",
@@ -4767,6 +4772,11 @@
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Analyst--Middle-Office_81670-1",
       "location": "Baltimore, MD"
     },
+    "/job/Baltimore-MD/Senior-Business-Analyst---Investment-Data-Strategy_82743": {
+      "title": "Senior Data Analyst- Investment Data Strategy (Baltimore, MD or Washington DC)",
+      "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Senior-Business-Analyst---Investment-Data-Strategy_82743",
+      "location": "2 Locations"
+    },
     "/job/Owings-Mills-MD/Sr-Analyst--Regulatory-Advisory-Compliance--Fraud-and-AML-_81407": {
       "title": "Sr. Analyst, Regulatory Advisory Compliance (Fraud and AML)",
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Owings-Mills-MD/Sr-Analyst--Regulatory-Advisory-Compliance--Fraud-and-AML-_81407",
@@ -4782,20 +4792,10 @@
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Senior-Portfolio-Investment-Analyst---Multi-Asset-and-ETFs_82995",
       "location": "Baltimore, MD"
     },
-    "/job/Washington-DC/Lead-Data-Analyst--Investment-Data-Strategy--Washington-DC-or-Baltimore--MD-_83070": {
-      "title": "Lead Data Analyst\u2013 Investment Data Strategy (Washington DC or Baltimore, MD)",
-      "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Washington-DC/Lead-Data-Analyst--Investment-Data-Strategy--Washington-DC-or-Baltimore--MD-_83070",
-      "location": "2 Locations"
-    },
     "/job/Baltimore-MD/Lead-Analyst--Middle-Office-Distribution-and-Funding--Private-Assets-Change-Management-_82044": {
       "title": "Lead Analyst, Middle Office Distribution and Funding (Private Assets Change Management)",
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Lead-Analyst--Middle-Office-Distribution-and-Funding--Private-Assets-Change-Management-_82044",
       "location": "Baltimore, MD"
-    },
-    "/job/Baltimore-MD/Senior-Business-Analyst---Investment-Data-Strategy_82743": {
-      "title": "Senior Data Analyst- Investment Data Strategy (Baltimore, MD or Washington DC)",
-      "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Senior-Business-Analyst---Investment-Data-Strategy_82743",
-      "location": "2 Locations"
     },
     "/job/Baltimore-MD/AI-Data-Engineer_81558": {
       "title": "AI Data Engineer",
@@ -5316,11 +5316,6 @@
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Sr-Data-Engineer_26029881",
       "location": "2 Locations"
     },
-    "/job/Addison/Senior-Data-Engineer-AI-BI-Analytics_26029413": {
-      "title": "Senior Data Engineer-AI/BI Analytics",
-      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Addison/Senior-Data-Engineer-AI-BI-Analytics_26029413",
-      "location": "Addison"
-    },
     "/job/Pennington/Sr-Workplace-Benefits-Product-Manager---Equity-Compensation-Financial-Reporting_26022329-2": {
       "title": "Sr Workplace Benefits Product Manager - Equity Compensation Financial Reporting",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Pennington/Sr-Workplace-Benefits-Product-Manager---Equity-Compensation-Financial-Reporting_26022329-2",
@@ -5352,6 +5347,14 @@
     }
   },
   "Gainwell": {
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-Quality-Analyst-OK-99999/1403503300/": {
+      "title": "Early Career Quality Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-Quality-Analyst-OK-99999/1403503300/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Client-Services-Analyst-TX-99999/1394502100/": {
+      "title": "Senior Client Services Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Client-Services-Analyst-TX-99999/1394502100/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Quality-Assurance-Analyst-AR-%28Remote%29-AR-99999/1412097000/": {
       "title": "Provider Enrollment Quality Assurance Analyst - AR (Remote)",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Quality-Assurance-Analyst-AR-%28Remote%29-AR-99999/1412097000/"
@@ -5363,10 +5366,6 @@
     "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Analyst-Remote-AR-99999/1412088100/": {
       "title": "Provider Enrollment Analyst - Remote",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Analyst-Remote-AR-99999/1412088100/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Manager%2C-Healthcare-Data-Integration-and-Analytics-TX-99999/1422120600/": {
-      "title": "Senior Manager, Healthcare Data Integration and Analytics",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Manager%2C-Healthcare-Data-Integration-and-Analytics-TX-99999/1422120600/"
     }
   },
   "Happen Bank": {
