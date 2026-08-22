@@ -2309,6 +2309,12 @@
       "location": "Arlington, Virginia, USA",
       "country_code": "USA"
     },
+    "10510956": {
+      "title": "Sr. Financial Analyst, Amazon Business Finance",
+      "url": "https://www.amazon.jobs/en/jobs/10510956/sr-financial-analyst-amazon-business-finance",
+      "location": "Seattle, Washington, USA",
+      "country_code": "USA"
+    },
     "10507431": {
       "title": "Product Safety Assurance Analyst - Perishables, Product Safety Assurance Team, Worldwide Grocery Stores (WWGS), Whole Foods Market NA",
       "url": "https://www.amazon.jobs/en/jobs/10507431/product-safety-assurance-analyst-perishables-product-safety-assurance-team-worldwide-grocery-stores-wwgs-whole-foods-market-na",
@@ -3717,12 +3723,6 @@
       "title": "Business Analyst , Worldwide Grocery Stores (WWGS)",
       "url": "https://www.amazon.jobs/en/jobs/10376337/business-analyst-worldwide-grocery-stores-wwgs",
       "location": "New York, New York, USA",
-      "country_code": "USA"
-    },
-    "3188436": {
-      "title": "Senior Finance Analyst, NA Amazon Logistics Field Finance UTR Execution",
-      "url": "https://www.amazon.jobs/en/jobs/3188436/senior-finance-analyst-na-amazon-logistics-field-finance-utr-execution",
-      "location": "Nashville, Tennessee, USA",
       "country_code": "USA"
     },
     "3187319": {
@@ -5138,6 +5138,12 @@
       "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13218",
       "location": "Miami, FL, United States",
       "country_code": "US"
+    },
+    "13810": {
+      "title": "Manager, Global Sourcing Analytics",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13810",
+      "location": "Miami, FL, United States",
+      "country_code": "US"
     }
   },
   "Bank of America": {
@@ -5367,13 +5373,13 @@
     }
   },
   "Gainwell": {
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Quality-Assurance-Analyst-AR-%28Remote%29-AR-99999/1412097000/": {
-      "title": "Provider Enrollment Quality Assurance Analyst - AR (Remote)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Quality-Assurance-Analyst-AR-%28Remote%29-AR-99999/1412097000/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Data-Science-AI-Engineer-TX-99999/1394079400/": {
       "title": "Experienced Data Science AI Engineer",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Data-Science-AI-Engineer-TX-99999/1394079400/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Quality-Assurance-Analyst-AR-%28Remote%29-AR-99999/1412097000/": {
+      "title": "Provider Enrollment Quality Assurance Analyst - AR (Remote)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Quality-Assurance-Analyst-AR-%28Remote%29-AR-99999/1412097000/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Analyst-Remote-AR-99999/1412088100/": {
       "title": "Provider Enrollment Analyst - Remote",
@@ -5485,13 +5491,13 @@
       "title": "Trade Analyst",
       "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Trade-Analyst-VA-23501/1425410533/"
     },
-    "https://jobs.cmacgm-group.com/job/Singapore-Trade-Analyst%2C-Transpacific/1411142733/": {
-      "title": "Trade Analyst, Transpacific",
-      "url": "https://jobs.cmacgm-group.com/job/Singapore-Trade-Analyst%2C-Transpacific/1411142733/"
-    },
     "https://jobs.cmacgm-group.com/CNC/job/Singapore-Pricing-Analyst%2C-Intra-Asia/1393618633/": {
       "title": "Pricing Analyst, Intra-Asia",
       "url": "https://jobs.cmacgm-group.com/CNC/job/Singapore-Pricing-Analyst%2C-Intra-Asia/1393618633/"
+    },
+    "https://jobs.cmacgm-group.com/job/Singapore-Trade-Analyst%2C-Transpacific/1411142733/": {
+      "title": "Trade Analyst, Transpacific",
+      "url": "https://jobs.cmacgm-group.com/job/Singapore-Trade-Analyst%2C-Transpacific/1411142733/"
     }
   },
   "Beyond Finance": {
@@ -6036,13 +6042,13 @@
     }
   },
   "Capital One": {
-    "https://www.capitalonecareers.com/job/mclean/sr-business-analyst-bank-internal-fraud-defense/1732/99544269136": {
-      "title": "9954426913608/21/2026Sr. Business Analyst - Bank Internal Fraud DefenseMcLean, VA",
-      "url": "https://www.capitalonecareers.com/job/mclean/sr-business-analyst-bank-internal-fraud-defense/1732/99544269136"
+    "https://www.capitalonecareers.com/job/mclean/analyst-specialty-underwriting-and-portfolio-manager-cre/1732/97627388064": {
+      "title": "9762738806408/21/2026Analyst, Specialty Underwriting and Portfolio Manager - CREMcLean, VA",
+      "url": "https://www.capitalonecareers.com/job/mclean/analyst-specialty-underwriting-and-portfolio-manager-cre/1732/97627388064"
     },
-    "https://www.capitalonecareers.com/job/mclean/manager-data-scientist-travel-intelligence-hotels/1732/95857653664": {
-      "title": "9585765366406/01/2026Manager, Data Scientist, Travel Intelligence, HotelsMcLean, VA",
-      "url": "https://www.capitalonecareers.com/job/mclean/manager-data-scientist-travel-intelligence-hotels/1732/95857653664"
+    "https://www.capitalonecareers.com/job/mclean/senior-business-analyst-card-loss-forecasting-and-allowance/1732/99555013264": {
+      "title": "9955501326408/21/2026Senior Business Analyst - Card Loss Forecasting and AllowanceMcLean, VA",
+      "url": "https://www.capitalonecareers.com/job/mclean/senior-business-analyst-card-loss-forecasting-and-allowance/1732/99555013264"
     }
   },
   "BMO": {
