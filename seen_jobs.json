@@ -2010,12 +2010,6 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
-    "210764047": {
-      "title": "Strategic Analytics Senior Associate, Acquisitions Risk",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764047",
-      "location": "Wilmington, DE, United States",
-      "country_code": "US"
-    },
     "210774710": {
       "title": "Lead Software Engineer - Data Engineer and Applied AI",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774710",
@@ -2098,6 +2092,12 @@
       "title": "Treasury Research & Analytics, Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210701592",
       "location": "Chicago, IL, United States",
+      "country_code": "US"
+    },
+    "210764047": {
+      "title": "Strategic Analytics Senior Associate, Acquisitions Risk",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764047",
+      "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
     "210765627": {
@@ -2266,10 +2266,16 @@
     }
   },
   "Flowserve": {
-    "A48A4FD8B0624156BFE2C3D17C07FA9E": {
-      "title": "Senior Engineer Vibration Analyst",
-      "url": "https://careers.flowserve.com/houston-tx/senior-engineer-vibration-analyst/A48A4FD8B0624156BFE2C3D17C07FA9E/job/",
-      "location": "Houston, TX",
+    "179B92925D0940E48C00C5C0C7E0D79F": {
+      "title": "Data Engineer Denodo",
+      "url": "https://careers.flowserve.com/irving-tx/data-engineer-denodo/179B92925D0940E48C00C5C0C7E0D79F/job/",
+      "location": "Irving, TX",
+      "country_code": "US"
+    },
+    "F0A761FDDF7048B9AAB918E55CC2FBEB": {
+      "title": "Data Engineer Ms Fabric",
+      "url": "https://careers.flowserve.com/irving-tx/data-engineer-ms-fabric/F0A761FDDF7048B9AAB918E55CC2FBEB/job/",
+      "location": "Irving, TX",
       "country_code": "US"
     }
   },
@@ -5352,10 +5358,6 @@
     "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-Quality-Analyst-OK-99999/1403503300/": {
       "title": "Early Career Quality Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-Quality-Analyst-OK-99999/1403503300/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Workforce-Management-Real-Time-Analyst-Remote-CA-CA-95605-1630/1422217300/": {
-      "title": "Workforce Management Real-Time Analyst - Remote CA",
-      "url": "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Workforce-Management-Real-Time-Analyst-Remote-CA-CA-95605-1630/1422217300/"
     }
   },
   "Happen Bank": {
