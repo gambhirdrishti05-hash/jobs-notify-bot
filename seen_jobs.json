@@ -1,9 +1,33 @@
 {
   "JPMorgan Chase": {
+    "210780259": {
+      "title": "Quality Control - Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780259",
+      "location": "OH, United States",
+      "country_code": "US"
+    },
+    "210784112": {
+      "title": "Lead Solutions Analyst - Product Operations",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784112",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
     "210781072": {
       "title": "Wealth Management Solutions, Research Analyst - Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781072",
       "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210773869": {
+      "title": "2027 Data & AI Program - Summer Internship - Analyst - United States",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773869",
+      "location": "Chicago, IL, United States",
+      "country_code": "US"
+    },
+    "210780542": {
+      "title": "Vice President \u2013 Credit Risk Data Science, Business Banking Risk Modeling",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780542",
+      "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
     "210782862": {
@@ -22,12 +46,6 @@
       "title": "Marketing Copy Review Analyst - Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783755",
       "location": "Wilmington, DE, United States",
-      "country_code": "US"
-    },
-    "210781137": {
-      "title": "Data Scientist, Senior Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781137",
-      "location": "OH, United States",
       "country_code": "US"
     },
     "210782319": {
@@ -88,12 +106,6 @@
       "title": "Trade Lifecycle Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779836",
       "location": "Newark, DE, United States",
-      "country_code": "US"
-    },
-    "210769711": {
-      "title": "Trade Services Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210769711",
-      "location": "New York, NY, United States",
       "country_code": "US"
     },
     "210778284": {
@@ -634,12 +646,6 @@
       "title": "Business Analytics Advisor - Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772987",
       "location": "Wilmington, DE, United States",
-      "country_code": "US"
-    },
-    "210768559": {
-      "title": "U.S. Private Bank - AWM Program Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768559",
-      "location": "Dallas, TX, United States",
       "country_code": "US"
     },
     "210773589": {
@@ -1326,6 +1332,12 @@
       "location": "Chicago, IL, United States",
       "country_code": "US"
     },
+    "210783899": {
+      "title": "Quant Analytics-Senior Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783899",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
     "210779693": {
       "title": "Advanced Treasury Analytics Markets - Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779693",
@@ -1336,12 +1348,6 @@
       "title": "Strategic Analytics Lead-Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210782113",
       "location": "Jersey City, NJ, United States",
-      "country_code": "US"
-    },
-    "210780303": {
-      "title": "Senior Analytics Associate, Marketing Analytics",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780303",
-      "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
     "210781987": {
@@ -1788,12 +1794,6 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
-    "210767284": {
-      "title": "Quant Analytics Senior associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767284",
-      "location": "Wilmington, DE, United States",
-      "country_code": "US"
-    },
     "210769230": {
       "title": "Quant Analytics Senior Associate - Point of Sales Capabilities",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210769230",
@@ -1992,10 +1992,16 @@
       "location": "Jersey City, NJ, United States",
       "country_code": "US"
     },
-    "210783899": {
-      "title": "Quant Analytics-Senior Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783899",
-      "location": "Jersey City, NJ, United States",
+    "210764694": {
+      "title": "Card Analytics Data Scientist Lead-Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764694",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210764047": {
+      "title": "Strategic Analytics Senior Associate, Acquisitions Risk",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764047",
+      "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
     "210774710": {
@@ -2008,12 +2014,6 @@
       "title": "ESG Controller Sustainable Financing Reporting Lead - Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210705264",
       "location": "Newark, DE, United States",
-      "country_code": "US"
-    },
-    "210764694": {
-      "title": "Card Analytics Data Scientist Lead-Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764694",
-      "location": "New York, NY, United States",
       "country_code": "US"
     },
     "210761341": {
@@ -2086,12 +2086,6 @@
       "title": "Treasury Research & Analytics, Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210701592",
       "location": "Chicago, IL, United States",
-      "country_code": "US"
-    },
-    "210764047": {
-      "title": "Strategic Analytics Senior Associate, Acquisitions Risk",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764047",
-      "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
     "210765627": {
@@ -2853,12 +2847,6 @@
       "title": "Transportation Analyst, STRIDE Analytics",
       "url": "https://www.amazon.jobs/en/jobs/10486479/transportation-analyst-stride-analytics",
       "location": "Bellevue, Washington, USA",
-      "country_code": "USA"
-    },
-    "10481647": {
-      "title": "Financial Analyst, Amazon Kids+ Subscription Finance",
-      "url": "https://www.amazon.jobs/en/jobs/10481647/financial-analyst-amazon-kids-subscription-finance",
-      "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
     "10479826": {
@@ -3776,6 +3764,31 @@
   },
   "Waters Corporation": {},
   "CVS Health": {
+    "/job/AZ---Work-from-home/Senior-Data-Advisor--Data-Governance---Analytics_R1009672": {
+      "title": "Senior Data Advisor, Data Governance & Analytics",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Work-from-home/Senior-Data-Advisor--Data-Governance---Analytics_R1009672",
+      "location": "AZ - Work from home"
+    },
+    "/job/IL---Work-from-home/Senior-Analyst--Stars-Data-Operations_R1010759-1": {
+      "title": "Senior Analyst, Stars Data Operations",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Senior-Analyst--Stars-Data-Operations_R1010759-1",
+      "location": "IL - Work from home"
+    },
+    "/job/Work-At-Home-Connecticut/Senior-Analyst--Underwriter_R1004560": {
+      "title": "Senior Analyst, Underwriter",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Connecticut/Senior-Analyst--Underwriter_R1004560",
+      "location": "Work At Home-Connecticut"
+    },
+    "/job/CT---Hartford/Senior-Analyst--Actuarial--ADP-_R0980319": {
+      "title": "Senior Analyst, Actuarial (ADP)",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Senior-Analyst--Actuarial--ADP-_R0980319",
+      "location": "CT - Hartford"
+    },
+    "/job/Field-Florida/Bilingual-Case-Management-Analyst----Field-in-Osceola-County---Surrounding-Areas--FL_R1007626": {
+      "title": "Bilingual Case Management Analyst -  Field in Osceola County & Surrounding Areas, FL",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Field-Florida/Bilingual-Case-Management-Analyst----Field-in-Osceola-County---Surrounding-Areas--FL_R1007626",
+      "location": "Field-Florida"
+    },
     "/job/PA---Monroeville/Senior-Analyst--Revenue-Cycle_R0925061-1": {
       "title": "Business Operations & Project Management, Senior Analyst, Revenue Cycle",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Monroeville/Senior-Analyst--Revenue-Cycle_R0925061-1",
@@ -4961,6 +4974,12 @@
   "UBS": {},
   "CBRE": {},
   "Carnival Corporation": {
+    "13816": {
+      "title": "Analyst, Maritime Program Integration",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13816",
+      "location": "Miami, FL, United States",
+      "country_code": "US"
+    },
     "13831": {
       "title": "Analyst, Revenue",
       "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13831",
@@ -5099,6 +5118,16 @@
       "title": "Senior Private Credit Fund Analyst",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Senior-Private-Credit-Fund-Analyst_26022599",
       "location": "New York"
+    },
+    "/job/Pennington/Sr-Operations-Project-Analyst_26026626": {
+      "title": "Sr Operations Project Analyst",
+      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Pennington/Sr-Operations-Project-Analyst_26026626",
+      "location": "4 Locations"
+    },
+    "/job/Tulsa/Oil---Gas-Land-and-Title-Analyst--SAM-Associate-II_26026183": {
+      "title": "Oil & Gas Land and Title Analyst/ SAM Associate II",
+      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Tulsa/Oil---Gas-Land-and-Title-Analyst--SAM-Associate-II_26026183",
+      "location": "Tulsa"
     },
     "/job/Newark/Senior-Fraud-Analyst-II--1st-and-2nd-Shift-_26027851": {
       "title": "Senior Fraud Analyst II (1st and 2nd Shift)",
@@ -5280,6 +5309,11 @@
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Pennington/Wealth-Management-Fraud---Claims---Sr-Fraud-Analyst_25021380",
       "location": "3 Locations"
     },
+    "/job/Charlotte/Senior-Data-Engineer_26030539": {
+      "title": "Senior Data Engineer",
+      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Senior-Data-Engineer_26030539",
+      "location": "Charlotte"
+    },
     "/job/Pennington/Sr-Workplace-Benefits-Product-Manager---Equity-Compensation-Financial-Reporting_26022329-2": {
       "title": "Sr Workplace Benefits Product Manager - Equity Compensation Financial Reporting",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Pennington/Sr-Workplace-Benefits-Product-Manager---Equity-Compensation-Financial-Reporting_26022329-2",
@@ -5317,10 +5351,6 @@
     }
   },
   "Qualus": {
-    "5424": {
-      "title": "Business Intelligence Specialist",
-      "url": "https://careers-qualus.icims.com/jobs/5424/business-intelligence-specialist/job"
-    },
     "5350": {
       "title": "Demand Side Management Analyst",
       "url": "https://careers-qualus.icims.com/jobs/5350/demand-side-management-analyst/job"
@@ -5331,17 +5361,13 @@
     }
   },
   "Gainwell": {
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Data-Engineer-Cloudera-&-AWS-Lakehouse-TX-99999/1422454900/": {
+      "title": "Data Engineer - Cloudera & AWS Lakehouse",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Data-Engineer-Cloudera-&-AWS-Lakehouse-TX-99999/1422454900/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Reporting-Business-Analyst-MO-99999/1403763300/": {
       "title": "Senior Reporting Business Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Reporting-Business-Analyst-MO-99999/1403763300/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Client-Services-Analyst-TX-99999/1394502100/": {
-      "title": "Senior Client Services Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Client-Services-Analyst-TX-99999/1394502100/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-Quality-Analyst-OK-99999/1403503300/": {
-      "title": "Early Career Quality Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-Quality-Analyst-OK-99999/1403503300/"
     }
   },
   "Happen Bank": {
@@ -5974,15 +6000,15 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Senior-SIEM-Data-Engineer_R-794334-1",
       "location": "Quincy, Massachusetts"
     },
-    "/job/Quincy-Massachusetts/Sr-Databricks-Data-Engineer--Vice-President--Hybrid_R-789490-1": {
-      "title": "Sr. Databricks Data Engineer, Vice President",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Sr-Databricks-Data-Engineer--Vice-President--Hybrid_R-789490-1",
-      "location": "2 Locations"
-    },
     "/job/Boston-Massachusetts/Global-Head-of-Insight-Generation-and-AI-Adoption--MD---State-Street-Investment-Management_R-792525": {
       "title": "Global Head of Insight Generation and AI Adoption, MD - State Street Investment Management",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Global-Head-of-Insight-Generation-and-AI-Adoption--MD---State-Street-Investment-Management_R-792525",
       "location": "Boston, Massachusetts"
+    },
+    "/job/Quincy-Massachusetts/Sr-Databricks-Data-Engineer--Vice-President--Hybrid_R-789490-1": {
+      "title": "Sr. Databricks Data Engineer, Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Sr-Databricks-Data-Engineer--Vice-President--Hybrid_R-789490-1",
+      "location": "2 Locations"
     },
     "/job/Quincy-Massachusetts/Data-Engineering-and-Development-VP_R-796205-1": {
       "title": "Data Engineering and Development VP",
