@@ -66,12 +66,6 @@
       "location": "Columbus, OH, United States",
       "country_code": "US"
     },
-    "210782949": {
-      "title": "U.S. Private Bank - AWM Program Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210782949",
-      "location": "Houston, TX, United States",
-      "country_code": "US"
-    },
     "210783099": {
       "title": "IPB - AWM Program Analyst - LATAM Mexico",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783099",
@@ -93,12 +87,6 @@
     "210770345": {
       "title": "US Wealth Management, Solutions Program Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770345",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
-    "210744036": {
-      "title": "Global Equities - Account Manager - Prime Financial Services - Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210744036",
       "location": "New York, NY, United States",
       "country_code": "US"
     },
@@ -444,16 +432,16 @@
       "location": "Plano, TX, United States",
       "country_code": "US"
     },
-    "210778175": {
-      "title": "U.S. Private Bank - AWM Program Analyst - Fund Banking",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778175",
-      "location": "Dallas, TX, United States",
-      "country_code": "US"
-    },
     "210767511": {
       "title": "Credit Support Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767511",
       "location": "Newark, DE, United States",
+      "country_code": "US"
+    },
+    "210778175": {
+      "title": "U.S. Private Bank - AWM Program Analyst - Fund Banking",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778175",
+      "location": "Dallas, TX, United States",
       "country_code": "US"
     },
     "210777536": {
@@ -796,12 +784,6 @@
       "title": "Vice President, Data Scientist \u2013 Credit Risk, Risk Insights - Chase 360",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210769351",
       "location": "Wilmington, DE, United States",
-      "country_code": "US"
-    },
-    "210771539": {
-      "title": "Global Private Bank and Wealth Management Credit Risk Measurement and Analytics-Managing Director",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771539",
-      "location": "New York, NY, United States",
       "country_code": "US"
     },
     "210771214": {
@@ -1348,6 +1330,18 @@
       "title": "Advanced Treasury Analytics Markets - Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779693",
       "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210783899": {
+      "title": "Data Scientist-Senior Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783899",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
+    "210739969": {
+      "title": "Software Engineer II: Data Engineer",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210739969",
+      "location": "Jersey City, NJ, United States",
       "country_code": "US"
     },
     "210782113": {
@@ -3776,6 +3770,11 @@
   },
   "Waters Corporation": {},
   "CVS Health": {
+    "/job/TX---Flower-Mound/IT-Customer-Service-Analyst--Onsite---Flower-Mound--TX-_R1002677": {
+      "title": "IT Customer Service Analyst (Onsite - Flower Mound, TX)",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Flower-Mound/IT-Customer-Service-Analyst--Onsite---Flower-Mound--TX-_R1002677",
+      "location": "TX - Flower Mound"
+    },
     "/job/Chicago-525-West-Monroe/Sr-Analyst-Provider-Services-Recruiter-_R1000859": {
       "title": "Sr Analyst,Provider Services(Recruiter)",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Chicago-525-West-Monroe/Sr-Analyst-Provider-Services-Recruiter-_R1000859",
@@ -4490,11 +4489,6 @@
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/ServiceNow-Business-Analyst--Public-Trust----Remote_R2602489",
       "location": "Reston, VA"
     },
-    "/job/Reston-VA/ServiceNow-Business-Analyst--Public-Trust-----Remote_R2602488": {
-      "title": "ServiceNow Business Analyst (Public Trust)  - Remote",
-      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/ServiceNow-Business-Analyst--Public-Trust-----Remote_R2602488",
-      "location": "Reston, VA"
-    },
     "/job/Reston-VA/ICF-Resources--LLC--Energy-Analyst---Reston--VA_R2602126": {
       "title": "ICF Resources, LLC: Energy Analyst \u2013 Reston, VA",
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/ICF-Resources--LLC--Energy-Analyst---Reston--VA_R2602126",
@@ -5136,15 +5130,15 @@
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Senior-Private-Credit-Fund-Analyst_26022599",
       "location": "New York"
     },
+    "/job/Charlotte/Transaction-Risk-Platform---Strategy-Analyst-Consumer-and-Small-Business-Credit--Merchant-_26026234-2": {
+      "title": "Transaction Risk Platform & Strategy Analyst-Consumer and Small Business Credit (Merchant)",
+      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Transaction-Risk-Platform---Strategy-Analyst-Consumer-and-Small-Business-Credit--Merchant-_26026234-2",
+      "location": "3 Locations"
+    },
     "/job/Charlotte/Risk-Process-Analyst_26026624-1": {
       "title": "Risk Process Analyst",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Risk-Process-Analyst_26026624-1",
       "location": "2 Locations"
-    },
-    "/job/Pennington/Sr-Operations-Project-Analyst_26026626": {
-      "title": "Sr Operations Project Analyst",
-      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Pennington/Sr-Operations-Project-Analyst_26026626",
-      "location": "4 Locations"
     },
     "/job/Tulsa/Oil---Gas-Land-and-Title-Analyst--SAM-Associate-II_26026183": {
       "title": "Oil & Gas Land and Title Analyst/ SAM Associate II",
@@ -5941,6 +5935,11 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Data-Engineer-Senior-Developer--AVP_R-794904",
       "location": "2 Locations"
     },
+    "/job/Quincy-Massachusetts/Structured-Trust-and-Analytics--Officer_R-796525-1": {
+      "title": "Structured Trust and Analytics, Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Structured-Trust-and-Analytics--Officer_R-796525-1",
+      "location": "Quincy, Massachusetts"
+    },
     "/job/Boston-Massachusetts/Software-Engineering-Lead---Financial-Data-Engineering--VP---State-Street-Investment-Management_R-788709": {
       "title": "Software Engineering Lead \u2013 Investment Analytics, VP - State Street Investment Management",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Software-Engineering-Lead---Financial-Data-Engineering--VP---State-Street-Investment-Management_R-788709",
@@ -6043,9 +6042,13 @@
     }
   },
   "Capital One": {
-    "https://www.capitalonecareers.com/job/mclean/sr-business-analyst-retail-and-small-business-bank-orgs/1732/95994957696": {
-      "title": "9599495769608/24/2026Sr. Business Analyst - Retail and Small Business Bank OrgsMcLean, VA",
-      "url": "https://www.capitalonecareers.com/job/mclean/sr-business-analyst-retail-and-small-business-bank-orgs/1732/95994957696"
+    "https://www.capitalonecareers.com/job/new-york/data-analysis-manager-es-risk-analytics/1732/99677336016": {
+      "title": "9967733601608/24/2026Data Analysis Manager - ES Risk AnalyticsNew York, NY",
+      "url": "https://www.capitalonecareers.com/job/new-york/data-analysis-manager-es-risk-analytics/1732/99677336016"
+    },
+    "https://www.capitalonecareers.com/job/riverwoods/data-analytics-manager-pulse-risk-and-compliance/1732/99677335856": {
+      "title": "9967733585608/24/2026Data Analytics Manager - PULSE Risk & ComplianceRiverwoods, IL",
+      "url": "https://www.capitalonecareers.com/job/riverwoods/data-analytics-manager-pulse-risk-and-compliance/1732/99677335856"
     }
   },
   "BMO": {
