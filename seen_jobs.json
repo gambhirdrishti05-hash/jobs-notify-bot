@@ -1332,12 +1332,6 @@
       "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
-    "210774454": {
-      "title": "Focused Analytics Solutions Team Program (USA)",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774454",
-      "location": "Columbus, OH, United States",
-      "country_code": "US"
-    },
     "210781987": {
       "title": "Quant Analytics Associate Senior - Regulatory Operations",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781987",
@@ -1360,12 +1354,6 @@
       "title": "Vice President Product Delivery Manager - Data Analytics Platform",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770599",
       "location": "Jersey City, NJ, United States",
-      "country_code": "US"
-    },
-    "210776598": {
-      "title": "Data Scientist Lead - Customer Analytics",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776598",
-      "location": "OH, United States",
       "country_code": "US"
     },
     "210781042": {
@@ -1536,15 +1524,15 @@
       "location": "Columbus, OH, United States",
       "country_code": "US"
     },
-    "210780227": {
-      "title": "Chief Data & Analytics Office- Data Privacy Governance- Executive Director",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780227",
-      "location": "Jersey City, NJ, United States",
-      "country_code": "US"
-    },
     "210778647": {
       "title": "Audit Chief Data Office - Data Scientist - Senior Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778647",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
+    "210780227": {
+      "title": "Chief Data & Analytics Office- Data Privacy Governance- Executive Director",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780227",
       "location": "Jersey City, NJ, United States",
       "country_code": "US"
     },
