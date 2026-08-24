@@ -1,5 +1,11 @@
 {
   "JPMorgan Chase": {
+    "210784213": {
+      "title": "Investment Banking - Financial Institutions Group, Banks - Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784213",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
     "210780259": {
       "title": "Quality Control - Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780259",
@@ -478,12 +484,6 @@
       "title": "Investment Banking - Consumer & Retail - Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777857",
       "location": "Los Angeles, CA, United States",
-      "country_code": "US"
-    },
-    "210777947": {
-      "title": "U.S. Private Bank - AWM Program Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777947",
-      "location": "Palm Beach, FL, United States",
       "country_code": "US"
     },
     "210777821": {
@@ -1332,10 +1332,16 @@
       "location": "Chicago, IL, United States",
       "country_code": "US"
     },
-    "210783899": {
-      "title": "Quant Analytics-Senior Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783899",
-      "location": "Jersey City, NJ, United States",
+    "210774454": {
+      "title": "Focused Analytics Solutions Team Program (USA)",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774454",
+      "location": "Columbus, OH, United States",
+      "country_code": "US"
+    },
+    "210776598": {
+      "title": "Data Scientist Lead - Customer Analytics",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776598",
+      "location": "Columbus, OH, United States",
       "country_code": "US"
     },
     "210779693": {
@@ -1998,12 +2004,6 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
-    "210764047": {
-      "title": "Strategic Analytics Senior Associate, Acquisitions Risk",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764047",
-      "location": "Wilmington, DE, United States",
-      "country_code": "US"
-    },
     "210774710": {
       "title": "Lead Software Engineer - Data Engineer and Applied AI",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774710",
@@ -2086,6 +2086,12 @@
       "title": "Treasury Research & Analytics, Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210701592",
       "location": "Chicago, IL, United States",
+      "country_code": "US"
+    },
+    "210764047": {
+      "title": "Strategic Analytics Senior Associate, Acquisitions Risk",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764047",
+      "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
     "210765627": {
@@ -2435,6 +2441,12 @@
       "location": "Austin, Texas, USA",
       "country_code": "USA"
     },
+    "10512630": {
+      "title": "Senior Financial Analyst, NACF, ARS",
+      "url": "https://www.amazon.jobs/en/jobs/10512630/senior-financial-analyst-nacf-ars",
+      "location": "Irving, Texas, USA",
+      "country_code": "USA"
+    },
     "10499284": {
       "title": "Communications Business Analyst, Operations Internal Communications",
       "url": "https://www.amazon.jobs/en/jobs/10499284/communications-business-analyst-operations-internal-communications",
@@ -2625,6 +2637,12 @@
       "title": "Senior Financial Analyst, R2L Sub Same Day and Online Grocery - Finance",
       "url": "https://www.amazon.jobs/en/jobs/10496562/senior-financial-analyst-r2l-sub-same-day-and-online-grocery-finance",
       "location": "New York, New York, USA",
+      "country_code": "USA"
+    },
+    "10512654": {
+      "title": "Sr System Analyst, Healthcare Financials",
+      "url": "https://www.amazon.jobs/en/jobs/10512654/sr-system-analyst-healthcare-financials",
+      "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
     "10488510": {
@@ -3093,12 +3111,6 @@
       "title": "Senior Financial Analyst, R2L Sub Same Day - Delivery Finance",
       "url": "https://www.amazon.jobs/en/jobs/10471926/senior-financial-analyst-r2l-sub-same-day-delivery-finance",
       "location": "Bellevue, Washington, USA",
-      "country_code": "USA"
-    },
-    "10466962": {
-      "title": "Senior Product Safety Assurance Analyst - Perishables, Product Safety Assurance Team, Worldwide Grocery Stores (WWGS), Whole Foods Market NA",
-      "url": "https://www.amazon.jobs/en/jobs/10466962/senior-product-safety-assurance-analyst-perishables-product-safety-assurance-team-worldwide-grocery-stores-wwgs-whole-foods-market-na",
-      "location": "Austin, Texas, USA",
       "country_code": "USA"
     },
     "10469409": {
@@ -3764,6 +3776,11 @@
   },
   "Waters Corporation": {},
   "CVS Health": {
+    "/job/Chicago-525-West-Monroe/Sr-Analyst-Provider-Services-Recruiter-_R1000859": {
+      "title": "Sr Analyst,Provider Services(Recruiter)",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Chicago-525-West-Monroe/Sr-Analyst-Provider-Services-Recruiter-_R1000859",
+      "location": "Chicago-525 West Monroe"
+    },
     "/job/AZ---Work-from-home/Senior-Data-Advisor--Data-Governance---Analytics_R1009672": {
       "title": "Senior Data Advisor, Data Governance & Analytics",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Work-from-home/Senior-Data-Advisor--Data-Governance---Analytics_R1009672",
@@ -4428,11 +4445,6 @@
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Health-Analyst---Oncology_R2602838",
       "location": "Reston, VA"
     },
-    "/job/San-Diego-CA/Utility-Intake-Analyst_R2602798": {
-      "title": "Utility Intake Analyst",
-      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/San-Diego-CA/Utility-Intake-Analyst_R2602798",
-      "location": "San Diego, CA"
-    },
     "/job/Reston-VA/Senior-Business-Analyst--ServiceNow-_R2601425": {
       "title": "Senior Business Analyst (ServiceNow)",
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Senior-Business-Analyst--ServiceNow-_R2601425",
@@ -4488,6 +4500,11 @@
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/ICF-Resources--LLC--Energy-Analyst---Reston--VA_R2602126",
       "location": "Reston, VA"
     },
+    "/job/Alexandria-VA/Project-Analyst---SETA-Level-2---Hybrid-Role-_R2602869": {
+      "title": "Project Analyst - SETA Level 2, (Hybrid Role)",
+      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Alexandria-VA/Project-Analyst---SETA-Level-2---Hybrid-Role-_R2602869",
+      "location": "Alexandria, VA"
+    },
     "/job/Washington-DC/Marketing-and-Communications-Data-Analyst--Top-Secret-cleared-_R2601401": {
       "title": "Marketing and Communications Data Analyst (Top Secret cleared)",
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Washington-DC/Marketing-and-Communications-Data-Analyst--Top-Secret-cleared-_R2601401",
@@ -4511,11 +4528,6 @@
     "/job/Reston-VA/ICF-Resources--LLC--IT-Project-Manager--Business-Analyst---Reston--VA_R2601992": {
       "title": "ICF Resources, LLC: IT Project Manager, Business Analyst \u2013 Reston, VA",
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/ICF-Resources--LLC--IT-Project-Manager--Business-Analyst---Reston--VA_R2601992",
-      "location": "Reston, VA"
-    },
-    "/job/Reston-VA/Senior-Economic-Analyst--Reston--VA-or-Waltham--MA-HYBRID-role-_R2602807": {
-      "title": "Senior Economic Analyst (Reston, VA or Waltham, MA HYBRID role)",
-      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Senior-Economic-Analyst--Reston--VA-or-Waltham--MA-HYBRID-role-_R2602807",
       "location": "Reston, VA"
     },
     "/job/Dallas-TX/Business-Intelligence-Developer--Fabric-_R2601836": {
@@ -4659,6 +4671,11 @@
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Investment-AI-Solutions-Analyst_81557",
       "location": "2 Locations"
     },
+    "/job/Colorado-Springs-CO/Portfolio-Construction-Analyst_83079": {
+      "title": "Portfolio Construction Lead Analyst",
+      "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Colorado-Springs-CO/Portfolio-Construction-Analyst_83079",
+      "location": "2 Locations"
+    },
     "/job/New-York-NY/ETF-Capital-Markets-Analyst_81552": {
       "title": "ETF Capital Markets Analyst",
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/New-York-NY/ETF-Capital-Markets-Analyst_81552",
@@ -4724,6 +4741,11 @@
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Washington-DC/Lead-Data-Analyst--Investment-Data-Strategy--Washington-DC-or-Baltimore--MD-_83070",
       "location": "2 Locations"
     },
+    "/job/Baltimore-MD/Senior-Business-Analyst---Investment-Data-Strategy_82743": {
+      "title": "Senior Data Analyst- Investment Data Strategy (Baltimore, MD or Washington DC)",
+      "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Senior-Business-Analyst---Investment-Data-Strategy_82743",
+      "location": "2 Locations"
+    },
     "/job/Owings-Mills-MD/Senior-Infrastructure-Operations-Analyst---Identity-Access-Management_80824": {
       "title": "Senior Infrastructure Operations Analyst \u2013 Identity Access Management",
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Owings-Mills-MD/Senior-Infrastructure-Operations-Analyst---Identity-Access-Management_80824",
@@ -4753,11 +4775,6 @@
       "title": "Analyst, Middle Office Trade Management, Derivatives Operations",
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Analyst--Middle-Office_81670-1",
       "location": "Baltimore, MD"
-    },
-    "/job/Baltimore-MD/Senior-Business-Analyst---Investment-Data-Strategy_82743": {
-      "title": "Senior Data Analyst- Investment Data Strategy (Baltimore, MD or Washington DC)",
-      "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Senior-Business-Analyst---Investment-Data-Strategy_82743",
-      "location": "2 Locations"
     },
     "/job/Owings-Mills-MD/Sr-Analyst--Regulatory-Advisory-Compliance--Fraud-and-AML-_81407": {
       "title": "Sr. Analyst, Regulatory Advisory Compliance (Fraud and AML)",
@@ -5119,6 +5136,11 @@
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Senior-Private-Credit-Fund-Analyst_26022599",
       "location": "New York"
     },
+    "/job/Charlotte/Risk-Process-Analyst_26026624-1": {
+      "title": "Risk Process Analyst",
+      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Risk-Process-Analyst_26026624-1",
+      "location": "2 Locations"
+    },
     "/job/Pennington/Sr-Operations-Project-Analyst_26026626": {
       "title": "Sr Operations Project Analyst",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Pennington/Sr-Operations-Project-Analyst_26026626",
@@ -5309,6 +5331,11 @@
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Pennington/Wealth-Management-Fraud---Claims---Sr-Fraud-Analyst_25021380",
       "location": "3 Locations"
     },
+    "/job/Charlotte/Senior-Data-Scientist_26029229": {
+      "title": "Senior Data Scientist",
+      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Senior-Data-Scientist_26029229",
+      "location": "Charlotte"
+    },
     "/job/Charlotte/Senior-Data-Engineer_26030539": {
       "title": "Senior Data Engineer",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Senior-Data-Engineer_26030539",
@@ -5361,6 +5388,10 @@
     }
   },
   "Gainwell": {
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Workforce-Analytics-&-Power-BI-Analyst-TX-99999/1422527600/": {
+      "title": "Senior Workforce Analytics & Power BI Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Workforce-Analytics-&-Power-BI-Analyst-TX-99999/1422527600/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Data-Engineer-Cloudera-&-AWS-Lakehouse-TX-99999/1422454900/": {
       "title": "Data Engineer - Cloudera & AWS Lakehouse",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Data-Engineer-Cloudera-&-AWS-Lakehouse-TX-99999/1422454900/"
@@ -5530,15 +5561,10 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Senior-Business-Analyst_R-783214",
       "location": "Burlington Massachusetts"
     },
-    "/job/Boston-Massachusetts/Systems-Operations---Admin--Sr-Associate_R-789840": {
+    "/job/Quincy-Massachusetts/Systems-Analyst--Officer_R-790190-1": {
       "title": "Systems Analyst, Officer",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Systems-Operations---Admin--Sr-Associate_R-789840",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Systems-Analyst--Officer_R-790190-1",
       "location": "2 Locations"
-    },
-    "/job/Austin-Texas/Systems-Analyst--Officer_R-790190-1": {
-      "title": "Systems Analyst, Officer",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Austin-Texas/Systems-Analyst--Officer_R-790190-1",
-      "location": "Austin, Texas"
     },
     "/job/Quincy-Massachusetts/Cyber-Product-Analyst_R-790592": {
       "title": "Cyber Product Analyst",
@@ -6017,13 +6043,9 @@
     }
   },
   "Capital One": {
-    "https://www.capitalonecareers.com/job/city-of-muntinglupa/sr-analyst-data-analysis/1732/94240556048": {
-      "title": "9424055604804/22/2026Sr. Analyst, Data AnalysisCity of Muntinglupa, Calabarzon",
-      "url": "https://www.capitalonecareers.com/job/city-of-muntinglupa/sr-analyst-data-analysis/1732/94240556048"
-    },
-    "https://www.capitalonecareers.com/job/city-of-muntinglupa/sr-analyst-data-analysis/1732/81537009200": {
-      "title": "8153700920005/21/2025Sr. Analyst, Data AnalysisCity of Muntinglupa, Calabarzon",
-      "url": "https://www.capitalonecareers.com/job/city-of-muntinglupa/sr-analyst-data-analysis/1732/81537009200"
+    "https://www.capitalonecareers.com/job/mclean/sr-business-analyst-retail-and-small-business-bank-orgs/1732/95994957696": {
+      "title": "9599495769608/24/2026Sr. Business Analyst - Retail and Small Business Bank OrgsMcLean, VA",
+      "url": "https://www.capitalonecareers.com/job/mclean/sr-business-analyst-retail-and-small-business-bank-orgs/1732/95994957696"
     }
   },
   "BMO": {
@@ -6123,5 +6145,10 @@
       "location": "2 Locations"
     }
   },
-  "Deloitte": {}
+  "Deloitte": {
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Epic-ASAP-Analyst/364122": {
+      "title": "Epic ASAP Analyst",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Epic-ASAP-Analyst/364122"
+    }
+  }
 }
