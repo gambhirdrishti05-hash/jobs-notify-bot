@@ -1080,12 +1080,6 @@
       "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
-    "210755077": {
-      "title": "Reporting & Analytics - Tableau, Alteryx, JIRA & Project Management \u2013 Senior Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210755077",
-      "location": "Wilmington, DE, United States",
-      "country_code": "US"
-    },
     "210729168": {
       "title": "SWIFT/ISO 200222 - Solutions Analyst III",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729168",
@@ -1332,6 +1326,12 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
+    "210781682": {
+      "title": "Lead Software Engineer - Data Analytics",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781682",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
     "210783899": {
       "title": "Data Scientist-Senior Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210783899",
@@ -1542,15 +1542,15 @@
       "location": "Jersey City, NJ, United States",
       "country_code": "US"
     },
-    "210778647": {
-      "title": "Audit Chief Data Office - Data Scientist - Senior Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778647",
-      "location": "Jersey City, NJ, United States",
-      "country_code": "US"
-    },
     "210780626": {
       "title": "Chief Data & Analytics Office- Data Privacy Governance- Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780626",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
+    "210778647": {
+      "title": "Audit Chief Data Office - Data Scientist - Senior Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778647",
       "location": "Jersey City, NJ, United States",
       "country_code": "US"
     },
@@ -1992,12 +1992,6 @@
       "location": "Jersey City, NJ, United States",
       "country_code": "US"
     },
-    "210764694": {
-      "title": "Card Analytics Data Scientist Lead-Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764694",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
     "210774710": {
       "title": "Lead Software Engineer - Data Engineer and Applied AI",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774710",
@@ -2008,6 +2002,12 @@
       "title": "ESG Controller Sustainable Financing Reporting Lead - Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210705264",
       "location": "Newark, DE, United States",
+      "country_code": "US"
+    },
+    "210764694": {
+      "title": "Card Analytics Data Scientist Lead-Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764694",
+      "location": "New York, NY, United States",
       "country_code": "US"
     },
     "210761341": {
@@ -2235,6 +2235,11 @@
     "/job/New-York/Analyst---Park-Hill-Corporate--DealCloud-_R0003386": {
       "title": "Analyst - PJT Park Hill (Corporate - DealCloud)",
       "url": "https://pjtpartners.wd1.myworkdayjobs.com/Careers/job/New-York/Analyst---Park-Hill-Corporate--DealCloud-_R0003386",
+      "location": "New York"
+    },
+    "/job/New-York/Analyst---PJT-Camberview--Strategic-Investor-Relations-_R0003496": {
+      "title": "Analyst - PJT Camberview (Strategic Investor Relations)",
+      "url": "https://pjtpartners.wd1.myworkdayjobs.com/Careers/job/New-York/Analyst---PJT-Camberview--Strategic-Investor-Relations-_R0003496",
       "location": "New York"
     },
     "/job/New-York/Analyst---PJT-Park-Hill--Private-Equity---Project-Management-_R0003321": {
@@ -3770,10 +3775,20 @@
   },
   "Waters Corporation": {},
   "CVS Health": {
-    "/job/TX---Flower-Mound/IT-Customer-Service-Analyst--Onsite---Flower-Mound--TX-_R1002677": {
-      "title": "IT Customer Service Analyst (Onsite - Flower Mound, TX)",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Flower-Mound/IT-Customer-Service-Analyst--Onsite---Flower-Mound--TX-_R1002677",
-      "location": "TX - Flower Mound"
+    "/job/Field-Florida/Bilingual-Case-Management-Analyst---Field-in-Miami-Dade--Fl_R0992805": {
+      "title": "Bilingual Case Management Analyst - Field in Miami-Dade, Fl",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Field-Florida/Bilingual-Case-Management-Analyst---Field-in-Miami-Dade--Fl_R0992805",
+      "location": "Field-Florida"
+    },
+    "/job/AZ---Work-from-home/Resource-Planning-Analyst_R0972474-1": {
+      "title": "Resource Planning Analyst",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Work-from-home/Resource-Planning-Analyst_R0972474-1",
+      "location": "48 Locations"
+    },
+    "/job/LA---Work-from-home/Senior-Analyst--Health-Care-Quality-Management_R1000429": {
+      "title": "Senior Analyst, Health Care Quality Management",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/LA---Work-from-home/Senior-Analyst--Health-Care-Quality-Management_R1000429",
+      "location": "32 Locations"
     },
     "/job/Chicago-525-West-Monroe/Sr-Analyst-Provider-Services-Recruiter-_R1000859": {
       "title": "Sr Analyst,Provider Services(Recruiter)",
@@ -4905,6 +4920,11 @@
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Statistical-Programmer--Data-Analyst_RQ4076375",
       "location": "Somerville-MA"
     },
+    "/job/Somerville-MA/Systems-Analyst-Engineer--ServiceNow_RQ4069156": {
+      "title": "Systems Analyst Engineer- ServiceNow",
+      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Systems-Analyst-Engineer--ServiceNow_RQ4069156",
+      "location": "Somerville-MA"
+    },
     "/job/Somerville-MA/Government-Programs-Actuarial-Analyst-II_RQ4065102": {
       "title": "Government Programs Actuarial Analyst II",
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Government-Programs-Actuarial-Analyst-II_RQ4065102",
@@ -5386,6 +5406,10 @@
       "title": "Senior Workforce Analytics & Power BI Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Workforce-Analytics-&-Power-BI-Analyst-TX-99999/1422527600/"
     },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Pharmacy-LA-99999/1422714000/": {
+      "title": "Senior Business Analyst - Pharmacy",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Pharmacy-LA-99999/1422714000/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Data-Engineer-Cloudera-&-AWS-Lakehouse-TX-99999/1422454900/": {
       "title": "Data Engineer - Cloudera & AWS Lakehouse",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Data-Engineer-Cloudera-&-AWS-Lakehouse-TX-99999/1422454900/"
@@ -5444,13 +5468,13 @@
       "title": "Inventory Control Analyst",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Born-Inventory-Control-Analyst/1399684933/"
     },
-    "https://jobs.cmacgm-group.com/CEVALogistics/job/Manila-Financial-Analyst/1286980901/": {
-      "title": "Financial Analyst",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Manila-Financial-Analyst/1286980901/"
-    },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Cuautitlan-Izcalli-Pricing-Analyst-Contract-Logistics/1424977833/": {
       "title": "Pricing Analyst - Contract Logistics",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Cuautitlan-Izcalli-Pricing-Analyst-Contract-Logistics/1424977833/"
+    },
+    "https://jobs.cmacgm-group.com/CEVALogistics/job/Manila-Financial-Analyst/1286980901/": {
+      "title": "Financial Analyst",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Manila-Financial-Analyst/1286980901/"
     },
     "https://jobs.cmacgm-group.com/job/Seoul-VIE-Agency-Trade-Analyst-Seoul/1412670433/": {
       "title": "VIE Agency Trade Analyst - Seoul",
@@ -5614,11 +5638,6 @@
       "title": "Primary System Analyst, Off",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Primary-System-Analyst--Off_R-785353",
       "location": "Burlington Massachusetts"
-    },
-    "/job/Quincy-Massachusetts/Cyber-Threat-Intelligence-Analyst_R-793440": {
-      "title": "Cyber Threat Intelligence Analyst",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Cyber-Threat-Intelligence-Analyst_R-793440",
-      "location": "Quincy, Massachusetts"
     },
     "/job/Boston-Massachusetts/Compensation-Analyst--Sr-Associate_R-794801-4": {
       "title": "Compensation Analyst, Sr. Associate",
@@ -6052,6 +6071,11 @@
     }
   },
   "BMO": {
+    "/job/Chicago-IL-USA/Senior-Campaign-Execution-Analyst_R260024120": {
+      "title": "Senior Campaign Execution Analyst",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Senior-Campaign-Execution-Analyst_R260024120",
+      "location": "2 Locations"
+    },
     "/job/Chicago-IL-USA/Analyst--Investment-Banking_R260024690": {
       "title": "Investment Banking Analyst, Loan Syndications",
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Analyst--Investment-Banking_R260024690",
@@ -6149,9 +6173,9 @@
     }
   },
   "Deloitte": {
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Epic-ASAP-Analyst/364122": {
-      "title": "Epic ASAP Analyst",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Epic-ASAP-Analyst/364122"
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Senior-QuickSight-Analytics-Engineer/364185": {
+      "title": "Senior QuickSight Analytics Engineer",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Senior-QuickSight-Analytics-Engineer/364185"
     }
   }
 }
