@@ -1068,12 +1068,6 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
-    "210763112": {
-      "title": "Associate Banker- Multinational Corporations- Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763112",
-      "location": "Boston, MA, United States",
-      "country_code": "US"
-    },
     "210750056": {
       "title": "Financial Analysis Vice President - Card Finance Analytics",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210750056",
@@ -3292,6 +3286,12 @@
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
+    "10457405": {
+      "title": "Risk Analyst, Global Risk & Business Continuity",
+      "url": "https://www.amazon.jobs/en/jobs/10457405/risk-analyst-global-risk-business-continuity",
+      "location": "Arlington, Virginia, USA",
+      "country_code": "USA"
+    },
     "10449161": {
       "title": "Senior Financial Analyst, US Hardlines, US Hardlines",
       "url": "https://www.amazon.jobs/en/jobs/10449161/senior-financial-analyst-us-hardlines-us-hardlines",
@@ -3783,11 +3783,6 @@
       "title": "Resource Planning Analyst",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Work-from-home/Resource-Planning-Analyst_R0972474-1",
       "location": "48 Locations"
-    },
-    "/job/LA---Work-from-home/Senior-Analyst--Health-Care-Quality-Management_R1000429": {
-      "title": "Senior Analyst, Health Care Quality Management",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/LA---Work-from-home/Senior-Analyst--Health-Care-Quality-Management_R1000429",
-      "location": "32 Locations"
     },
     "/job/Chicago-525-West-Monroe/Sr-Analyst-Provider-Services-Recruiter-_R1000859": {
       "title": "Sr Analyst,Provider Services(Recruiter)",
@@ -5391,29 +5386,25 @@
     }
   },
   "Gainwell": {
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Data-Mining-&-Payment-Integrity-Analyst-TX-99999/1357001600/": {
-      "title": "Senior Data Mining & Payment Integrity Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Data-Mining-&-Payment-Integrity-Analyst-TX-99999/1357001600/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Client-Services-Analyst-II-TX-99999/1413068600/": {
       "title": "Client Services Analyst II",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Client-Services-Analyst-II-TX-99999/1413068600/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Data-Engineer-Cloudera-&-AWS-Lakehouse-TX-99999/1422454900/": {
-      "title": "Data Engineer - Cloudera & AWS Lakehouse",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Data-Engineer-Cloudera-&-AWS-Lakehouse-TX-99999/1422454900/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Pharmacy-LA-99999/1422714000/": {
-      "title": "Senior Business Analyst - Pharmacy",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Pharmacy-LA-99999/1422714000/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Data-Mining-&-Payment-Integrity-Analyst-TX-99999/1357001600/": {
+      "title": "Senior Data Mining & Payment Integrity Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Data-Mining-&-Payment-Integrity-Analyst-TX-99999/1357001600/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Workforce-Analytics-&-Power-BI-Analyst-TX-99999/1422527600/": {
       "title": "Senior Workforce Analytics & Power BI Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Workforce-Analytics-&-Power-BI-Analyst-TX-99999/1422527600/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Reporting-Business-Analyst-MO-99999/1403763300/": {
-      "title": "Senior Reporting Business Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Reporting-Business-Analyst-MO-99999/1403763300/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Pharmacy-LA-99999/1422714000/": {
+      "title": "Senior Business Analyst - Pharmacy",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Pharmacy-LA-99999/1422714000/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Data-Engineer-Cloudera-&-AWS-Lakehouse-TX-99999/1422454900/": {
+      "title": "Data Engineer - Cloudera & AWS Lakehouse",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Data-Engineer-Cloudera-&-AWS-Lakehouse-TX-99999/1422454900/"
     }
   },
   "Happen Bank": {
