@@ -4455,15 +4455,15 @@
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/ServiceNow-Business-Analyst---ITSM-and-ITOM_R2602889",
       "location": "Reston, VA"
     },
-    "/job/Reston-VA/ICF-Resources--LLC--Energy-Analyst---Reston--VA_R2602126": {
-      "title": "ICF Resources, LLC: Energy Analyst \u2013 Reston, VA",
-      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/ICF-Resources--LLC--Energy-Analyst---Reston--VA_R2602126",
-      "location": "Reston, VA"
-    },
     "/job/Alexandria-VA/Project-Analyst---SETA-Level-2---Hybrid-Role-_R2602869": {
       "title": "Project Analyst - SETA Level 2, (Hybrid Role)",
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Alexandria-VA/Project-Analyst---SETA-Level-2---Hybrid-Role-_R2602869",
       "location": "Alexandria, VA"
+    },
+    "/job/Reston-VA/ICF-Resources--LLC--Energy-Analyst---Reston--VA_R2602126": {
+      "title": "ICF Resources, LLC: Energy Analyst \u2013 Reston, VA",
+      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/ICF-Resources--LLC--Energy-Analyst---Reston--VA_R2602126",
+      "location": "Reston, VA"
     },
     "/job/Washington-DC/Marketing-and-Communications-Data-Analyst--Top-Secret-cleared-_R2601401": {
       "title": "Marketing and Communications Data Analyst (Top Secret cleared)",
@@ -4711,11 +4711,6 @@
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Washington-DC/Lead-Data-Analyst--Investment-Data-Strategy--Washington-DC-or-Baltimore--MD-_83070",
       "location": "2 Locations"
     },
-    "/job/Baltimore-MD/Senior-Business-Analyst---Investment-Data-Strategy_82743": {
-      "title": "Senior Data Analyst- Investment Data Strategy (Baltimore, MD or Washington DC)",
-      "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Senior-Business-Analyst---Investment-Data-Strategy_82743",
-      "location": "2 Locations"
-    },
     "/job/Owings-Mills-MD/Senior-Infrastructure-Operations-Analyst---Identity-Access-Management_80824": {
       "title": "Senior Infrastructure Operations Analyst \u2013 Identity Access Management",
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Owings-Mills-MD/Senior-Infrastructure-Operations-Analyst---Identity-Access-Management_80824",
@@ -4745,6 +4740,11 @@
       "title": "Analyst, Middle Office Trade Management, Derivatives Operations",
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Analyst--Middle-Office_81670-1",
       "location": "Baltimore, MD"
+    },
+    "/job/Baltimore-MD/Senior-Business-Analyst---Investment-Data-Strategy_82743": {
+      "title": "Senior Data Analyst- Investment Data Strategy (Baltimore, MD or Washington DC)",
+      "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Senior-Business-Analyst---Investment-Data-Strategy_82743",
+      "location": "2 Locations"
     },
     "/job/Owings-Mills-MD/Sr-Analyst--Regulatory-Advisory-Compliance--Fraud-and-AML-_81407": {
       "title": "Sr. Analyst, Regulatory Advisory Compliance (Fraud and AML)",
@@ -5347,17 +5347,13 @@
     }
   },
   "Gainwell": {
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Client-Services-Analyst-II-TX-99999/1413068600/": {
-      "title": "Client Services Analyst II",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Client-Services-Analyst-II-TX-99999/1413068600/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Data-Mining-&-Payment-Integrity-Analyst-TX-99999/1357001600/": {
       "title": "Senior Data Mining & Payment Integrity Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Data-Mining-&-Payment-Integrity-Analyst-TX-99999/1357001600/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-Business-Analyst-IN-99999/1423284200/": {
-      "title": "Early Career Business Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-Business-Analyst-IN-99999/1423284200/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Client-Services-Analyst-II-TX-99999/1413068600/": {
+      "title": "Client Services Analyst II",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Client-Services-Analyst-II-TX-99999/1413068600/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Reimbursement-Analyst-Remote-AZ-99999/1423140000/": {
       "title": "Reimbursement Analyst - Remote",
@@ -5366,6 +5362,10 @@
     "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-CLTS-Business-Lead-VA-99999/1423110900/": {
       "title": "Senior Business Analyst - CLTS Business Lead",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-CLTS-Business-Lead-VA-99999/1423110900/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-Business-Analyst-IN-99999/1423284200/": {
+      "title": "Early Career Business Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-Business-Analyst-IN-99999/1423284200/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Financial-Healthcare-Analyst-Remote-US-SD-99999/1423225400/": {
       "title": "Financial Healthcare Analyst - Remote US",
@@ -6143,6 +6143,11 @@
       "title": "Business Intelligence Sr Data Analyst",
       "url": "https://jobs.lever.co/openx/5f36d307-1d49-4591-a203-8fb6ea9c10d5",
       "location": "US - Remote"
+    },
+    "76945c66-dfbc-4902-bd67-7f38d8fc1214": {
+      "title": "Data Scientist III",
+      "url": "https://jobs.lever.co/openx/76945c66-dfbc-4902-bd67-7f38d8fc1214",
+      "location": "New York, NY"
     },
     "f10b985e-af0d-4586-a00e-bb56cde54318": {
       "title": "FP&A Analyst",
