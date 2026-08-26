@@ -1,5 +1,11 @@
 {
   "JPMorgan Chase": {
+    "210784914": {
+      "title": "U.S. Private Bank - AWM Program Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784914",
+      "location": "Houston, TX, United States",
+      "country_code": "US"
+    },
     "210779660": {
       "title": "Treasury Ops Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779660",
@@ -10,6 +16,12 @@
       "title": "Risk Management - Analytics Solutions, Credit Analytics - Senior Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779656",
       "location": "Plano, TX, United States",
+      "country_code": "US"
+    },
+    "210784931": {
+      "title": "Experience Design, Vice President- Personalization and Insights",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784931",
+      "location": "Brooklyn, NY, United States",
       "country_code": "US"
     },
     "210782511": {
@@ -1278,6 +1290,24 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
+    "210784338": {
+      "title": "Liquidity & Account Solutions- Payments-Business Intelligence & Analytics Data Owner- Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784338",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
+    "210784337": {
+      "title": "Liquidity & Account Solutions- Payments-Business Intelligence & Analytics Data Owner- Executive Director",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784337",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
+    "210760629": {
+      "title": "Data and Analytics - Quant Analytics Senior Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210760629",
+      "location": "Columbus, OH, United States",
+      "country_code": "US"
+    },
     "210780217": {
       "title": "Strategic Analytics Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780217",
@@ -2236,6 +2266,12 @@
       "location": "Herndon, Virginia, USA",
       "country_code": "USA"
     },
+    "10515529": {
+      "title": "Business Analyst, Worldwide Grocery Sustainability",
+      "url": "https://www.amazon.jobs/en/jobs/10515529/business-analyst-worldwide-grocery-sustainability",
+      "location": "Austin, Texas, USA",
+      "country_code": "USA"
+    },
     "10514207": {
       "title": "Case Analyst, Corporate Auto Claims, Corporate Auto Claims and Litigation",
       "url": "https://www.amazon.jobs/en/jobs/10514207/case-analyst-corporate-auto-claims-corporate-auto-claims-and-litigation",
@@ -3136,12 +3172,6 @@
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
-    "10463996": {
-      "title": "Transportation Analyst, STREAM BI",
-      "url": "https://www.amazon.jobs/en/jobs/10463996/transportation-analyst-stream-bi",
-      "location": "Tempe, Arizona, USA",
-      "country_code": "USA"
-    },
     "10464075": {
       "title": "Senior Financial Analyst, Echo Sales and Marketing",
       "url": "https://www.amazon.jobs/en/jobs/10464075/senior-financial-analyst-echo-sales-and-marketing",
@@ -3290,6 +3320,12 @@
       "title": "Business System Analyst, re:Cycle Reverse Logistics",
       "url": "https://www.amazon.jobs/en/jobs/10446173/business-system-analyst-re-cycle-reverse-logistics",
       "location": "Florence, Kentucky, USA",
+      "country_code": "USA"
+    },
+    "10448830": {
+      "title": "Business Analyst, Workforce Staffing Transformations, Workforce Staffing",
+      "url": "https://www.amazon.jobs/en/jobs/10448830/business-analyst-workforce-staffing-transformations-workforce-staffing",
+      "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
     "10455546": {
@@ -3715,6 +3751,21 @@
   },
   "Waters Corporation": {},
   "CVS Health": {
+    "/job/Hartford-Farmington-Ave-Rogers/Senior-Analyst--Dental-Network-Relations_R1007794": {
+      "title": "Senior Analyst, Dental Network Relations",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Hartford-Farmington-Ave-Rogers/Senior-Analyst--Dental-Network-Relations_R1007794",
+      "location": "Hartford-Farmington Ave Rogers"
+    },
+    "/job/Field-Texas/Analyst--Case-Management--Field_R1008523": {
+      "title": "Analyst, Case Management, Field",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Field-Texas/Analyst--Case-Management--Field_R1008523",
+      "location": "Field-Texas"
+    },
+    "/job/VA---Work-from-home/Senior-Data-Engineer---Operational-Reporting---Data-Platforms_R1018114-1": {
+      "title": "Senior Data Engineer \u2013 Operational Reporting & Data Platforms",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/VA---Work-from-home/Senior-Data-Engineer---Operational-Reporting---Data-Platforms_R1018114-1",
+      "location": "VA - Work from home"
+    },
     "/job/FL---Work-from-home/Senior-Business-Analyst---Meritain-Health_R0975346-1": {
       "title": "Senior Business Analyst - Meritain Health",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/FL---Work-from-home/Senior-Business-Analyst---Meritain-Health_R0975346-1",
@@ -4180,11 +4231,6 @@
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Manager---Retail-Planning---Analytics_R0978406",
       "location": "RI - Woonsocket"
     },
-    "/job/Cumberland-200-Highland-Corp/Senior-Analyst--Financial-Planning---Analysis_R0969977-1": {
-      "title": "Senior Analyst, Financial Planning & Analysis",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Cumberland-200-Highland-Corp/Senior-Analyst--Financial-Planning---Analysis_R0969977-1",
-      "location": "50 Locations"
-    },
     "/job/RI---Woonsocket/Retail-Planning---Analytics---Manager_R0921712": {
       "title": "Manager - Retail Planning & Analytics - Individual Contributor",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Retail-Planning---Analytics---Manager_R0921712",
@@ -4312,6 +4358,11 @@
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Supply-Chain-Analyst_R265318",
       "location": "US, MA, Wilmington"
     },
+    "/job/US-MA-Wilmington/Supply-Chain-Analyst-Intern_R265511": {
+      "title": "Supply Chain Analyst Intern",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Supply-Chain-Analyst-Intern_R265511",
+      "location": "2 Locations"
+    },
     "/job/US-MA-Wilmington/Senior-Analyst--Supply-Chain-Planning_R262673": {
       "title": "Senior Analyst, Supply Chain Planning",
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Senior-Analyst--Supply-Chain-Planning_R262673",
@@ -4321,11 +4372,6 @@
       "title": "Lead Analyst, Channel Systems & Projects",
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Lead-Analyst--Channel-Systems---Projects_R263725",
       "location": "US, MA, Wilmington"
-    },
-    "/job/US-OR-Beaverton/Lead-Analyst--Supply-Chain-Planning_R263758": {
-      "title": "Lead Analyst, Supply Chain Planning",
-      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Lead-Analyst--Supply-Chain-Planning_R263758",
-      "location": "2 Locations"
     },
     "/job/US-OR-Beaverton/Lead-Analyst--Supply-Chain-Planning_R264647": {
       "title": "Lead Analyst, Supply Chain Planning",
@@ -5180,11 +5226,6 @@
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Newark/Fraud-Analytics-and-Innovation-Senior-Analyst---Digital-Fraud-Strategies_26019392-2",
       "location": "10 Locations"
     },
-    "/job/New-York/Alternative-Investments-Sales-Strategy-Analyst_26025230-2": {
-      "title": "Alternative Investments Sales Strategy Analyst",
-      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Alternative-Investments-Sales-Strategy-Analyst_26025230-2",
-      "location": "New York"
-    },
     "/job/Charlotte/Risk-Process-Analyst_26027282": {
       "title": "Risk Process Analyst",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Risk-Process-Analyst_26027282",
@@ -5336,17 +5377,17 @@
     }
   },
   "Gainwell": {
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Data-Mining-&-Payment-Integrity-Analyst-TX-99999/1357001600/": {
-      "title": "Senior Data Mining & Payment Integrity Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Data-Mining-&-Payment-Integrity-Analyst-TX-99999/1357001600/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Client-Services-Analyst-II-TX-99999/1413068600/": {
       "title": "Client Services Analyst II",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Client-Services-Analyst-II-TX-99999/1413068600/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Financial-Healthcare-Analyst-Remote-US-SD-99999/1423225400/": {
-      "title": "Financial Healthcare Analyst - Remote US",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Financial-Healthcare-Analyst-Remote-US-SD-99999/1423225400/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Data-Mining-&-Payment-Integrity-Analyst-TX-99999/1357001600/": {
+      "title": "Senior Data Mining & Payment Integrity Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Data-Mining-&-Payment-Integrity-Analyst-TX-99999/1357001600/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-CLTS-Business-Lead-VA-99999/1423110900/": {
+      "title": "Senior Business Analyst - CLTS Business Lead",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-CLTS-Business-Lead-VA-99999/1423110900/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-Business-Analyst-IN-99999/1423284200/": {
       "title": "Early Career Business Analyst",
@@ -5356,9 +5397,9 @@
       "title": "Reimbursement Analyst - Remote",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Reimbursement-Analyst-Remote-AZ-99999/1423140000/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-CLTS-Business-Lead-VA-99999/1423110900/": {
-      "title": "Senior Business Analyst - CLTS Business Lead",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-CLTS-Business-Lead-VA-99999/1423110900/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Financial-Healthcare-Analyst-Remote-US-SD-99999/1423225400/": {
+      "title": "Financial Healthcare Analyst - Remote US",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Financial-Healthcare-Analyst-Remote-US-SD-99999/1423225400/"
     }
   },
   "Happen Bank": {
@@ -5612,11 +5653,6 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Primary-System-Analyst--Off-1_R-785355",
       "location": "Burlington Massachusetts"
     },
-    "/job/Quincy-Massachusetts/Alpha---Mapping-Lead--Vice-President_R-786592": {
-      "title": "Lead Business Analyst, Vice President",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Alpha---Mapping-Lead--Vice-President_R-786592",
-      "location": "3 Locations"
-    },
     "/job/Boston-Massachusetts/Markets-Capital-Optimization-Analyst--Officer_R-788670": {
       "title": "Markets Capital Optimization Analyst, Officer",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Markets-Capital-Optimization-Analyst--Officer_R-788670",
@@ -5717,6 +5753,11 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Alpha-Account-Services-Data-Analyst--Officer_R-796023-1",
       "location": "2 Locations"
     },
+    "/job/Austin-Texas/Application-Development-Business-Data-Analyst-VP_R-794662": {
+      "title": "Application Development Business/Data Analyst-VP",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Austin-Texas/Application-Development-Business-Data-Analyst-VP_R-794662",
+      "location": "Austin, Texas"
+    },
     "/job/Burlington-Massachusetts/Primary-System-Analyst--Charles-River-Development--Assistnat-Vice-President_R-785301": {
       "title": "Primary System Analyst, Charles River Development, Officer",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Primary-System-Analyst--Charles-River-Development--Assistnat-Vice-President_R-785301",
@@ -5816,6 +5857,11 @@
       "title": "Alternatives Business Transformation Business Analyst, Assistant Vice President",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Alternatives-Business-Transformation-Business-Analyst--Assistant-Vice-President_R-786298-1",
       "location": "Quincy, Massachusetts"
+    },
+    "/job/Boston-Massachusetts/Alpha---Mapping-Lead--Vice-President_R-786592": {
+      "title": "Lead Business Analyst, SWIFT / Financial Messaging - Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Alpha---Mapping-Lead--Vice-President_R-786592",
+      "location": "2 Locations"
     },
     "/job/Quincy-Massachusetts/Client-implementation-Analyst--Alpha-Performance--Assistant-Vice-President_R-792639": {
       "title": "Client implementation Analyst, Alpha Performance, Assistant Vice President",
@@ -6131,7 +6177,16 @@
       "location": "Chicago, IL, USA"
     }
   },
-  "Deloitte": {},
+  "Deloitte": {
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Manager-SAP-Data-Analytics/364488": {
+      "title": "Manager \u2013 SAP Data & Analytics",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Manager-SAP-Data-Analytics/364488"
+    },
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Investment-Management-Agreement-Review-Analyst/364478": {
+      "title": "Investment Management Agreement Review Analyst",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Investment-Management-Agreement-Review-Analyst/364478"
+    }
+  },
   "OpenX": {
     "df23b30a-21b5-4055-9698-5b5c2767df3c": {
       "title": "Business Intelligence Data Analyst",
