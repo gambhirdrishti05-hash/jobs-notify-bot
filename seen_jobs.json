@@ -1,5 +1,11 @@
 {
   "JPMorgan Chase": {
+    "210776117": {
+      "title": "Trade Lifecycle Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776117",
+      "location": "Newark, DE, United States",
+      "country_code": "US"
+    },
     "210773070": {
       "title": "Margin and Collateral Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773070",
@@ -1590,12 +1596,6 @@
       "location": "Jersey City, NJ, United States",
       "country_code": "US"
     },
-    "210772563": {
-      "title": "Quant Analytics Associate - Fraud Strategy",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772563",
-      "location": "OH, United States",
-      "country_code": "US"
-    },
     "210741893": {
       "title": "AI/ML Lead Data Engineer - Automation/Image Processing",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210741893",
@@ -2178,6 +2178,11 @@
       "title": "Senior Analyst or Associate - Strategic Advisory (Private Capital Markets)",
       "url": "https://pjtpartners.wd1.myworkdayjobs.com/Careers/job/New-York/Associate---Analyst---Strategic-Advisory--Private-Capital-Markets-_R0003207",
       "location": "New York"
+    },
+    "/job/New-York/Senior-Analyst-Associate---PJT-Park-Hill--Real-Estate---Project-Management-_R0003513": {
+      "title": "Senior Analyst/Associate - PJT Park Hill (Real Estate - Project Management)",
+      "url": "https://pjtpartners.wd1.myworkdayjobs.com/Careers/job/New-York/Senior-Analyst-Associate---PJT-Park-Hill--Real-Estate---Project-Management-_R0003513",
+      "location": "New York"
     }
   },
   "Flowserve": {
@@ -2207,6 +2212,12 @@
     }
   },
   "Amazon": {
+    "10517802": {
+      "title": "Business Analyst, AMZL UTR PPT",
+      "url": "https://www.amazon.jobs/en/jobs/10517802/business-analyst-amzl-utr-ppt",
+      "location": "Nashville, Tennessee, USA",
+      "country_code": "USA"
+    },
     "10517469": {
       "title": "Data Analyst, Returns SX",
       "url": "https://www.amazon.jobs/en/jobs/10517469/data-analyst-returns-sx",
@@ -2495,6 +2506,12 @@
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
+    "10501210": {
+      "title": "Senior Financial Analyst, US NonSort Operations Finance",
+      "url": "https://www.amazon.jobs/en/jobs/10501210/senior-financial-analyst-us-nonsort-operations-finance",
+      "location": "Bellevue, Washington, USA",
+      "country_code": "USA"
+    },
     "10499133": {
       "title": "Senior Financial Analyst, NACF, NACF, USNS",
       "url": "https://www.amazon.jobs/en/jobs/10499133/senior-financial-analyst-nacf-nacf-usns",
@@ -2589,12 +2606,6 @@
       "title": "Business Analyst III - AMZ9898258",
       "url": "https://www.amazon.jobs/en/jobs/10491611/business-analyst-iii-amz9898258",
       "location": "Bellevue, Washington, USA",
-      "country_code": "USA"
-    },
-    "10496560": {
-      "title": "Senior Financial Analyst, NACF Capacity Finance",
-      "url": "https://www.amazon.jobs/en/jobs/10496560/senior-financial-analyst-nacf-capacity-finance",
-      "location": "Irving, Texas, USA",
       "country_code": "USA"
     },
     "10491987": {
@@ -2969,12 +2980,6 @@
       "location": "New York, New York, USA",
       "country_code": "USA"
     },
-    "10475637": {
-      "title": "Amazon Leo Global Contract to Cash - Contract Ops and Billing Analyst, Amazon Leo",
-      "url": "https://www.amazon.jobs/en/jobs/10475637/amazon-leo-global-contract-to-cash-contract-ops-and-billing-analyst-amazon-leo",
-      "location": "Bellevue, Washington, USA",
-      "country_code": "USA"
-    },
     "10490043": {
       "title": "Business Analyst II , FBA Analytics",
       "url": "https://www.amazon.jobs/en/jobs/10490043/business-analyst-ii-fba-analytics",
@@ -3327,6 +3332,12 @@
       "title": "Supplier Funding Business Analyst, WFM Supplier Funding and Analytics",
       "url": "https://www.amazon.jobs/en/jobs/10443579/supplier-funding-business-analyst-wfm-supplier-funding-and-analytics",
       "location": "Austin, Texas, USA",
+      "country_code": "USA"
+    },
+    "10444933": {
+      "title": "Supply Chain Analyst, Amazon Business Operations",
+      "url": "https://www.amazon.jobs/en/jobs/10444933/supply-chain-analyst-amazon-business-operations",
+      "location": "Nashville, Tennessee, USA",
       "country_code": "USA"
     },
     "10442982": {
@@ -3830,11 +3841,6 @@
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Senior-Manager--Business-Analytics_R1016963",
       "location": "CT - Hartford"
     },
-    "/job/Hartford-Farmington-Ave-Rogers/Senior-Analyst--Underwriter_R0998638": {
-      "title": "Senior Analyst, Underwriter",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Hartford-Farmington-Ave-Rogers/Senior-Analyst--Underwriter_R0998638",
-      "location": "4 Locations"
-    },
     "/job/NJ---Lumberton/Operational-Excellence-Analyst_R1011575-1": {
       "title": "Operational Excellence Analyst",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NJ---Lumberton/Operational-Excellence-Analyst_R1011575-1",
@@ -4080,20 +4086,10 @@
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Waverly/Operational-Excellence-Analyst_R0951277",
       "location": "NY - Waverly"
     },
-    "/job/Account-Manager---Analyst_R0978075": {
-      "title": "Account Manager - Analyst",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Account-Manager---Analyst_R0978075",
-      "location": null
-    },
     "/job/FL---Hialeah/Bilingual-Case-Management-Analyst---Field-in-Hileah---Hileah-Gardens--FL_R0963672": {
       "title": "Bilingual Case Management Analyst - Field in Hialeah & Hialeah Gardens, FL",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/FL---Hialeah/Bilingual-Case-Management-Analyst---Field-in-Hileah---Hileah-Gardens--FL_R0963672",
       "location": "FL - Hialeah"
-    },
-    "/job/Business-Financials---Senior-Analyst_R0913863": {
-      "title": "Business Financials - Senior Analyst",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Business-Financials---Senior-Analyst_R0913863",
-      "location": null
     },
     "/job/IL---Northbrook/Senior-Analyst--FP-A_R0983744-1": {
       "title": "Senior Analyst, FP&A",
@@ -4189,11 +4185,6 @@
       "title": "Senior Analyst, Reconciliation COE",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Senior-Analyst--Reconciliation-COE_R0963953",
       "location": "RI - Woonsocket"
-    },
-    "/job/RI---Cumberland/Senior-Analyst--Financial-Planning---Analysis_R0889474": {
-      "title": "Senior Analyst, Financial Planning & Analysis",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Cumberland/Senior-Analyst--Financial-Planning---Analysis_R0889474",
-      "location": "RI - Cumberland"
     },
     "/job/FL---Tampa/Bilingual-Analyst--Case-Management----5-000-New-Hire-Bonus---Field--33603--33604--or-33612_R0915266": {
       "title": "Bilingual Analyst, Case Management - $5,000 New Hire Bonus \u2013 Field, 33603, 33604, or 33612",
@@ -4670,6 +4661,11 @@
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Analyst--Middle-Office_81670-1",
       "location": "Baltimore, MD"
     },
+    "/job/Washington-DC/Lead-Data-Analyst--Investment-Data-Strategy--Washington-DC-or-Baltimore--MD-_83070": {
+      "title": "Lead Data Analyst\u2013 Investment Data Strategy (Washington DC or Baltimore, MD)",
+      "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Washington-DC/Lead-Data-Analyst--Investment-Data-Strategy--Washington-DC-or-Baltimore--MD-_83070",
+      "location": "2 Locations"
+    },
     "/job/Owings-Mills-MD/Sr-Analyst--Regulatory-Advisory-Compliance--Fraud-and-AML-_81407": {
       "title": "Sr. Analyst, Regulatory Advisory Compliance (Fraud and AML)",
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Owings-Mills-MD/Sr-Analyst--Regulatory-Advisory-Compliance--Fraud-and-AML-_81407",
@@ -4684,11 +4680,6 @@
       "title": "Senior Portfolio Investment Analyst \u2013 Multi-Asset and ETFs",
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Senior-Portfolio-Investment-Analyst---Multi-Asset-and-ETFs_82995",
       "location": "Baltimore, MD"
-    },
-    "/job/Washington-DC/Lead-Data-Analyst--Investment-Data-Strategy--Washington-DC-or-Baltimore--MD-_83070": {
-      "title": "Lead Data Analyst\u2013 Investment Data Strategy (Washington DC or Baltimore, MD)",
-      "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Washington-DC/Lead-Data-Analyst--Investment-Data-Strategy--Washington-DC-or-Baltimore--MD-_83070",
-      "location": "2 Locations"
     },
     "/job/Baltimore-MD/Senior-Business-Analyst---Investment-Data-Strategy_82743": {
       "title": "Senior Data Analyst- Investment Data Strategy (Baltimore, MD or Washington DC)",
@@ -5175,11 +5166,6 @@
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chicago/Sr-Quantitative-Finance-Analyst_26023270",
       "location": "Chicago"
     },
-    "/job/New-York/Analyst---Associate--Equity-Research--North-American-Banks_26020945": {
-      "title": "Analyst / Associate: Equity Research, North American Banks",
-      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Analyst---Associate--Equity-Research--North-American-Banks_26020945",
-      "location": "New York"
-    },
     "/job/New-York/Analyst--Associate---Equity-Research--US-Biopharma--Large-Cap---Mid-Cap-_26014984": {
       "title": "Analyst/ Associate - Equity Research, US Biopharma (Large-Cap & Mid-Cap)",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Analyst--Associate---Equity-Research--US-Biopharma--Large-Cap---Mid-Cap-_26014984",
@@ -5265,6 +5251,18 @@
     }
   },
   "Gainwell": {
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Quality-Assurance-Analyst-MI-99999/1391445700/": {
+      "title": "Senior Quality Assurance Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Quality-Assurance-Analyst-MI-99999/1391445700/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-GA-99999/1414357100/": {
+      "title": "Business Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-GA-99999/1414357100/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Healthcare%2C-Programmer-Analyst-TX-99999/1424310500/": {
+      "title": "Healthcare, Programmer Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Healthcare%2C-Programmer-Analyst-TX-99999/1424310500/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Process-Analyst-TX-99999/1423874300/": {
       "title": "Business Process Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Process-Analyst-TX-99999/1423874300/"
@@ -5317,6 +5315,10 @@
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Born-Inventory-Control-Analyst/1399684933/": {
       "title": "Inventory Control Analyst",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Born-Inventory-Control-Analyst/1399684933/"
+    },
+    "https://jobs.cmacgm-group.com/CEVALogistics/job/Greater-Manchester-Level-4-Data-Analyst-Apprentice/1431347233/": {
+      "title": "Level 4 Data Analyst Apprentice",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Greater-Manchester-Level-4-Data-Analyst-Apprentice/1431347233/"
     },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Cuautitlan-Izcalli-Pricing-Analyst-Contract-Logistics/1424977833/": {
       "title": "Pricing Analyst - Contract Logistics",
@@ -5373,10 +5375,6 @@
     "https://jobs.cmacgm-group.com/job/Singapore-Trade-Analyst%2C-Transpacific/1411142733/": {
       "title": "Trade Analyst, Transpacific",
       "url": "https://jobs.cmacgm-group.com/job/Singapore-Trade-Analyst%2C-Transpacific/1411142733/"
-    },
-    "https://jobs.cmacgm-group.com/CEVALogistics/job/Des-Plaines_-Il-Customs-Brokerage-Business-Analyst-IL/1431202033/": {
-      "title": "Customs Brokerage Business Analyst",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Des-Plaines_-Il-Customs-Brokerage-Business-Analyst-IL/1431202033/"
     }
   },
   "Beyond Finance": {
@@ -5444,11 +5442,6 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Systems-Analyst--AVP_R-792361",
       "location": "Burlington Massachusetts"
     },
-    "/job/Sydney-Australia/FIX-Analyst--AVP_R-792800": {
-      "title": "FIX Analyst, AVP",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Sydney-Australia/FIX-Analyst--AVP_R-792800",
-      "location": "2 Locations"
-    },
     "/job/Burlington-Massachusetts/Business-Analyst--AVP_R-784953": {
       "title": "Business Analyst, AVP",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analyst--AVP_R-784953",
@@ -5489,11 +5482,6 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Primary-System-Analyst--Off_R-785353",
       "location": "Burlington Massachusetts"
     },
-    "/job/Boston-Massachusetts/Compensation-Analyst--Sr-Associate_R-794801-4": {
-      "title": "Compensation Analyst, Sr. Associate",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Compensation-Analyst--Sr-Associate_R-794801-4",
-      "location": "Boston, Massachusetts"
-    },
     "/job/Quincy-Massachusetts/Cryptographic-Agility-Surveillance-Analyst_R-795244-1": {
       "title": "Cryptographic Agility Surveillance Analyst",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Cryptographic-Agility-Surveillance-Analyst_R-795244-1",
@@ -5528,6 +5516,11 @@
       "title": "Pricing Analyst , Associate 2",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/OSLPUN-CWTOP456-9/Pricing-Analyst---Associate-2_R-794606-1",
       "location": "OSL/PUN-CWTOP456-9"
+    },
+    "/job/Quincy-Massachusetts/Business-Analyst--Associate-2_R-796881-1": {
+      "title": "Business Analyst, Associate 2",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Business-Analyst--Associate-2_R-796881-1",
+      "location": "Quincy, Massachusetts"
     },
     "/job/Burlington-Massachusetts/Primary-System-Analyst--Off-1_R-785355": {
       "title": "Primary System Analyst, Off-1",
@@ -5578,11 +5571,6 @@
       "title": "Business Analyst \u2013 Data Integration and ETL\u00a0",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analyst-EDM-and-Data-Warhouse-2_R-783215",
       "location": "Burlington Massachusetts"
-    },
-    "/job/Boston-Massachusetts/People-Analytics-Analyst--Assistant-Vice-President_R-789294-3": {
-      "title": "People Analytics Analyst, Assistant Vice President",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/People-Analytics-Analyst--Assistant-Vice-President_R-789294-3",
-      "location": "Boston, Massachusetts"
     },
     "/job/Burlington-Massachusetts/Sr-SaaS-Onboarding-Technical-Analyst--AVP--_R-786596-1": {
       "title": "Sr. SaaS Onboarding Technical Analyst, AVP \u00a0",
@@ -5894,6 +5882,11 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/AI-and-Trading-Analytics-Researcher-AVP_R-792986",
       "location": "Cambridge, Massachusetts"
     },
+    "/job/Hyderabad-India/Data-Engineering-Developer--Senior-Associate_R-796866": {
+      "title": "Data Engineering Developer- Senior Associate",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Data-Engineering-Developer--Senior-Associate_R-796866",
+      "location": "2 Locations"
+    },
     "/job/Kilkenny/Financial-Reporting--Assistant-Vice-President_R-788507": {
       "title": "Financial Reporting, Assistant Vice President",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Kilkenny/Financial-Reporting--Assistant-Vice-President_R-788507",
@@ -5903,6 +5896,11 @@
       "title": "Financial Reporting, Officer",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Financial-Reporting--Officer_R-796356",
       "location": "Quincy, Massachusetts"
+    },
+    "/job/Krakow-Poland/Financial-and-Regulatory-Reporting-Senior-Specialist--Senior-Associate_R-796879-1": {
+      "title": "Financial and Regulatory Reporting Senior Specialist- Senior Associate",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Financial-and-Regulatory-Reporting-Senior-Specialist--Senior-Associate_R-796879-1",
+      "location": "2 Locations"
     },
     "/job/Krakow-Poland/Senior-Risk-Analytics-Products-Developer--Assistant-Vice-President-of-Non-Financial-Risk-Analytics---NFR---hybrid--Krakow-Gdansk_R-791338": {
       "title": "Senior Risk Analytics Products Developer, Assistant Vice President of Non Financial Risk Analytics, (NFR), hybrid, Krakow/Gdansk",
@@ -5922,11 +5920,6 @@
     "/job/Quincy-Massachusetts/SIEM-Data-Engineer_R-794331": {
       "title": "SIEM Data Engineer",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/SIEM-Data-Engineer_R-794331",
-      "location": "Quincy, Massachusetts"
-    },
-    "/job/Quincy-Massachusetts/Senior-SIEM-Data-Engineer_R-794334-1": {
-      "title": "Senior SIEM Data Engineer",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Senior-SIEM-Data-Engineer_R-794334-1",
       "location": "Quincy, Massachusetts"
     },
     "/job/Boston-Massachusetts/Global-Head-of-Insight-Generation-and-AI-Adoption--MD---State-Street-Investment-Management_R-792525": {
@@ -6031,11 +6024,6 @@
       "title": "Analyst, Lending Quality Review, (Bilingual)",
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Analyst--Lending-Quality-Review---Bilingual-_R260023556-1",
       "location": "11 Locations"
-    },
-    "/job/Hinsdale-IL-USA/Client-Service-Analyst_R260017186": {
-      "title": "Client Service Analyst",
-      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Hinsdale-IL-USA/Client-Service-Analyst_R260017186",
-      "location": "Hinsdale, IL, USA"
     },
     "/job/Chicago-IL-USA/Financial-Analyst_R260019299": {
       "title": "Financial Analyst - Dealer Finance",
