@@ -2210,6 +2210,12 @@
     }
   },
   "Flowserve": {
+    "701DE06DD016464B97A03E608F674455": {
+      "title": "It Business Analyst Enterprise Applications",
+      "url": "https://careers.flowserve.com/irving-tx/it-business-analyst-enterprise-applications/701DE06DD016464B97A03E608F674455/job/",
+      "location": "Irving, TX",
+      "country_code": "US"
+    },
     "179B92925D0940E48C00C5C0C7E0D79F": {
       "title": "Data Engineer Denodo",
       "url": "https://careers.flowserve.com/irving-tx/data-engineer-denodo/179B92925D0940E48C00C5C0C7E0D79F/job/",
@@ -2354,12 +2360,6 @@
       "title": "Business Analyst, Integrated Demand Center, AWS Marketing, IDC Analytics, IDC Analytics",
       "url": "https://www.amazon.jobs/en/jobs/10518507/business-analyst-integrated-demand-center-aws-marketing-idc-analytics-idc-analytics",
       "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
-    "10507431": {
-      "title": "Product Safety Assurance Analyst - Perishables, Product Safety Assurance Team, Worldwide Grocery Stores (WWGS), Whole Foods Market NA",
-      "url": "https://www.amazon.jobs/en/jobs/10507431/product-safety-assurance-analyst-perishables-product-safety-assurance-team-worldwide-grocery-stores-wwgs-whole-foods-market-na",
-      "location": "Austin, Texas, USA",
       "country_code": "USA"
     },
     "10507174": {
@@ -4849,28 +4849,7 @@
       "location": "Boston-MA"
     }
   },
-  "WebMD": {
-    "https://jobs.jobvite.com/webmd/job/oJLAAfwo": {
-      "title": "Agentic Workflows Analyst",
-      "url": "https://jobs.jobvite.com/webmd/job/oJLAAfwo"
-    },
-    "https://jobs.jobvite.com/webmd/job/oOvDAfwg": {
-      "title": "Data Analyst",
-      "url": "https://jobs.jobvite.com/webmd/job/oOvDAfwg"
-    },
-    "https://jobs.jobvite.com/webmd/job/obueAfwd": {
-      "title": "Digital Marketing Analyst",
-      "url": "https://jobs.jobvite.com/webmd/job/obueAfwd"
-    },
-    "https://jobs.jobvite.com/webmd/job/oiVRyfwm": {
-      "title": "Director, Competitive Insights and RFP Response",
-      "url": "https://jobs.jobvite.com/webmd/job/oiVRyfwm"
-    },
-    "https://jobs.jobvite.com/webmd/job/o9EyAfwF": {
-      "title": "Manager, Data Analytics",
-      "url": "https://jobs.jobvite.com/webmd/job/o9EyAfwF"
-    }
-  },
+  "WebMD": {},
   "UBS": {},
   "CBRE": {},
   "Carnival Corporation": {
@@ -5265,6 +5244,10 @@
     "https://jobs.gainwelltechnologies.com/job/Any-city-Call-Center-Quality-Assurance-Analyst-Remote-OK-TX-99999/1424696800/": {
       "title": "Call Center Quality Assurance Analyst - Remote OK",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Call-Center-Quality-Assurance-Analyst-Remote-OK-TX-99999/1424696800/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-GA-99999/1414357100/": {
+      "title": "Business Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-GA-99999/1414357100/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Quality-Assurance-Analyst-MI-99999/1391445700/": {
       "title": "Senior Quality Assurance Analyst",
