@@ -3040,12 +3040,6 @@
       "location": "Dallas, Texas, USA",
       "country_code": "USA"
     },
-    "10480422": {
-      "title": "Senior Financial Analyst, AWS Infrastructure Central Finance",
-      "url": "https://www.amazon.jobs/en/jobs/10480422/senior-financial-analyst-aws-infrastructure-central-finance",
-      "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
     "10473229": {
       "title": "AWS Senior Financial Analyst, AWS Central FP&A",
       "url": "https://www.amazon.jobs/en/jobs/10473229/aws-senior-financial-analyst-aws-central-fp-a",
@@ -4074,11 +4068,6 @@
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Case-Management-Analyst---Field---Must-reside-in-Knox-County-Illinois_R0983164",
       "location": null
     },
-    "/job/NY---New-York/Senior-Software-Engineer---Pricing---Promotions-Analytics_R0959432": {
-      "title": "Senior Software Engineer - Pricing & Promotions Analytics",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Senior-Software-Engineer---Pricing---Promotions-Analytics_R0959432",
-      "location": "NY - New York"
-    },
     "/job/IL---Work-from-home/Proposals-Senior-Analyst_R1004236": {
       "title": "Proposals Senior Analyst",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Proposals-Senior-Analyst_R1004236",
@@ -4143,11 +4132,6 @@
       "title": "Rebates Invoicing Analyst",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Northbrook/Rebates-Invoicing-Analyst_R0990999",
       "location": "5 Locations"
-    },
-    "/job/TX---Dallas/Patient-Insurance-Analyst_R0990707": {
-      "title": "Patient Insurance Analyst",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Dallas/Patient-Insurance-Analyst_R0990707",
-      "location": "TX - Dallas"
     },
     "/job/MO---Kansas-City/Operational-Excellence-Analyst_R0970283": {
       "title": "Distribution Center - Operational Excellence Analyst",
@@ -5270,21 +5254,21 @@
     }
   },
   "Gainwell": {
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Call-Center-Quality-Assurance-Analyst-Remote-OK-TX-99999/1424696800/": {
-      "title": "Call Center Quality Assurance Analyst - Remote OK",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Call-Center-Quality-Assurance-Analyst-Remote-OK-TX-99999/1424696800/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Business-Analyst-AR-99999/1388655800/": {
+      "title": "Experienced Business Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Business-Analyst-AR-99999/1388655800/"
     },
     "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Call-Center-Quality-Assurance-Analyst-Remote-CA-CA-95605-1630/1424689700/": {
       "title": "Call Center Quality Assurance Analyst - Remote CA",
       "url": "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Call-Center-Quality-Assurance-Analyst-Remote-CA-CA-95605-1630/1424689700/"
     },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Call-Center-Quality-Assurance-Analyst-Remote-OK-TX-99999/1424696800/": {
+      "title": "Call Center Quality Assurance Analyst - Remote OK",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Call-Center-Quality-Assurance-Analyst-Remote-OK-TX-99999/1424696800/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Quality-Assurance-Analyst-MI-99999/1391445700/": {
       "title": "Senior Quality Assurance Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Quality-Assurance-Analyst-MI-99999/1391445700/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-GA-99999/1414357100/": {
-      "title": "Business Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-GA-99999/1414357100/"
     }
   },
   "Happen Bank": {
@@ -5945,10 +5929,6 @@
     "https://www.capitalonecareers.com/job/mclean/data-analysis-manager-analytics-and-transformation/1732/98634904496": {
       "title": "9863490449608/01/2026Data Analysis Manager - Analytics & TransformationMcLean, VA",
       "url": "https://www.capitalonecareers.com/job/mclean/data-analysis-manager-analytics-and-transformation/1732/98634904496"
-    },
-    "https://www.capitalonecareers.com/job/mclean/senior-data-analyst-card/1732/99043663184": {
-      "title": "9904366318408/28/2026Senior Data Analyst - CardMcLean, VA",
-      "url": "https://www.capitalonecareers.com/job/mclean/senior-data-analyst-card/1732/99043663184"
     }
   },
   "BMO": {
@@ -6011,11 +5991,6 @@
       "title": "Client Service Analyst - Investments",
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/San-Francisco-CA-USA/Client-Service-Analyst--Investment_R260020531",
       "location": "2 Locations"
-    },
-    "/job/REMOTETELETRAVAIL-ON-CAN/Senior-Fund-Analyst---Financial-Reporting_R260010956": {
-      "title": "Senior Fund Analyst - Financial Reporting",
-      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/REMOTETELETRAVAIL-ON-CAN/Senior-Fund-Analyst---Financial-Reporting_R260010956",
-      "location": "REMOTE/TELETRAVAIL, ON, CAN"
     },
     "/job/MONTREAL-QC-CAN/Analyst--Lending-Quality-Review---Bilingual-_R260023556-1": {
       "title": "Analyst, Lending Quality Review, (Bilingual)",
