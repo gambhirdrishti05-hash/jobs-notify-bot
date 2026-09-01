@@ -342,12 +342,6 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
-    "210765789": {
-      "title": "2027 Operations Analyst Program - Summer Analyst (NY Metro & Chicago)",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765789",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
     "210768873": {
       "title": "Global Technology Strategy, Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210768873",
@@ -1044,12 +1038,6 @@
       "location": "Columbus, OH, United States",
       "country_code": "US"
     },
-    "210761733": {
-      "title": "2026-2027 - Commercial & Investment Bank - Markets Equity Research - Part Time Analyst Internship",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761733",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
     "210762305": {
       "title": "Security & Resiliency Initiative, Field Research Analyst, Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762305",
@@ -1566,15 +1554,15 @@
       "location": "Jersey City, NJ, United States",
       "country_code": "US"
     },
-    "210780626": {
-      "title": "Chief Data & Analytics Office- Data Privacy Governance- Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780626",
-      "location": "Jersey City, NJ, United States",
-      "country_code": "US"
-    },
     "210778647": {
       "title": "Audit Chief Data Office - Data Scientist - Senior Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778647",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
+    "210780626": {
+      "title": "Chief Data & Analytics Office- Data Privacy Governance- Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780626",
       "location": "Jersey City, NJ, United States",
       "country_code": "US"
     },
@@ -3893,11 +3881,6 @@
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Underwriting-Analytics---Senior-Analyst_R1014982",
       "location": "3 Locations"
     },
-    "/job/CT---Hartford/Senior-Analyst--Actuarial--ADP-_R0980319": {
-      "title": "Senior Analyst, Actuarial (ADP)",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Senior-Analyst--Actuarial--ADP-_R0980319",
-      "location": "CT - Hartford"
-    },
     "/job/PA---Wyncote/Patient-Relations-Analyst--Float-_R1017948": {
       "title": "Patient Relations Analyst (Float)",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Wyncote/Patient-Relations-Analyst--Float-_R1017948",
@@ -3962,11 +3945,6 @@
       "title": "Business Operations & Project Management, Senior Analyst, Revenue Cycle",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Monroeville/Senior-Analyst--Revenue-Cycle_R0925061-1",
       "location": "PA - Monroeville"
-    },
-    "/job/CT---Hartford/Medicare-Product-Operations-Analyst_R0971728": {
-      "title": "Medicare Product Operations Analyst",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Medicare-Product-Operations-Analyst_R0971728",
-      "location": "2 Locations"
     },
     "/job/CT---Hartford/Senior-Manager--Business-Analytics_R1016963": {
       "title": "Senior Manager, Business Analytics",
@@ -4077,11 +4055,6 @@
       "title": "Configuration Management Senior Analyst",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Work-from-home/Configuration-Management-Senior-Analyst_R1006842",
       "location": "AZ - Work from home"
-    },
-    "/job/TN---Franklin/Underwriter-Analyst_R0979318": {
-      "title": "Underwriter Analyst",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TN---Franklin/Underwriter-Analyst_R0979318",
-      "location": "TN - Franklin"
     },
     "/job/MI---Work-from-home/Senior-EDI-Testing-Analyst_R0990795": {
       "title": "Senior EDI Testing Analyst",
@@ -5265,25 +5238,33 @@
     }
   },
   "Gainwell": {
+    "https://jobs.gainwelltechnologies.com/job/Charleston-Provider-Enrollment-Business-Analyst-Remote-WV-WV-25311/1410148000/": {
+      "title": "Provider Enrollment Business Analyst - Remote WV",
+      "url": "https://jobs.gainwelltechnologies.com/job/Charleston-Provider-Enrollment-Business-Analyst-Remote-WV-WV-25311/1410148000/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Baton-Rouge-Provider-Enrollment-Analyst-Baton-Rouge%2C-LA-LA-70809/1415333100/": {
+      "title": "Provider Enrollment Analyst - Baton Rouge, LA",
+      "url": "https://jobs.gainwelltechnologies.com/job/Baton-Rouge-Provider-Enrollment-Analyst-Baton-Rouge%2C-LA-LA-70809/1415333100/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-Healthcare-UAT-MO-99999/1415526100/": {
+      "title": "Business Analyst - Healthcare - UAT",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-Healthcare-UAT-MO-99999/1415526100/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Bangalore-Data-Science-AI-Engineer%2C-Advisor-KA-560100/1424759200/": {
       "title": "Data Science AI Engineer, Advisor",
       "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Data-Science-AI-Engineer%2C-Advisor-KA-560100/1424759200/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Resource-Manager-California-CA-99999/1425085400/": {
-      "title": "Senior Business Analyst - Resource Manager - California",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Resource-Manager-California-CA-99999/1425085400/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Resource-Manager-California-CA-99999/1425085000/": {
       "title": "Senior Business Analyst - Resource Manager - California",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Resource-Manager-California-CA-99999/1425085000/"
     },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Resource-Manager-California-CA-99999/1425085400/": {
+      "title": "Senior Business Analyst - Resource Manager - California",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Resource-Manager-California-CA-99999/1425085400/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Business-Analyst-AR-99999/1388655800/": {
       "title": "Experienced Business Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Business-Analyst-AR-99999/1388655800/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Call-Center-Quality-Assurance-Analyst-Remote-OK-TX-99999/1424696800/": {
-      "title": "Call Center Quality Assurance Analyst - Remote OK",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Call-Center-Quality-Assurance-Analyst-Remote-OK-TX-99999/1424696800/"
     }
   },
   "Happen Bank": {
@@ -5527,11 +5508,6 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Primary-System-Analyst--Off-1_R-785355",
       "location": "Burlington Massachusetts"
     },
-    "/job/Boston-Massachusetts/Markets-Capital-Optimization-Analyst--Officer_R-788670": {
-      "title": "Markets Capital Optimization Analyst, Officer",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Markets-Capital-Optimization-Analyst--Officer_R-788670",
-      "location": "Boston, Massachusetts"
-    },
     "/job/Clifton-New-Jersey/Quantitative-Analyst--Assistant-Vice-President_R-790888-1": {
       "title": "Quantitative Analyst, Assistant Vice President",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Clifton-New-Jersey/Quantitative-Analyst--Assistant-Vice-President_R-790888-1",
@@ -5607,6 +5583,11 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Asset-Stewardship-Analyst--Assistant-Vice-President-_R-796988-1",
       "location": "Boston, Massachusetts"
     },
+    "/job/Irvine-California/Senior-Business-Analyst--Assistant-Vice-President_R-793212": {
+      "title": "Senior Business Analyst, Assistant Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Senior-Business-Analyst--Assistant-Vice-President_R-793212",
+      "location": "Irvine, California"
+    },
     "/job/Burlington-Massachusetts/Primary-System-Analyst--Charles-River-Development--Assistnat-Vice-President_R-785301": {
       "title": "Primary System Analyst, Charles River Development, Officer",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Primary-System-Analyst--Charles-River-Development--Assistnat-Vice-President_R-785301",
@@ -5621,11 +5602,6 @@
       "title": "Regulatory Advisory and Optimization Analyst, Officer, Onsite",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Regulatory-Advisory-and-Optimization-Analyst--Officer--Onsite_R-788926-1",
       "location": "Boston, Massachusetts"
-    },
-    "/job/Quincy-Massachusetts/Technology-Application-Support-Analyst--Vice-President_R-790089": {
-      "title": "Technology Application Support Analyst, Assistant Vice President",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Technology-Application-Support-Analyst--Vice-President_R-790089",
-      "location": "Quincy, Massachusetts"
     },
     "/job/Burlington-Massachusetts/AI-Platform-SME--AVP_R-792291-1": {
       "title": "AI Product Business Analyst - AI Enablement, AVP",
@@ -5847,6 +5823,11 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Financial-and-Regulatory-Reporting-Senior-Specialist--Senior-Associate_R-796879-1",
       "location": "2 Locations"
     },
+    "/job/Krakow-Poland/Financial-and-Regulatory-Reporting-Senior-Specialist--Senior-Associate_R-797024": {
+      "title": "Financial and Regulatory Reporting Senior Specialist- Senior Associate",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Financial-and-Regulatory-Reporting-Senior-Specialist--Senior-Associate_R-797024",
+      "location": "2 Locations"
+    },
     "/job/Boston-Massachusetts/Data-Analytics_R-794351": {
       "title": "Data Analytics",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Data-Analytics_R-794351",
@@ -5883,16 +5864,7 @@
       "location": "Quincy, Massachusetts"
     }
   },
-  "Capital One": {
-    "https://www.capitalonecareers.com/job/new-york/staff-engineer-developer-insights-and-ai-telemetry/1732/98813408224": {
-      "title": "9881340822408/05/2026Staff Engineer -Developer Insights & AI TelemetryNew York, NY",
-      "url": "https://www.capitalonecareers.com/job/new-york/staff-engineer-developer-insights-and-ai-telemetry/1732/98813408224"
-    },
-    "https://www.capitalonecareers.com/job/mclean/lead-data-engineer-python-aws-spark-kafka-sql-snowflake-databricks-genai/1732/99996779408": {
-      "title": "9999677940808/31/2026Lead Data Engineer (Python, AWS, Spark, Kafka, SQL, Snowflake, Databricks, GenAI)McLean, VA",
-      "url": "https://www.capitalonecareers.com/job/mclean/lead-data-engineer-python-aws-spark-kafka-sql-snowflake-databricks-genai/1732/99996779408"
-    }
-  },
+  "Capital One": {},
   "BMO": {
     "/job/New-York-NY-USA/Investment-Banking-Analyst--Technology_R260025060-1": {
       "title": "Investment Banking Analyst, Technology",
@@ -5973,11 +5945,6 @@
       "title": "Sr Solution Architect - (Data & Analytics / Cloud/ AI)",
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Naperville-IL-USA/Sr-Solution-Architect----Data---Analytics---Cloud--AI-_R260024288",
       "location": "Naperville, IL, USA"
-    },
-    "/job/Chicago-IL-USA/Principal-Data-Scientist_R260008807-1": {
-      "title": "Principal Data Scientist",
-      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Principal-Data-Scientist_R260008807-1",
-      "location": "Chicago, IL, USA"
     }
   },
   "Deloitte": {
