@@ -2260,10 +2260,22 @@
       "location": "Bellevue, Washington, USA",
       "country_code": "USA"
     },
+    "10523025": {
+      "title": "Senior Financial Analyst, AWS Sales Finance",
+      "url": "https://www.amazon.jobs/en/jobs/10523025/senior-financial-analyst-aws-sales-finance",
+      "location": "New York, New York, USA",
+      "country_code": "USA"
+    },
     "10522490": {
       "title": "Financial Analyst, Reverse Logistics Finance",
       "url": "https://www.amazon.jobs/en/jobs/10522490/financial-analyst-reverse-logistics-finance",
       "location": "Sunnyvale, California, USA",
+      "country_code": "USA"
+    },
+    "10523022": {
+      "title": "Sr. Financial Analyst , S3/Glacier Finance",
+      "url": "https://www.amazon.jobs/en/jobs/10523022/sr-financial-analyst-s3-glacier-finance",
+      "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
     "10515127": {
@@ -5505,6 +5517,11 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/OSLPUN-CWTOP456-9/Pricing-Analyst---Associate-2_R-794606-1",
       "location": "OSL/PUN-CWTOP456-9"
     },
+    "/job/Irvine-California/Senior-Business-Analyst---AVP_R-793213-2": {
+      "title": "Senior Business Analyst , AVP",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Senior-Business-Analyst---AVP_R-793213-2",
+      "location": "Irvine, California"
+    },
     "/job/Burlington-Massachusetts/Primary-System-Analyst--Off-1_R-785355": {
       "title": "Primary System Analyst, Off-1",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Primary-System-Analyst--Off-1_R-785355",
@@ -5964,6 +5981,10 @@
     }
   },
   "Deloitte": {
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Delivery-Analyst-OSINT-Investigations/365086": {
+      "title": "Delivery Analyst, OSINT Investigations",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Delivery-Analyst-OSINT-Investigations/365086"
+    },
     "https://apply.deloitte.com/en_US/careers/JobDetail/Medical-Sr-Analyst-Government-Public-Services/365063": {
       "title": "Medical Sr. Analyst - Government & Public Services",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Medical-Sr-Analyst-Government-Public-Services/365063"
@@ -5971,10 +5992,6 @@
     "https://apply.deloitte.com/en_US/careers/JobDetail/Medical-Sr-Analyst-Government-Public-Services/365056": {
       "title": "Medical Sr. Analyst - Government & Public Services",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Medical-Sr-Analyst-Government-Public-Services/365056"
-    },
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Cyber-Oracle-Cloud-Security-Analyst-Security-Engineer-I/365046": {
-      "title": "Cyber Oracle Cloud Security \u2013 Analyst / Security Engineer I",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Cyber-Oracle-Cloud-Security-Analyst-Security-Engineer-I/365046"
     }
   },
   "OpenX": {
