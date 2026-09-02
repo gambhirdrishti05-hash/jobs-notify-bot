@@ -258,12 +258,6 @@
       "location": "Newark, DE, United States",
       "country_code": "US"
     },
-    "210779836": {
-      "title": "Trade Lifecycle Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779836",
-      "location": "Newark, DE, United States",
-      "country_code": "US"
-    },
     "210778284": {
       "title": "Mineral Property Analyst - Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778284",
@@ -1230,6 +1224,12 @@
       "location": "Washington, DC, United States",
       "country_code": "US"
     },
+    "210784865": {
+      "title": "Software Engineer III - Data Engineer",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784865",
+      "location": "Plano, TX, United States",
+      "country_code": "US"
+    },
     "210781614": {
       "title": "Liquidity & Account Solutions -  Business Intelligence & Analytics Program Manager- Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781614",
@@ -1311,7 +1311,7 @@
     "210781447": {
       "title": "Quant Analytics Associate Senior - Fraud Strategy",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781447",
-      "location": "OH, United States",
+      "location": "Columbus, OH, United States",
       "country_code": "US"
     },
     "210777675": {
@@ -2188,11 +2188,6 @@
     }
   },
   "SEL": {
-    "/job/Indiana---West-Lafayette/Inventory-Analyst_2026-22638": {
-      "title": "Inventory Analyst",
-      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Indiana---West-Lafayette/Inventory-Analyst_2026-22638",
-      "location": "Indiana - West Lafayette"
-    },
     "/job/Washington---Pullman/Data-Engineer_2026-20940-1": {
       "title": "Data Engineer",
       "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Data-Engineer_2026-20940-1",
@@ -2228,6 +2223,12 @@
       "title": "Amazon Air - FP&A Senior Finance Analyst, Amazon Air FP&A",
       "url": "https://www.amazon.jobs/en/jobs/10526605/amazon-air-fp-a-senior-finance-analyst-amazon-air-fp-a",
       "location": "Bellevue, Washington, USA",
+      "country_code": "USA"
+    },
+    "10526892": {
+      "title": "Financial Analyst, Amazon MGM Studios FP&A",
+      "url": "https://www.amazon.jobs/en/jobs/10526892/financial-analyst-amazon-mgm-studios-fp-a",
+      "location": "Culver City, California, USA",
       "country_code": "USA"
     },
     "10526325": {
@@ -2302,16 +2303,10 @@
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
-    "10515127": {
-      "title": "Business Analyst, Amazon Logistics, AMZL OTR Planning",
-      "url": "https://www.amazon.jobs/en/jobs/10515127/business-analyst-amazon-logistics-amzl-otr-planning",
-      "location": "Nashville, Tennessee, USA",
-      "country_code": "USA"
-    },
-    "10515065": {
-      "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
-      "url": "https://www.amazon.jobs/en/jobs/10515065/business-analyst-north-america-surface-transportation-customer-experience-nast-cx",
-      "location": "Atlanta, Georgia, USA",
+    "10526743": {
+      "title": "Senior Escalations Analyst, Platform Experience",
+      "url": "https://www.amazon.jobs/en/jobs/10526743/senior-escalations-analyst-platform-experience",
+      "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
     "10525043": {
@@ -2410,12 +2405,6 @@
       "location": "Arlington, Virginia, USA",
       "country_code": "USA"
     },
-    "10516199": {
-      "title": "Financial Analyst III, Amazon Logistics",
-      "url": "https://www.amazon.jobs/en/jobs/10516199/financial-analyst-iii-amazon-logistics",
-      "location": "Irving, Texas, USA",
-      "country_code": "USA"
-    },
     "10510956": {
       "title": "Sr. Financial Analyst, Amazon Business Finance",
       "url": "https://www.amazon.jobs/en/jobs/10510956/sr-financial-analyst-amazon-business-finance",
@@ -2479,7 +2468,7 @@
     "10503640": {
       "title": "Senior Financial Analyst, Amazon Freight Finance",
       "url": "https://www.amazon.jobs/en/jobs/10503640/senior-financial-analyst-amazon-freight-finance",
-      "location": "Bellevue, Washington, USA",
+      "location": "Irving, Texas, USA",
       "country_code": "USA"
     },
     "10505292": {
@@ -2594,6 +2583,12 @@
       "title": "Freight Audit Payment Analyst, ISCAP - Var",
       "url": "https://www.amazon.jobs/en/jobs/10513030/freight-audit-payment-analyst-iscap-var",
       "location": "Bellevue, Washington, USA",
+      "country_code": "USA"
+    },
+    "10526767": {
+      "title": "Sr. Financial Analyst, Creator Services, Amazon Music Finance",
+      "url": "https://www.amazon.jobs/en/jobs/10526767/sr-financial-analyst-creator-services-amazon-music-finance",
+      "location": "Culver City, California, USA",
       "country_code": "USA"
     },
     "10498619": {
@@ -2896,12 +2891,6 @@
       "location": "Austin, Texas, USA",
       "country_code": "USA"
     },
-    "10486824": {
-      "title": "Sr. Financial Analyst, Amazon Business Finance",
-      "url": "https://www.amazon.jobs/en/jobs/10486824/sr-financial-analyst-amazon-business-finance",
-      "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
     "10483835": {
       "title": "Sales Strategy & Execution - Tech Analyst, WWPS Shared Services Org",
       "url": "https://www.amazon.jobs/en/jobs/10483835/sales-strategy-execution-tech-analyst-wwps-shared-services-org",
@@ -3118,12 +3107,6 @@
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
-    "10470746": {
-      "title": "Business Analyst, Amazon Logistics, AMZL OTR Planning",
-      "url": "https://www.amazon.jobs/en/jobs/10470746/business-analyst-amazon-logistics-amzl-otr-planning",
-      "location": "Nashville, Tennessee, USA",
-      "country_code": "USA"
-    },
     "10485239": {
       "title": "Senior Financial Analyst, North America Stores Fixed Marketing",
       "url": "https://www.amazon.jobs/en/jobs/10485239/senior-financial-analyst-north-america-stores-fixed-marketing",
@@ -3334,6 +3317,12 @@
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
+    "10458131": {
+      "title": "Senior Financial Analyst, TSSL Operations Finance",
+      "url": "https://www.amazon.jobs/en/jobs/10458131/senior-financial-analyst-tssl-operations-finance",
+      "location": "Irving, Texas, USA",
+      "country_code": "USA"
+    },
     "10457022": {
       "title": "Business Analyst II, Relay Product & Tech, Relay Product and Tech",
       "url": "https://www.amazon.jobs/en/jobs/10457022/business-analyst-ii-relay-product-tech-relay-product-and-tech",
@@ -3442,12 +3431,6 @@
       "location": "Bellevue, Washington, USA",
       "country_code": "USA"
     },
-    "10433467": {
-      "title": "Data Engineer, WW Pricing - Data & Analytics",
-      "url": "https://www.amazon.jobs/en/jobs/10433467/data-engineer-ww-pricing-data-analytics",
-      "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
     "10437863": {
       "title": "Intelligence Analyst II, Buyer Threat Intelligence Unit",
       "url": "https://www.amazon.jobs/en/jobs/10437863/intelligence-analyst-ii-buyer-threat-intelligence-unit",
@@ -3506,6 +3489,12 @@
       "title": "Senior Financial Analyst, FP&A, ISS FP&A",
       "url": "https://www.amazon.jobs/en/jobs/10423985/senior-financial-analyst-fp-a-iss-fp-a",
       "location": "Seattle, Washington, USA",
+      "country_code": "USA"
+    },
+    "10412045": {
+      "title": "Senior Financial Analyst, Corporate Development Finance",
+      "url": "https://www.amazon.jobs/en/jobs/10412045/senior-financial-analyst-corporate-development-finance",
+      "location": "New York, New York, USA",
       "country_code": "USA"
     },
     "10408909": {
@@ -3727,6 +3716,11 @@
   },
   "Waters Corporation": {},
   "CVS Health": {
+    "/job/IL---Northbrook/Analyst--Inventory_R1021723": {
+      "title": "Analyst, Inventory",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Northbrook/Analyst--Inventory_R1021723",
+      "location": "IL - Northbrook"
+    },
     "/job/TX---Work-from-home/Analyst--Resource-Planning_R1025059-1": {
       "title": "Analyst, Resource Planning",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Analyst--Resource-Planning_R1025059-1",
@@ -3866,11 +3860,6 @@
       "title": "Bilingual Case Management Analyst -  Field in Osceola County & Surrounding Areas, FL",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Field-Florida/Bilingual-Case-Management-Analyst----Field-in-Osceola-County---Surrounding-Areas--FL_R1007626",
       "location": "Field-Florida"
-    },
-    "/job/IL---Work-from-home/Sr-Analyst--Stars-Regional-Performance_R1010507-1": {
-      "title": "Sr Analyst, Stars Regional Performance",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Sr-Analyst--Stars-Regional-Performance_R1010507-1",
-      "location": "IL - Work from home"
     },
     "/job/Case-Management-Analyst---Field---Must-reside-in-Knox-County-Illinois_R0983164": {
       "title": "Case Management Analyst - Field - Must reside in Knox County Illinois",
@@ -4056,11 +4045,6 @@
       "title": "Analyst, FP&A \u2013 Medicare/Medicaid COGS & Network Performance",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Analyst--FP-A---Medicare-Medicaid-COGS---Network-Performance_R1007910",
       "location": "CT - Hartford"
-    },
-    "/job/AZ---Tucson/Analyst-Patient-Relations_R1009306": {
-      "title": "Analyst,Patient Relations",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Tucson/Analyst-Patient-Relations_R1009306",
-      "location": "AZ - Tucson"
     },
     "/job/RI---Cumberland/Senior-Analyst--FP-A_R1002750": {
       "title": "Senior Analyst, FP&A",
@@ -4460,6 +4444,11 @@
     }
   },
   "White & Case LLP": {
+    "/job/Tampa/Analyst--Finance-Transformation_JR102994": {
+      "title": "Analyst, Finance Transformation",
+      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/Tampa/Analyst--Finance-Transformation_JR102994",
+      "location": "Tampa"
+    },
     "/job/New-York/Senior-Analyst--Strategy_JR102960-1": {
       "title": "Senior Analyst, Strategy",
       "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/New-York/Senior-Analyst--Strategy_JR102960-1",
@@ -4795,11 +4784,6 @@
       "title": "Biostatistician 1",
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Biostatistician-1_RQ4078036-1",
       "location": "Somerville-MA"
-    },
-    "/job/Boston-MA/Data-Scientist-Pulmonary-Research_RQ4078174": {
-      "title": "Data Scientist Pulmonary Research",
-      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Data-Scientist-Pulmonary-Research_RQ4078174",
-      "location": "Boston-MA"
     },
     "/job/Somerville-MA/HR-Business-Intelligence-Manager_RQ4068878": {
       "title": "Workday Business Intelligence Manager",
@@ -5265,17 +5249,13 @@
       "title": "Reporting Analyst - Remote CA",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Reporting-Analyst-Remote-CA-CA-99999/1425770400/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Irving-Advisor%2C-Programmer-Analyst-TX-75038/1426019500/": {
-      "title": "Advisor, Programmer Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Irving-Advisor%2C-Programmer-Analyst-TX-75038/1426019500/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Preferred-Drug-List-%28PDL%29-IL-99999/1426079900/": {
       "title": "Senior Business Analyst - Preferred Drug List (PDL)",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Preferred-Drug-List-%28PDL%29-IL-99999/1426079900/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Baton-Rouge-Provider-Enrollment-Analyst-Baton-Rouge%2C-LA-LA-70809/1415333100/": {
-      "title": "Provider Enrollment Analyst - Baton Rouge, LA",
-      "url": "https://jobs.gainwelltechnologies.com/job/Baton-Rouge-Provider-Enrollment-Analyst-Baton-Rouge%2C-LA-LA-70809/1415333100/"
+    "https://jobs.gainwelltechnologies.com/job/Irving-Advisor%2C-Programmer-Analyst-TX-75038/1426019500/": {
+      "title": "Advisor, Programmer Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Irving-Advisor%2C-Programmer-Analyst-TX-75038/1426019500/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-Healthcare-UAT-MO-99999/1415526100/": {
       "title": "Business Analyst - Healthcare - UAT",
@@ -5285,6 +5265,10 @@
       "title": "Provider Enrollment Business Analyst - Remote WV",
       "url": "https://jobs.gainwelltechnologies.com/job/Charleston-Provider-Enrollment-Business-Analyst-Remote-WV-WV-25311/1410148000/"
     },
+    "https://jobs.gainwelltechnologies.com/job/Baton-Rouge-Provider-Enrollment-Analyst-Baton-Rouge%2C-LA-LA-70809/1415333100/": {
+      "title": "Provider Enrollment Analyst - Baton Rouge, LA",
+      "url": "https://jobs.gainwelltechnologies.com/job/Baton-Rouge-Provider-Enrollment-Analyst-Baton-Rouge%2C-LA-LA-70809/1415333100/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Business-Analyst-BPM-Trainer-eLearning-PA-99999/1425563600/": {
       "title": "Advisor Business Analyst - BPM Trainer / eLearning",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Business-Analyst-BPM-Trainer-eLearning-PA-99999/1425563600/"
@@ -5292,10 +5276,6 @@
     "https://jobs.gainwelltechnologies.com/job/Bangalore-Data-Science-AI-Engineer%2C-Advisor-KA-560100/1424759200/": {
       "title": "Data Science AI Engineer, Advisor",
       "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Data-Science-AI-Engineer%2C-Advisor-KA-560100/1424759200/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Resource-Manager-California-CA-99999/1425085400/": {
-      "title": "Senior Business Analyst - Resource Manager - California",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Resource-Manager-California-CA-99999/1425085400/"
     }
   },
   "Happen Bank": {
@@ -5337,13 +5317,13 @@
       "title": "Level 4 Data Analyst Apprentice",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Greater-Manchester-Level-4-Data-Analyst-Apprentice/1431347233/"
     },
-    "https://jobs.cmacgm-group.com/CEVALogistics/job/Manila-Financial-Analyst/1286980901/": {
-      "title": "Financial Analyst",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Manila-Financial-Analyst/1286980901/"
-    },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Cuautitlan-Izcalli-Pricing-Analyst-Contract-Logistics/1424977833/": {
       "title": "Pricing Analyst - Contract Logistics",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Cuautitlan-Izcalli-Pricing-Analyst-Contract-Logistics/1424977833/"
+    },
+    "https://jobs.cmacgm-group.com/CEVALogistics/job/Manila-Financial-Analyst/1286980901/": {
+      "title": "Financial Analyst",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Manila-Financial-Analyst/1286980901/"
     },
     "https://jobs.cmacgm-group.com/job/Seoul-VIE-Agency-Trade-Analyst-Seoul/1412670433/": {
       "title": "VIE Agency Trade Analyst - Seoul",
@@ -5491,11 +5471,6 @@
     "/job/Burlington-Massachusetts/Senior-Business-Analyst_R-794985": {
       "title": "Senior Business Analyst",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Senior-Business-Analyst_R-794985",
-      "location": "Burlington Massachusetts"
-    },
-    "/job/Burlington-Massachusetts/Primary-System-Analyst--Off_R-785357": {
-      "title": "Primary System Analyst, Off",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Primary-System-Analyst--Off_R-785357",
       "location": "Burlington Massachusetts"
     },
     "/job/Burlington-Massachusetts/Primary-System-Analyst--Off_R-785353": {
@@ -5915,24 +5890,21 @@
     }
   },
   "Capital One": {
-    "https://www.capitalonecareers.com/job/mclean/business-director-product-strategy-and-analytics-assistance-and-ai/1732/100083510224": {
-      "title": "10008351022409/02/2026Business Director,  Product Strategy & Analytics (Assistance & AI)McLean, VA",
-      "url": "https://www.capitalonecareers.com/job/mclean/business-director-product-strategy-and-analytics-assistance-and-ai/1732/100083510224"
+    "https://www.capitalonecareers.com/job/mclean/sr-business-analyst-compliance/1732/100095713168": {
+      "title": "10009571316809/02/2026Sr. Business Analyst - ComplianceMcLean, VA",
+      "url": "https://www.capitalonecareers.com/job/mclean/sr-business-analyst-compliance/1732/100095713168"
     },
-    "https://www.capitalonecareers.com/job/richmond/senior-manager-data-science-us-card-upmarket-segments/1732/94347672624": {
-      "title": "9434767262409/02/2026Senior Manager, Data Science - US Card (Upmarket Segments)Richmond, VA",
-      "url": "https://www.capitalonecareers.com/job/richmond/senior-manager-data-science-us-card-upmarket-segments/1732/94347672624"
-    },
-    "https://www.capitalonecareers.com/job/mclean/principal-financial-analyst-business-cards-and-payments/1732/97143092352": {
-      "title": "9714309235209/02/2026Principal Financial Analyst (Business Cards & Payments)McLean, VA",
-      "url": "https://www.capitalonecareers.com/job/mclean/principal-financial-analyst-business-cards-and-payments/1732/97143092352"
-    },
-    "https://www.capitalonecareers.com/job/mclean/senior-associate-data-scientist-people-strategy-and-analytics/1732/96519761696": {
-      "title": "9651976169609/02/2026Senior Associate, Data Scientist - People Strategy & AnalyticsMcLean, VA",
-      "url": "https://www.capitalonecareers.com/job/mclean/senior-associate-data-scientist-people-strategy-and-analytics/1732/96519761696"
+    "https://www.capitalonecareers.com/job/mclean/senior-data-analyst-us-card/1732/96621293552": {
+      "title": "9662129355209/02/2026Senior Data Analyst - US CardMcLean, VA",
+      "url": "https://www.capitalonecareers.com/job/mclean/senior-data-analyst-us-card/1732/96621293552"
     }
   },
   "BMO": {
+    "/job/Los-Angeles-CA-USA/Commercial-Analyst-Development-Program---Los-Angeles-Newport-Beach--CA--Summer-2027-_R260025801": {
+      "title": "Commercial Analyst Development Program - Los Angeles/Newport Beach, CA (New Grad 2027)",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Los-Angeles-CA-USA/Commercial-Analyst-Development-Program---Los-Angeles-Newport-Beach--CA--Summer-2027-_R260025801",
+      "location": "2 Locations"
+    },
     "/job/Halifax-NS-CAN/Portfolio-Analyst_R260025556": {
       "title": "Portfolio Analyst",
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Halifax-NS-CAN/Portfolio-Analyst_R260025556",
@@ -5997,11 +5969,6 @@
       "title": "Commercial Analyst Development Program - Atlanta, GA (New Grad 2027)",
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Atlanta-GA-USA/Commercial-Analyst-Development-Program---Atlanta--GA--New-Grad-2027-_R260025591",
       "location": "Atlanta, GA, USA"
-    },
-    "/job/Los-Angeles-CA-USA/Commercial-Analyst-Development-Program---Los-Angeles-Newport-Beach--CA--Summer-2027-_R260025801": {
-      "title": "Commercial Analyst Development Program - Los Angeles/Newport Beach, CA (Summer 2027)",
-      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Los-Angeles-CA-USA/Commercial-Analyst-Development-Program---Los-Angeles-Newport-Beach--CA--Summer-2027-_R260025801",
-      "location": "2 Locations"
     },
     "/job/San-Francisco-CA-USA/Client-Service-Analyst--Investment_R260020531": {
       "title": "Client Service Analyst - Investments",
@@ -6087,10 +6054,6 @@
     "https://apply.deloitte.com/en_US/careers/JobDetail/OneStream-Reporting-Specialist-Developer-Senior-Consultant/365440": {
       "title": "OneStream Reporting Specialist Developer, Senior Consultant",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/OneStream-Reporting-Specialist-Developer-Senior-Consultant/365440"
-    },
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Finance-Analytics-AI-Manager/365425": {
-      "title": "Finance Analytics & AI Manager",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Finance-Analytics-AI-Manager/365425"
     }
   },
   "OpenX": {
