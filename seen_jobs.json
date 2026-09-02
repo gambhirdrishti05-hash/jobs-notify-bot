@@ -12,12 +12,6 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
-    "210786767": {
-      "title": "Fraud Analyst-Bilingual in English/Portuguese",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210786767",
-      "location": "Tampa, FL, United States",
-      "country_code": "US"
-    },
     "210780627": {
       "title": "Market Asset Services Income Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780627",
@@ -1230,6 +1224,12 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
+    "210784618": {
+      "title": "Stakeholder Insights, Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784618",
+      "location": "Washington, DC, United States",
+      "country_code": "US"
+    },
     "210781614": {
       "title": "Liquidity & Account Solutions -  Business Intelligence & Analytics Program Manager- Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781614",
@@ -1384,12 +1384,6 @@
       "title": "Data Engineer III - Python/PySpark/Databricks/AI",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758864",
       "location": "GA, United States",
-      "country_code": "US"
-    },
-    "210784338": {
-      "title": "Liquidity & Account Solutions- Payments-Business Intelligence & Analytics Data Owner- Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784338",
-      "location": "Jersey City, NJ, United States",
       "country_code": "US"
     },
     "210784337": {
@@ -2260,18 +2254,6 @@
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
-    "10522977": {
-      "title": "Financial Analyst II, IMDb",
-      "url": "https://www.amazon.jobs/en/jobs/10522977/financial-analyst-ii-imdb",
-      "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
-    "10521278": {
-      "title": "Data Scientist I, Amazon Currency Convertor",
-      "url": "https://www.amazon.jobs/en/jobs/10521278/data-scientist-i-amazon-currency-convertor",
-      "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
     "10517469": {
       "title": "Data Analyst, Returns SX",
       "url": "https://www.amazon.jobs/en/jobs/10517469/data-analyst-returns-sx",
@@ -2318,6 +2300,12 @@
       "title": "Business Analyst, North America Surface Transportation Customer Experience (NAST CX)",
       "url": "https://www.amazon.jobs/en/jobs/10515065/business-analyst-north-america-surface-transportation-customer-experience-nast-cx",
       "location": "Atlanta, Georgia, USA",
+      "country_code": "USA"
+    },
+    "10525043": {
+      "title": "Sr Configuration Analyst/Manager, Mechanical Engineering, Configuration Management",
+      "url": "https://www.amazon.jobs/en/jobs/10525043/sr-configuration-analyst-manager-mechanical-engineering-configuration-management",
+      "location": "Redmond, Washington, USA",
       "country_code": "USA"
     },
     "10517096": {
@@ -3019,12 +3007,6 @@
     "10480421": {
       "title": "Senior Financial Analyst, AWS Supply Chain Finance",
       "url": "https://www.amazon.jobs/en/jobs/10480421/senior-financial-analyst-aws-supply-chain-finance",
-      "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
-    "10480746": {
-      "title": "Senior Lead, Analyst Relations, Sustainability, Worldwide Sustainability",
-      "url": "https://www.amazon.jobs/en/jobs/10480746/senior-lead-analyst-relations-sustainability-worldwide-sustainability",
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
@@ -4137,11 +4119,6 @@
     }
   },
   "Analog Devices": {
-    "/job/US-MA-Wilmington/Buyer--Procurement_R263815": {
-      "title": "Procurement Analyst \u2013 Facilities",
-      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Buyer--Procurement_R263815",
-      "location": "US, MA, Wilmington"
-    },
     "/job/US-MA-Wilmington/Supply-Chain-Analyst_R260869": {
       "title": "Supply Chain Analyst",
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Supply-Chain-Analyst_R260869",
@@ -5231,13 +5208,13 @@
     }
   },
   "Gainwell": {
-    "https://jobs.gainwelltechnologies.com/job/Charleston-Provider-Enrollment-Business-Analyst-Remote-WV-WV-25311/1410148000/": {
-      "title": "Provider Enrollment Business Analyst - Remote WV",
-      "url": "https://jobs.gainwelltechnologies.com/job/Charleston-Provider-Enrollment-Business-Analyst-Remote-WV-WV-25311/1410148000/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Baton-Rouge-Provider-Enrollment-Analyst-Baton-Rouge%2C-LA-LA-70809/1415333100/": {
       "title": "Provider Enrollment Analyst - Baton Rouge, LA",
       "url": "https://jobs.gainwelltechnologies.com/job/Baton-Rouge-Provider-Enrollment-Analyst-Baton-Rouge%2C-LA-LA-70809/1415333100/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Charleston-Provider-Enrollment-Business-Analyst-Remote-WV-WV-25311/1410148000/": {
+      "title": "Provider Enrollment Business Analyst - Remote WV",
+      "url": "https://jobs.gainwelltechnologies.com/job/Charleston-Provider-Enrollment-Business-Analyst-Remote-WV-WV-25311/1410148000/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-Healthcare-UAT-MO-99999/1415526100/": {
       "title": "Business Analyst - Healthcare - UAT",
@@ -5251,13 +5228,13 @@
       "title": "Data Science AI Engineer, Advisor",
       "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Data-Science-AI-Engineer%2C-Advisor-KA-560100/1424759200/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Resource-Manager-California-CA-99999/1425085400/": {
-      "title": "Senior Business Analyst - Resource Manager - California",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Resource-Manager-California-CA-99999/1425085400/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Resource-Manager-California-CA-99999/1425085000/": {
       "title": "Senior Business Analyst - Resource Manager - California",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Resource-Manager-California-CA-99999/1425085000/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Resource-Manager-California-CA-99999/1425085400/": {
+      "title": "Senior Business Analyst - Resource Manager - California",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Resource-Manager-California-CA-99999/1425085400/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Business-Analyst-AR-99999/1388655800/": {
       "title": "Experienced Business Analyst",
@@ -5857,9 +5834,9 @@
     }
   },
   "Capital One": {
-    "https://www.capitalonecareers.com/job/mclean/manager-process-manager-consumer-behavior-analytics/1732/100033485456": {
-      "title": "10003348545609/01/2026Manager, Process Manager - Consumer Behavior AnalyticsMcLean, VA",
-      "url": "https://www.capitalonecareers.com/job/mclean/manager-process-manager-consumer-behavior-analytics/1732/100033485456"
+    "https://www.capitalonecareers.com/job/riverwoods/r247170-principal-data-analyst-bin-iin-management-open/1732/100045810976": {
+      "title": "10004581097609/01/2026R247170 Principal Data Analyst - BIN/IIN Management (Open)Riverwoods, IL",
+      "url": "https://www.capitalonecareers.com/job/riverwoods/r247170-principal-data-analyst-bin-iin-management-open/1732/100045810976"
     }
   },
   "BMO": {
@@ -5994,16 +5971,7 @@
       "location": "Naperville, IL, USA"
     }
   },
-  "Deloitte": {
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-AI-Data-Engineering-Winter-2027/365230": {
-      "title": "Consultative Offerings - Government & Public Services - Analyst - AI & Data Engineering - Winter 2027",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-AI-Data-Engineering-Winter-2027/365230"
-    },
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Software-Engineering-Winter-2027/365228": {
-      "title": "Consultative Offerings - Government & Public Services - Analyst - Software Engineering - Winter 2027",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Software-Engineering-Winter-2027/365228"
-    }
-  },
+  "Deloitte": {},
   "OpenX": {
     "df23b30a-21b5-4055-9698-5b5c2767df3c": {
       "title": "Business Intelligence Data Analyst",
