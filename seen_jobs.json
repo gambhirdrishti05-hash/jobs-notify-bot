@@ -306,22 +306,10 @@
       "location": "Charlotte, NC, United States",
       "country_code": "US"
     },
-    "210781099": {
-      "title": "Quant Analytics [Multiple Positions Available]",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781099",
-      "location": "Columbus, OH, United States",
-      "country_code": "US"
-    },
     "210781300": {
       "title": "Data Scientist [Multiple Positions Available]",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781300",
       "location": "Jacksonville, FL, United States",
-      "country_code": "US"
-    },
-    "210779179": {
-      "title": "Analytic Solutions [Multiple Positions Available]",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779179",
-      "location": "New York, NY, United States",
       "country_code": "US"
     },
     "210782168": {
@@ -895,7 +883,7 @@
       "country_code": "US"
     },
     "210765547": {
-      "title": "2027 Internal Audit Analyst Program - Summer Analyst Opportunity",
+      "title": "2027 Internal Audit Analyst Program - Summer Intern Opportunity",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765547",
       "location": "Jersey City, NJ, United States",
       "country_code": "US"
@@ -1914,24 +1902,6 @@
       "location": "Plano, TX, United States",
       "country_code": "US"
     },
-    "210742090": {
-      "title": "External Reporting Controller, Senior Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742090",
-      "location": "Columbus, OH, United States",
-      "country_code": "US"
-    },
-    "210764789": {
-      "title": "Voice Product Analytics\u00a0- Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764789",
-      "location": "Columbus, OH, United States",
-      "country_code": "US"
-    },
-    "210766317": {
-      "title": "Risk Third Party Services and Analytics - Product Delivery Manager - Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766317",
-      "location": "Wilmington, DE, United States",
-      "country_code": "US"
-    },
     "210774710": {
       "title": "Lead Software Engineer - Data Engineer and Applied AI",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774710",
@@ -2020,6 +1990,24 @@
       "title": "Vice President, Sports & Entertainment Marketing Strategy & Insights",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781227",
       "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210742090": {
+      "title": "External Reporting Controller, Senior Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742090",
+      "location": "Columbus, OH, United States",
+      "country_code": "US"
+    },
+    "210764789": {
+      "title": "Voice Product Analytics\u00a0- Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764789",
+      "location": "Columbus, OH, United States",
+      "country_code": "US"
+    },
+    "210766317": {
+      "title": "Risk Third Party Services and Analytics - Product Delivery Manager - Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766317",
+      "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
     "210767475": {
@@ -2631,6 +2619,12 @@
       "title": "Data Analyst, Global Tax Services, Global Tax Services - Data Ops",
       "url": "https://www.amazon.jobs/en/jobs/10504910/data-analyst-global-tax-services-global-tax-services-data-ops",
       "location": "Seattle, Washington, USA",
+      "country_code": "USA"
+    },
+    "10501855": {
+      "title": "Senior Financial Analyst, WW Ops Finance",
+      "url": "https://www.amazon.jobs/en/jobs/10501855/senior-financial-analyst-ww-ops-finance",
+      "location": "Bellevue, Washington, USA",
       "country_code": "USA"
     },
     "10508014": {
@@ -3968,11 +3962,6 @@
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/FL---Orlando/Senior-Analyst--Operational-Excellence--Industrial-Engineering---Labor-Management-Systems-_R0976855",
       "location": "FL - Orlando"
     },
-    "/job/AZ---Work-from-home/Senior-Analyst--Business-Analytics_R1020718": {
-      "title": "Senior Analyst, Business Analytics",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Work-from-home/Senior-Analyst--Business-Analytics_R1020718",
-      "location": "25 Locations"
-    },
     "/job/RI---Woonsocket/Construction-and-Property-Senior-Financial-Analyst_R1024889": {
       "title": "Construction and Property Senior Financial Analyst",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Construction-and-Property-Senior-Financial-Analyst_R1024889",
@@ -4177,16 +4166,6 @@
       "title": "Accounting Analyst",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Cumberland/Accounting-Analyst_R0890658",
       "location": "2 Locations"
-    },
-    "/job/AZ---Work-from-home/Configuration-Management-Senior-Analyst_R1006805": {
-      "title": "Configuration Management Senior Analyst",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Work-from-home/Configuration-Management-Senior-Analyst_R1006805",
-      "location": "AZ - Work from home"
-    },
-    "/job/AZ---Work-from-home/Configuration-Management-Senior-Analyst_R1006842": {
-      "title": "Configuration Management Senior Analyst",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Work-from-home/Configuration-Management-Senior-Analyst_R1006842",
-      "location": "AZ - Work from home"
     },
     "/job/Work-At-Home-Illinois/Senior-Analyst--FP-A---Admin--Transaction---Broker-Fees_R1000843": {
       "title": "Senior Analyst, FP&A \u2013 Admin, Transaction & Broker Fees",
@@ -5314,6 +5293,14 @@
     }
   },
   "Gainwell": {
+    "https://jobs.gainwelltechnologies.com/job/Williston-Financial-Analyst%2C-Accounts-Receivable-&-Payable-Williston%2C-VT-%28HYBRID%29-VT-05495/1416640200/": {
+      "title": "Financial Analyst, Accounts Receivable & Payable Williston, VT (HYBRID)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Williston-Financial-Analyst%2C-Accounts-Receivable-&-Payable-Williston%2C-VT-%28HYBRID%29-VT-05495/1416640200/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Healthcare-RI-99999/1416859100/": {
+      "title": "Senior Business Analyst - Healthcare",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Healthcare-RI-99999/1416859100/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Principal-Provider-Integration-&-Analytics-Delivery-Manager-TX-99999/1397834200/": {
       "title": "Principal Provider Integration & Analytics Delivery Manager",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Principal-Provider-Integration-&-Analytics-Delivery-Manager-TX-99999/1397834200/"
@@ -5321,14 +5308,6 @@
     "https://jobs.gainwelltechnologies.com/job/Any-city-Invoice-Business-Analyst-Remote-US-CT-99999/1426490900/": {
       "title": "Invoice Business Analyst Remote US",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Invoice-Business-Analyst-Remote-US-CT-99999/1426490900/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Professional-Business-Analyst-TX-99999/1426439800/": {
-      "title": "Senior Professional Business Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Professional-Business-Analyst-TX-99999/1426439800/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Farmington-Claims-and-Financial-Analyst-Hybrid-CT-06032/1426599800/": {
-      "title": "Claims and Financial Analyst Hybrid",
-      "url": "https://jobs.gainwelltechnologies.com/job/Farmington-Claims-and-Financial-Analyst-Hybrid-CT-06032/1426599800/"
     }
   },
   "Happen Bank": {
@@ -5359,6 +5338,10 @@
     }
   },
   "CEVA Logistics": {
+    "https://jobs.cmacgm-group.com/job/Rhoon-Commercial-Analytics-Manager/1397315433/": {
+      "title": "Commercial Analytics Manager",
+      "url": "https://jobs.cmacgm-group.com/job/Rhoon-Commercial-Analytics-Manager/1397315433/"
+    },
     "https://jobs.cmacgm-group.com/job/Norfolk-Va-Reporting-Analyst-VA-23501/1425406633/": {
       "title": "Reporting Analyst",
       "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Reporting-Analyst-VA-23501/1425406633/"
@@ -5403,6 +5386,10 @@
       "title": "Healthcare Airfreight Pricing Analyst",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/London-Heathrow-Healthcare-Airfreight-Pricing-Analyst/1433067233/"
     },
+    "https://jobs.cmacgm-group.com/CEVALogistics/job/Courbevoie-Data-Insight-and-Innovation-Specialist-EUROPE/1433801333/": {
+      "title": "Data Insight and Innovation Specialist EUROPE",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Courbevoie-Data-Insight-and-Innovation-Specialist-EUROPE/1433801333/"
+    },
     "https://jobs.cmacgm-group.com/job/Auckland-Marketing-&-Data-Analyst-%28NZ%29/1426822133/": {
       "title": "Marketing & Data Analyst (NZ)",
       "url": "https://jobs.cmacgm-group.com/job/Auckland-Marketing-&-Data-Analyst-%28NZ%29/1426822133/"
@@ -5419,13 +5406,13 @@
       "title": "IT Analyst II - BW2 - Mt. Juliet, TN",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Mt_-Juliet_-Tn-IT-Analyst-II-BW2-Mt_-Juliet%2C-TN-TN-37121/1430564033/"
     },
+    "https://jobs.cmacgm-group.com/CEVALogistics/job/Tilburg-Data-Analyst/1433934633/": {
+      "title": "Data Analyst",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Tilburg-Data-Analyst/1433934633/"
+    },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Mississauga-On-Pricing-Analyst-ON/1423463833/": {
       "title": "Pricing Analyst",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Mississauga-On-Pricing-Analyst-ON/1423463833/"
-    },
-    "https://jobs.cmacgm-group.com/CEVALogistics/job/Gro%C3%9Fbeeren-Business-Intelligence-Specialist-%28mwd%29/1420413533/": {
-      "title": "Business Intelligence Specialist (m/w/d)",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Gro%C3%9Fbeeren-Business-Intelligence-Specialist-%28mwd%29/1420413533/"
     },
     "https://jobs.cmacgm-group.com/job/Petaling-Jaya-Senior-Analyst%2C-Tax-%28Pillar-2%29/1433674833/": {
       "title": "Senior Analyst, Tax (Pillar 2)",
@@ -5434,10 +5421,6 @@
     "https://jobs.cmacgm-group.com/job/Petaling-Jaya-Senior-Analyst%2C-Accounting-Operations/1433671333/": {
       "title": "Senior Analyst, Accounting Operations",
       "url": "https://jobs.cmacgm-group.com/job/Petaling-Jaya-Senior-Analyst%2C-Accounting-Operations/1433671333/"
-    },
-    "https://jobs.cmacgm-group.com/job/Norfolk-Va-Trade-Analyst-VA-23501/1425410533/": {
-      "title": "Trade Analyst",
-      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Trade-Analyst-VA-23501/1425410533/"
     }
   },
   "Beyond Finance": {
@@ -5585,9 +5568,9 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Depositary-Analyst--Associate-1_R-797128-1",
       "location": "2 Locations"
     },
-    "/job/OSLPUN-CWTOP456-9/Pricing-Analyst---Associate-1_R-794623-1": {
-      "title": "Pricing Analyst , Associate 1",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/OSLPUN-CWTOP456-9/Pricing-Analyst---Associate-1_R-794623-1",
+    "/job/OSLPUN-CWTOP456-9/Pricing-Analyst--Associate-2_R-794708-1": {
+      "title": "Pricing Analyst, Associate 2",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/OSLPUN-CWTOP456-9/Pricing-Analyst--Associate-2_R-794708-1",
       "location": "OSL/PUN-CWTOP456-9"
     },
     "/job/Burlington-Massachusetts/Primary-System-Analyst--Off-1_R-785355": {
@@ -5723,11 +5706,6 @@
     "/job/Boston-Massachusetts/Wealth-Transaction-Monitoring-Lead-Analyst--Vice-President_R-796662": {
       "title": "Wealth Transaction Monitoring Lead Analyst, Vice President",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Wealth-Transaction-Monitoring-Lead-Analyst--Vice-President_R-796662",
-      "location": "2 Locations"
-    },
-    "/job/Krakow-Poland/Alpha-Account-Services-Data-Analyst--hybrid--Officer_R-794975-1": {
-      "title": "Alpha Account Services Data Analyst, hybrid, Officer",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Alpha-Account-Services-Data-Analyst--hybrid--Officer_R-794975-1",
       "location": "2 Locations"
     },
     "/job/Quincy-Massachusetts/Alternatives-Business-Transformation-Business-Analyst--Assistant-Vice-President_R-786297": {
@@ -5920,11 +5898,6 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Senior-Risk-Analytics-Products-Developer--Assistant-Vice-President-of-Non-Financial-Risk-Analytics---NFR---hybrid--Krakow-Gdansk_R-791338",
       "location": "2 Locations"
     },
-    "/job/Boston-Massachusetts/Data-Analytics_R-794351": {
-      "title": "Data Analytics",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Data-Analytics_R-794351",
-      "location": "Boston, Massachusetts"
-    },
     "/job/Krakow-Poland/Senior-Lead-of-Risk-Analytics-Products-Delivery---Operations---Non-Financial-Risk-Analytics--NFR---Vice-President_R-792049": {
       "title": "Senior Lead of Risk Analytics Products Delivery & Operations,  Non-Financial Risk Analytics (NFR), Vice President",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Senior-Lead-of-Risk-Analytics-Products-Delivery---Operations---Non-Financial-Risk-Analytics--NFR---Vice-President_R-792049",
@@ -6096,11 +6069,6 @@
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/San-Francisco-CA-USA/Investment-Banking-Analyst--Technology_R260022435",
       "location": "San Francisco, CA, USA"
     },
-    "/job/Chicago-IL-USA/Analyst--Global-Markets-Corporate-Banking_R260020696": {
-      "title": "Analyst, Global Markets Corporate Banking",
-      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Analyst--Global-Markets-Corporate-Banking_R260020696",
-      "location": "Chicago, IL, USA"
-    },
     "/job/Naperville-IL-USA/Sr-Solution-Architect----Data---Analytics---Cloud--AI-_R260024288": {
       "title": "Sr Solution Architect - (Data & Analytics / Cloud/ AI)",
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Naperville-IL-USA/Sr-Solution-Architect----Data---Analytics---Cloud--AI-_R260024288",
@@ -6111,10 +6079,6 @@
     "https://apply.deloitte.com/en_US/careers/JobDetail/Lead-Data-Engineer-II/365629": {
       "title": "Lead Data Engineer II",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Lead-Data-Engineer-II/365629"
-    },
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Performance-Cost-Improvement-Analyst/365586": {
-      "title": "Performance & Cost Improvement Analyst",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Performance-Cost-Improvement-Analyst/365586"
     }
   },
   "OpenX": {
