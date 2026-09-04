@@ -3317,12 +3317,6 @@
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
-    "10467988": {
-      "title": "Business Analyst, Amazon Logistics, AMZL OTR Planning",
-      "url": "https://www.amazon.jobs/en/jobs/10467988/business-analyst-amazon-logistics-amzl-otr-planning",
-      "location": "Nashville, Tennessee, USA",
-      "country_code": "USA"
-    },
     "10456137": {
       "title": "Senior Finance Analyst, Prime Video Advertising",
       "url": "https://www.amazon.jobs/en/jobs/10456137/senior-finance-analyst-prime-video-advertising",
@@ -3752,6 +3746,11 @@
   },
   "Waters Corporation": {},
   "CVS Health": {
+    "/job/RI---Work-from-home/Senior-Analyst--Enterprise-Workforce-Management_R1026518": {
+      "title": "Senior Analyst, Enterprise Workforce Management",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Work-from-home/Senior-Analyst--Enterprise-Workforce-Management_R1026518",
+      "location": "RI - Work from home"
+    },
     "/job/CT---Hartford/SR-ANALYST--ACTUARIAL--ADP-_R1022296": {
       "title": "SR ANALYST, ACTUARIAL (ADP)",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/SR-ANALYST--ACTUARIAL--ADP-_R1022296",
@@ -4318,11 +4317,6 @@
       "title": "Sr. Supply Chain Cost Analyst - Aerospace & Defense Electronics",
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Elizabeth/Supply-Chain-Analyst_R264173",
       "location": "US, MA, Chelmsford, Elizabeth"
-    },
-    "/job/US-MA-Wilmington/Lead-Analyst--ADI-eShop---eCommerce-Distribution-Operations-and-Analytics_R262479": {
-      "title": "Lead Analyst, ADI eShop & eCommerce Distribution Operations and Analytics",
-      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Lead-Analyst--ADI-eShop---eCommerce-Distribution-Operations-and-Analytics_R262479",
-      "location": "US, MA, Wilmington"
     },
     "/job/US-CA-San-Jose-Rio-Robles/Principal-Data-Engineer_R265296": {
       "title": "Principal Data Engineer",
@@ -4998,6 +4992,11 @@
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Senior-Private-Credit-Fund-Analyst_26022599",
       "location": "New York"
     },
+    "/job/Charlotte/Merchant-Portfolio-Analyst---Implementation-Specialist_26032800": {
+      "title": "Merchant Portfolio Analyst - Implementation Specialist",
+      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Merchant-Portfolio-Analyst---Implementation-Specialist_26032800",
+      "location": "3 Locations"
+    },
     "/job/Jacksonville/Transaction-Management-Operations-Analyst---Investment-and-Monetary-Controls--Wealth-Management-Operations-_26031644-2": {
       "title": "Transaction Management Operations Analyst - Investment and Monetary Controls (Wealth Management Operations)",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jacksonville/Transaction-Management-Operations-Analyst---Investment-and-Monetary-Controls--Wealth-Management-Operations-_26031644-2",
@@ -5289,10 +5288,6 @@
     "https://jobs.gainwelltechnologies.com/job/Any-city-Principal-Provider-Integration-&-Analytics-Delivery-Manager-TX-99999/1397834200/": {
       "title": "Principal Provider Integration & Analytics Delivery Manager",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Principal-Provider-Integration-&-Analytics-Delivery-Manager-TX-99999/1397834200/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Invoice-Business-Analyst-Remote-US-CT-99999/1426490900/": {
-      "title": "Invoice Business Analyst Remote US",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Invoice-Business-Analyst-Remote-US-CT-99999/1426490900/"
     }
   },
   "Happen Bank": {
@@ -5367,13 +5362,13 @@
       "title": "Global CRM Business Analyst Expert",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Marseille-Global-CRM-Business-Analyst-Expert/1386384333/"
     },
-    "https://jobs.cmacgm-group.com/CEVALogistics/job/London-Heathrow-Healthcare-Airfreight-Pricing-Analyst/1433067233/": {
-      "title": "Healthcare Airfreight Pricing Analyst",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/London-Heathrow-Healthcare-Airfreight-Pricing-Analyst/1433067233/"
-    },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Courbevoie-Data-Insight-and-Innovation-Specialist-EUROPE/1433801333/": {
       "title": "Data Insight and Innovation Specialist EUROPE",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Courbevoie-Data-Insight-and-Innovation-Specialist-EUROPE/1433801333/"
+    },
+    "https://jobs.cmacgm-group.com/CEVALogistics/job/London-Heathrow-Healthcare-Airfreight-Pricing-Analyst/1433067233/": {
+      "title": "Healthcare Airfreight Pricing Analyst",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/London-Heathrow-Healthcare-Airfreight-Pricing-Analyst/1433067233/"
     },
     "https://jobs.cmacgm-group.com/job/Auckland-Marketing-&-Data-Analyst-%28NZ%29/1426822133/": {
       "title": "Marketing & Data Analyst (NZ)",
@@ -5399,13 +5394,13 @@
       "title": "Pricing Analyst",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Mississauga-On-Pricing-Analyst-ON/1423463833/"
     },
-    "https://jobs.cmacgm-group.com/job/Petaling-Jaya-Senior-Analyst%2C-Tax-%28Pillar-2%29/1433674833/": {
-      "title": "Senior Analyst, Tax (Pillar 2)",
-      "url": "https://jobs.cmacgm-group.com/job/Petaling-Jaya-Senior-Analyst%2C-Tax-%28Pillar-2%29/1433674833/"
-    },
     "https://jobs.cmacgm-group.com/job/Petaling-Jaya-Senior-Analyst%2C-Accounting-Operations/1433671333/": {
       "title": "Senior Analyst, Accounting Operations",
       "url": "https://jobs.cmacgm-group.com/job/Petaling-Jaya-Senior-Analyst%2C-Accounting-Operations/1433671333/"
+    },
+    "https://jobs.cmacgm-group.com/job/Petaling-Jaya-Senior-Analyst%2C-Tax-%28Pillar-2%29/1433674833/": {
+      "title": "Senior Analyst, Tax (Pillar 2)",
+      "url": "https://jobs.cmacgm-group.com/job/Petaling-Jaya-Senior-Analyst%2C-Tax-%28Pillar-2%29/1433674833/"
     }
   },
   "Beyond Finance": {
@@ -5572,11 +5567,6 @@
       "title": "Machine Learning Quantitative Research Analyst",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/Machine-Learning-Quantitative-Research-Analyst_R-793399",
       "location": "Cambridge, Massachusetts"
-    },
-    "/job/Gdansk-Poland/Senior-Depositary-Analyst---Associate-2_R-795562-1": {
-      "title": "Senior Depositary Analyst , Associate 2",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Senior-Depositary-Analyst---Associate-2_R-795562-1",
-      "location": "2 Locations"
     },
     "/job/Boston-Massachusetts/GlobalLink---Product-Business-Analyst---AVP_R-795827-1": {
       "title": "GlobalLink - Product/Business Analyst - AVP",
@@ -5895,6 +5885,10 @@
     }
   },
   "Capital One": {
+    "https://www.capitalonecareers.com/job/richmond/capital-markets-and-risk-analyst-finance-risk-management/1732/100187928560": {
+      "title": "10018792856009/04/2026Capital Markets & Risk Analyst - Finance Risk ManagementRichmond, VA",
+      "url": "https://www.capitalonecareers.com/job/richmond/capital-markets-and-risk-analyst-finance-risk-management/1732/100187928560"
+    },
     "https://www.capitalonecareers.com/job/new-york/senior-manager-data-science-ai-foundations/1732/100175950208": {
       "title": "10017595020809/04/2026Senior Manager, Data Science - AI FoundationsNew York, NY",
       "url": "https://www.capitalonecareers.com/job/new-york/senior-manager-data-science-ai-foundations/1732/100175950208"
@@ -6042,12 +6036,7 @@
       "location": "Naperville, IL, USA"
     }
   },
-  "Deloitte": {
-    "https://apply.deloitte.com/en_US/careers/JobDetail/OCM-Analyst/365713": {
-      "title": "OCM Analyst",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/OCM-Analyst/365713"
-    }
-  },
+  "Deloitte": {},
   "OpenX": {
     "df23b30a-21b5-4055-9698-5b5c2767df3c": {
       "title": "Business Intelligence Data Analyst",
@@ -6060,10 +6049,5 @@
       "location": "Los Angeles, CA"
     }
   },
-  "AbbVibe": {
-    "https://careers.abbvie.com/en/job/technical-analytical-specialist-in-sligo-so-jid-32790": {
-      "title": "Technical Analytical Specialist",
-      "url": "https://careers.abbvie.com/en/job/technical-analytical-specialist-in-sligo-so-jid-32790"
-    }
-  }
+  "AbbVibe": {}
 }
