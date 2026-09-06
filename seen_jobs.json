@@ -2180,12 +2180,6 @@
     }
   },
   "Flowserve": {
-    "701DE06DD016464B97A03E608F674455": {
-      "title": "It Business Analyst Enterprise Applications",
-      "url": "https://careers.flowserve.com/irving-tx/it-business-analyst-enterprise-applications/701DE06DD016464B97A03E608F674455/job/",
-      "location": "Irving, TX",
-      "country_code": "US"
-    },
     "179B92925D0940E48C00C5C0C7E0D79F": {
       "title": "Data Engineer Denodo",
       "url": "https://careers.flowserve.com/irving-tx/data-engineer-denodo/179B92925D0940E48C00C5C0C7E0D79F/job/",
@@ -2196,6 +2190,36 @@
       "title": "Data Engineer Ms Fabric",
       "url": "https://careers.flowserve.com/irving-tx/data-engineer-ms-fabric/F0A761FDDF7048B9AAB918E55CC2FBEB/job/",
       "location": "Irving, TX",
+      "country_code": "US"
+    },
+    "9BE2E1AA3D444A8F95487CFDC0081CC6": {
+      "title": "It Business Analyst Enterprise Applications",
+      "url": "https://careers.flowserve.com/irving-tx/it-business-analyst-enterprise-applications/9BE2E1AA3D444A8F95487CFDC0081CC6/job/",
+      "location": "Irving, TX",
+      "country_code": "US"
+    },
+    "0ACC7095775D496BBB80667AC0230440": {
+      "title": "Senior Business Analyst",
+      "url": "https://careers.flowserve.com/houston-tx/senior-business-analyst/0ACC7095775D496BBB80667AC0230440/job/",
+      "location": "Houston, TX",
+      "country_code": "US"
+    },
+    "2F09EC5CE2F642498316A5BB320B9920": {
+      "title": "Senior Business Analyst",
+      "url": "https://careers.flowserve.com/pasadena-tx/senior-business-analyst/2F09EC5CE2F642498316A5BB320B9920/job/",
+      "location": "Pasadena, TX",
+      "country_code": "US"
+    },
+    "A0B9924C3BB940E39C55E344D66C797E": {
+      "title": "Senior Business Analyst",
+      "url": "https://careers.flowserve.com/moosic-pa/senior-business-analyst/A0B9924C3BB940E39C55E344D66C797E/job/",
+      "location": "Moosic, PA",
+      "country_code": "US"
+    },
+    "EC50C121E2EB4D47A2E2905D7389BD47": {
+      "title": "Senior Business Analyst",
+      "url": "https://careers.flowserve.com/bethlehem-pa/senior-business-analyst/EC50C121E2EB4D47A2E2905D7389BD47/job/",
+      "location": "Bethlehem, PA",
       "country_code": "US"
     }
   },
