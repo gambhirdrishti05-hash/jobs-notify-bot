@@ -2453,12 +2453,6 @@
       "location": "Culver City, California, USA",
       "country_code": "USA"
     },
-    "10510534": {
-      "title": "UAT Automation Analyst, Amazon Web Services",
-      "url": "https://www.amazon.jobs/en/jobs/10510534/uat-automation-analyst-amazon-web-services",
-      "location": "Arlington, Virginia, USA",
-      "country_code": "USA"
-    },
     "10510956": {
       "title": "Sr. Financial Analyst, Amazon Business Finance",
       "url": "https://www.amazon.jobs/en/jobs/10510956/sr-financial-analyst-amazon-business-finance",
@@ -2559,12 +2553,6 @@
       "title": "Senior Financial Analyst, Sustainability Finance",
       "url": "https://www.amazon.jobs/en/jobs/10507439/senior-financial-analyst-sustainability-finance",
       "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
-    "10505531": {
-      "title": "Senior Financial Analyst, North America Sales Finance",
-      "url": "https://www.amazon.jobs/en/jobs/10505531/senior-financial-analyst-north-america-sales-finance",
-      "location": "New York, New York, USA",
       "country_code": "USA"
     },
     "10501098": {
@@ -3065,12 +3053,6 @@
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
-    "10478761": {
-      "title": "Protective Intel Analyst, GRIS Protective Intel",
-      "url": "https://www.amazon.jobs/en/jobs/10478761/protective-intel-analyst-gris-protective-intel",
-      "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
     "10479205": {
       "title": "Protective Intel Analyst, GRIS Protective Intel",
       "url": "https://www.amazon.jobs/en/jobs/10479205/protective-intel-analyst-gris-protective-intel",
@@ -3141,6 +3123,12 @@
       "title": "Senior Finance Analyst, WW Ops FP&A - strategic planning",
       "url": "https://www.amazon.jobs/en/jobs/10493522/senior-finance-analyst-ww-ops-fp-a-strategic-planning",
       "location": "New York, New York, USA",
+      "country_code": "USA"
+    },
+    "10480422": {
+      "title": "Senior Financial Analyst, AWS Infrastructure Central Finance",
+      "url": "https://www.amazon.jobs/en/jobs/10480422/senior-financial-analyst-aws-infrastructure-central-finance",
+      "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
     "10473229": {
@@ -3326,12 +3314,6 @@
     "10456137": {
       "title": "Senior Finance Analyst, Prime Video Advertising",
       "url": "https://www.amazon.jobs/en/jobs/10456137/senior-finance-analyst-prime-video-advertising",
-      "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
-    "10460863": {
-      "title": "Business Analyst, Worldwide Grocery, Merch Ops Business Analytics",
-      "url": "https://www.amazon.jobs/en/jobs/10460863/business-analyst-worldwide-grocery-merch-ops-business-analytics",
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
@@ -5325,10 +5307,6 @@
       "title": "Security Operations Center Analyst - Houston, TX (Physical Security)",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Houston-Tx-Security-Operations-Center-Analyst-Houston%2C-TX-%28Physical-Security%29-TX-77001/1428066433/"
     },
-    "https://jobs.cmacgm-group.com/CEVALogistics/job/Monterrey-Inventory-Control-Analyst/1419514633/": {
-      "title": "Inventory Control Analyst",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Monterrey-Inventory-Control-Analyst/1419514633/"
-    },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Marseille-Global-CRM-Business-Analyst-Expert/1386384333/": {
       "title": "Global CRM Business Analyst Expert",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Marseille-Global-CRM-Business-Analyst-Expert/1386384333/"
@@ -5372,6 +5350,10 @@
     "https://jobs.cmacgm-group.com/job/Petaling-Jaya-Senior-Analyst%2C-Tax-%28Pillar-2%29/1433674833/": {
       "title": "Senior Analyst, Tax (Pillar 2)",
       "url": "https://jobs.cmacgm-group.com/job/Petaling-Jaya-Senior-Analyst%2C-Tax-%28Pillar-2%29/1433674833/"
+    },
+    "https://jobs.cmacgm-group.com/CEVALogistics/job/Gro%C3%9Fbeeren-Business-Intelligence-Specialist-%28mwd%29/1420413533/": {
+      "title": "Business Intelligence Specialist (m/w/d)",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Gro%C3%9Fbeeren-Business-Intelligence-Specialist-%28mwd%29/1420413533/"
     }
   },
   "Beyond Finance": {
