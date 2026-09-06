@@ -3023,12 +3023,6 @@
       "location": "Austin, Texas, USA",
       "country_code": "USA"
     },
-    "10481199": {
-      "title": "Data Engineer II, AWS Marketplace and Partner Services",
-      "url": "https://www.amazon.jobs/en/jobs/10481199/data-engineer-ii-aws-marketplace-and-partner-services",
-      "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
     "10484538": {
       "title": "Senior Finance Analyst, Northeast Region Finance, Sort Centers",
       "url": "https://www.amazon.jobs/en/jobs/10484538/senior-finance-analyst-northeast-region-finance-sort-centers",
@@ -5258,13 +5252,13 @@
     }
   },
   "Gainwell": {
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Healthcare-RI-99999/1416859100/": {
-      "title": "Senior Business Analyst - Healthcare",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Healthcare-RI-99999/1416859100/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Williston-Financial-Analyst%2C-Accounts-Receivable-&-Payable-Williston%2C-VT-%28HYBRID%29-VT-05495/1416640200/": {
       "title": "Financial Analyst, Accounts Receivable & Payable Williston, VT (HYBRID)",
       "url": "https://jobs.gainwelltechnologies.com/job/Williston-Financial-Analyst%2C-Accounts-Receivable-&-Payable-Williston%2C-VT-%28HYBRID%29-VT-05495/1416640200/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Healthcare-RI-99999/1416859100/": {
+      "title": "Senior Business Analyst - Healthcare",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Healthcare-RI-99999/1416859100/"
     }
   },
   "Happen Bank": {
@@ -5519,11 +5513,6 @@
       "title": "Depositary Analyst, Associate 1",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Depositary-Analyst--Associate-1_R-797128-1",
       "location": "2 Locations"
-    },
-    "/job/OSLPUN-CWTOP456-9/Pricing-Analyst--Associate-2_R-794708-1": {
-      "title": "Pricing Analyst, Associate 2",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/OSLPUN-CWTOP456-9/Pricing-Analyst--Associate-2_R-794708-1",
-      "location": "OSL/PUN-CWTOP456-9"
     },
     "/job/Burlington-Massachusetts/Primary-System-Analyst--Off-1_R-785355": {
       "title": "Primary System Analyst, Off-1",
