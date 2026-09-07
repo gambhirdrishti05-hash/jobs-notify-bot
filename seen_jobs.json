@@ -1170,6 +1170,12 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
+    "210773540": {
+      "title": "Lead Software Engineer - Regulatory Reporting",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773540",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
     "210788397": {
       "title": "Compensation Analytics Vice President, Global Compensation",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788397",
@@ -5419,11 +5425,6 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Primary-Systems-Analyst_R-779287-1",
       "location": "Burlington Massachusetts"
     },
-    "/job/Burlington-Massachusetts/Senior-Business-Analyst_R-783214": {
-      "title": "Senior Business Analyst",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Senior-Business-Analyst_R-783214",
-      "location": "Burlington Massachusetts"
-    },
     "/job/Quincy-Massachusetts/Systems-Analyst--Officer_R-790190-1": {
       "title": "Systems Analyst, Officer",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Systems-Analyst--Officer_R-790190-1",
@@ -5583,11 +5584,6 @@
       "title": "Alpha Account Services Data Analyst, Officer",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Alpha-Account-Services-Data-Analyst--Officer_R-796023-1",
       "location": "2 Locations"
-    },
-    "/job/Austin-Texas/Application-Development-Business-Data-Analyst-VP_R-794662": {
-      "title": "Application Development Business/Data Analyst-VP",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Austin-Texas/Application-Development-Business-Data-Analyst-VP_R-794662",
-      "location": "Austin, Texas"
     },
     "/job/Boston-Massachusetts/Asset-Stewardship-Analyst--Assistant-Vice-President-_R-796988-1": {
       "title": "Asset Stewardship Analyst, Assistant Vice President",
@@ -5794,11 +5790,6 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Product-Manager---Analytics--AI-Private-Markets_R-786885",
       "location": "Burlington Massachusetts"
     },
-    "/job/Cambridge-Massachusetts/AI-and-Trading-Analytics-Researcher-AVP_R-792986": {
-      "title": "AI and Trading Analytics Researcher-AVP",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/AI-and-Trading-Analytics-Researcher-AVP_R-792986",
-      "location": "Cambridge, Massachusetts"
-    },
     "/job/Quincy-Massachusetts/Financial-Reporting--Officer_R-796356": {
       "title": "Financial Reporting, Officer",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Financial-Reporting--Officer_R-796356",
@@ -5854,10 +5845,6 @@
     "https://www.capitalonecareers.com/job/richmond/capital-markets-and-risk-analyst-finance-risk-management/1732/100187928560": {
       "title": "10018792856009/04/2026Capital Markets & Risk Analyst - Finance Risk ManagementRichmond, VA",
       "url": "https://www.capitalonecareers.com/job/richmond/capital-markets-and-risk-analyst-finance-risk-management/1732/100187928560"
-    },
-    "https://www.capitalonecareers.com/job/new-york/senior-manager-data-science-ai-foundations/1732/100175950208": {
-      "title": "10017595020809/04/2026Senior Manager, Data Science - AI FoundationsNew York, NY",
-      "url": "https://www.capitalonecareers.com/job/new-york/senior-manager-data-science-ai-foundations/1732/100175950208"
     }
   },
   "BMO": {
@@ -5965,11 +5952,6 @@
       "title": "Investment Banking Analyst, Loan Syndications",
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Analyst--Investment-Banking_R260024690",
       "location": "Chicago, IL, USA"
-    },
-    "/job/New-York-NY-USA/Analyst--Investment-Banking--Power--Utilities-and-Infrastructure-_R260024688": {
-      "title": "Analyst, Investment Banking (Power, Utilities and Infrastructure)",
-      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/New-York-NY-USA/Analyst--Investment-Banking--Power--Utilities-and-Infrastructure-_R260024688",
-      "location": "New York, NY, USA"
     },
     "/job/Madison-WI-USA/Client-Service-Analyst_R260021733": {
       "title": "Client Service Analyst",
