@@ -1170,6 +1170,18 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
+    "210786931": {
+      "title": "Risk Management - Strategic Risk Analytics Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210786931",
+      "location": "Wilmington, DE, United States",
+      "country_code": "US"
+    },
+    "210788390": {
+      "title": "Data Scientist Lead-Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788390",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
     "210773540": {
       "title": "Lead Software Engineer - Regulatory Reporting",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773540",
@@ -1575,12 +1587,6 @@
     "210772642": {
       "title": "Tech Risk and Controls Lead - Citizen Development Governance & Analytics",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772642",
-      "location": "Plano, TX, United States",
-      "country_code": "US"
-    },
-    "210776596": {
-      "title": "Data Scientist-Senior Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776596",
       "location": "Plano, TX, United States",
       "country_code": "US"
     },
@@ -3027,12 +3033,6 @@
       "title": "Senior Finance Analyst, Northeast Region Finance, Sort Centers",
       "url": "https://www.amazon.jobs/en/jobs/10484538/senior-finance-analyst-northeast-region-finance-sort-centers",
       "location": "New York, New York, USA",
-      "country_code": "USA"
-    },
-    "10486479": {
-      "title": "Transportation Analyst, STRIDE Analytics",
-      "url": "https://www.amazon.jobs/en/jobs/10486479/transportation-analyst-stride-analytics",
-      "location": "Bellevue, Washington, USA",
       "country_code": "USA"
     },
     "10479826": {
@@ -5256,13 +5256,13 @@
       "title": "Medical Claims Resolution Analyst - Remote US",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Medical-Claims-Resolution-Analyst-Remote-US-MT-99999/1399526100/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Healthcare-RI-99999/1416859100/": {
-      "title": "Senior Business Analyst - Healthcare",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Healthcare-RI-99999/1416859100/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Williston-Financial-Analyst%2C-Accounts-Receivable-&-Payable-Williston%2C-VT-%28HYBRID%29-VT-05495/1416640200/": {
       "title": "Financial Analyst, Accounts Receivable & Payable Williston, VT (HYBRID)",
       "url": "https://jobs.gainwelltechnologies.com/job/Williston-Financial-Analyst%2C-Accounts-Receivable-&-Payable-Williston%2C-VT-%28HYBRID%29-VT-05495/1416640200/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Healthcare-RI-99999/1416859100/": {
+      "title": "Senior Business Analyst - Healthcare",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Healthcare-RI-99999/1416859100/"
     }
   },
   "Happen Bank": {
@@ -5497,11 +5497,6 @@
       "title": "Senior Business Analyst , AVP",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Senior-Business-Analyst---AVP_R-793213-2",
       "location": "Irvine, California"
-    },
-    "/job/OSLPUN-CWTOP456-9/Pricing-Analyst--Associate-2_R-794748-1": {
-      "title": "Pricing Analyst, Associate 2",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/OSLPUN-CWTOP456-9/Pricing-Analyst--Associate-2_R-794748-1",
-      "location": "OSL/PUN-CWTOP456-9"
     },
     "/job/Gdansk-Poland/Senior-Depositary-Analyst--A2_R-797127-1": {
       "title": "Senior Depositary Analyst, A2",
@@ -5977,7 +5972,12 @@
       "location": "Naperville, IL, USA"
     }
   },
-  "Deloitte": {},
+  "Deloitte": {
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Project-Data-Scientist-and-Analytics/365832": {
+      "title": "Project Data Scientist and Analytics",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Project-Data-Scientist-and-Analytics/365832"
+    }
+  },
   "OpenX": {
     "df23b30a-21b5-4055-9698-5b5c2767df3c": {
       "title": "Business Intelligence Data Analyst",
