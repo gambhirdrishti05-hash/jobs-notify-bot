@@ -159,5 +159,33 @@
   {
     "name": "PNC",
     "url": "https://careers.pnc.com/global/en/search-results"
+  },
+  {
+    "name": "TD",
+    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers"
+  },
+  {
+    "name": "Fifth Third Bank",
+    "url": "https://fifththird.wd5.myworkdayjobs.com/53careers"
+  },
+  { 
+    "name": "Key Bank",
+    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site"
+  },
+  {
+    "name": "Zionbankcorp",
+    "url": "https://careers.zionsbancorp.com/jobs/search/20195354"
+  },
+  {
+    "name": "Northern Trust",
+    "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/?source="
+  },
+  {
+    "name": "Santander",
+    "url": "https://santander.wd3.myworkdayjobs.com/en-US/SantanderCareers"
+  },
+  {
+    "name": "MUFG",
+    "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers"
   }
 ]
