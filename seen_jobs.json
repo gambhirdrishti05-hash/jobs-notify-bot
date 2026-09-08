@@ -1170,6 +1170,12 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
+    "210787128": {
+      "title": "Data Scientist-Vice President-Finance Data & Analytics",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210787128",
+      "location": "OH, United States",
+      "country_code": "US"
+    },
     "210786931": {
       "title": "Risk Management - Strategic Risk Analytics Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210786931",
@@ -5256,6 +5262,10 @@
       "title": "Medical Claims Resolution Analyst - Remote US",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Medical-Claims-Resolution-Analyst-Remote-US-MT-99999/1399526100/"
     },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Healthcare-RI-99999/1416859100/": {
+      "title": "Senior Business Analyst - Healthcare",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Healthcare-RI-99999/1416859100/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Williston-Financial-Analyst%2C-Accounts-Receivable-&-Payable-Williston%2C-VT-%28HYBRID%29-VT-05495/1416640200/": {
       "title": "Financial Analyst, Accounts Receivable & Payable Williston, VT (HYBRID)",
       "url": "https://jobs.gainwelltechnologies.com/job/Williston-Financial-Analyst%2C-Accounts-Receivable-&-Payable-Williston%2C-VT-%28HYBRID%29-VT-05495/1416640200/"
@@ -5365,13 +5375,13 @@
       "title": "Senior Analyst, Accounting Operations",
       "url": "https://jobs.cmacgm-group.com/job/Petaling-Jaya-Senior-Analyst%2C-Accounting-Operations/1433671333/"
     },
-    "https://jobs.cmacgm-group.com/job/Petaling-Jaya-Senior-Analyst%2C-Tax-%28Pillar-2%29/1433674833/": {
-      "title": "Senior Analyst, Tax (Pillar 2)",
-      "url": "https://jobs.cmacgm-group.com/job/Petaling-Jaya-Senior-Analyst%2C-Tax-%28Pillar-2%29/1433674833/"
-    },
     "https://jobs.cmacgm-group.com/job/Abu-Dhabi-Data-Analyst-Shipping-Operation-Region-IME/1434399633/": {
       "title": "Data Analyst Shipping Operation Region IME",
       "url": "https://jobs.cmacgm-group.com/job/Abu-Dhabi-Data-Analyst-Shipping-Operation-Region-IME/1434399633/"
+    },
+    "https://jobs.cmacgm-group.com/job/Petaling-Jaya-Senior-Analyst%2C-Tax-%28Pillar-2%29/1433674833/": {
+      "title": "Senior Analyst, Tax (Pillar 2)",
+      "url": "https://jobs.cmacgm-group.com/job/Petaling-Jaya-Senior-Analyst%2C-Tax-%28Pillar-2%29/1433674833/"
     }
   },
   "Beyond Finance": {
@@ -5704,11 +5714,6 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/North-America-Sales-Analyst--Senior-Associate---State-Street-Investment-Management_R-794770-5",
       "location": "Boston, Massachusetts"
     },
-    "/job/Boston-Massachusetts/North-America-Strategic-Insights-Analyst--VP---State-Street-Investment-Management_R-795428": {
-      "title": "North America Strategic Insights Analyst, VP - State Street Investment Management",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/North-America-Strategic-Insights-Analyst--VP---State-Street-Investment-Management_R-795428",
-      "location": "2 Locations"
-    },
     "/job/Boston-Massachusetts/Americas-Strategy-and-Insights-Analyst--Officer---State-Street-Investment-Management_R-797156-1": {
       "title": "Americas Strategy and Insights Analyst, Officer - State Street Investment Management",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Americas-Strategy-and-Insights-Analyst--Officer---State-Street-Investment-Management_R-797156-1",
@@ -5814,15 +5819,15 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Senior-SIEM-Data-Engineer_R-794334-1",
       "location": "Quincy, Massachusetts"
     },
-    "/job/Quincy-Massachusetts/Sr-Databricks-Data-Engineer--Vice-President--Hybrid_R-789490-1": {
-      "title": "Sr. Databricks Data Engineer, Vice President",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Sr-Databricks-Data-Engineer--Vice-President--Hybrid_R-789490-1",
-      "location": "2 Locations"
-    },
     "/job/Boston-Massachusetts/Global-Head-of-Insight-Generation-and-AI-Adoption--MD---State-Street-Investment-Management_R-792525": {
       "title": "Global Head of Insight Generation and AI Adoption, MD - State Street Investment Management",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Global-Head-of-Insight-Generation-and-AI-Adoption--MD---State-Street-Investment-Management_R-792525",
       "location": "Boston, Massachusetts"
+    },
+    "/job/Quincy-Massachusetts/Sr-Databricks-Data-Engineer--Vice-President--Hybrid_R-789490-1": {
+      "title": "Sr. Databricks Data Engineer, Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Sr-Databricks-Data-Engineer--Vice-President--Hybrid_R-789490-1",
+      "location": "2 Locations"
     },
     "/job/Quincy-Massachusetts/Data-Engineering-and-Development-VP_R-796205-1": {
       "title": "Data Engineering and Development VP",
@@ -5830,7 +5835,20 @@
       "location": "Quincy, Massachusetts"
     }
   },
-  "Capital One": {},
+  "Capital One": {
+    "https://www.capitalonecareers.com/job/mclean/lead-data-engineer-python-scala-spark/1732/95967850656": {
+      "title": "9596785065606/03/2026Lead Data Engineer (Python, Scala, Spark)McLean, VA",
+      "url": "https://www.capitalonecareers.com/job/mclean/lead-data-engineer-python-scala-spark/1732/95967850656"
+    },
+    "https://www.capitalonecareers.com/job/mclean/lead-data-engineer-intelligent-foundations-and-experiences/1732/97891637952": {
+      "title": "9789163795207/16/2026Lead Data Engineer (Intelligent Foundations and Experiences)McLean, VA",
+      "url": "https://www.capitalonecareers.com/job/mclean/lead-data-engineer-intelligent-foundations-and-experiences/1732/97891637952"
+    },
+    "https://www.capitalonecareers.com/job/richmond/lead-data-engineer-ic/1732/100317320176": {
+      "title": "10031732017609/07/2026Lead Data Engineer-ICRichmond, VA",
+      "url": "https://www.capitalonecareers.com/job/richmond/lead-data-engineer-ic/1732/100317320176"
+    }
+  },
   "BMO": {
     "/job/REMOTETELETRAVAIL-ON-CAN/Analyst---Corporate-Action-Entitlement_R260025626": {
       "title": "Analyst , Corporate Action Entitlement",
@@ -6291,5 +6309,6 @@
       "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/FVP--Enterprise-Data-Management_JR3565",
       "location": "HQ - San Diego, CA"
     }
-  }
+  },
+  "US Bank": {}
 }
