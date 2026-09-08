@@ -162,12 +162,6 @@
       "location": "Newark, DE, United States",
       "country_code": "US"
     },
-    "210776117": {
-      "title": "Trade Lifecycle Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776117",
-      "location": "Newark, DE, United States",
-      "country_code": "US"
-    },
     "210772933": {
       "title": "Lead Business Systems Analyst - Marketing Data and Analytics - Sr. Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772933",
@@ -4737,11 +4731,6 @@
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Applications-Analyst-II_RQ4071753-1",
       "location": "Somerville-MA"
     },
-    "/job/Somerville-MA/Data-Analyst-I_RQ4078299": {
-      "title": "Data Analyst I",
-      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Data-Analyst-I_RQ4078299",
-      "location": "Somerville-MA"
-    },
     "/job/Somerville-MA/Application-Analyst-I_RQ4074788-1": {
       "title": "Application Analyst I",
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Application-Analyst-I_RQ4074788-1",
@@ -5253,9 +5242,21 @@
     }
   },
   "Gainwell": {
+    "https://jobs.gainwelltechnologies.com/job/Roseville-Senior-Reporting-Analyst-Hybrid-Roseville%2C-CA-CA-95747/1417948000/": {
+      "title": "Senior Reporting Analyst - Hybrid - Roseville, CA",
+      "url": "https://jobs.gainwelltechnologies.com/job/Roseville-Senior-Reporting-Analyst-Hybrid-Roseville%2C-CA-CA-95747/1417948000/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Bangalore-Business-Analyst-Financials-%28Healthcare%29-KA-560100/1401566400/": {
       "title": "Business Analyst - Financials (Healthcare)",
       "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Business-Analyst-Financials-%28Healthcare%29-KA-560100/1401566400/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Bangalore-Business-Analyst-Content-&-Document-Management-KA-560100/1427360400/": {
+      "title": "Business Analyst - Content & Document Management",
+      "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Business-Analyst-Content-&-Document-Management-KA-560100/1427360400/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Bangalore-Business-Analyst-%28Provider%29-KA-560100/1427370400/": {
+      "title": "Business Analyst (Provider)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Business-Analyst-%28Provider%29-KA-560100/1427370400/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Medical-Claims-Resolution-Analyst-Remote-US-MT-99999/1399526100/": {
       "title": "Medical Claims Resolution Analyst - Remote US",
@@ -5529,6 +5530,11 @@
       "title": "GlobalLink - Product/Business Analyst - AVP",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/GlobalLink---Product-Business-Analyst---AVP_R-795827-1",
       "location": "Boston, Massachusetts"
+    },
+    "/job/Gdansk-Poland/Senior-Depositary-Analyst--Associate-2_R-796885-1": {
+      "title": "Senior Depositary Analyst, Associate 2",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Senior-Depositary-Analyst--Associate-2_R-796885-1",
+      "location": "2 Locations"
     },
     "/job/Burlington-Massachusetts/Business-Analyst-EDM-and-Data-Warhouse-2_R-783215": {
       "title": "Business Analyst \u2013 Data Integration and ETL\u00a0",
@@ -5815,15 +5821,15 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Senior-SIEM-Data-Engineer_R-794334-1",
       "location": "Quincy, Massachusetts"
     },
-    "/job/Boston-Massachusetts/Global-Head-of-Insight-Generation-and-AI-Adoption--MD---State-Street-Investment-Management_R-792525": {
-      "title": "Global Head of Insight Generation and AI Adoption, MD - State Street Investment Management",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Global-Head-of-Insight-Generation-and-AI-Adoption--MD---State-Street-Investment-Management_R-792525",
-      "location": "Boston, Massachusetts"
-    },
     "/job/Quincy-Massachusetts/Sr-Databricks-Data-Engineer--Vice-President--Hybrid_R-789490-1": {
       "title": "Sr. Databricks Data Engineer, Vice President",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Sr-Databricks-Data-Engineer--Vice-President--Hybrid_R-789490-1",
       "location": "2 Locations"
+    },
+    "/job/Boston-Massachusetts/Global-Head-of-Insight-Generation-and-AI-Adoption--MD---State-Street-Investment-Management_R-792525": {
+      "title": "Global Head of Insight Generation and AI Adoption, MD - State Street Investment Management",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Global-Head-of-Insight-Generation-and-AI-Adoption--MD---State-Street-Investment-Management_R-792525",
+      "location": "Boston, Massachusetts"
     },
     "/job/Quincy-Massachusetts/Data-Engineering-and-Development-VP_R-796205-1": {
       "title": "Data Engineering and Development VP",
@@ -6618,11 +6624,6 @@
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Raleigh-NC/Internal-Auditor-II---Finance---Regulatory-Reporting_R0117863",
       "location": "3 Locations"
     },
-    "/job/Atlanta-GA/Grandbridge-Investor-Accounting---Reporting-Associate_R0118009": {
-      "title": "Grandbridge Investor Accounting & Reporting Associate",
-      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Grandbridge-Investor-Accounting---Reporting-Associate_R0118009",
-      "location": "3 Locations"
-    },
     "/job/Birmingham-AL/Investor-Accounting---Reporting-Associate---Grandbridge-Real-Estate_R0118049": {
       "title": "Investor Accounting & Reporting Associate - Grandbridge Real Estate",
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL/Investor-Accounting---Reporting-Associate---Grandbridge-Real-Estate_R0118049",
@@ -7206,7 +7207,36 @@
       "location": "2 Locations"
     }
   },
-  "Zionbankcorp": {},
+  "Zionbankcorp": {
+    "https://careers.zionsbancorp.com/jobs/intern-credit-risk-analytics-28021": {
+      "title": "Intern- Credit Risk Analytics",
+      "url": "https://careers.zionsbancorp.com/jobs/intern-credit-risk-analytics-28021"
+    },
+    "https://careers.zionsbancorp.com/jobs/commodities-analyst-capital-markets-analyst-program-28020": {
+      "title": "Commodities Analyst - Capital Markets Analyst Program",
+      "url": "https://careers.zionsbancorp.com/jobs/commodities-analyst-capital-markets-analyst-program-28020"
+    },
+    "https://careers.zionsbancorp.com/jobs/securities-underwriting-analyst-capital-markets-analyst-program-28016": {
+      "title": "Securities Underwriting Analyst - Capital Markets Analyst Program",
+      "url": "https://careers.zionsbancorp.com/jobs/securities-underwriting-analyst-capital-markets-analyst-program-28016"
+    },
+    "https://careers.zionsbancorp.com/jobs/syndicated-leveraged-finance-analyst-capital-markets-analyst-program-28013": {
+      "title": "Syndicated & Leveraged Finance Analyst - Capital Markets Analyst Program",
+      "url": "https://careers.zionsbancorp.com/jobs/syndicated-leveraged-finance-analyst-capital-markets-analyst-program-28013"
+    },
+    "https://careers.zionsbancorp.com/jobs/power-project-finance-analyst-capital-markets-analyst-program-28012": {
+      "title": "Power & Project Finance Analyst - Capital Markets Analyst Program",
+      "url": "https://careers.zionsbancorp.com/jobs/power-project-finance-analyst-capital-markets-analyst-program-28012"
+    },
+    "https://careers.zionsbancorp.com/jobs/syndicated-leveraged-finance-analyst-capital-markets-analyst-program-28010": {
+      "title": "Syndicated & Leveraged Finance Analyst - Capital Markets Analyst Program",
+      "url": "https://careers.zionsbancorp.com/jobs/syndicated-leveraged-finance-analyst-capital-markets-analyst-program-28010"
+    },
+    "https://careers.zionsbancorp.com/jobs/investment-banking-analyst-capital-markets-analyst-program-28009": {
+      "title": "Investment Banking Analyst - Capital Markets Analyst Program",
+      "url": "https://careers.zionsbancorp.com/jobs/investment-banking-analyst-capital-markets-analyst-program-28009"
+    }
+  },
   "Northern Trust": {
     "/job/Chicago-IL/Portfolio-Analyst_R155413": {
       "title": "Portfolio Analyst",
