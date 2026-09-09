@@ -2225,6 +2225,12 @@
     }
   },
   "Amazon": {
+    "10533662": {
+      "title": "Senior Financial Analyst, APM Stores Verticals",
+      "url": "https://www.amazon.jobs/en/jobs/10533662/senior-financial-analyst-apm-stores-verticals",
+      "location": "Seattle, Washington, USA",
+      "country_code": "USA"
+    },
     "10529050": {
       "title": "Revenue Cycle Optimization Analyst, Healthcare Finance Operations",
       "url": "https://www.amazon.jobs/en/jobs/10529050/revenue-cycle-optimization-analyst-healthcare-finance-operations",
@@ -4953,12 +4959,6 @@
       "location": "Seattle, WA, United States",
       "country_code": "US"
     },
-    "13674": {
-      "title": "Senior Analyst, Finance",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13674",
-      "location": "Miami, FL, United States",
-      "country_code": "US"
-    },
     "13599": {
       "title": "Sr. Analyst, Benefits, ADA & Leave",
       "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13599",
@@ -5873,15 +5873,15 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Senior-SIEM-Data-Engineer_R-794334-1",
       "location": "Quincy, Massachusetts"
     },
-    "/job/Boston-Massachusetts/Global-Head-of-Insight-Generation-and-AI-Adoption--MD---State-Street-Investment-Management_R-792525": {
-      "title": "Global Head of Insight Generation and AI Adoption, MD - State Street Investment Management",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Global-Head-of-Insight-Generation-and-AI-Adoption--MD---State-Street-Investment-Management_R-792525",
-      "location": "Boston, Massachusetts"
-    },
     "/job/Quincy-Massachusetts/Sr-Databricks-Data-Engineer--Vice-President--Hybrid_R-789490-1": {
       "title": "Sr. Databricks Data Engineer, Vice President",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Sr-Databricks-Data-Engineer--Vice-President--Hybrid_R-789490-1",
       "location": "2 Locations"
+    },
+    "/job/Boston-Massachusetts/Global-Head-of-Insight-Generation-and-AI-Adoption--MD---State-Street-Investment-Management_R-792525": {
+      "title": "Global Head of Insight Generation and AI Adoption, MD - State Street Investment Management",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Global-Head-of-Insight-Generation-and-AI-Adoption--MD---State-Street-Investment-Management_R-792525",
+      "location": "Boston, Massachusetts"
     },
     "/job/Quincy-Massachusetts/Data-Engineering-and-Development-VP_R-796205-1": {
       "title": "Data Engineering and Development VP",
@@ -6040,10 +6040,6 @@
     "https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Data-engineer-Sr-Consultant/365980": {
       "title": "Senior Data engineer- Sr Consultant",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Data-engineer-Sr-Consultant/365980"
-    },
-    "https://apply.deloitte.com/en_US/careers/JobDetail/RCM-Training-and-Quality-Analyst/365976": {
-      "title": "RCM Training and Quality Analyst",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/RCM-Training-and-Quality-Analyst/365976"
     }
   },
   "OpenX": {
@@ -7264,7 +7260,12 @@
       "location": "2 Locations"
     }
   },
-  "Zionbankcorp": {},
+  "Zionbankcorp": {
+    "https://careers.zionsbancorp.com/jobs/oracle-epm-systems-analyst-midvale-or-houston-28029": {
+      "title": "Oracle EPM Systems Analyst - Midvale or Houston",
+      "url": "https://careers.zionsbancorp.com/jobs/oracle-epm-systems-analyst-midvale-or-houston-28029"
+    }
+  },
   "Northern Trust": {
     "/job/Chicago-IL/Portfolio-Analyst_R155413": {
       "title": "Portfolio Analyst",
