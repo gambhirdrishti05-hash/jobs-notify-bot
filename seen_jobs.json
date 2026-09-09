@@ -1,5 +1,17 @@
 {
   "JPMorgan Chase": {
+    "210788993": {
+      "title": "Equity Capital Markets - Syndicate - Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788993",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210784997": {
+      "title": "Client Operations Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784997",
+      "location": "Plano, TX, United States",
+      "country_code": "US"
+    },
     "210773378": {
       "title": "2027 Internal Audit Analyst Program - Full Time Analyst Opportunity",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773378",
@@ -1098,12 +1110,6 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
-    "210690693": {
-      "title": "2027 Commercial & Investment Bank Global Payments Summer Analyst Program",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210690693",
-      "location": "Jersey City, NJ, United States",
-      "country_code": "US"
-    },
     "210691755": {
       "title": "2027 - Asset & Wealth Management - Global Private Bank Advisor Program (Summer Analyst) - LatAm",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210691755",
@@ -1168,6 +1174,12 @@
       "title": "Risk Management - Quant Analytics Manager - Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788422",
       "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
+    "210789027": {
+      "title": "External Reporting Controller- Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789027",
+      "location": "Brooklyn, NY, United States",
       "country_code": "US"
     },
     "210784849": {
@@ -3173,12 +3185,6 @@
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
-    "10475100": {
-      "title": "Senior Analyst, Audible People & Places",
-      "url": "https://www.amazon.jobs/en/jobs/10475100/senior-analyst-audible-people-places",
-      "location": "Newark, New Jersey, USA",
-      "country_code": "USA"
-    },
     "10477414": {
       "title": "Product Operations Analyst, World Wide Revenue Operations",
       "url": "https://www.amazon.jobs/en/jobs/10477414/product-operations-analyst-world-wide-revenue-operations",
@@ -3740,15 +3746,20 @@
   },
   "Waters Corporation": {},
   "CVS Health": {
+    "/job/IL---Work-from-home/Client-Financial-Analysis---Optimization-Analyst_R1030039": {
+      "title": "Client Financial Analysis & Optimization Analyst",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Client-Financial-Analysis---Optimization-Analyst_R1030039",
+      "location": "IL - Work from home"
+    },
+    "/job/AZ---Scottsdale/Analyst--Member-Payments_R1007249-1": {
+      "title": "Analyst, Member Payments",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Analyst--Member-Payments_R1007249-1",
+      "location": "AZ - Scottsdale"
+    },
     "/job/CO---Denver/Patient-Relations-Analyst_R1030347-1": {
       "title": "Patient Relations Analyst",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CO---Denver/Patient-Relations-Analyst_R1030347-1",
       "location": "CO - Denver"
-    },
-    "/job/Field-Illinois/Case-Management-Analyst---Field-in-LaSalle---Bureau-Counties--IL_R0951672": {
-      "title": "Case Management Analyst - Field in LaSalle & Bureau Counties, IL",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Field-Illinois/Case-Management-Analyst---Field-in-LaSalle---Bureau-Counties--IL_R0951672",
-      "location": "Field-Illinois"
     },
     "/job/RI---Woonsocket/Senior-Analyst--Pharmacy-Operations_R1029987": {
       "title": "Senior Analyst, Pharmacy Operations",
@@ -4428,11 +4439,6 @@
       "title": "Project Analyst, SETA 1 - Emerging Technologies (Hybrid Work Schedule)",
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Alexandria-VA/Project-Analyst--SETA-1---Emerging-Technologies--Hybrid-Work-Schedule-_R2602997",
       "location": "Alexandria, VA"
-    },
-    "/job/Reston-VA/Data-Analyst---Embedded-UAT-Tester----Remote---US-_R2602915": {
-      "title": "Data Analyst / Embedded UAT Tester - (Junior/Mid - Remote - US)",
-      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Data-Analyst---Embedded-UAT-Tester----Remote---US-_R2602915",
-      "location": "Reston, VA"
     },
     "/job/Alexandria-VA/Project-Analyst---SETA-Level-2----Emerging-Tech--X-Labs--Hybrid-Role-_R2602999": {
       "title": "Project Analyst - SETA Level 2, - Emerging Tech, X-Labs (Hybrid Role)",
@@ -5169,11 +5175,6 @@
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Risk-Process-Analyst_26027282",
       "location": "9 Locations"
     },
-    "/job/Denver/Malware-Defense-Endpoint-Analyst-and-Incident-Response_26025821": {
-      "title": "Malware Defense Endpoint Analyst and Incident Response",
-      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Denver/Malware-Defense-Endpoint-Analyst-and-Incident-Response_26025821",
-      "location": "3 Locations"
-    },
     "/job/Jacksonville/GFC-Investigations-Analyst_26026520": {
       "title": "GFC Investigations Analyst",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jacksonville/GFC-Investigations-Analyst_26026520",
@@ -5289,29 +5290,29 @@
     }
   },
   "Gainwell": {
-    "https://jobs.gainwelltechnologies.com/job/Bangalore-Business-Analyst-Content-&-Document-Management-%28Infra%29-KA-560100/1400624100/": {
-      "title": "Business Analyst - Content & Document Management (Infra)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Business-Analyst-Content-&-Document-Management-%28Infra%29-KA-560100/1400624100/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Bangalore-Business-Analyst-%28Content-&-Document-Management-Infra%29-KA-560100/1400163000/": {
       "title": "Business Analyst (Content & Document Management / Infra)",
       "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Business-Analyst-%28Content-&-Document-Management-Infra%29-KA-560100/1400163000/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Roseville-Senior-Reporting-Analyst-Hybrid-Roseville%2C-CA-CA-95747/1417948000/": {
-      "title": "Senior Reporting Analyst - Hybrid - Roseville, CA",
-      "url": "https://jobs.gainwelltechnologies.com/job/Roseville-Senior-Reporting-Analyst-Hybrid-Roseville%2C-CA-CA-95747/1417948000/"
+    "https://jobs.gainwelltechnologies.com/job/Bangalore-Business-Analyst-Content-&-Document-Management-%28Infra%29-KA-560100/1400624100/": {
+      "title": "Business Analyst - Content & Document Management (Infra)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Business-Analyst-Content-&-Document-Management-%28Infra%29-KA-560100/1400624100/"
     },
     "https://jobs.gainwelltechnologies.com/job/Bangalore-Business-Analyst-Financials-%28Healthcare%29-KA-560100/1401566400/": {
       "title": "Business Analyst - Financials (Healthcare)",
       "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Business-Analyst-Financials-%28Healthcare%29-KA-560100/1401566400/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Bangalore-Business-Analyst-Content-&-Document-Management-KA-560100/1427360400/": {
-      "title": "Business Analyst - Content & Document Management",
-      "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Business-Analyst-Content-&-Document-Management-KA-560100/1427360400/"
+    "https://jobs.gainwelltechnologies.com/job/Roseville-Senior-Reporting-Analyst-Hybrid-Roseville%2C-CA-CA-95747/1417948000/": {
+      "title": "Senior Reporting Analyst - Hybrid - Roseville, CA",
+      "url": "https://jobs.gainwelltechnologies.com/job/Roseville-Senior-Reporting-Analyst-Hybrid-Roseville%2C-CA-CA-95747/1417948000/"
     },
     "https://jobs.gainwelltechnologies.com/job/Bangalore-Business-Analyst-%28Provider%29-KA-560100/1427370400/": {
       "title": "Business Analyst (Provider)",
       "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Business-Analyst-%28Provider%29-KA-560100/1427370400/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Bangalore-Business-Analyst-Content-&-Document-Management-KA-560100/1427360400/": {
+      "title": "Business Analyst - Content & Document Management",
+      "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Business-Analyst-Content-&-Document-Management-KA-560100/1427360400/"
     }
   },
   "Happen Bank": {
@@ -5411,10 +5412,6 @@
     "https://jobs.cmacgm-group.com/job/Petaling-Jaya-Senior-Analyst%2C-Accounting-Operations/1433671333/": {
       "title": "Senior Analyst, Accounting Operations",
       "url": "https://jobs.cmacgm-group.com/job/Petaling-Jaya-Senior-Analyst%2C-Accounting-Operations/1433671333/"
-    },
-    "https://jobs.cmacgm-group.com/job/Abu-Dhabi-Data-Analyst-Shipping-Operation-Region-IME/1434399633/": {
-      "title": "Data Analyst Shipping Operation Region IME",
-      "url": "https://jobs.cmacgm-group.com/job/Abu-Dhabi-Data-Analyst-Shipping-Operation-Region-IME/1434399633/"
     }
   },
   "Beyond Finance": {
@@ -5587,10 +5584,20 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analyst-EDM-and-Data-Warhouse-2_R-783215",
       "location": "Burlington Massachusetts"
     },
+    "/job/Bangalore-India/Corporate-Audit-Integrated-Data-Analyst--Officer_R-786717": {
+      "title": "Corporate Audit Integrated Data Analyst, Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Corporate-Audit-Integrated-Data-Analyst--Officer_R-786717",
+      "location": "2 Locations"
+    },
     "/job/Burlington-Massachusetts/Sr-SaaS-Onboarding-Technical-Analyst--AVP--_R-786596-1": {
       "title": "Sr. SaaS Onboarding Technical Analyst, AVP \u00a0",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Sr-SaaS-Onboarding-Technical-Analyst--AVP--_R-786596-1",
       "location": "Burlington Massachusetts"
+    },
+    "/job/Quincy-Massachusetts/Client-Data-Integration--CDI--Analyst--Officer_R-792462": {
+      "title": "Client Data Integration (CDI) Analyst, Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Client-Data-Integration--CDI--Analyst--Officer_R-792462",
+      "location": "Quincy, Massachusetts"
     },
     "/job/Gdansk-Poland/Business-Analyst--hybrid--Officer_R-794962": {
       "title": "Business Analyst - Server Framework, hybrid, Officer",
@@ -6022,13 +6029,13 @@
     }
   },
   "Deloitte": {
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Data-Scientist-ML-Engineer-Analytics-and-Insights-Engineer-III/366075": {
+      "title": "Data Scientist / ML Engineer - Analytics and Insights Engineer III",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Data-Scientist-ML-Engineer-Analytics-and-Insights-Engineer-III/366075"
+    },
     "https://apply.deloitte.com/en_US/careers/JobDetail/Fund-Reporting-and-Treasury-Manager/365991": {
       "title": "Fund Reporting and Treasury Manager",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Fund-Reporting-and-Treasury-Manager/365991"
-    },
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Data-engineer-Sr-Consultant/365980": {
-      "title": "Senior Data engineer- Sr Consultant",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Data-engineer-Sr-Consultant/365980"
     }
   },
   "OpenX": {
@@ -6084,11 +6091,6 @@
       "title": "Principal Business Compensation Analyst",
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Principle-Business-Compensation-Analyst_1209044",
       "location": "Spring, Texas, United States of America"
-    },
-    "/job/Aguadilla-Puerto-Rico-Puerto-Rico/Business-Operations-Analyst-II_1209405": {
-      "title": "Business Operations Analyst II",
-      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Aguadilla-Puerto-Rico-Puerto-Rico/Business-Operations-Analyst-II_1209405",
-      "location": "Aguadilla, Puerto Rico, Puerto Rico"
     },
     "/job/Tlaquepaque-Jalisco-Mexico/EFR-Senior-Financial-Analyst_1210716": {
       "title": "EFR-Senior Financial Analyst",
@@ -6526,6 +6528,11 @@
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Advice-and-Financial-Planning-Wealth-Management-Analyst_R0111092",
       "location": "3 Locations"
     },
+    "/job/Charlotte-NC/Senior-Financial-Analyst--Wholesale-FP-A-Advisory_R0117671": {
+      "title": "Senior Financial Analyst- Wholesale FP&A Advisory",
+      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Senior-Financial-Analyst--Wholesale-FP-A-Advisory_R0117671",
+      "location": "Charlotte, NC"
+    },
     "/job/Charlotte-NC/Corporate-Trust---Escrow-Services-Account-Analyst-II_R0118021": {
       "title": "Corporate Trust & Escrow Services Account Analyst II",
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Corporate-Trust---Escrow-Services-Account-Analyst-II_R0118021",
@@ -6627,7 +6634,7 @@
       "location": "Charlotte, NC"
     },
     "/job/Winston-Salem-NC/Financial-Reporting-Manager_R0118133": {
-      "title": "Financial Reporting Manager",
+      "title": "Sr. Financial Reporting Manager",
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Winston-Salem-NC/Financial-Reporting-Manager_R0118133",
       "location": "2 Locations"
     },
@@ -6749,6 +6756,16 @@
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Southfield-Michigan/Business-Analyst-III--US-_R_1509241",
       "location": "2 Locations"
     },
+    "/job/Mount-Laurel-New-Jersey/Senior-Finance-Analyst--US-_R_1509117": {
+      "title": "Senior Finance Analyst (US)",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Senior-Finance-Analyst--US-_R_1509117",
+      "location": "Mount Laurel, New Jersey"
+    },
+    "/job/Wilmington-Delaware/Business-Analyst-III--US-_R_1508935-1": {
+      "title": "Business Analyst III (US)",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Wilmington-Delaware/Business-Analyst-III--US-_R_1508935-1",
+      "location": "Wilmington, Delaware"
+    },
     "/job/Lake-Mary-Florida/Senior-Operations-Analyst---Options-Clearing_R_1490196": {
       "title": "Senior Operations Analyst - Options Clearing",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Lake-Mary-Florida/Senior-Operations-Analyst---Options-Clearing_R_1490196",
@@ -6843,6 +6860,11 @@
       "title": "TD Securities 2027 Full-Time Analyst Program - Corporate Banking (New York)",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/TD-Securities-2027-Full-Time-Analyst-Program---Corporate-Banking--New-York-_R_1509884",
       "location": "New York, New York"
+    },
+    "/job/New-York-New-York/Senior-Compliance-Business-Oversight-Analyst---Compliance-Training-Data-Management-and-Reporting_R_1499751": {
+      "title": "Senior Compliance Business Oversight Analyst - Compliance Training Data Management and Reporting",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Senior-Compliance-Business-Oversight-Analyst---Compliance-Training-Data-Management-and-Reporting_R_1499751",
+      "location": "5 Locations"
     },
     "/job/New-York-New-York/XMLNAME-2027-Full-Time-Analyst-Program---CIB-Credit--New-York-_R_1509847": {
       "title": "TD Securities 2027 Full-Time Analyst Program - CIB Credit (New York)",
@@ -7192,6 +7214,16 @@
       "title": "Sr. Business Analytics (GIS)",
       "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Sr-Business-Analytics--GIS-_R-40560",
       "location": "Brooklyn, OH"
+    },
+    "/job/Brooklyn-OH/Quant-Analytics-Lead-Assoc_R-41871-1": {
+      "title": "Quant Analytics Lead Assoc",
+      "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Quant-Analytics-Lead-Assoc_R-41871-1",
+      "location": "2 Locations"
+    },
+    "/job/Brooklyn-OH/Quant-Analytics-Sr-Assoc_R-41867": {
+      "title": "Quant Analytics Sr Assoc",
+      "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Quant-Analytics-Sr-Assoc_R-41867",
+      "location": "2 Locations"
     },
     "/job/4910-Tiedeman-Road-Brooklyn-OH/Data---Business-Intelligence-Associate_R-41754": {
       "title": "Data & Business Intelligence Senior Associate",
