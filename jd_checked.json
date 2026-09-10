@@ -5,38 +5,53 @@
     "210785433",
     "210787146",
     "210788388",
-    "210789370"
+    "210788525",
+    "210789370",
+    "210789662",
+    "210790087"
   ],
   "PJT Partners": [
     "/job/New-York/Assistant-Vice-President---Technology--Senior-Full-Stack-Application-Developer-_R0003258",
     "/job/New-York/Associate---PJT-Camberview--Shareholder-Advisory---Strategic-IR-_R0002713",
     "/job/New-York/Associate---Strategic-Advisory--Generalist-_R0003314",
+    "/job/New-York/Associate---Strategic-Advisory--Power--Utilities---Renewables-_R0003518",
     "/job/New-York/Associate---Technology--Application---Data-Product-Manager-_R0003257",
     "/job/New-York/Junior-Lateral-Recruiter_R0003407",
+    "/job/New-York/Senior-Tax-Accountant_R0003408-1",
+    "/job/New-York/Senior-Vice-President---Compliance--Capital-Markets-Supervisory-_R0002853",
     "/job/New-York/Vice-President---Strategic-Advisory--Power--Utilities---Renewables-_R0003337"
   ],
   "Flowserve": [
     "0F0140E2D1294B968A5FF473DC0F7B05",
+    "1CF8349306CD445B9D92C68E1A1F4BE3",
     "21E824794D4645898EBA09A2218F8D34",
     "70550CA446884AA9BFBC807CABF9F55F",
+    "757A924462424C03A4DE774AC9B50E93",
     "88373E56B9E742FA8EB91043BE092777",
     "AF64C83004F24CD48891153B0673A31B",
+    "E5140EAA653141F4A594019AE7F26CFA",
     "F4639F832C2043D1AE7E08A949557A6B"
   ],
   "SEL": [
     "/job/Pennsylvania---King-of-Prussia/Technical-Marketing-Program-Manager_2026-22662-1",
     "/job/Washington---Pullman/Data-Analysis-Manager_2026-22845",
+    "/job/Washington---Pullman/Human-Resources-Partner_2026-21704-1",
     "/job/Washington---Pullman/Laboratory-Quality-System-Manager---Product-Compliance_2025-18199",
     "/job/Washington---Pullman/Research-Engineer---Power-Systems_2026-21862",
     "/job/Washington---Pullman/Senior-Accountant_2026-21928",
-    "/job/Washington---Pullman/Senior-Internal-Auditor_2026-21831"
+    "/job/Washington---Pullman/Senior-Internal-Auditor_2026-21831",
+    "/job/Washington---Pullman/Test-Engineer_2026-20403-1",
+    "/job/Washington---Pullman/Test-Engineer_2026-21677"
   ],
   "Amazon": [
+    "10522021",
+    "10522680",
     "10525065",
     "10529052",
     "10530107",
     "10534437",
     "10534440",
+    "10535099",
     "10535649"
   ],
   "Waters Corporation": [
@@ -50,7 +65,10 @@
   "CVS Health": [
     "/job/CT---Work-from-home/Executive-Medical-Director--Medical-Affairs_R0995442",
     "/job/CT---Work-from-home/Senior-Manager---Digital-Product-Management_R0999170",
+    "/job/Cumberland-100-Highland-Corp/ADA-Reasonable-Accommodations-Case-Manager_R1022600",
+    "/job/FL---Work-from-home/Health-Care-Quality-Management-Specialist--Remote-Must-Reside-in-FL-_R1023862",
     "/job/NC---Work-from-home/Outbound-Product-Manager---Product-Evangelist_R1030979-1",
+    "/job/North-Linden/Health-Insurance-Specialist_R1013960",
     "/job/RI---Cumberland/Senior-Manager---Financial-Planning---Analysis_R0991435",
     "/job/RI---Woonsocket/Category-Manager--Leader--General-Merchandise_R1010992",
     "/job/TX---Work-from-home/Software-Development-Engineer_R1033217"
@@ -60,17 +78,26 @@
     "/job/US-MA-Wilmington/BioChemical-Engineer_R264157",
     "/job/US-MA-Wilmington/Functional-Architect_R263101",
     "/job/US-MA-Wilmington/Lead-Analyst--Supply-Chain-Planning_R263760-1",
+    "/job/US-MA-Wilmington/Lead-Planner--Supply-Chain_R264804",
+    "/job/US-MA-Wilmington/Senior-Category-Manager--IT_R262192",
+    "/job/US-MA-Wilmington/Senior-MEMS-Design-and-Simulation-Engineer_R263712",
     "/job/US-MA-Wilmington/Senior-Staff-Engineer--Infrastructure-Security-and-Compliance_R265384-1",
     "/job/US-WA-Camas/Category-Manager--Site-Purchasing_R263588"
   ],
   "ICF Incorporated": [
+    "/job/Reston-VA/Business-Operations-Associate--REMOTE_R2602775-1",
+    "/job/Reston-VA/Lead-Quantitative-and-Qualitative-Researcher--Remote_R2602676",
     "/job/Reston-VA/Manager-Senior-Manager--Energy-Markets-Consulting_R2602605",
+    "/job/Reston-VA/Proposal-Writer---On-call_R2602015",
     "/job/Reston-VA/Senior-Economist--REMOTE-Reston--VA-Walthan--MA-_R2602006",
     "/job/Reston-VA/Senior-Product-Owner--Secret-Clearance-_R2602927",
     "/job/Reston-VA/ServiceNow-Test-Engineer--Secret-Top-Secret-_R2602928",
     "/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002"
   ],
   "Mayer Brown LLP": [
+    "5933",
+    "5934",
+    "5935",
     "5940",
     "5941",
     "5942",
@@ -81,31 +108,43 @@
   "White & Case LLP": [
     "/job/New-York/Associate-Director--Marketing---BD-Management-and-Strategy_JR102524",
     "/job/New-York/Manager--Innovation---AI_JR102435-1",
+    "/job/New-York/Manager--Marketing---BD-Operations_JR102523",
+    "/job/New-York/Marketing-Technology-Product-Manager_JR101391",
     "/job/New-York/Professional-Support-Legal-Assistant_JR102670",
     "/job/New-York/Senior-Engineer--AI-Applications-Development_JR101273-1",
     "/job/New-York/Senior-Manager--Legal-Project-Management_JR101453",
+    "/job/Tampa/Administrator--Databricks_JR102813",
     "/job/Tampa/Project-Manager_JR102818"
   ],
   "T. Rowe Price": [
+    "/job/Baltimore-MD/AI-Process-Transformation-Lead_83424",
     "/job/Baltimore-MD/Biotech-Associate_81129",
     "/job/Baltimore-MD/Investment-Strategist_83071",
     "/job/Baltimore-MD/Investments-AI-Enablement-Lead_82757",
+    "/job/Baltimore-MD/Jr-Equity-Trader---TRPIM_82648",
     "/job/Baltimore-MD/Junior-Trader--Equity-Capital-Markets_82212",
+    "/job/Baltimore-MD/Senior-Equity-Risk-Manager_80811",
     "/job/Baltimore-MD/Senior-Manager--Private-Company-Valuation--Private-Credit-Focus-_80164",
     "/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718"
   ],
   "Aptean": [
+    "7038",
+    "7043",
     "7053",
     "7054",
     "7058",
     "7059",
     "7065",
-    "7067"
+    "7067",
+    "7091"
   ],
   "Garver": [
     "https://garverusa.com/careers/jobdescription/Federal/none/REMOTE/Proposal%20Coordinator/?gnk=job&gni=8a7887ac9f8b9449019fa8d94bbc72bc&d=detail",
     "https://garverusa.com/careers/jobdescription/Transportation/Alabama/Birmingham/Project%20Manager%20-%20Hydrology%20and%20Hydraulics/?gnk=job&gni=8a78859e90a311600190a9a085c24d83&d=detail",
     "https://garverusa.com/careers/jobdescription/Transportation/Alabama/Birmingham/Transportation%20Project%20Manager/?gnk=job&gni=8a78859e90a311600190a96cc01b4940&d=detail",
+    "https://garverusa.com/careers/jobdescription/Transportation/Alabama/Huntsville/Project%20Manager%20-%20Hydrology%20and%20Hydraulics/?gnk=job&gni=8a78859e90a311600190a9a1a7c84d9e&d=detail",
+    "https://garverusa.com/careers/jobdescription/Transportation/Alabama/Mobile/Transportation%20Project%20Engineer/?gnk=job&gni=8a78859e90a311600190a9babfa74e06&d=detail",
+    "https://garverusa.com/careers/jobdescription/Water/Alabama/Huntsville/Water%20Infrastructure%20Team%20Lead/?gnk=job&gni=8a7885a891ab200e0191c3cae9cc7875&d=detail",
     "https://garverusa.com/careers/jobdescription/Water/none/REMOTE/Electrical%20Engineer%20-%20Quality%20Control%20%28QC%29/?gnk=job&gni=8a7887ac966487940196888d3d1431a4&d=detail",
     "https://garverusa.com/careers/jobdescription/Water/none/REMOTE/Practice%20Lead%20-%20Wastewater%20Technology/?gnk=job&gni=8a7887a1902d783201909a1eeec9477c&d=detail",
     "https://garverusa.com/careers/jobdescription/Water/none/REMOTE/Quality%20Control%20%28QC%29%20-%20Sr.%20Process%20Engineer/?gnk=job&gni=8a7883a89029d31e01902d5eb5db2a1c&d=detail"
@@ -114,20 +153,29 @@
     "/job/32-Fruit-Street-Boston-Yawkey-Center/Data-Manager---Lead_RQ4076853",
     "/job/Boston-MA/Bioinformatician-I_RQ4078342",
     "/job/Boston-MA/Computational-Research-Associate_RQ4077023-1",
+    "/job/Boston-MA/Post-doctoral-Research-Scientist-Emergency-Medicine_RQ4078908-2",
     "/job/Boston-MA/Research-Lab-Technician-I_RQ4076758",
     "/job/Somerville-MA/Finance-Operations-Lead_RQ4074866",
+    "/job/Somerville-MA/SIU-Fraud-Investigator_RQ4079230-1",
+    "/job/Somerville-MA/Senior-Wireless-Network-Engineer_RQ4071275-1",
     "/job/Weymouth-MA/Vascular-Technologist-MGB-Weymouth_RQ4070334"
   ],
   "WebMD": [
+    "https://jobs.jobvite.com/webmd/job/o2JDAfwI",
     "https://jobs.jobvite.com/webmd/job/oIlfAfwC",
     "https://jobs.jobvite.com/webmd/job/oJBVzfwy",
     "https://jobs.jobvite.com/webmd/job/oMgDAfwZ",
+    "https://jobs.jobvite.com/webmd/job/oMqpAfwV",
     "https://jobs.jobvite.com/webmd/job/oQAqAfwa",
     "https://jobs.jobvite.com/webmd/job/oepEAfwB",
+    "https://jobs.jobvite.com/webmd/job/otEmAfwN",
     "https://jobs.jobvite.com/webmd/job/ozTQzfwB"
   ],
   "Carnival Corporation": [
+    "13235",
+    "13644",
     "13702",
+    "13728",
     "13835",
     "13882",
     "13883",
@@ -140,7 +188,10 @@
     "/job/Charlotte/Credit-Underwriter-II-Commercial-Real-Estate-Banking_26032380-2",
     "/job/Chicago/Treasury-Sales-Officer-II---Global-Payment-Solutions---FIG-Financial-Institutions-and-Governments---Insurance---Speciality-Finance_26031080-1",
     "/job/New-York/Vice-President--Investment-Banker_26032550",
-    "/job/Plano/Infrastructure-Engineer-II--Middleware-_26031009-1"
+    "/job/Newport-Beach/Credit-Underwriter-II-Commercial-Real-Estate-Banking_26029933-2",
+    "/job/Plano/Infrastructure-Engineer-II--Middleware-_26031009-1",
+    "/job/Plano/Infrastructure-Engineer-Lead---NonStop-Software-Engineer_26011994-2",
+    "/job/Plano/Infrastructure-Engineer-Lead_26032391"
   ],
   "Qualus": [
     "5559",
@@ -148,18 +199,27 @@
     "5564",
     "5567",
     "5568",
-    "5571"
+    "5571",
+    "5579",
+    "5581",
+    "5582"
   ],
   "Gainwell": [
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Behavioral-Health-%28Autism-&-ABA-Therapy-Physician%29-California-CA-99999/1428590800/",
     "https://jobs.gainwelltechnologies.com/job/Any-city-Case-Management%2C-Associate-NY-99999/1428476100/",
     "https://jobs.gainwelltechnologies.com/job/Any-city-Director%2C-Pharmacy-Strategy-MO-99999/1417186800/",
     "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Application-Architect-MI-99999/1399864300/",
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Team-Lead-Remote-U_S_-DE-99999/1428549500/",
     "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Batch-Developer-%28LINUXCSQL%29-TX-99999/1418594900/",
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Solution-Delivery-Lead-TX-99999/1428798600/",
     "https://jobs.gainwelltechnologies.com/job/Any-city-Sr_-Batch-Developer-%28UNIXCSQLHealthcare%29-OK-99999/1408972700/",
     "https://jobs.gainwelltechnologies.com/job/Bangalore-C-Unix-Developer-KA-560100/1371756000/"
   ],
   "Happen Bank": [
     "/job/Lehi-UT/Intraday-Management-Specialist_R0007453",
+    "/job/Lehi-UT/Sr-CRA-Manager_R0007467",
+    "/job/San-Francisco-CA/Credit-Strategy-Director--Home-Improvement_R0007444",
+    "/job/San-Francisco-CA/Enterprise-Account-Manager--Purchase-Finance_R0007466",
     "/job/San-Francisco-CA/Manager-Sr-Manager--Credit-Risk_R0004859",
     "/job/San-Francisco-CA/Personal-Loan-Business-Strategy-Manager_R0007198",
     "/job/San-Francisco-CA/Sr-Digital-Marketing-Analyst_R0007428",
@@ -171,10 +231,13 @@
     "https://jobs.cmacgm-group.com/CEVALogistics/job/La-D%C3%A9fense-Global-Business-IT-and-Technology-Partnering-Senior-Specialist/1410697033/"
   ],
   "Beyond Finance": [
+    "7341362",
     "7746650",
     "7746653",
     "7857985",
     "7963750",
+    "8008407",
+    "8041856",
     "8130468",
     "8130470"
   ],
@@ -184,8 +247,12 @@
     "4305"
   ],
   "State Street": [
+    "/job/Burlington-Massachusetts/Application--Infrastructure---Service-Management--VP_R-790905",
     "/job/Burlington-Massachusetts/Assisstant-Vice-President--Product_R-780252",
     "/job/Burlington-Massachusetts/Business-Analysis--Middle-Office_R-795746",
+    "/job/Clifton-New-Jersey/Alpha-Data-Services---EDM-Implementation-Support----US----AVP_R-785722",
+    "/job/Irvine-California/Middle-Office-Project-Manager-Business-Analyst--Officer_R-791678",
+    "/job/Irvine-California/Middle-Office-Project-Manager-Business-Analyst--Officer_R-791679",
     "/job/Jacksonville-Florida/Technical-Investigator_R-797469",
     "/job/Quincy-Massachusetts/Business-Analyst--Associate-2_R-796881-1",
     "/job/Quincy-Massachusetts/Cyber-Defense-Center-Manager--MD_R-796410",
@@ -193,14 +260,18 @@
     "/job/Sydney-Australia/APAC-Settlement-Payment-Risk-Credit-Officer_R-795970"
   ],
   "Capital One": [
-    "https://www.capitalonecareers.com/job/mclean/detection-engineer-manager/1732/100445120272",
-    "https://www.capitalonecareers.com/job/mclean/principal-marketing-associate-luxury-travel/1732/100445120240",
-    "https://www.capitalonecareers.com/job/mclean/senior-auditor-dynamic-audit-resourcing-team/1732/100033484960",
-    "https://www.capitalonecareers.com/job/new-york/senior-associate-product-management-capital-one-travel-agent-tooling/1732/100445120224"
+    "https://www.capitalonecareers.com/job/chicago/senior-associate-product-management-card-offer-experiences/1732/99543046288",
+    "https://www.capitalonecareers.com/job/mclean/lead-software-engineer-android-kotlin-jetpack-compose/1732/100456528080",
+    "https://www.capitalonecareers.com/job/mclean/senior-associate-product-manager-small-business-bank-fraud-decisioning/1732/98110348256",
+    "https://www.capitalonecareers.com/job/richmond/sr-associate-process-manager-safe-hybrid/1732/100456528384"
   ],
   "BMO": [
     "/job/Chicago-IL-USA/Associate--Corporate-Banking--Treasury---Payment-Solutions_R260025078",
+    "/job/Chilliwack-BC-CAN/Director--National-Agriculture_R260024679-1",
+    "/job/New-York-NY-USA/Associate--Corporate-Banking_R260024600",
+    "/job/New-York-NY-USA/Associate--FIG-Investment-Banking---New-York_R260000550-1",
     "/job/New-York-NY-USA/Business-Coordinator_R260025162",
+    "/job/New-York-NY-USA/Equity-Research-Associate---Industrials-Multi-Industry_R260019998",
     "/job/New-York-NY-USA/Equity-Research-Associate---US-Chemicals_R260025210",
     "/job/New-York-NY-USA/Equity-Research-Associate---US-Financials---Brokers--Asset-Managers---Trust-Banks_R260026347",
     "/job/New-York-NY-USA/Junior-Associate--Investment-Banking--Healthcare-_R260021024",
@@ -210,10 +281,11 @@
   "Deloitte": [
     "https://apply.deloitte.com/en_US/careers/JobDetail/Creative-Operations-Lead/366333",
     "https://apply.deloitte.com/en_US/careers/JobDetail/Crowdstrike-Engineering-Manager/366300",
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Cyber-Senior-Consultant-Technology-Resilience/366339",
     "https://apply.deloitte.com/en_US/careers/JobDetail/Joint-Exercise-and-Training-Manager-TS-SCI/366315",
     "https://apply.deloitte.com/en_US/careers/JobDetail/PMO-Support-Strategy-Growth-and-Transformation-Senior-Consultant/366305",
     "https://apply.deloitte.com/en_US/careers/JobDetail/SAP-Maintenance-Solutions-Delivery-Manager/366332",
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Specialist-Manager-Business-Development-Representatives-OpenAI-C-MAT/366293"
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Systems-Engineer/366327"
   ],
   "OpenX": [
     "05b043ff-e436-4431-bdd5-50542fd1f597",
@@ -221,26 +293,35 @@
     "d6b2784f-ba92-4439-8b12-444cd682aa94"
   ],
   "AbbVibe": [
-    "https://careers.abbvie.com/en/job/aseptic-equipment-technician-iv-in-waco-tx-jid-33004",
-    "https://careers.abbvie.com/en/job/doc-center-supervisor-in-heredia-heredia-province-jid-32139",
-    "https://careers.abbvie.com/en/job/senior-salesforce-marketing-cloud-automation-specialist-in-florham-park-nj-jid-33002",
-    "https://careers.abbvie.com/en/job/senior-salesforce-marketing-cloud-automation-specialist-in-irvine-ca-jid-33001"
+    "https://careers.abbvie.com/en/job/associate-director-international-marketing-and-commercial-operations-oncology-in-mettawa-il-jid-33012",
+    "https://careers.abbvie.com/en/job/production-technician-l-in-tempe-az-jid-33013",
+    "https://careers.abbvie.com/en/job/specialty-representative-rheumatology-washington-d-c-in-washington-dc-jid-33014",
+    "https://careers.abbvie.com/en/job/specialty-representative-urology-gynecology-and-oncology-san-antonio-tx-in-san-antonio-tx-jid-33011"
   ],
   "HPE": [
     "/job/Bucharest-Ilfov-Romania/HPC-AI-FINANCE-LEAD_1210290",
+    "/job/Frisco-Texas-United-States-of-America/SFDC-Process-and-Capability-Lead-for-AI_1199340",
     "/job/Leixlip-Kildare-Ireland/Senior-Technical-Account-Manager---Cloud-Provider-AI---Data-Center-Networking-_1207759",
     "/job/Roseville-California-United-States-of-America/Principal-Product-Line-Manager---Campus-Switching_1209279",
+    "/job/Sofia-Bulgaria/Long-Tail-Renewals-Support-Specialist--English-or-German-Speaker-_1206454",
     "/job/Sofia-Sofia-Bulgaria/AP-Accountant-with-Bulgarian_1209809",
     "/job/Sofia-Sofia-Bulgaria/Business-Process-Manager_1209560",
     "/job/Spring-Texas-United-States-of-America/Public-Relations-Manager_1210577",
     "/job/Spring-Texas-United-States-of-America/Senior-Financial-Anlayst_1210641",
+    "/job/Sunnyvale-California-United-States-of-America/CPQ-Program-Manager_1208465",
+    "/job/Sunnyvale-California-United-States-of-America/Senior-Solutions-Designer_1205824",
     "/job/Sunnyvale-California-United-States-of-America/Specialty-Sales-Operations-Planner_1204905"
   ],
   "Axos": [
     "/job/HQ---San-Diego-CA/AI-Enablement-Specialist_JR5216",
     "/job/HQ---San-Diego-CA/Associate-Program-Manager---Invest_JR4426",
     "/job/HQ---San-Diego-CA/Commercial-Lending-System-Administrator_JR4391",
+    "/job/HQ---San-Diego-CA/Early-Careers-Specialist_JR4485",
     "/job/HQ---San-Diego-CA/JBATA---Data-Analyst_JR4770",
+    "/job/HQ---San-Diego-CA/Process-Improvement-Consultant_JR1058",
+    "/job/HQ---San-Diego-CA/Project-Coordinator_JR5228",
+    "/job/HQ---San-Diego-CA/Salesforce-Administrator_JR4743",
+    "/job/HQ---San-Diego-CA/Software-Engineer_JR5286",
     "/job/HQ---San-Diego-CA/Sr-Portfolio-Associate_JR4767",
     "/job/HQ---San-Diego-CA/Sr-Underwriter_JR5047-1",
     "/job/New-York-NY/Portfolio-Associate_JR5011",
@@ -251,22 +332,34 @@
     "/job/Atlanta-GA---303-Peachtree-Street---Truist-Plaza/Commercial-Banking-Team-Leader_R0118362-1",
     "/job/Atlanta-GA/Industry-Consulting-Manager_R0117989",
     "/job/Charlotte-NC---214-North-Tryon-Street/Asset-Liability-Management-Forecast-Coordinator_R0118802",
+    "/job/Charlotte-NC---214-North-Tryon-Street/Wholesale-Early-Careers-Development-Associate_R0118463",
+    "/job/Charlotte-NC/Asset-Liability-Management-Associate-or-Senior_R0116624",
     "/job/Charlotte-NC/Commercial-Banking-Analyst-Team-Leader_R0118048",
+    "/job/Charlotte-NC/FP-A-Financial-Director---Enterprise-Expense-Management_R0117252",
     "/job/Charlotte-NC/Financial-Manager---Tech---Ops-Transformation_R0117904",
     "/job/Greensboro-NC/Financial-Manager_R0116979-1",
     "/job/New-York-NY/Associate-Equity-Research---Biotech_R0118087",
+    "/job/New-York-NY/Equity-Capital-Markets-VP_R0114332",
+    "/job/New-York-NY/Equity-Capital-Markets-Vice-President_R0118749",
     "/job/New-York-NY/Equity-Research-Associate---Aerospace---Defense_R0114355",
     "/job/New-York-NY/Equity-Research-Associate---IT-Services_R0118083",
-    "/job/New-York-NY/Equity-Research-Associate---Industrials---Machinery---E-C_R0116377"
+    "/job/New-York-NY/Equity-Research-Associate---Industrials---Machinery---E-C_R0116377",
+    "/job/New-York-NY/Wholesale-Credit-Delivery-Associate---Project-Finance_R0118482"
   ],
   "TD": [
     "/job/Boston-Massachusetts/XMLNAME-2027-Summer-Internship-Program---Commercial-Banking_R_1508800",
     "/job/Boston-Massachusetts/XMLNAME-2027-Summer-Internship-Program---Commercial-Banking_R_1508825",
     "/job/Charlotte-North-Carolina/XMLNAME-2027-Summer-Internship-Program---Finance_R_1508362",
+    "/job/Greenville-South-Carolina/Payroll-Tax-Specialist-I_R_1505569",
+    "/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Audit_R_1507908",
     "/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Commercial-Banking_R_1508760",
+    "/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Commercial-Banking_R_1508832",
     "/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Commercial-Banking_R_1508852-1",
     "/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Finance_R_1508101",
+    "/job/New-York-New-York/Director---Global-Business-Management--Prime-Brokerage_R_1499921-1",
     "/job/New-York-New-York/Director---Global-Research-Business-Management_R_1493421-1",
+    "/job/New-York-New-York/Manager--Workplace-Services_R_1508966",
+    "/job/New-York-New-York/Operations-Specialist--TDS-Global-Asset-Servicing_R_1502602",
     "/job/New-York-New-York/US-Graduate-Leadership-Intern-Program-Marketing_R_1508603",
     "/job/New-York-New-York/Vice-President--TDS-Operations--NY-Middle-Office_R_1505566",
     "/job/New-York-New-York/XMLNAME-2027-Summer-Internship-Program---Commercial-Banking_R_1508788",
@@ -277,27 +370,39 @@
     "/job/Charlotte-NC/Associate-Investment-Banking_R71463-1",
     "/job/Charlotte-NC/Senior-Portfolio-Manager---National-Healthcare_R66743",
     "/job/Charlotte-NC/Summer-2027-Interns---Corporate-Client-Coverage_R67920",
-    "/job/Charlotte-NC/Underwriting-Principal---CIB_R67465",
     "/job/Chicago-IL/ABL-Associate_R71888",
+    "/job/Cincinnati-OH/Bancorp-Security-Operations-Center-Agent-I-3pm-11-30pm_R71552",
     "/job/Cincinnati-OH/Bancorp-Security-Operations-Center-Agent-II-11pm-7-30am_R72428",
+    "/job/Cincinnati-OH/Senior-Analyst--Sourcing_R72299",
     "/job/Dallas-TX/Investment-Banking-Associate-II---Environmental-Services_R70979",
     "/job/Dallas-TX/Investment-Banking-Principal---Vice-President---Environmental-Services_R70978",
+    "/job/Dallas-TX/Senior-Wealth-Strategist_R68814",
+    "/job/Los-Angeles-CA/Senior-Wealth-Strategist_R68812",
+    "/job/Orlando-FL/Commercial-Real-Estate-Director--Florida_R69634",
     "/job/Rosemont-IL/Accounts-Receivable-Specialist_R72627",
     "/job/San-Jose-CA/Commercial-Real-Estate-Associate_R72424",
+    "/job/Tampa-FL/Commercial-Real-Estate-Director--Florida_R67960",
     "/job/Virtual/Commercial-Portfolio-Manager-I---Healthcare-G-I_R71763-1"
   ],
   "Key Bank": [
     "/job/Brooklyn-OH/Create-Associate--Commercial-Credit-Underwriter--1-million-to-10-million-commitments-_R-41234",
+    "/job/Brooklyn-OH/Cyber-Defense-Incident-Response-Lead_R-41850",
     "/job/Brooklyn-OH/Senior-Credit-Associate--Underwriter---Agribusiness-_R-41999",
     "/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384",
     "/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Data-Track-Internship--Cleveland_R-41385",
     "/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Operations-Track-Internship--Cleveland_R-41383",
     "/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Security--Business---Strategy-Track-Internship--Cleveland_R-41390",
     "/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Technology-Track-Internship--Cleveland_R-41382",
+    "/job/Brooklyn-OH/XMLNAME-2027-Summer-Marketing-Internship---Cleveland--OH_R-42003",
     "/job/Cincinnati-OH/Key-Private-Bank-Relationship-Manager_R-42067",
     "/job/Cleveland-OH/Investment-Banking-Associate--Consumer--Gaming-_R-40533",
     "/job/Cleveland-OH/Vice-President--Portfolio-Management--Commercial-Upper-Middle-Market--West-Region-_R-41720",
+    "/job/Cleveland-OH/Vice-President--Portfolio-Management--Commercial-and-Industrial-Upper-Middle-Market--East-or-Central-Region-_R-41479",
+    "/job/Cleveland-OH/Vice-President--Portfolio-Management--Diversified-_R-41482",
     "/job/Cleveland-OH/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Cleveland_R-42077",
+    "/job/Denver-CO/XMLNAME-2027-Summer-Commercial-Bank-Internship---Denver--Credit-_R-41397",
+    "/job/Denver-CO/XMLNAME-2027-Summer-Real-Estate-Capital-Internship---Denver-CDLI_R-42000",
+    "/job/New-York-NY/Vice-President--Investment-Banking---Industrials--Building-Products-_R-41988",
     "/job/Overland-Park-KS/Surveillance-Intern_R-42011"
   ],
   "Zionbankcorp": [
@@ -309,18 +414,26 @@
   ],
   "Northern Trust": [
     "/job/Chicago-IL/Credit-Intern_R160773-2",
+    "/job/Chicago-IL/Enterprise-Chief-Operations-Office-Intern---Chicago_R160764",
+    "/job/Chicago-IL/Enterprise-Data-Delivery-Specialist_R156814",
     "/job/Chicago-IL/Hedge-Fund-of-Funds-Risk-Manager_R155487",
+    "/job/Chicago-IL/Human-Resources-Intern---Chicago_R160858-1",
     "/job/Chicago-IL/Information-Architect_R157484",
     "/job/Chicago-IL/Manager--Transformation-Performance-and-Finance_R153863",
     "/job/Chicago-IL/Risk-and-Compliance-Intern_R160771-1",
     "/job/Chicago-IL/Senior-Accountant---Treasury-Support_R156064-1",
     "/job/Chicago-IL/Senior-Investment-Researcher--Multi-Asset_R159420",
+    "/job/Chicago-IL/Sr-Associate--Threat-and-Vulnerability_R158541-1",
     "/job/Chicago-IL/Sr-Financial-Analyst---Technology-Strategy_R148601",
+    "/job/Chicago-IL/Sr-Lead--Infra-DisasterRecov_R159946",
+    "/job/Chicago-IL/Team-Lead--Procurement-Technology--Coupa-Product---Platform-Services_R158392",
+    "/job/Chicago-IL/Technology-Intern---Information-Security_R160869-1",
     "/job/Chicago-IL/Technology-Intern---Infrastructure-and-IT-Management_R160872-1",
     "/job/Chicago-IL/Technology-Intern---Software-Engineering_R160832-1",
     "/job/Chicago-IL/Wealth-Management-Digital-Client-and-Partner-Experience-Intern--_R160768-1",
     "/job/Chicago-IL/Wealth-Management-Intern---Chicago_R160825-1",
-    "/job/Dallas-TX/Associate-Special-Assets-Manager---Energy---Minerals-Management-Group_R160191"
+    "/job/Dallas-TX/Associate-Special-Assets-Manager---Energy---Minerals-Management-Group_R160191",
+    "/job/New-York-NY/Wealth-Management-Intern---All-Other-US-Locations_R160763-1"
   ],
   "Santander": [
     "/job/Austin/Workout-Officer---Remote_Req1607987-1",
@@ -328,11 +441,20 @@
     "/job/Dallas/USA-Sr-Specialist--Pricing--Hybrid-DFW-Area-_Req1587337",
     "/job/Dallas/USA-Sr-Specialist--Pricing--Hybrid-Role-_Req1578853",
     "/job/Madison-Ave-Corp/Associate--Application-Support-Development_Req1601876",
+    "/job/Madison-Ave-Corp/Associate--Market-Risk_Req1607420",
     "/job/Madison-Ave-Corp/CIB---Investment-Banking-Vice-President--REGAL_Req1578164",
+    "/job/Madison-Ave-Corp/CIB-Structured-Finance-Associate--Tax-Equity_Req1575248",
     "/job/Madison-Ave-Corp/CIB-Vice-President--Loan-Trading_Req1610504-1",
+    "/job/Madison-Ave-Corp/Export---Agency-Finance--EAF-US----LatAm-Focus---VP_Req1587841",
     "/job/Madison-Ave-Corp/Investment-Banking---Banker---Power---Utilities--Renewables---VP---New-York_Req1601901",
+    "/job/Madison-Ave-Corp/Investment-Banking---Mergers---Acquisition---VP---New-York_Req1593256",
     "/job/Madison-Ave-Corp/Investment-Banking-Associate_Req1589770",
+    "/job/Madison-Ave-Corp/Product-Specialist-PDM--Associate_Req1596081",
     "/job/Madison-Ave-Corp/Senior-Application-Developer---Securitized-Products--Java---NET-_Req1600752-1",
+    "/job/Madison-Ave-Corp/Senior-Java-Application-Developer_Req1600338-1",
+    "/job/Madison-Ave-Corp/Sr-Legal-Counsel---Employment-Law_Req1550247-2",
+    "/job/Madison-Ave-Corp/US-Structured-Notes-Sales_Req1594842-1",
+    "/job/Madison-Ave-Corp/USA-CIB-Corporate-Access-Associate_Req1601166-1",
     "/job/Miami/Associate--Fund-Finance-Credit-Underwriting---Portfolio-Management--First-Line-of-Defense-_Req1611313-2",
     "/job/Miami/Loan-Agency-Servicing---Non-Agency-Servicing---Team-Lead_Req1472394-2",
     "/job/New-York/Financial-Control---Analysis---Cost-Control--Associate_Req1598808-1",
@@ -340,19 +462,28 @@
   ],
   "MUFG": [
     "/job/Duesseldorf/Relationship-Manager-Assistant---Japanese-Corporate-Banking_10078928-WD-1",
+    "/job/Ho-Chi-Minh-City-Branch/Vice-President--Trading-Desk-Head_10078990-WD",
     "/job/Jersey-City-NJ/Application-Production-Support--Assistant-Vice-President_10077887-WD",
     "/job/Jersey-City-NJ/EA-Governance-Delivery-and-Process-Analyst--AVP_10077123-WD",
     "/job/Jersey-City-NJ/Global-Director-of-Autonomous-Incident-Response-and-Forensic-Analysis_10076420-WD",
+    "/job/Jersey-City-NJ/Solution-Architecture--Vice-President_10076997-WD",
     "/job/Jersey-City-NJ/SysOps-Application-Support---AVP_10075593-WD",
     "/job/Jersey-City-NJ/SysOps-Application-Support--VP_10075590-WD",
     "/job/London/VP---NBFI-Credit_10079189-WD-1",
+    "/job/Los-Angeles-CA/Bilingual-Credit-Risk-Associate-for-Japanese-Corporate-Banking-in-Los-Angeles--CA_10077764-WD",
+    "/job/Los-Angeles-CA/Director--Group-Head---Entertainment-Finance-Credit-Underwriting-and-Portfolio-Management_10078449-WD",
     "/job/New-York-NY/Associate---Asset-Based-Lending-Underwriting_10079279-WD-1",
     "/job/New-York-NY/Credit-Review-Director_10076675-WD",
+    "/job/New-York-NY/Credit-Risk-Associate-for-Japanese-Corporate-Banking--Bilingual-in-Japanese-and-English_10076280-WD",
     "/job/New-York-NY/Desktop-Support-Technician---Level-2_10078336-WD",
+    "/job/New-York-NY/Vice-President--Underwriting-and-Portfolio-Management---Sponsor--Growth----Middle-Market-Healthcare_10077680-WD",
+    "/job/Singapore-Office-Marina-One/Assistant-Vice-President--Global-HR-Solutions-Consultant-APAC--Region---Location-Agnostic-_10078388-WD",
+    "/job/Sydney-Branch/Associate---Vice-President--Financial-Institutions---Credit-Management_10079113-WD",
     "/job/Tampa-FL/Employee-Relations-Consultant_10078448-WD",
     "/job/Tempe-AZ/Corporate-Banking-Middle-Office--AVP_10079202-WD",
     "/job/Tempe-AZ/Credit-Risk-Review-VP_10079091-WD",
     "/job/Tempe-AZ/Global-Director-of-Autonomous-Cyber-Defense-and-Security-Event-Triage--SOC-_10076418-WD",
-    "/job/Yangon-Branch/Administrator_10078262-WD-3"
+    "/job/Yangon-Branch/Administrator_10078262-WD-3",
+    "/job/Yangon-Branch/VP_10079043-WD-3"
   ]
 }
