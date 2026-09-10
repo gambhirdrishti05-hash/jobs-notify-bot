@@ -1206,6 +1206,12 @@
       "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
+    "210787498": {
+      "title": "ESG Reporting & Controller Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210787498",
+      "location": "Newark, DE, United States",
+      "country_code": "US"
+    },
     "210789027": {
       "title": "External Reporting Controller- Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789027",
@@ -3389,6 +3395,12 @@
       "location": "Tempe, Arizona, USA",
       "country_code": "USA"
     },
+    "10458455": {
+      "title": "Senior Business Analyst, Talent Acquisition Analytics",
+      "url": "https://www.amazon.jobs/en/jobs/10458455/senior-business-analyst-talent-acquisition-analytics",
+      "location": "Seattle, Washington, USA",
+      "country_code": "USA"
+    },
     "10449161": {
       "title": "Senior Financial Analyst, US Hardlines, US Hardlines",
       "url": "https://www.amazon.jobs/en/jobs/10449161/senior-financial-analyst-us-hardlines-us-hardlines",
@@ -3782,11 +3794,6 @@
   },
   "Waters Corporation": {},
   "CVS Health": {
-    "/job/LA---Work-from-home/Analyst--Health-Care-Quality-Management_R1023760": {
-      "title": "Analyst, Health Care Quality Management",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/LA---Work-from-home/Analyst--Health-Care-Quality-Management_R1023760",
-      "location": "LA - Work from home"
-    },
     "/job/Field-Florida/Bilingual-Case-Management-Analyst---Field-in-Miami-Dade-County--FL_R1017800": {
       "title": "Bilingual Case Management Analyst - Field in Miami-Dade County, FL",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Field-Florida/Bilingual-Case-Management-Analyst---Field-in-Miami-Dade-County--FL_R1017800",
@@ -5369,13 +5376,13 @@
       "title": "Business Analyst (Content & Document Management / Infra)",
       "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Business-Analyst-%28Content-&-Document-Management-Infra%29-KA-560100/1400163000/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Roseville-Senior-Reporting-Analyst-Hybrid-Roseville%2C-CA-CA-95747/1417948000/": {
-      "title": "Senior Reporting Analyst - Hybrid - Roseville, CA",
-      "url": "https://jobs.gainwelltechnologies.com/job/Roseville-Senior-Reporting-Analyst-Hybrid-Roseville%2C-CA-CA-95747/1417948000/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Bangalore-Business-Analyst-Financials-%28Healthcare%29-KA-560100/1401566400/": {
       "title": "Business Analyst - Financials (Healthcare)",
       "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Business-Analyst-Financials-%28Healthcare%29-KA-560100/1401566400/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Roseville-Senior-Reporting-Analyst-Hybrid-Roseville%2C-CA-CA-95747/1417948000/": {
+      "title": "Senior Reporting Analyst - Hybrid - Roseville, CA",
+      "url": "https://jobs.gainwelltechnologies.com/job/Roseville-Senior-Reporting-Analyst-Hybrid-Roseville%2C-CA-CA-95747/1417948000/"
     }
   },
   "Happen Bank": {
@@ -5387,6 +5394,11 @@
     "/job/San-Francisco-CA/Sr-Marketing-Automation-Analyst_R0007436": {
       "title": "Sr Marketing Automation Analyst",
       "url": "https://lendingclub.wd1.myworkdayjobs.com/external/job/San-Francisco-CA/Sr-Marketing-Automation-Analyst_R0007436",
+      "location": "San Francisco, CA"
+    },
+    "/job/San-Francisco-CA/Sr-Decision-Infrastructure-Analyst_R0007479": {
+      "title": "Sr Decision Infrastructure Analyst",
+      "url": "https://lendingclub.wd1.myworkdayjobs.com/external/job/San-Francisco-CA/Sr-Decision-Infrastructure-Analyst_R0007479",
       "location": "San Francisco, CA"
     },
     "/job/San-Francisco-CA/SEC-Reporting---Technical-Accounting-Manager_R0007440-1": {
@@ -5959,9 +5971,13 @@
     }
   },
   "Capital One": {
-    "https://www.capitalonecareers.com/job/mclean/senior-risk-specialist-compliance-governance-analyst/1732/100399472496": {
-      "title": "10039947249609/09/2026Senior Risk Specialist, Compliance Governance AnalystMcLean, VA",
-      "url": "https://www.capitalonecareers.com/job/mclean/senior-risk-specialist-compliance-governance-analyst/1732/100399472496"
+    "https://www.capitalonecareers.com/job/new-york/data-analysis-manager-es-risk-analytics/1732/99677336016": {
+      "title": "9967733601608/24/2026Data Analysis Manager - ES Risk AnalyticsNew York, NY",
+      "url": "https://www.capitalonecareers.com/job/new-york/data-analysis-manager-es-risk-analytics/1732/99677336016"
+    },
+    "https://www.capitalonecareers.com/job/new-york/senior-manager-data-engineering/1732/100409250688": {
+      "title": "10040925068809/09/2026Senior Manager, Data EngineeringNew York, NY",
+      "url": "https://www.capitalonecareers.com/job/new-york/senior-manager-data-engineering/1732/100409250688"
     }
   },
   "BMO": {
@@ -6111,12 +6127,7 @@
       "location": "Naperville, IL, USA"
     }
   },
-  "Deloitte": {
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Associate-Analytics-and-Insights/366147": {
-      "title": "Associate, Analytics and Insights",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Associate-Analytics-and-Insights/366147"
-    }
-  },
+  "Deloitte": {},
   "OpenX": {
     "df23b30a-21b5-4055-9698-5b5c2767df3c": {
       "title": "Business Intelligence Data Analyst",
@@ -6130,6 +6141,10 @@
     }
   },
   "AbbVibe": {
+    "https://careers.abbvie.com/en/job/senior-director-safety-data-sciences-in-north-chicago-il-jid-32928": {
+      "title": "Senior Director, Safety Data Sciences",
+      "url": "https://careers.abbvie.com/en/job/senior-director-safety-data-sciences-in-north-chicago-il-jid-32928"
+    },
     "https://careers.abbvie.com/en/job/data-engineer-hybrid-in-irvine-ca-jid-32925": {
       "title": "Data Engineer (Hybrid)",
       "url": "https://careers.abbvie.com/en/job/data-engineer-hybrid-in-irvine-ca-jid-32925"
@@ -6141,30 +6156,6 @@
     "https://careers.abbvie.com/en/job/data-engineer-hybrid-in-north-chicago-il-jid-32922": {
       "title": "Data Engineer (Hybrid)",
       "url": "https://careers.abbvie.com/en/job/data-engineer-hybrid-in-north-chicago-il-jid-32922"
-    },
-    "https://careers.abbvie.com/en/job/data-engineer-hybrid-in-florham-park-nj-jid-32923": {
-      "title": "Data Engineer (Hybrid)",
-      "url": "https://careers.abbvie.com/en/job/data-engineer-hybrid-in-florham-park-nj-jid-32923"
-    },
-    "https://careers.abbvie.com/en/job/statistical-analyst-hybrid-in-irvine-ca-jid-32920": {
-      "title": "Statistical Analyst (Hybrid)",
-      "url": "https://careers.abbvie.com/en/job/statistical-analyst-hybrid-in-irvine-ca-jid-32920"
-    },
-    "https://careers.abbvie.com/en/job/statistical-analyst-hybrid-in-south-san-francisco-ca-jid-32919": {
-      "title": "Statistical Analyst (Hybrid)",
-      "url": "https://careers.abbvie.com/en/job/statistical-analyst-hybrid-in-south-san-francisco-ca-jid-32919"
-    },
-    "https://careers.abbvie.com/en/job/statistical-analyst-hybrid-in-florham-park-nj-jid-32918": {
-      "title": "Statistical Analyst (Hybrid)",
-      "url": "https://careers.abbvie.com/en/job/statistical-analyst-hybrid-in-florham-park-nj-jid-32918"
-    },
-    "https://careers.abbvie.com/en/job/statistical-analyst-hybrid-in-north-chicago-il-jid-32917": {
-      "title": "Statistical Analyst (Hybrid)",
-      "url": "https://careers.abbvie.com/en/job/statistical-analyst-hybrid-in-north-chicago-il-jid-32917"
-    },
-    "https://careers.abbvie.com/en/job/associate-data-engineer-ii-in-mettawa-il-jid-32913": {
-      "title": "Associate Data Engineer II",
-      "url": "https://careers.abbvie.com/en/job/associate-data-engineer-ii-in-mettawa-il-jid-32913"
     }
   },
   "HPE": {
@@ -6410,6 +6401,11 @@
       "title": "Legal Operations Analyst I",
       "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Legal-Operations-Analyst-I_JR5280",
       "location": "HQ - San Diego, CA"
+    },
+    "/job/Centennial-CO/Analyst--Operations---Cash-Management_JR4826": {
+      "title": "Analyst, Operations - Cash Management",
+      "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/Centennial-CO/Analyst--Operations---Cash-Management_JR4826",
+      "location": "Centennial, CO"
     },
     "/job/HQ---San-Diego-CA/Sr-Technical-Business-Systems-Analyst_JR4310": {
       "title": "Sr. Technical Business Systems Analyst",
