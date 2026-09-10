@@ -20,6 +20,15 @@ filtering. The fallback is better than nothing but will miss jobs
 on JavaScript-rendered sites and may occasionally misidentify
 non-job links. The Actions log prints which method was used for
 each company so you can tell at a glance what's reliable vs not.
+
+Jobs are selected on title first. A title that matches roles.include
+alerts immediately; a title that matches roles.exclude is dropped for
+good. Everything in between is a *candidate*: its description gets
+downloaded and scored against the profile keywords in filters.json, so
+postings that are the right job under a title that doesn't say so
+("Associate, Strategy & Operations") still get through. Descriptions
+cost one request each, so there's a per-run budget and every job is
+read at most once ever — see jd_checked.json.
 """
 
 import json
@@ -34,6 +43,17 @@ from bs4 import BeautifulSoup
 COMPANIES_FILE = "companies.json"
 SEEN_FILE = "seen_jobs.json"
 FILTERS_FILE = "filters.json"
+
+# Job IDs whose description we've already read and scored as "not a match".
+# Kept apart from seen_jobs.json because these are explicitly the jobs we did
+# NOT alert on — without this record every run would re-download the same few
+# thousand descriptions and never make progress through the backlog.
+JD_CHECKED_FILE = "jd_checked.json"
+
+# Fields worth carrying between runs. Descriptions are deliberately not among
+# them: they're megabytes of text we only need for the few seconds it takes to
+# score them, and this state file gets committed to the repo on every run.
+PERSISTED_JOB_KEYS = ("title", "url", "location", "country_code", "matched_on")
 
 # Ceiling on Telegram messages per run. A company changing its URL, or a
 # fetcher that starts seeing postings it previously truncated, can turn a
@@ -88,6 +108,12 @@ def load_json(path, default):
 def save_json(path, data):
     with open(path, "w") as f:
         json.dump(data, f, indent=2)
+
+
+def persistable(jobs):
+    """Strip run-only fields (descriptions) before a job dict hits disk."""
+    return {job_id: {k: v for k, v in job.items() if k in PERSISTED_JOB_KEYS}
+            for job_id, job in jobs.items()}
 
 
 def with_params(url, **overrides):
@@ -162,10 +188,34 @@ NON_US_SIGNALS = [
 ]
 
 
+def term_pattern(term):
+    """
+    Compile a keyword into a whole-word regex. Substring matching is fine for
+    titles, where the vocabulary is small, but a description is thousands of
+    words: plain `in` makes "sas" match "chassis" and "r" match everything.
+    Word boundaries are only added where the term actually starts/ends with a
+    word character, so "a/b test" and "c++"-style terms still work.
+    """
+    esc = re.escape(term)
+    prefix = r"\b" if term[:1].isalnum() else ""
+    suffix = r"\b" if term[-1:].isalnum() else ""
+    return re.compile(prefix + esc + suffix, re.IGNORECASE)
+
+
 def load_filters():
     raw = load_json(FILTERS_FILE, {})
     loc = raw.get("location", {})
     roles = raw.get("roles", {})
+    jd = raw.get("job_description", {})
+
+    groups = []
+    for name, group in (jd.get("groups") or {}).items():
+        if not isinstance(group, dict) or "terms" not in group:
+            continue  # skips the "_comment" key alongside the real groups
+        terms = [(t, term_pattern(t)) for t in group.get("terms", []) if t]
+        if terms:
+            groups.append((name, group.get("weight", 1), terms))
+
     return {
         "location_enabled": loc.get("enabled", False),
         "countries": {c.upper() for c in loc.get("countries", [])},
@@ -174,6 +224,12 @@ def load_filters():
         "include": [s.lower() for s in roles.get("include", [])],
         "exclude": [s.lower() for s in roles.get("exclude", [])],
         "search_keywords": raw.get("search_keywords", []),
+        "jd_enabled": jd.get("enabled", False) and bool(groups),
+        "jd_groups": groups,
+        "jd_exclude": [term_pattern(t) for t in jd.get("exclude", []) if t],
+        "jd_min_score": jd.get("min_score", 5),
+        "jd_require_group": jd.get("require_group"),
+        "jd_budget": jd.get("max_fetches_per_run", 150),
     }
 
 
@@ -221,30 +277,100 @@ def location_allowed(job, filters):
     return verdict in filters["countries"]
 
 
-def role_allowed(title, filters):
+def role_verdict(title, filters):
+    """
+    "match"     — title hits an include keyword. Alert on it.
+    "candidate" — title hits nothing either way. Might still be the right job
+                  under a vague name ("Associate, Strategy & Operations"), so
+                  it's worth spending a request to read the description.
+    "reject"    — title hits an exclude keyword. Final; no description is read,
+                  because an exclusion means you don't want that role family
+                  however the posting is worded.
+    """
     if not filters["roles_enabled"]:
-        return True
+        return "match"
     lowered = (title or "").lower()
-    if filters["include"] and not any(k in lowered for k in filters["include"]):
-        return False
     if any(k in lowered for k in filters["exclude"]):
-        return False
-    return True
+        return "reject"
+    if filters["include"] and not any(k in lowered for k in filters["include"]):
+        return "candidate"
+    return "match"
 
 
 def apply_filters(jobs, filters):
-    """Drop jobs that fail the role or location rules. Returns (kept, stats)."""
-    kept = {}
-    dropped_role = dropped_location = 0
+    """
+    Split jobs by title into (matched, candidates, stats).
+
+    Location is applied to both buckets up front — there's no point paying for
+    the description of a Bengaluru posting we'd discard afterwards anyway.
+    """
+    matched, candidates = {}, {}
+    stats = {"role": 0, "location": 0, "candidate": 0}
     for job_id, job in jobs.items():
-        if not role_allowed(job.get("title"), filters):
-            dropped_role += 1
+        verdict = role_verdict(job.get("title"), filters)
+        if verdict == "reject":
+            stats["role"] += 1
             continue
         if not location_allowed(job, filters):
-            dropped_location += 1
+            stats["location"] += 1
             continue
-        kept[job_id] = job
-    return kept, {"role": dropped_role, "location": dropped_location}
+        if verdict == "candidate":
+            candidates[job_id] = job
+            stats["candidate"] += 1
+        else:
+            matched[job_id] = job
+    return matched, candidates, stats
+
+
+# ═══════════════════════════════════════════════════════════════
+# Description matching — the second chance for unmatched titles
+# ═══════════════════════════════════════════════════════════════
+
+def score_description(text, filters):
+    """
+    Score a description against the profile keywords.
+
+    Each distinct term counts once regardless of how many times it occurs.
+    Job descriptions repeat their own vocabulary constantly, so counting
+    occurrences would just rank the wordiest posting first rather than the
+    one that matches on the widest range of what you actually do.
+
+    Returns (score, matched_terms, reason) where reason explains a zero.
+    """
+    if not text:
+        return 0, [], "empty description"
+
+    for pattern in filters["jd_exclude"]:
+        if pattern.search(text):
+            return 0, [], f"excluded on {pattern.pattern}"
+
+    required = filters["jd_require_group"]
+    score = 0
+    matched = []
+    hit_required = required is None
+
+    for name, weight, terms in filters["jd_groups"]:
+        for term, pattern in terms:
+            if pattern.search(text):
+                score += weight
+                matched.append(term)
+                if name == required:
+                    hit_required = True
+
+    if not hit_required:
+        return 0, matched, f"no '{required}' term"
+    return score, matched, ""
+
+
+def html_to_text(html):
+    """Descriptions arrive as HTML from most platforms and plain text from a
+    few; running both through the parser is harmless and keeps callers dumb."""
+    if not html:
+        return ""
+    soup = BeautifulSoup(html, "html.parser")
+    for tag in soup(["script", "style"]):
+        tag.decompose()
+    return re.sub(r"\s+", " ", soup.get_text(" ")).strip()
 
 
 # ═══════════════════════════════════════════════════════════════
@@ -323,12 +449,15 @@ def is_amazon(url):
 # ═══════════════════════════════════════════════════════════════
 
 def fetch_greenhouse(slug):
-    api = f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs"
+    # content=true returns the full description inline, which saves a request
+    # per job later when we score unmatched titles.
+    api = f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true"
     r = requests.get(api, headers=HEADERS, timeout=20)
     r.raise_for_status()
     jobs = r.json().get("jobs", [])
     return {str(j["id"]): {"title": j["title"], "url": j["absolute_url"],
-                           "location": (j.get("location") or {}).get("name")}
+                           "location": (j.get("location") or {}).get("name"),
+                           "_jd": j.get("content")}
             for j in jobs}
 
 
@@ -338,7 +467,8 @@ def fetch_lever(slug):
     r.raise_for_status()
     jobs = r.json()
     return {j["id"]: {"title": j["text"], "url": j["hostedUrl"],
-                      "location": (j.get("categories") or {}).get("location")}
+                      "location": (j.get("categories") or {}).get("location"),
+                      "_jd": j.get("descriptionPlain") or j.get("description")}
             for j in jobs}
 
 
@@ -598,7 +728,8 @@ def fetch_ashby(slug):
         title = job.get("title", "Untitled")
         job_url = f"https://jobs.ashbyhq.com/{slug}/{job_id}"
         jobs[job_id] = {"title": title, "url": job_url,
-                        "location": job.get("location")}
+                        "location": job.get("location"),
+                        "_jd": job.get("descriptionPlain") or job.get("descriptionHtml")}
     return jobs
 
 
@@ -641,6 +772,13 @@ def fetch_amazon(url, filters=None, max_jobs=2000):
                     "url": "https://www.amazon.jobs" + job.get("job_path", ""),
                     "location": job.get("normalized_location"),
                     "country_code": job.get("country_code"),
+                    # search.json already carries the description and both
+                    # qualification blocks — no detail request needed.
+                    "_jd": " ".join(filter(None, [
+                        job.get("description"),
+                        job.get("basic_qualifications"),
+                        job.get("preferred_qualifications"),
+                    ])),
                 }
             offset += limit
             if len(batch) < limit:
@@ -766,6 +904,127 @@ def fetch_generic(url):
 
 
 # ═══════════════════════════════════════════════════════════════
+# Description fetchers — one job at a time, so used sparingly
+# ═══════════════════════════════════════════════════════════════
+
+def describe_workday(company, job):
+    """
+    Workday exposes a posting's detail at the same cxs path used for the
+    listing, with the job's externalPath appended instead of /jobs.
+    """
+    parts = get_workday_parts(company["url"])
+    if not parts:
+        return ""
+    tenant, dc, site = parts
+    # The stored URL is ".../{site}{externalPath}"; recover the path half.
+    path = job["url"].split(f"/{site}", 1)[-1]
+    if not path:
+        return ""
+    api = f"https://{tenant}.{dc}.myworkdayjobs.com/wday/cxs/{tenant}/{site}{path}"
+    r = requests.get(api, headers={**HEADERS, "Accept": "application/json"}, timeout=20)
+    r.raise_for_status()
+    info = r.json().get("jobPostingInfo") or {}
+    return html_to_text(info.get("jobDescription"))
+
+
+def describe_oracle_cloud(company, job_id):
+    """
+    Oracle keeps the description on a separate resource from the search one,
+    split across three fields depending on how the tenant set up its template
+    — so all of them get concatenated rather than picking one.
+    """
+    parts = get_oracle_cloud_parts(company["url"])
+    if not parts:
+        return ""
+    host, site_number = parts
+    api = f"https://{host}/hcmRestApi/resources/latest/recruitingCEJobRequisitionDetails"
+    params = {
+        "onlyData": "true",
+        "expand": "all",
+        "finder": f'ById;Id="{job_id}",siteNumber={site_number}',
+    }
+    r = requests.get(api, params=params, headers=HEADERS, timeout=25)
+    r.raise_for_status()
+    items = r.json().get("items") or [{}]
+    item = items[0]
+    return html_to_text(" ".join(filter(None, [
+        item.get("ShortDescriptionStr"),
+        item.get("ExternalDescriptionStr"),
+        item.get("ExternalResponsibilitiesStr"),
+        item.get("ExternalQualificationsStr"),
+    ])))
+
+
+def describe_page(url):
+    """
+    Fallback: read the posting page and take its text. Fine for iCIMS and
+    other server-rendered sites; on a JS-rendered page it returns the shell
+    text, which scores near zero and simply won't alert — the same outcome
+    as before this feature existed.
+    """
+    r = requests.get(url, headers=HEADERS, timeout=25)
+    r.raise_for_status()
+    return html_to_text(r.text)
+
+
+def fetch_description(company, job_id, job):
+    """Route to whichever description source this company's platform offers."""
+    if job.get("_jd"):
+        return html_to_text(job["_jd"])
+    url = company["url"]
+    if get_workday_parts(url):
+        return describe_workday(company, job)
+    if get_oracle_cloud_parts(url):
+        return describe_oracle_cloud(company, job_id)
+    return describe_page(job["url"])
+
+
+MAX_CONSECUTIVE_JD_FAILURES = 5
+
+
+def scan_descriptions(company, candidates, filters, budget):
+    """
+    Read up to `budget` candidate descriptions and return
+    (matches, checked_ids). `checked_ids` covers every job we actually
+    reached — match or not — so it is never re-fetched on a later run.
+    A job that errors out is left unchecked and retried next time.
+
+    Some tenants (T. Rowe Price's Workday among them) serve the listing
+    happily but put a WAF in front of the per-job detail endpoint, so every
+    request 403s. Left alone that burns the company's whole allowance on
+    every run forever, so a run of consecutive failures stops the scan —
+    the jobs stay unchecked and cost only a handful of requests to retry.
+    """
+    matches, checked = {}, set()
+    consecutive_failures = 0
+    for job_id in list(candidates)[:budget]:
+        job = candidates[job_id]
+        try:
+            text = fetch_description(company, job_id, job)
+        except Exception as e:
+            consecutive_failures += 1
+            print(f"    [WARN] description fetch failed for {job['title']!r}: {e}",
+                  file=sys.stderr)
+            if consecutive_failures >= MAX_CONSECUTIVE_JD_FAILURES:
+                print(f"    [WARN] {company['name']}: {consecutive_failures} description "
+                      f"fetches failed in a row — skipping the rest this run",
+                      file=sys.stderr)
+                break
+            continue
+
+        consecutive_failures = 0
+        checked.add(job_id)
+        score, matched, reason = score_description(text, filters)
+        if score >= filters["jd_min_score"]:
+            job = {**job, "matched_on": matched[:8]}
+            matches[job_id] = job
+            print(f"    JD MATCH ({score}): {job['title']} — {', '.join(matched[:6])}")
+        elif reason:
+            print(f"    no match: {job['title']} — {reason}")
+    return matches, checked
+
+
+# ═══════════════════════════════════════════════════════════════
 # Main router — detects platform, calls the right fetcher
 # ═══════════════════════════════════════════════════════════════
 
@@ -855,6 +1114,7 @@ def send_telegram(message):
 def main():
     companies = load_json(COMPANIES_FILE, [])
     seen = load_json(SEEN_FILE, {})
+    jd_checked = load_json(JD_CHECKED_FILE, {})
     filters = load_filters()
 
     active = []
@@ -862,11 +1122,22 @@ def main():
         active.append(f"roles ({len(filters['include'])} keywords)")
     if filters["location_enabled"]:
         active.append(f"location ({', '.join(sorted(filters['countries']))})")
+    if filters["jd_enabled"]:
+        terms = sum(len(t) for _, _, t in filters["jd_groups"])
+        active.append(f"descriptions ({terms} terms, min score {filters['jd_min_score']})")
     print(f"Filters: {' + '.join(active) if active else 'none'}\n")
+
+    # Descriptions cost one request each, so the run has a fixed budget. It's
+    # shared rather than first-come-first-served: without that, one employer's
+    # backlog would eat every run's allowance and the rest would never be read.
+    # Each company gets an even slice of whatever is *left*, so an allowance a
+    # small company doesn't use passes down to the ones still queued.
+    jd_budget = filters["jd_budget"] if filters["jd_enabled"] else 0
+    jd_spent = 0
 
     pending = []
 
-    for company in companies:
+    for index, company in enumerate(companies):
         name = company["name"]
         print(f"Checking {name}...")
         current_jobs = fetch_company_jobs(company, filters)
@@ -875,35 +1146,79 @@ def main():
             continue
 
         fetched = len(current_jobs)
-        current_jobs, dropped = apply_filters(current_jobs, filters)
-        if dropped["role"] or dropped["location"]:
-            print(f"  Filtered {fetched} → {len(current_jobs)} "
+        current_jobs, candidates, dropped = apply_filters(current_jobs, filters)
+        if dropped["role"] or dropped["location"] or dropped["candidate"]:
+            print(f"  Filtered {fetched} → {len(current_jobs)} by title "
                   f"(dropped {dropped['role']} on role, "
-                  f"{dropped['location']} on location)")
+                  f"{dropped['location']} on location, "
+                  f"{dropped['candidate']} unmatched titles held for review)")
 
-        prev_ids = set(seen.get(name, {}).keys())
+        prev_jobs = seen.get(name, {})
+        prev_ids = set(prev_jobs.keys())
+        first_run = name not in seen
+        checked_ids = set(jd_checked.get(name, []))
+
+        # Read descriptions for candidates we haven't judged before. Skipped
+        # entirely on a company's first run — the baseline is already silent,
+        # so there'd be nothing to alert on and thousands of requests to make.
+        if candidates and jd_budget and not first_run:
+            allowance = (jd_budget - jd_spent) // (len(companies) - index)
+            unread = {jid: job for jid, job in candidates.items()
+                      if jid not in checked_ids and jid not in prev_ids}
+            if unread and allowance > 0:
+                print(f"  Reading {min(len(unread), allowance)} of {len(unread)} "
+                      f"unread description(s)...")
+                jd_matches, newly_checked = scan_descriptions(
+                    company, unread, filters, allowance)
+                jd_spent += len(newly_checked)
+                checked_ids |= newly_checked
+                current_jobs.update(jd_matches)
+
+        # A description-matched job still fails the title filter on every later
+        # run, so without this it would fall out of the state file the moment
+        # after it was alerted. Carry the ones we've already sent back in, so
+        # seen_jobs.json stays a complete record of what went out.
+        for job_id in candidates.keys() & prev_ids:
+            if prev_jobs[job_id].get("matched_on"):
+                current_jobs.setdefault(job_id, {
+                    **candidates[job_id],
+                    "matched_on": prev_jobs[job_id]["matched_on"],
+                })
+
+        # Forget candidates that are no longer posted, so this file tracks the
+        # live listing rather than growing without bound.
+        if checked_ids:
+            jd_checked[name] = sorted(checked_ids & (candidates.keys() | current_jobs.keys()))
+
         current_ids = set(current_jobs.keys())
-        new_ids = current_ids - prev_ids
 
-        if name not in seen:
+        if first_run:
             print(f"  First run — recording {len(current_ids)} postings as baseline.")
-            seen[name] = current_jobs
+            seen[name] = persistable(current_jobs)
             continue
 
-        for job_id in sorted(new_ids):
+        for job_id in sorted(current_ids - prev_ids):
             job = current_jobs[job_id]
             pending.append((name, job))
-            print(f"  NEW: {job['title']}")
+            label = "JD MATCH" if job.get("matched_on") else "NEW"
+            print(f"  {label}: {job['title']}")
 
-        seen[name] = current_jobs
+        seen[name] = persistable(current_jobs)
 
     # Save state before notifying: if Telegram is down or rate-limits us,
     # we'd rather drop alerts once than re-send the same batch every 2 hours.
     save_json(SEEN_FILE, seen)
+    save_json(JD_CHECKED_FILE, jd_checked)
 
     for name, job in pending[:MAX_ALERTS_PER_RUN]:
         where = f"\n📍 {job['location']}" if job.get("location") else ""
-        send_telegram(f"🆕 <b>{name}</b>\n{job['title']}{where}\n{job['url']}")
+        if job.get("matched_on"):
+            why = ", ".join(job["matched_on"])
+            send_telegram(f"🔍 <b>{name}</b> — <i>description match</i>\n"
+                          f"{job['title']}{where}\n"
+                          f"<i>matched: {why}</i>\n{job['url']}")
+        else:
+            send_telegram(f"🆕 <b>{name}</b>\n{job['title']}{where}\n{job['url']}")
 
     suppressed = len(pending) - MAX_ALERTS_PER_RUN
     if suppressed > 0:
@@ -918,7 +1233,9 @@ def main():
         print(f"\n[WARN] {suppressed} alert(s) suppressed (cap is {MAX_ALERTS_PER_RUN}).",
               file=sys.stderr)
 
-    print(f"\nDone. {len(pending)} new posting(s) found.")
+    by_jd = sum(1 for _, job in pending if job.get("matched_on"))
+    print(f"\nDone. {len(pending)} new posting(s) found "
+          f"({by_jd} via description). Read {jd_spent} description(s) this run.")
 
 
 if __name__ == "__main__":

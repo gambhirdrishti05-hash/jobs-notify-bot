@@ -94,11 +94,64 @@ Everything else is read from the location text — `US-CA-San Francisco`,
 don't silently miss a real US role; set it to `false` if you'd rather have a
 tighter feed and accept losing some.
 
-**Roles.** A job's *title* must match one of `roles.include` and none of
-`roles.exclude`. `"analyst"` on its own covers business analyst, data analyst,
-research analyst and the rest, so the list stays short. The `exclude` list is
-what keeps unrelated analyst roles (lab, clinical, security, credit) out — add
-to it whenever something irrelevant slips through.
+**Roles.** A job's *title* is sorted into one of three outcomes:
+
+| Title matches | Outcome |
+| --- | --- |
+| `roles.include` | **Alerted** (`🆕`) |
+| `roles.exclude` | **Dropped.** Final — the description is never read |
+| neither | **Candidate** — description gets read and scored (below) |
+
+`"analyst"` on its own covers business analyst, data analyst, research analyst
+and the rest, so the include list stays short. The `exclude` list is what keeps
+unrelated analyst roles (lab, clinical, security, credit) out — add to it
+whenever something irrelevant slips through.
+
+**Descriptions.** Filtering on titles alone misses real matches, because plenty
+of analytics jobs are posted under names that don't say "analyst" —
+`Associate, Strategy & Operations`, `Finance Manager (FP&A)`,
+`Junior Trader, Equity Capital Markets`. So any job whose title matched *nothing*
+(and wasn't excluded) gets its description downloaded and scored:
+
+```json
+"job_description": {
+  "enabled": true,
+  "min_score": 5,
+  "require_group": "core",
+  "groups": {
+    "core":       { "weight": 3, "terms": ["analytics", "dashboard", "forecasting", ...] },
+    "tools":      { "weight": 2, "terms": ["sql", "python", "tableau", ...] },
+    "supporting": { "weight": 1, "terms": ["stakeholder", "metrics", ...] }
+  }
+}
+```
+
+Every distinct term found adds its group's weight; hit `min_score` and you get a
+`🔍` alert listing which terms matched, so you can see *why* it was sent and tune
+from there. A term counts once however often it appears — otherwise the wordiest
+posting always wins rather than the one matching the widest range of what you do.
+
+Two rules stop this from flooding you. `require_group` means at least one `core`
+term is mandatory, so a job can't qualify on `excel + stakeholder + metrics`
+alone — true of half of all corporate jobs. And `exclude` drops a posting
+outright when it contains, say, `patient care`, no matter how well it scored.
+
+To tune: **too many alerts** → raise `min_score` to 6-8, or move terms from
+`core` into `supporting`. **Too few** → lower it to 3-4, or add the vocabulary
+your target roles actually use to `core`.
+
+**Cost and pacing.** Each description is one HTTP request, so a run spends at
+most `max_fetches_per_run` (default 150), shared evenly across companies so one
+large employer can't monopolise it. Every job is read **at most once ever** —
+`jd_checked.json` records what's been scored and not matched, and is committed
+alongside `seen_jobs.json`. That means the first few runs work through the
+existing backlog of unmatched titles, and after that it's only genuinely new
+postings: a handful per run. A job whose fetch *errors* is deliberately left
+unrecorded so it's retried, and five consecutive failures at one company end
+that company's scan for the run rather than burning its whole allowance.
+
+Delete `jd_checked.json` to re-score everything from scratch — after a
+significant edit to the keyword lists, for instance.
 
 **`search_keywords`** is a separate, coarser list sent to the search box of
 platforms that have one (Workday, Oracle, Amazon). It exists so we pull a few
@@ -108,11 +161,15 @@ title rules; the title rules do the precise work. If you add a role family to
 `roles.include`, add a matching term here too or those jobs will never be
 fetched in the first place.
 
-Every run prints what it dropped, so you can see the filters working:
+Every run prints what it dropped and what it read, so you can see the filters
+working:
 
 ```
-Checking Mass General Brigham...
-  Filtered 2085 → 25 (dropped 2060 on role, 0 on location)
+Checking T. Rowe Price...
+  Filtered 126 → 12 by title (dropped 41 on role, 0 on location, 73 unmatched titles held for review)
+  Reading 7 of 73 unread description(s)...
+    JD MATCH (11): Junior Trader, Equity Capital Markets — data analysis, analytics, sql, python
+    no match: Senior Site Reliability Engineer — no 'core' term
 ```
 
 ## Known limitations
@@ -127,6 +184,13 @@ Checking Mass General Brigham...
   a JavaScript challenge page instead of content) no matter what headers are
   sent. Known cases: Credit One Bank, UC Davis, Hertz. Use the company's own
   email job alerts or a Google Alert for these.
+- **Description matching needs a readable job page.** Greenhouse, Lever, Ashby
+  and Amazon return the description with the listing (free); Workday and Oracle
+  have a per-job endpoint we call directly. Everywhere else we fetch the posting
+  URL and strip the HTML, which works on server-rendered sites like iCIMS but
+  returns only page furniture on a JavaScript-rendered one — those score zero
+  and simply don't alert, exactly as before the feature existed. Title matching
+  is unaffected either way.
 - **Keep the User-Agent current.** iCIMS answers noticeably stale User-Agents
   with a bare `405 Method Not Allowed`, which reads like a broken endpoint
   rather than a blocked client. If several iCIMS companies start returning 405
