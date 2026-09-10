@@ -51,5 +51,63 @@
     "market research",
     "insights",
     "data science"
-  ]
+  ],
+
+  "job_description": {
+    "_comment": "Second chance for jobs whose TITLE didn't match. A posting called 'Associate, Strategy & Operations' or 'Program Coordinator' can still be an analytics role once you read the description. Those jobs get their description fetched and scored against the terms below; anything scoring >= min_score is alerted separately. Titles hit by roles.exclude never get here — an exclusion is final.",
+    "enabled": true,
+
+    "_max_fetches_per_run": "Each description is one HTTP request, so this is the runtime cost of the whole feature. The budget is shared across companies so one big employer can't eat it. Every job is fetched at most ONCE EVER (see jd_checked.json), so the first few runs drain the existing backlog and after that it's only genuinely new postings — a handful per run.",
+    "max_fetches_per_run": 150,
+
+    "_min_score": "Sum of the weights of every distinct term found. A term counts once no matter how often it appears, so a description that says 'data' forty times doesn't outrank one that actually matches on substance. 5 = roughly one core term plus one tool, or two core terms.",
+    "min_score": 5,
+
+    "_require_group": "Name of a group that must contribute at least one hit. Without this a job scores 5 on 'excel + stakeholder + metrics' alone — true of half of all corporate jobs. Set to null to disable.",
+    "require_group": "core",
+
+    "groups": {
+      "_comment": "weight = how much one hit from this group is worth.",
+      "core": {
+        "weight": 3,
+        "terms": [
+          "data analysis", "data analytics", "analytics", "business intelligence",
+          "market research", "competitive analysis", "data science",
+          "statistical analysis", "quantitative analysis", "predictive model",
+          "forecasting", "dashboard", "reporting", "kpi",
+          "a/b test", "experimentation", "segmentation", "cohort analysis",
+          "data-driven insights", "actionable insights", "trend analysis"
+        ]
+      },
+      "tools": {
+        "weight": 2,
+        "terms": [
+          "sql", "python", "tableau", "power bi", "powerbi", "looker",
+          "alteryx", "snowflake", "databricks", "bigquery", "redshift",
+          "sas", "spss", "stata", "etl", "dbt", "airflow",
+          "google analytics", "excel modeling", "pivot table", "vba", "r studio"
+        ]
+      },
+      "supporting": {
+        "weight": 1,
+        "terms": [
+          "data visualization", "stakeholder", "metrics", "financial model",
+          "business case", "requirements gathering", "process improvement",
+          "large datasets", "quantitative", "hypothesis", "benchmarking",
+          "ad hoc analysis", "root cause"
+        ]
+      }
+    },
+
+    "_exclude": "Found anywhere in the description, the job is dropped no matter how well it scored. For role families whose descriptions borrow analytics vocabulary but aren't the job you want.",
+    "exclude": [
+      "phlebotomy",
+      "patient care",
+      "clinical trial",
+      "registered nurse",
+      "laboratory bench",
+      "wet lab",
+      "chemical analysis"
+    ]
+  }
 }
