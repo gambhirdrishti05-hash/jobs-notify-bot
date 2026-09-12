@@ -2160,39 +2160,96 @@
       "location": "Columbus, OH, United States",
       "country_code": "US"
     },
-    "210728625": {
-      "title": "Data Domain Architect Lead",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728625",
-      "location": "Wilmington, DE, United States",
+    "210784095": {
+      "title": "Salesforce CRMA Tableau Sr Lead Software Engineer",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784095",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US",
+      "matched_on": [
+        "analytics",
+        "data science",
+        "dashboard",
+        "reporting",
+        "tableau",
+        "etl"
+      ]
+    },
+    "210786172": {
+      "title": "Finance & Business Management",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210786172",
+      "location": "Plano, TX, United States",
+      "country_code": "US",
+      "matched_on": [
+        "analytics",
+        "reporting",
+        "metrics"
+      ]
+    },
+    "210786186": {
+      "title": "Finance & Business Management",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210786186",
+      "location": "Plano, TX, United States",
+      "country_code": "US",
+      "matched_on": [
+        "analytics",
+        "reporting",
+        "metrics"
+      ]
+    },
+    "210788525": {
+      "title": "Vice President- Finance & Business Management, Subsidiary Banking",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788525",
+      "location": "Plano, TX, United States",
+      "country_code": "US",
+      "matched_on": [
+        "analytics",
+        "forecasting",
+        "reporting",
+        "python",
+        "tableau",
+        "alteryx",
+        "metrics"
+      ]
+    },
+    "210752471": {
+      "title": "Payments Liquidity Business Manager - Senior Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752471",
+      "location": "New York, NY, United States",
       "country_code": "US",
       "matched_on": [
         "analytics",
         "business intelligence",
-        "data science",
-        "sql",
-        "python",
-        "sas"
+        "forecasting",
+        "reporting",
+        "actionable insights",
+        "tableau",
+        "alteryx",
+        "process improvement"
       ]
     },
-    "210762459": {
-      "title": "Tech Senior Auditor \u2013 Post Trade Technology",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762459",
-      "location": "Jersey City, NJ, United States",
+    "210746691": {
+      "title": "Algorithmic Trading - Execution Consulting - Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210746691",
+      "location": "New York, NY, United States",
       "country_code": "US",
       "matched_on": [
-        "data analytics",
         "analytics",
-        "reporting"
+        "reporting",
+        "actionable insights",
+        "python",
+        "metrics",
+        "quantitative"
       ]
     },
-    "210788906": {
-      "title": "Credit Officer, Vice President - Special Credits",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788906",
+    "210788388": {
+      "title": "Risk Program Senior Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788388",
       "location": "Plano, TX, United States",
       "country_code": "US",
       "matched_on": [
-        "reporting",
-        "excel modeling"
+        "data analysis",
+        "python",
+        "quantitative"
       ]
     },
     "210787146": {
@@ -2218,69 +2275,32 @@
         "stakeholder"
       ]
     },
-    "210788388": {
-      "title": "Risk Program Senior Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788388",
-      "location": "Plano, TX, United States",
-      "country_code": "US",
-      "matched_on": [
-        "data analysis",
-        "python",
-        "quantitative"
-      ]
-    },
-    "210785433": {
-      "title": "Risk Management - Risk Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785433",
-      "location": "Jersey City, NJ, United States",
-      "country_code": "US",
-      "matched_on": [
-        "analytics",
-        "reporting",
-        "python",
-        "metrics",
-        "quantitative"
-      ]
-    },
-    "210786898": {
-      "title": "Finance & Business Management - Public Cloud & AI Infrastructure",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210786898",
-      "location": "Columbus, OH, United States",
+    "210788927": {
+      "title": "Data Visualization Lead-Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788927",
+      "location": "New York, NY, United States",
       "country_code": "US",
       "matched_on": [
         "data analytics",
         "analytics",
-        "business intelligence",
-        "forecasting",
+        "data science",
+        "dashboard",
         "reporting",
+        "actionable insights",
         "sql",
+        "python"
+      ]
+    },
+    "210790156": {
+      "title": "US Equity Research - SMid Biotech - Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790156",
+      "location": "NY, United States",
+      "country_code": "US",
+      "matched_on": [
+        "forecasting",
         "python",
-        "tableau"
-      ]
-    },
-    "210779827": {
-      "title": "Financial Analysis - Senior Associate Chase Auto Treasury",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779827",
-      "location": "Plano, TX, United States",
-      "country_code": "US",
-      "matched_on": [
-        "analytics",
-        "forecasting",
-        "reporting",
-        "sql",
-        "alteryx",
-        "stakeholder"
-      ]
-    },
-    "210740513": {
-      "title": "J.P. Morgan Wealth Management - Vice President Product Owner",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740513",
-      "location": "New York, NY, United States",
-      "country_code": "US",
-      "matched_on": [
-        "analytics",
-        "experimentation",
-        "stakeholder"
+        "vba",
+        "quantitative"
       ]
     },
     "210789510": {
@@ -2299,95 +2319,59 @@
         "tableau"
       ]
     },
-    "210788927": {
-      "title": "Data Visualization Lead-Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788927",
-      "location": "New York, NY, United States",
+    "210786898": {
+      "title": "Finance & Business Management - Public Cloud & AI Infrastructure",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210786898",
+      "location": "Columbus, OH, United States",
       "country_code": "US",
       "matched_on": [
         "data analytics",
         "analytics",
-        "data science",
-        "dashboard",
+        "business intelligence",
+        "forecasting",
         "reporting",
-        "actionable insights",
-        "sql",
-        "python"
-      ]
-    },
-    "210790551": {
-      "title": "Global Structuring \u2013 Credit Structuring \u2013 Executive Director",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790551",
-      "location": "New York, NY, United States",
-      "country_code": "US",
-      "matched_on": [
-        "analytics",
         "sql",
         "python",
-        "stakeholder",
-        "quantitative"
+        "tableau"
       ]
     },
-    "210746691": {
-      "title": "Algorithmic Trading - Execution Consulting - Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210746691",
-      "location": "New York, NY, United States",
+    "210788906": {
+      "title": "Credit Officer, Vice President - Special Credits",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788906",
+      "location": "Plano, TX, United States",
+      "country_code": "US",
+      "matched_on": [
+        "reporting",
+        "excel modeling"
+      ]
+    },
+    "210762459": {
+      "title": "Tech Senior Auditor \u2013 Post Trade Technology",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762459",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US",
+      "matched_on": [
+        "data analytics",
+        "analytics",
+        "reporting"
+      ]
+    },
+    "210785433": {
+      "title": "Risk Management - Risk Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785433",
+      "location": "Jersey City, NJ, United States",
       "country_code": "US",
       "matched_on": [
         "analytics",
         "reporting",
-        "actionable insights",
         "python",
         "metrics",
         "quantitative"
       ]
     },
-    "210752471": {
-      "title": "Payments Liquidity Business Manager - Senior Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210752471",
-      "location": "New York, NY, United States",
-      "country_code": "US",
-      "matched_on": [
-        "analytics",
-        "business intelligence",
-        "forecasting",
-        "reporting",
-        "actionable insights",
-        "tableau",
-        "alteryx",
-        "process improvement"
-      ]
-    },
-    "210788525": {
-      "title": "Vice President- Finance & Business Management, Subsidiary Banking",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788525",
-      "location": "Plano, TX, United States",
-      "country_code": "US",
-      "matched_on": [
-        "analytics",
-        "forecasting",
-        "reporting",
-        "python",
-        "tableau",
-        "alteryx",
-        "metrics"
-      ]
-    },
     "210790087": {
       "title": "US Equity Research - Metals & Mining - Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790087",
-      "location": "NY, United States",
-      "country_code": "US",
-      "matched_on": [
-        "forecasting",
-        "python",
-        "vba",
-        "quantitative"
-      ]
-    },
-    "210790156": {
-      "title": "US Equity Research - SMid Biotech - Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790156",
       "location": "NY, United States",
       "country_code": "US",
       "matched_on": [
@@ -2407,6 +2391,58 @@
         "reporting",
         "tableau",
         "process improvement"
+      ]
+    },
+    "210740513": {
+      "title": "J.P. Morgan Wealth Management - Vice President Product Owner",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210740513",
+      "location": "New York, NY, United States",
+      "country_code": "US",
+      "matched_on": [
+        "analytics",
+        "experimentation",
+        "stakeholder"
+      ]
+    },
+    "210790551": {
+      "title": "Global Structuring \u2013 Credit Structuring \u2013 Executive Director",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790551",
+      "location": "New York, NY, United States",
+      "country_code": "US",
+      "matched_on": [
+        "analytics",
+        "sql",
+        "python",
+        "stakeholder",
+        "quantitative"
+      ]
+    },
+    "210779827": {
+      "title": "Financial Analysis - Senior Associate Chase Auto Treasury",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779827",
+      "location": "Plano, TX, United States",
+      "country_code": "US",
+      "matched_on": [
+        "analytics",
+        "forecasting",
+        "reporting",
+        "sql",
+        "alteryx",
+        "stakeholder"
+      ]
+    },
+    "210728625": {
+      "title": "Data Domain Architect Lead",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728625",
+      "location": "Wilmington, DE, United States",
+      "country_code": "US",
+      "matched_on": [
+        "analytics",
+        "business intelligence",
+        "data science",
+        "sql",
+        "python",
+        "sas"
       ]
     }
   },
@@ -2610,84 +2646,6 @@
       "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Data-Engineer_2026-20940-1",
       "location": "Washington - Pullman"
     },
-    "/job/Washington---Pullman/Project-Manager_2026-21577-1": {
-      "title": "Project Manager",
-      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Project-Manager_2026-21577-1",
-      "location": "Washington - Pullman",
-      "matched_on": [
-        "forecasting",
-        "reporting",
-        "sql",
-        "metrics"
-      ]
-    },
-    "/job/Washington---Pullman/Lead-Software-Engineer_2026-21668": {
-      "title": "Lead Software Engineer",
-      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Lead-Software-Engineer_2026-21668",
-      "location": "Washington - Pullman",
-      "matched_on": [
-        "data analytics",
-        "analytics",
-        "reporting"
-      ]
-    },
-    "/job/Washington---Pullman/Data-Analysis-Manager_2026-22845": {
-      "title": "Data Analysis Manager",
-      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Data-Analysis-Manager_2026-22845",
-      "location": "Washington - Pullman",
-      "matched_on": [
-        "data analysis",
-        "data analytics",
-        "analytics",
-        "business intelligence",
-        "data science",
-        "reporting",
-        "actionable insights",
-        "sql"
-      ]
-    },
-    "/job/Idaho---Boise/Signal-and-Power-Integrity--SIPI--Engineer_2026-20672": {
-      "title": "Signal and Power Integrity (SIPI) Engineer",
-      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Signal-and-Power-Integrity--SIPI--Engineer_2026-20672",
-      "location": "Idaho - Boise",
-      "matched_on": [
-        "data analysis",
-        "python"
-      ]
-    },
-    "/job/Bahrain---Manama/Lead-Event-Producer_2026-19740": {
-      "title": "Lead Event Producer",
-      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Bahrain---Manama/Lead-Event-Producer_2026-19740",
-      "location": "Bahrain - Manama",
-      "matched_on": [
-        "analytics",
-        "reporting",
-        "kpi"
-      ]
-    },
-    "/job/Washington---Pullman/Senior-Automation-Engineer---SCADA-Focus_2026-22583": {
-      "title": "Senior Automation Engineer \u2013 SCADA Focus",
-      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Senior-Automation-Engineer---SCADA-Focus_2026-22583",
-      "location": "2 Locations",
-      "matched_on": [
-        "data analytics",
-        "analytics",
-        "reporting",
-        "root cause"
-      ]
-    },
-    "/job/Idaho---Lewiston/Quality-Engineer_2026-21805": {
-      "title": "Quality Engineer",
-      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Quality-Engineer_2026-21805",
-      "location": "Idaho - Lewiston",
-      "matched_on": [
-        "data analytics",
-        "analytics",
-        "process improvement",
-        "quantitative",
-        "root cause"
-      ]
-    },
     "/job/Idaho---Lewiston/Supplier-Quality-Engineer_2026-21718": {
       "title": "Supplier Quality Engineer",
       "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Supplier-Quality-Engineer_2026-21718",
@@ -2710,6 +2668,30 @@
         "process improvement"
       ]
     },
+    "/job/Idaho---Boise/Signal-and-Power-Integrity--SIPI--Engineer_2026-20672": {
+      "title": "Signal and Power Integrity (SIPI) Engineer",
+      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Signal-and-Power-Integrity--SIPI--Engineer_2026-20672",
+      "location": "Idaho - Boise",
+      "matched_on": [
+        "data analysis",
+        "python"
+      ]
+    },
+    "/job/Washington---Pullman/Data-Analysis-Manager_2026-22845": {
+      "title": "Data Analysis Manager",
+      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Data-Analysis-Manager_2026-22845",
+      "location": "Washington - Pullman",
+      "matched_on": [
+        "data analysis",
+        "data analytics",
+        "analytics",
+        "business intelligence",
+        "data science",
+        "reporting",
+        "actionable insights",
+        "sql"
+      ]
+    },
     "/job/Washington---Pullman/Project-Manager_2026-23030-1": {
       "title": "Project Manager",
       "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Project-Manager_2026-23030-1",
@@ -2717,6 +2699,28 @@
       "matched_on": [
         "forecasting",
         "reporting",
+        "metrics"
+      ]
+    },
+    "/job/Washington---Pullman/Senior-Automation-Engineer---SCADA-Focus_2026-22583": {
+      "title": "Senior Automation Engineer \u2013 SCADA Focus",
+      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Senior-Automation-Engineer---SCADA-Focus_2026-22583",
+      "location": "2 Locations",
+      "matched_on": [
+        "data analytics",
+        "analytics",
+        "reporting",
+        "root cause"
+      ]
+    },
+    "/job/Washington---Pullman/Project-Manager_2026-21577-1": {
+      "title": "Project Manager",
+      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Project-Manager_2026-21577-1",
+      "location": "Washington - Pullman",
+      "matched_on": [
+        "forecasting",
+        "reporting",
+        "sql",
         "metrics"
       ]
     },
@@ -2728,6 +2732,38 @@
         "data analysis",
         "statistical analysis",
         "python"
+      ]
+    },
+    "/job/Bahrain---Manama/Lead-Event-Producer_2026-19740": {
+      "title": "Lead Event Producer",
+      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Bahrain---Manama/Lead-Event-Producer_2026-19740",
+      "location": "Bahrain - Manama",
+      "matched_on": [
+        "analytics",
+        "reporting",
+        "kpi"
+      ]
+    },
+    "/job/Idaho---Lewiston/Quality-Engineer_2026-21805": {
+      "title": "Quality Engineer",
+      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Quality-Engineer_2026-21805",
+      "location": "Idaho - Lewiston",
+      "matched_on": [
+        "data analytics",
+        "analytics",
+        "process improvement",
+        "quantitative",
+        "root cause"
+      ]
+    },
+    "/job/Washington---Pullman/Lead-Software-Engineer_2026-21668": {
+      "title": "Lead Software Engineer",
+      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Lead-Software-Engineer_2026-21668",
+      "location": "Washington - Pullman",
+      "matched_on": [
+        "data analytics",
+        "analytics",
+        "reporting"
       ]
     }
   },
@@ -4328,40 +4364,144 @@
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
-    "10507297": {
-      "title": "Finance Manager, Amazon Business CPS Finance Team",
-      "url": "https://www.amazon.jobs/en/jobs/10507297/finance-manager-amazon-business-cps-finance-team",
-      "location": "Seattle, Washington, USA",
+    "10494197": {
+      "title": "Finance Manager, WW Operations Working Capital & Free Cash Flow",
+      "url": "https://www.amazon.jobs/en/jobs/10494197/finance-manager-ww-operations-working-capital-free-cash-flow",
+      "location": "Bellevue, Washington, USA",
       "country_code": "USA",
       "matched_on": [
+        "data analysis",
+        "analytics",
         "forecasting",
         "reporting",
         "sql",
+        "process improvement",
+        "root cause"
+      ]
+    },
+    "10481025": {
+      "title": "Sr. Product Marketing Manager - Tech, Financial Services Industry, AWS Industry Marketing",
+      "url": "https://www.amazon.jobs/en/jobs/10481025/sr-product-marketing-manager-tech-financial-services-industry-aws-industry-marketing",
+      "location": "New York, New York, USA",
+      "country_code": "USA",
+      "matched_on": [
+        "data analysis",
+        "analytics"
+      ]
+    },
+    "10522021": {
+      "title": "Instock Manager III - AMZ9675014",
+      "url": "https://www.amazon.jobs/en/jobs/10522021/instock-manager-iii-amz9675014",
+      "location": "New York, New York, USA",
+      "country_code": "USA",
+      "matched_on": [
+        "business intelligence",
+        "forecasting",
+        "actionable insights",
+        "sql"
+      ]
+    },
+    "10529052": {
+      "title": "Revenue Cycle Consultant, Healthcare Finance Operations",
+      "url": "https://www.amazon.jobs/en/jobs/10529052/revenue-cycle-consultant-healthcare-finance-operations",
+      "location": "Arlington, Virginia, USA",
+      "country_code": "USA",
+      "matched_on": [
+        "data analysis",
+        "analytics",
+        "experimentation",
+        "stakeholder",
+        "process improvement",
+        "quantitative",
+        "root cause"
+      ]
+    },
+    "10493023": {
+      "title": "Senior Learning Architect, Employee Skilling, Skilling & Social Impact (SSI)",
+      "url": "https://www.amazon.jobs/en/jobs/10493023/senior-learning-architect-employee-skilling-skilling-social-impact-ssi",
+      "location": "Arlington, Virginia, USA",
+      "country_code": "USA",
+      "matched_on": [
+        "data analytics",
+        "analytics",
+        "stakeholder",
         "metrics"
       ]
     },
-    "10507282": {
-      "title": "Software Development Engineer II, Geospatial",
-      "url": "https://www.amazon.jobs/en/jobs/10507282/software-development-engineer-ii-geospatial",
+    "10507283": {
+      "title": "Amazon Finance Rotational Program (AFRP), Accounting, Early Career - 2026",
+      "url": "https://www.amazon.jobs/en/jobs/10507283/amazon-finance-rotational-program-afrp-accounting-early-career-2026",
+      "location": "Culver City, California, USA",
+      "country_code": "USA",
+      "matched_on": [
+        "analytics",
+        "reporting",
+        "metrics"
+      ]
+    },
+    "10484827": {
+      "title": "Instock Manager II - AMZ24797.5",
+      "url": "https://www.amazon.jobs/en/jobs/10484827/instock-manager-ii-amz24797-5",
+      "location": "New York, New York, USA",
+      "country_code": "USA",
+      "matched_on": [
+        "business intelligence",
+        "forecasting",
+        "actionable insights",
+        "sql"
+      ]
+    },
+    "10505504": {
+      "title": "Program Manager II, Automation & Vendor Ops, OTS-GSP-TOPS",
+      "url": "https://www.amazon.jobs/en/jobs/10505504/program-manager-ii-automation-vendor-ops-ots-gsp-tops",
       "location": "Austin, Texas, USA",
       "country_code": "USA",
       "matched_on": [
         "analytics",
-        "actionable insights",
-        "metrics"
+        "dashboard",
+        "reporting",
+        "sql",
+        "stakeholder",
+        "metrics",
+        "business case",
+        "process improvement"
       ]
     },
-    "10501207": {
-      "title": "Finance Manager, North American Customer Fulfillment",
-      "url": "https://www.amazon.jobs/en/jobs/10501207/finance-manager-north-american-customer-fulfillment",
-      "location": "Irving, Texas, USA",
+    "10505628": {
+      "title": "Software Development Manager, AWS SageMaker Unified Studio",
+      "url": "https://www.amazon.jobs/en/jobs/10505628/software-development-manager-aws-sagemaker-unified-studio",
+      "location": "New York, New York, USA",
       "country_code": "USA",
       "matched_on": [
-        "data analysis",
+        "analytics",
+        "sql"
+      ]
+    },
+    "10482211": {
+      "title": "Finance Manager, Amazon Air",
+      "url": "https://www.amazon.jobs/en/jobs/10482211/finance-manager-amazon-air",
+      "location": "Bellevue, Washington, USA",
+      "country_code": "USA",
+      "matched_on": [
         "forecasting",
         "reporting",
         "sql",
         "etl",
+        "root cause"
+      ]
+    },
+    "10521401": {
+      "title": "Finance Manager, Central Finance, NA Customer Fulfillment",
+      "url": "https://www.amazon.jobs/en/jobs/10521401/finance-manager-central-finance-na-customer-fulfillment",
+      "location": "Bellevue, Washington, USA",
+      "country_code": "USA",
+      "matched_on": [
+        "forecasting",
+        "reporting",
+        "actionable insights",
+        "sql",
+        "etl",
+        "large datasets",
         "root cause"
       ]
     },
@@ -4377,16 +4517,6 @@
         "tableau",
         "data visualization",
         "metrics"
-      ]
-    },
-    "10505628": {
-      "title": "Software Development Manager, AWS SageMaker Unified Studio",
-      "url": "https://www.amazon.jobs/en/jobs/10505628/software-development-manager-aws-sagemaker-unified-studio",
-      "location": "New York, New York, USA",
-      "country_code": "USA",
-      "matched_on": [
-        "analytics",
-        "sql"
       ]
     },
     "10521400": {
@@ -4415,6 +4545,66 @@
         "sql"
       ]
     },
+    "10507282": {
+      "title": "Software Development Engineer II, Geospatial",
+      "url": "https://www.amazon.jobs/en/jobs/10507282/software-development-engineer-ii-geospatial",
+      "location": "Austin, Texas, USA",
+      "country_code": "USA",
+      "matched_on": [
+        "analytics",
+        "actionable insights",
+        "metrics"
+      ]
+    },
+    "10525065": {
+      "title": "Sr. PMM-T, State & Local and Global Education, AWS Industry Marketing",
+      "url": "https://www.amazon.jobs/en/jobs/10525065/sr-pmm-t-state-local-and-global-education-aws-industry-marketing",
+      "location": "Seattle, Washington, USA",
+      "country_code": "USA",
+      "matched_on": [
+        "data analysis",
+        "analytics"
+      ]
+    },
+    "10520478": {
+      "title": "Finance Manager, North American Customer Fulfillment",
+      "url": "https://www.amazon.jobs/en/jobs/10520478/finance-manager-north-american-customer-fulfillment",
+      "location": "Irving, Texas, USA",
+      "country_code": "USA",
+      "matched_on": [
+        "data analysis",
+        "forecasting",
+        "reporting",
+        "sql",
+        "root cause"
+      ]
+    },
+    "10501207": {
+      "title": "Finance Manager, North American Customer Fulfillment",
+      "url": "https://www.amazon.jobs/en/jobs/10501207/finance-manager-north-american-customer-fulfillment",
+      "location": "Irving, Texas, USA",
+      "country_code": "USA",
+      "matched_on": [
+        "data analysis",
+        "forecasting",
+        "reporting",
+        "sql",
+        "etl",
+        "root cause"
+      ]
+    },
+    "10507297": {
+      "title": "Finance Manager, Amazon Business CPS Finance Team",
+      "url": "https://www.amazon.jobs/en/jobs/10507297/finance-manager-amazon-business-cps-finance-team",
+      "location": "Seattle, Washington, USA",
+      "country_code": "USA",
+      "matched_on": [
+        "forecasting",
+        "reporting",
+        "sql",
+        "metrics"
+      ]
+    },
     "10521398": {
       "title": "Finance Manager, IXD+, North American Customer Fulfillment",
       "url": "https://www.amazon.jobs/en/jobs/10521398/finance-manager-ixd-north-american-customer-fulfillment",
@@ -4431,44 +4621,6 @@
         "etl"
       ]
     },
-    "10482211": {
-      "title": "Finance Manager, Amazon Air",
-      "url": "https://www.amazon.jobs/en/jobs/10482211/finance-manager-amazon-air",
-      "location": "Bellevue, Washington, USA",
-      "country_code": "USA",
-      "matched_on": [
-        "forecasting",
-        "reporting",
-        "sql",
-        "etl",
-        "root cause"
-      ]
-    },
-    "10522021": {
-      "title": "Instock Manager III - AMZ9675014",
-      "url": "https://www.amazon.jobs/en/jobs/10522021/instock-manager-iii-amz9675014",
-      "location": "New York, New York, USA",
-      "country_code": "USA",
-      "matched_on": [
-        "business intelligence",
-        "forecasting",
-        "actionable insights",
-        "sql"
-      ]
-    },
-    "10502582": {
-      "title": "Technical Product Marketing Manager, AWS Databases, Databases PMMT",
-      "url": "https://www.amazon.jobs/en/jobs/10502582/technical-product-marketing-manager-aws-databases-databases-pmmt",
-      "location": "Seattle, Washington, USA",
-      "country_code": "USA",
-      "matched_on": [
-        "data analysis",
-        "segmentation",
-        "sql",
-        "tableau",
-        "metrics"
-      ]
-    },
     "10530107": {
       "title": "Finance Manager, Amazon Logistics",
       "url": "https://www.amazon.jobs/en/jobs/10530107/finance-manager-amazon-logistics",
@@ -4478,45 +4630,6 @@
         "data analysis",
         "forecasting",
         "data-driven insights",
-        "root cause"
-      ]
-    },
-    "10521401": {
-      "title": "Finance Manager, Central Finance, NA Customer Fulfillment",
-      "url": "https://www.amazon.jobs/en/jobs/10521401/finance-manager-central-finance-na-customer-fulfillment",
-      "location": "Bellevue, Washington, USA",
-      "country_code": "USA",
-      "matched_on": [
-        "forecasting",
-        "reporting",
-        "actionable insights",
-        "sql",
-        "etl",
-        "large datasets",
-        "root cause"
-      ]
-    },
-    "10507283": {
-      "title": "Amazon Finance Rotational Program (AFRP), Accounting, Early Career - 2026",
-      "url": "https://www.amazon.jobs/en/jobs/10507283/amazon-finance-rotational-program-afrp-accounting-early-career-2026",
-      "location": "Culver City, California, USA",
-      "country_code": "USA",
-      "matched_on": [
-        "analytics",
-        "reporting",
-        "metrics"
-      ]
-    },
-    "10520478": {
-      "title": "Finance Manager, North American Customer Fulfillment",
-      "url": "https://www.amazon.jobs/en/jobs/10520478/finance-manager-north-american-customer-fulfillment",
-      "location": "Irving, Texas, USA",
-      "country_code": "USA",
-      "matched_on": [
-        "data analysis",
-        "forecasting",
-        "reporting",
-        "sql",
         "root cause"
       ]
     },
@@ -4531,32 +4644,17 @@
         "metrics"
       ]
     },
-    "10493023": {
-      "title": "Senior Learning Architect, Employee Skilling, Skilling & Social Impact (SSI)",
-      "url": "https://www.amazon.jobs/en/jobs/10493023/senior-learning-architect-employee-skilling-skilling-social-impact-ssi",
-      "location": "Arlington, Virginia, USA",
+    "10502582": {
+      "title": "Technical Product Marketing Manager, AWS Databases, Databases PMMT",
+      "url": "https://www.amazon.jobs/en/jobs/10502582/technical-product-marketing-manager-aws-databases-databases-pmmt",
+      "location": "Seattle, Washington, USA",
       "country_code": "USA",
       "matched_on": [
-        "data analytics",
-        "analytics",
-        "stakeholder",
-        "metrics"
-      ]
-    },
-    "10505504": {
-      "title": "Program Manager II, Automation & Vendor Ops, OTS-GSP-TOPS",
-      "url": "https://www.amazon.jobs/en/jobs/10505504/program-manager-ii-automation-vendor-ops-ots-gsp-tops",
-      "location": "Austin, Texas, USA",
-      "country_code": "USA",
-      "matched_on": [
-        "analytics",
-        "dashboard",
-        "reporting",
+        "data analysis",
+        "segmentation",
         "sql",
-        "stakeholder",
-        "metrics",
-        "business case",
-        "process improvement"
+        "tableau",
+        "metrics"
       ]
     },
     "10512631": {
@@ -4575,18 +4673,6 @@
         "etl"
       ]
     },
-    "10484827": {
-      "title": "Instock Manager II - AMZ24797.5",
-      "url": "https://www.amazon.jobs/en/jobs/10484827/instock-manager-ii-amz24797-5",
-      "location": "New York, New York, USA",
-      "country_code": "USA",
-      "matched_on": [
-        "business intelligence",
-        "forecasting",
-        "actionable insights",
-        "sql"
-      ]
-    },
     "10521402": {
       "title": "Finance Manager, IXD+, North American Customer Fulfillment",
       "url": "https://www.amazon.jobs/en/jobs/10521402/finance-manager-ixd-north-american-customer-fulfillment",
@@ -4601,31 +4687,6 @@
         "trend analysis",
         "sql",
         "etl"
-      ]
-    },
-    "10525065": {
-      "title": "Sr. PMM-T, State & Local and Global Education, AWS Industry Marketing",
-      "url": "https://www.amazon.jobs/en/jobs/10525065/sr-pmm-t-state-local-and-global-education-aws-industry-marketing",
-      "location": "Seattle, Washington, USA",
-      "country_code": "USA",
-      "matched_on": [
-        "data analysis",
-        "analytics"
-      ]
-    },
-    "10529052": {
-      "title": "Revenue Cycle Consultant, Healthcare Finance Operations",
-      "url": "https://www.amazon.jobs/en/jobs/10529052/revenue-cycle-consultant-healthcare-finance-operations",
-      "location": "Arlington, Virginia, USA",
-      "country_code": "USA",
-      "matched_on": [
-        "data analysis",
-        "analytics",
-        "experimentation",
-        "stakeholder",
-        "process improvement",
-        "quantitative",
-        "root cause"
       ]
     }
   },
@@ -5255,14 +5316,23 @@
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Principal-Engineer--Data-Engineering_R265694",
       "location": "US, MA, Wilmington"
     },
-    "/job/US-MA-Wilmington/Associate-Product-Engineer--Product-Development-_R265304": {
-      "title": "Associate Product Engineer (Product Development)",
-      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Engineer--Product-Development-_R265304",
-      "location": "2 Locations",
+    "/job/US-CA-San-Jose-Rio-Robles/Staff-Engineer--Customer-Quality-Engineering_R263566": {
+      "title": "Staff Engineer, Customer Quality Engineering",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Staff-Engineer--Customer-Quality-Engineering_R263566",
+      "location": "US, CA, San Jose, Rio Robles",
       "matched_on": [
         "data analysis",
-        "experimentation",
-        "root cause"
+        "reporting"
+      ]
+    },
+    "/job/US-AZ-Chandler-East-Elliot/Staff-Design-Verification-Engineer--AI-ML-_R263414": {
+      "title": "Staff Design Verification Engineer (AI/ML)",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-AZ-Chandler-East-Elliot/Staff-Design-Verification-Engineer--AI-ML-_R263414",
+      "location": "US, AZ, Chandler, East Elliot",
+      "matched_on": [
+        "analytics",
+        "python",
+        "metrics"
       ]
     },
     "/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579": {
@@ -5277,101 +5347,14 @@
         "python"
       ]
     },
-    "/job/US-MA-Chelmsford-Alpha/XMLNAME-2nd-Shift-Process-Engineering-Technician_R264405": {
-      "title": "2nd Shift Process Engineering Technician",
-      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Alpha/XMLNAME-2nd-Shift-Process-Engineering-Technician_R264405",
-      "location": "US, MA, Chelmsford, Alpha",
-      "matched_on": [
-        "data analysis",
-        "metrics",
-        "root cause"
-      ]
-    },
-    "/job/US-MA-Wilmington/BioChemical-Engineer_R264157": {
-      "title": "Bio-Medical Engineer",
-      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/BioChemical-Engineer_R264157",
-      "location": "US, MA, Wilmington",
-      "matched_on": [
-        "data analysis",
-        "python"
-      ]
-    },
-    "/job/US-AZ-Chandler-East-Elliot/Staff-Design-Verification-Engineer--AI-ML-_R263414": {
-      "title": "Staff Design Verification Engineer (AI/ML)",
-      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-AZ-Chandler-East-Elliot/Staff-Design-Verification-Engineer--AI-ML-_R263414",
-      "location": "US, AZ, Chandler, East Elliot",
-      "matched_on": [
-        "analytics",
-        "python",
-        "metrics"
-      ]
-    },
-    "/job/US-MA-Wilmington/Staff-Product-Engineer---RF_R262278": {
-      "title": "Staff Product Engineer-  RF",
-      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Staff-Product-Engineer---RF_R262278",
-      "location": "US, MA, Wilmington",
-      "matched_on": [
-        "data analysis",
-        "python"
-      ]
-    },
-    "/job/US-MA-Wilmington/Senior-Software-Engineer-Apps_R263257": {
-      "title": "Senior Backend Software Engineer",
-      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Senior-Software-Engineer-Apps_R263257",
-      "location": "US, MA, Wilmington",
-      "matched_on": [
-        "analytics",
-        "python"
-      ]
-    },
-    "/job/US-OR-Beaverton/Facilities-Technician-4---Ultra-Pure-Water--UPW----Industrial-Waste-Water--IWW-_R263016": {
-      "title": "Facilities Technician 4 - Ultra Pure Water (UPW) & Industrial Waste Water (IWW)",
-      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Facilities-Technician-4---Ultra-Pure-Water--UPW----Industrial-Waste-Water--IWW-_R263016",
-      "location": "US, OR, Beaverton",
-      "matched_on": [
-        "data analysis",
-        "reporting",
-        "trend analysis",
-        "root cause"
-      ]
-    },
-    "/job/US-MA-Chelmsford-Alpha/XMLNAME-1st-Shift-Process-Engineering-Technician_R264404": {
-      "title": "1st Shift Process Engineering Technician",
-      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Alpha/XMLNAME-1st-Shift-Process-Engineering-Technician_R264404",
-      "location": "US, MA, Chelmsford, Alpha",
-      "matched_on": [
-        "data analysis",
-        "metrics",
-        "root cause"
-      ]
-    },
-    "/job/US-MA-Wilmington/Senior-Product-Engineer---RF_R258651": {
-      "title": "Senior Product Engineer - RF",
-      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Senior-Product-Engineer---RF_R258651",
-      "location": "US, MA, Wilmington",
-      "matched_on": [
-        "data analysis",
-        "python"
-      ]
-    },
-    "/job/US-CA-San-Jose-Rio-Robles/Senior-Engineer--Semi-Packaging-Engineering_R263149": {
-      "title": "Senior Engineer, Semi Packaging Engineering",
-      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Senior-Engineer--Semi-Packaging-Engineering_R263149",
-      "location": "US, CA, San Jose, Rio Robles",
-      "matched_on": [
-        "data analytics",
-        "analytics",
-        "stakeholder"
-      ]
-    },
-    "/job/US-MA-Wilmington/Functional-Architect_R263101": {
-      "title": "Functional Architect",
-      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Functional-Architect_R263101",
+    "/job/US-MA-Wilmington/Associate-Product-Engineer--Product-Development-_R265304": {
+      "title": "Associate Product Engineer (Product Development)",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Engineer--Product-Development-_R265304",
       "location": "2 Locations",
       "matched_on": [
-        "analytics",
-        "reporting",
-        "stakeholder"
+        "data analysis",
+        "experimentation",
+        "root cause"
       ]
     },
     "/job/US-MA-Wilmington/Lead-Planner--Supply-Chain_R264804": {
@@ -5385,6 +5368,24 @@
         "stakeholder"
       ]
     },
+    "/job/US-MA-Wilmington/BioChemical-Engineer_R264157": {
+      "title": "Bio-Medical Engineer",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/BioChemical-Engineer_R264157",
+      "location": "US, MA, Wilmington",
+      "matched_on": [
+        "data analysis",
+        "python"
+      ]
+    },
+    "/job/US-MA-Wilmington/Senior-Product-Engineer---RF_R258651": {
+      "title": "Senior Product Engineer - RF",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Senior-Product-Engineer---RF_R258651",
+      "location": "US, MA, Wilmington",
+      "matched_on": [
+        "data analysis",
+        "python"
+      ]
+    },
     "/job/US-MA-Wilmington/Senior-Staff-Engineer--Infrastructure-Security-and-Compliance_R265384-1": {
       "title": "Senior Staff Engineer, Infrastructure Security and Compliance",
       "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Senior-Staff-Engineer--Infrastructure-Security-and-Compliance_R265384-1",
@@ -5393,6 +5394,17 @@
         "reporting",
         "stakeholder",
         "metrics"
+      ]
+    },
+    "/job/US-OR-Beaverton/Facilities-Technician-4---Ultra-Pure-Water--UPW----Industrial-Waste-Water--IWW-_R263016": {
+      "title": "Facilities Technician 4 - Ultra Pure Water (UPW) & Industrial Waste Water (IWW)",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Facilities-Technician-4---Ultra-Pure-Water--UPW----Industrial-Waste-Water--IWW-_R263016",
+      "location": "US, OR, Beaverton",
+      "matched_on": [
+        "data analysis",
+        "reporting",
+        "trend analysis",
+        "root cause"
       ]
     },
     "/job/US-MA-Wilmington/Lead-Analyst--Supply-Chain-Planning_R263760-1": {
@@ -5405,13 +5417,62 @@
         "sql"
       ]
     },
-    "/job/US-CA-San-Jose-Rio-Robles/Staff-Engineer--Customer-Quality-Engineering_R263566": {
-      "title": "Staff Engineer, Customer Quality Engineering",
-      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Staff-Engineer--Customer-Quality-Engineering_R263566",
-      "location": "US, CA, San Jose, Rio Robles",
+    "/job/US-MA-Wilmington/Functional-Architect_R263101": {
+      "title": "Functional Architect",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Functional-Architect_R263101",
+      "location": "2 Locations",
+      "matched_on": [
+        "analytics",
+        "reporting",
+        "stakeholder"
+      ]
+    },
+    "/job/US-MA-Chelmsford-Alpha/XMLNAME-2nd-Shift-Process-Engineering-Technician_R264405": {
+      "title": "2nd Shift Process Engineering Technician",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Alpha/XMLNAME-2nd-Shift-Process-Engineering-Technician_R264405",
+      "location": "US, MA, Chelmsford, Alpha",
       "matched_on": [
         "data analysis",
-        "reporting"
+        "metrics",
+        "root cause"
+      ]
+    },
+    "/job/US-CA-San-Jose-Rio-Robles/Senior-Engineer--Semi-Packaging-Engineering_R263149": {
+      "title": "Senior Engineer, Semi Packaging Engineering",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-CA-San-Jose-Rio-Robles/Senior-Engineer--Semi-Packaging-Engineering_R263149",
+      "location": "US, CA, San Jose, Rio Robles",
+      "matched_on": [
+        "data analytics",
+        "analytics",
+        "stakeholder"
+      ]
+    },
+    "/job/US-MA-Chelmsford-Alpha/XMLNAME-1st-Shift-Process-Engineering-Technician_R264404": {
+      "title": "1st Shift Process Engineering Technician",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Alpha/XMLNAME-1st-Shift-Process-Engineering-Technician_R264404",
+      "location": "US, MA, Chelmsford, Alpha",
+      "matched_on": [
+        "data analysis",
+        "metrics",
+        "root cause"
+      ]
+    },
+    "/job/US-MA-Wilmington/Senior-Software-Engineer-Apps_R263257": {
+      "title": "Senior Backend Software Engineer",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Senior-Software-Engineer-Apps_R263257",
+      "location": "US, MA, Wilmington",
+      "matched_on": [
+        "analytics",
+        "python"
+      ]
+    },
+    "/job/US-MA-Wilmington/Staff-Product-Engineer---RF_R262278": {
+      "title": "Staff Product Engineer-  RF",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Staff-Product-Engineer---RF_R262278",
+      "location": "US, MA, Wilmington",
+      "matched_on": [
+        "data analysis",
+        "python"
       ]
     }
   },
@@ -5847,16 +5908,39 @@
       "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/New-York/Senior-Analyst--Innovation-and-AI_JR102027-1",
       "location": "New York"
     },
-    "/job/Houston/Manager--Business-Development--Corporate---M-A_JR102681": {
-      "title": "Manager, Business Development, Corporate - M&A",
-      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/Houston/Manager--Business-Development--Corporate---M-A_JR102681",
-      "location": "Houston",
+    "/job/New-York/Senior-Engineer--AI-Applications-Development_JR101273-1": {
+      "title": "Engineer, AI Applications Development",
+      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/New-York/Senior-Engineer--AI-Applications-Development_JR101273-1",
+      "location": "2 Locations",
       "matched_on": [
+        "data science",
+        "python",
+        "metrics",
+        "requirements gathering",
+        "process improvement"
+      ]
+    },
+    "/job/New-York/Associate-Director--Marketing---BD-Management-and-Strategy_JR102524": {
+      "title": "Associate Director, Marketing & BD Management and Strategy",
+      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/New-York/Associate-Director--Marketing---BD-Management-and-Strategy_JR102524",
+      "location": "New York",
+      "matched_on": [
+        "analytics",
         "market research",
-        "segmentation",
+        "dashboard",
+        "reporting",
+        "stakeholder"
+      ]
+    },
+    "/job/New-York/Senior-Manager--Business-Services---Experienced-Legal-Recruitment---Americas_JR101805-1": {
+      "title": "Senior Manager, Business Services & Experienced Legal Recruitment - Americas",
+      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/New-York/Senior-Manager--Business-Services---Experienced-Legal-Recruitment---Americas_JR101805-1",
+      "location": "New York",
+      "matched_on": [
+        "reporting",
         "stakeholder",
         "metrics",
-        "process improvement"
+        "benchmarking"
       ]
     },
     "/job/New-York/Associate-Director--Business-Development--Finance---Project-Development---Finance_JR102452": {
@@ -5869,13 +5953,24 @@
         "stakeholder"
       ]
     },
-    "/job/New-York/Manager--Business-Development--Industry-Group---Infrastructure_JR102150": {
-      "title": "Manager, Business Development, Industry Group - Infrastructure",
-      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/New-York/Manager--Business-Development--Industry-Group---Infrastructure_JR102150",
+    "/job/New-York/Specialist--Business-Development--Finance---Debt-Finance_JR102915-1": {
+      "title": "Specialist, Business Development - Finance, Capital Markets and Debt Finance",
+      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/New-York/Specialist--Business-Development--Finance---Debt-Finance_JR102915-1",
       "location": "New York",
       "matched_on": [
         "market research",
         "reporting",
+        "stakeholder",
+        "metrics"
+      ]
+    },
+    "/job/New-York/Associate-Director--Business-Development--Corporate---M-A_JR102680-2": {
+      "title": "Associate Director, Business Development, Corporate - M&A",
+      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/New-York/Associate-Director--Business-Development--Corporate---M-A_JR102680-2",
+      "location": "New York",
+      "matched_on": [
+        "market research",
+        "competitive analysis",
         "stakeholder"
       ]
     },
@@ -5900,14 +5995,50 @@
         "databricks"
       ]
     },
-    "/job/New-York/Senior-Coordinator--Marketing---BD-Operations_JR103011": {
-      "title": "Senior Coordinator, Marketing & BD Operations",
-      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/New-York/Senior-Coordinator--Marketing---BD-Operations_JR103011",
+    "/job/New-York/Senior-Manager--Business-Development--Corporate---M-A_JR102693": {
+      "title": "Senior Manager, Business Development, Corporate - M&A",
+      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/New-York/Senior-Manager--Business-Development--Corporate---M-A_JR102693",
       "location": "New York",
       "matched_on": [
         "market research",
         "reporting",
-        "metrics"
+        "segmentation",
+        "data-driven insights",
+        "stakeholder"
+      ]
+    },
+    "/job/New-York/Marketing-Technology-Product-Manager_JR101391": {
+      "title": "Marketing Technology Product Manager",
+      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/New-York/Marketing-Technology-Product-Manager_JR101391",
+      "location": "2 Locations",
+      "matched_on": [
+        "analytics",
+        "market research",
+        "reporting",
+        "actionable insights",
+        "stakeholder"
+      ]
+    },
+    "/job/Houston/Manager--Business-Development--Corporate---M-A_JR102681": {
+      "title": "Manager, Business Development, Corporate - M&A",
+      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/Houston/Manager--Business-Development--Corporate---M-A_JR102681",
+      "location": "Houston",
+      "matched_on": [
+        "market research",
+        "segmentation",
+        "stakeholder",
+        "metrics",
+        "process improvement"
+      ]
+    },
+    "/job/New-York/Manager--Business-Development--Industry-Group---Infrastructure_JR102150": {
+      "title": "Manager, Business Development, Industry Group - Infrastructure",
+      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/New-York/Manager--Business-Development--Industry-Group---Infrastructure_JR102150",
+      "location": "New York",
+      "matched_on": [
+        "market research",
+        "reporting",
+        "stakeholder"
       ]
     },
     "/job/New-York/Manager--Marketing---BD-Operations_JR102523": {
@@ -5922,16 +6053,26 @@
         "metrics"
       ]
     },
-    "/job/New-York/Associate-Director--Marketing---BD-Management-and-Strategy_JR102524": {
-      "title": "Associate Director, Marketing & BD Management and Strategy",
-      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/New-York/Associate-Director--Marketing---BD-Management-and-Strategy_JR102524",
+    "/job/New-York/Professional-Support-Legal-Assistant_JR102670": {
+      "title": "Professional Support Legal Assistant",
+      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/New-York/Professional-Support-Legal-Assistant_JR102670",
       "location": "New York",
       "matched_on": [
+        "data analytics",
         "analytics",
+        "business intelligence",
+        "data science",
+        "reporting"
+      ]
+    },
+    "/job/New-York/Senior-Coordinator--Marketing---BD-Operations_JR103011": {
+      "title": "Senior Coordinator, Marketing & BD Operations",
+      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/New-York/Senior-Coordinator--Marketing---BD-Operations_JR103011",
+      "location": "New York",
+      "matched_on": [
         "market research",
-        "dashboard",
         "reporting",
-        "stakeholder"
+        "metrics"
       ]
     },
     "/job/New-York/Specialist--Business-Development--Corporate---M-A_JR102699": {
@@ -5942,71 +6083,6 @@
         "market research",
         "reporting",
         "stakeholder",
-        "metrics",
-        "process improvement"
-      ]
-    },
-    "/job/New-York/Associate-Director--Business-Development--Corporate---M-A_JR102680-2": {
-      "title": "Associate Director, Business Development, Corporate - M&A",
-      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/New-York/Associate-Director--Business-Development--Corporate---M-A_JR102680-2",
-      "location": "New York",
-      "matched_on": [
-        "market research",
-        "competitive analysis",
-        "stakeholder"
-      ]
-    },
-    "/job/New-York/Manager--Business-Development--Finance---Debt-Finance_JR102726": {
-      "title": "Manager, Business Development, Finance - Debt Finance",
-      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/New-York/Manager--Business-Development--Finance---Debt-Finance_JR102726",
-      "location": "New York",
-      "matched_on": [
-        "market research",
-        "reporting"
-      ]
-    },
-    "/job/New-York/Senior-Manager--Business-Development--Corporate---M-A_JR102693": {
-      "title": "Senior Manager, Business Development, Corporate - M&A",
-      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/New-York/Senior-Manager--Business-Development--Corporate---M-A_JR102693",
-      "location": "New York",
-      "matched_on": [
-        "market research",
-        "reporting",
-        "segmentation",
-        "data-driven insights",
-        "stakeholder"
-      ]
-    },
-    "/job/New-York/Senior-Manager--Business-Services---Experienced-Legal-Recruitment---Americas_JR101805-1": {
-      "title": "Senior Manager, Business Services & Experienced Legal Recruitment - Americas",
-      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/New-York/Senior-Manager--Business-Services---Experienced-Legal-Recruitment---Americas_JR101805-1",
-      "location": "New York",
-      "matched_on": [
-        "reporting",
-        "stakeholder",
-        "metrics",
-        "benchmarking"
-      ]
-    },
-    "/job/Tampa/Specialist--Web---Digital_JR102722-1": {
-      "title": "Specialist, Web & Digital Platforms",
-      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/Tampa/Specialist--Web---Digital_JR102722-1",
-      "location": "Tampa",
-      "matched_on": [
-        "market research",
-        "reporting",
-        "stakeholder"
-      ]
-    },
-    "/job/Los-Angeles/Specialist--Marketing---BD-Operations_JR101392-1": {
-      "title": "Specialist, Marketing & BD Operations",
-      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/Los-Angeles/Specialist--Marketing---BD-Operations_JR101392-1",
-      "location": "Los Angeles",
-      "matched_on": [
-        "market research",
-        "reporting",
-        "segmentation",
-        "sql",
         "metrics",
         "process improvement"
       ]
@@ -6024,49 +6100,36 @@
         "process improvement"
       ]
     },
-    "/job/New-York/Professional-Support-Legal-Assistant_JR102670": {
-      "title": "Professional Support Legal Assistant",
-      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/New-York/Professional-Support-Legal-Assistant_JR102670",
-      "location": "New York",
-      "matched_on": [
-        "data analytics",
-        "analytics",
-        "business intelligence",
-        "data science",
-        "reporting"
-      ]
-    },
-    "/job/Los-Angeles/Manager--Events_JR102914": {
-      "title": "Manager, Events",
-      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/Los-Angeles/Manager--Events_JR102914",
+    "/job/Los-Angeles/Specialist--Marketing---BD-Operations_JR101392-1": {
+      "title": "Specialist, Marketing & BD Operations",
+      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/Los-Angeles/Specialist--Marketing---BD-Operations_JR101392-1",
       "location": "Los Angeles",
       "matched_on": [
         "market research",
+        "reporting",
+        "segmentation",
+        "sql",
+        "metrics",
+        "process improvement"
+      ]
+    },
+    "/job/New-York/Manager--Business-Development--Finance---Debt-Finance_JR102726": {
+      "title": "Manager, Business Development, Finance - Debt Finance",
+      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/New-York/Manager--Business-Development--Finance---Debt-Finance_JR102726",
+      "location": "New York",
+      "matched_on": [
+        "market research",
         "reporting"
       ]
     },
-    "/job/New-York/Marketing-Technology-Product-Manager_JR101391": {
-      "title": "Marketing Technology Product Manager",
-      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/New-York/Marketing-Technology-Product-Manager_JR101391",
-      "location": "2 Locations",
+    "/job/Tampa/Specialist--Web---Digital_JR102722-1": {
+      "title": "Specialist, Web & Digital Platforms",
+      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/Tampa/Specialist--Web---Digital_JR102722-1",
+      "location": "Tampa",
       "matched_on": [
-        "analytics",
         "market research",
         "reporting",
-        "actionable insights",
         "stakeholder"
-      ]
-    },
-    "/job/New-York/Senior-Engineer--AI-Applications-Development_JR101273-1": {
-      "title": "Engineer, AI Applications Development",
-      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/New-York/Senior-Engineer--AI-Applications-Development_JR101273-1",
-      "location": "2 Locations",
-      "matched_on": [
-        "data science",
-        "python",
-        "metrics",
-        "requirements gathering",
-        "process improvement"
       ]
     },
     "/job/New-York/Manager--Innovation---AI_JR102435-1": {
@@ -6093,15 +6156,13 @@
         "stakeholder"
       ]
     },
-    "/job/New-York/Specialist--Business-Development--Finance---Debt-Finance_JR102915-1": {
-      "title": "Specialist, Business Development - Finance, Capital Markets and Debt Finance",
-      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/New-York/Specialist--Business-Development--Finance---Debt-Finance_JR102915-1",
-      "location": "New York",
+    "/job/Los-Angeles/Manager--Events_JR102914": {
+      "title": "Manager, Events",
+      "url": "https://whitecase.wd1.myworkdayjobs.com/External/job/Los-Angeles/Manager--Events_JR102914",
+      "location": "Los Angeles",
       "matched_on": [
         "market research",
-        "reporting",
-        "stakeholder",
-        "metrics"
+        "reporting"
       ]
     }
   },
@@ -6751,21 +6812,45 @@
         "reporting"
       ]
     },
-    "https://jobs.jobvite.com/webmd/job/oWCOvfwB": {
-      "title": "Manager, Account Management",
-      "url": "https://jobs.jobvite.com/webmd/job/oWCOvfwB",
+    "https://jobs.jobvite.com/webmd/job/oSXkzfws": {
+      "title": "Events Marketing Manager",
+      "url": "https://jobs.jobvite.com/webmd/job/oSXkzfws",
       "matched_on": [
-        "forecasting",
+        "data analytics",
+        "analytics",
         "reporting"
       ]
     },
-    "https://jobs.jobvite.com/webmd/job/ocRZzfwl": {
-      "title": "Client Success Coordinator",
-      "url": "https://jobs.jobvite.com/webmd/job/ocRZzfwl",
+    "https://jobs.jobvite.com/webmd/job/oFiqAfwH": {
+      "title": "Key Account Manager",
+      "url": "https://jobs.jobvite.com/webmd/job/oFiqAfwH",
+      "matched_on": [
+        "forecasting",
+        "reporting",
+        "metrics"
+      ]
+    },
+    "https://jobs.jobvite.com/webmd/job/oOX3zfw7": {
+      "title": "Experiential Marketing Manager",
+      "url": "https://jobs.jobvite.com/webmd/job/oOX3zfw7",
       "matched_on": [
         "reporting",
-        "metrics",
-        "process improvement"
+        "stakeholder",
+        "metrics"
+      ]
+    },
+    "https://jobs.jobvite.com/webmd/job/ofrqwfwm": {
+      "title": "Director of Audience Engagement",
+      "url": "https://jobs.jobvite.com/webmd/job/ofrqwfwm",
+      "matched_on": [
+        "data analytics",
+        "analytics",
+        "business intelligence",
+        "forecasting",
+        "reporting",
+        "segmentation",
+        "actionable insights",
+        "tableau"
       ]
     },
     "https://jobs.jobvite.com/webmd/job/ocjYyfwL": {
@@ -6786,6 +6871,31 @@
         "metrics"
       ]
     },
+    "https://jobs.jobvite.com/webmd/job/ocRZzfwl": {
+      "title": "Client Success Coordinator",
+      "url": "https://jobs.jobvite.com/webmd/job/ocRZzfwl",
+      "matched_on": [
+        "reporting",
+        "metrics",
+        "process improvement"
+      ]
+    },
+    "https://jobs.jobvite.com/webmd/job/oTUQzfwW": {
+      "title": "Director, Strategic Accounts",
+      "url": "https://jobs.jobvite.com/webmd/job/oTUQzfwW",
+      "matched_on": [
+        "forecasting",
+        "reporting"
+      ]
+    },
+    "https://jobs.jobvite.com/webmd/job/oELLyfws": {
+      "title": "Manager, Commerical Excellence",
+      "url": "https://jobs.jobvite.com/webmd/job/oELLyfws",
+      "matched_on": [
+        "reporting",
+        "kpi"
+      ]
+    },
     "https://jobs.jobvite.com/webmd/job/owf3yfw6": {
       "title": "Product Manager",
       "url": "https://jobs.jobvite.com/webmd/job/owf3yfw6",
@@ -6800,6 +6910,14 @@
         "looker"
       ]
     },
+    "https://jobs.jobvite.com/webmd/job/oWCOvfwB": {
+      "title": "Manager, Account Management",
+      "url": "https://jobs.jobvite.com/webmd/job/oWCOvfwB",
+      "matched_on": [
+        "forecasting",
+        "reporting"
+      ]
+    },
     "https://jobs.jobvite.com/webmd/job/o2JDAfwI": {
       "title": "Associate Director, Ad Operations & Programmatic Strategy",
       "url": "https://jobs.jobvite.com/webmd/job/o2JDAfwI",
@@ -6809,63 +6927,6 @@
         "reporting",
         "tableau",
         "looker"
-      ]
-    },
-    "https://jobs.jobvite.com/webmd/job/oFiqAfwH": {
-      "title": "Key Account Manager",
-      "url": "https://jobs.jobvite.com/webmd/job/oFiqAfwH",
-      "matched_on": [
-        "forecasting",
-        "reporting",
-        "metrics"
-      ]
-    },
-    "https://jobs.jobvite.com/webmd/job/ofrqwfwm": {
-      "title": "Director of Audience Engagement",
-      "url": "https://jobs.jobvite.com/webmd/job/ofrqwfwm",
-      "matched_on": [
-        "data analytics",
-        "analytics",
-        "business intelligence",
-        "forecasting",
-        "reporting",
-        "segmentation",
-        "actionable insights",
-        "tableau"
-      ]
-    },
-    "https://jobs.jobvite.com/webmd/job/oTUQzfwW": {
-      "title": "Director, Strategic Accounts",
-      "url": "https://jobs.jobvite.com/webmd/job/oTUQzfwW",
-      "matched_on": [
-        "forecasting",
-        "reporting"
-      ]
-    },
-    "https://jobs.jobvite.com/webmd/job/oOX3zfw7": {
-      "title": "Experiential Marketing Manager",
-      "url": "https://jobs.jobvite.com/webmd/job/oOX3zfw7",
-      "matched_on": [
-        "reporting",
-        "stakeholder",
-        "metrics"
-      ]
-    },
-    "https://jobs.jobvite.com/webmd/job/oELLyfws": {
-      "title": "Manager, Commerical Excellence",
-      "url": "https://jobs.jobvite.com/webmd/job/oELLyfws",
-      "matched_on": [
-        "reporting",
-        "kpi"
-      ]
-    },
-    "https://jobs.jobvite.com/webmd/job/oSXkzfws": {
-      "title": "Events Marketing Manager",
-      "url": "https://jobs.jobvite.com/webmd/job/oSXkzfws",
-      "matched_on": [
-        "data analytics",
-        "analytics",
-        "reporting"
       ]
     }
   },
@@ -7004,6 +7065,98 @@
       "location": "Miami, FL, United States",
       "country_code": "US"
     },
+    "13592": {
+      "title": "Specialist, Web Content",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13592",
+      "location": "Miami, FL, United States",
+      "country_code": "US",
+      "matched_on": [
+        "analytics",
+        "reporting"
+      ]
+    },
+    "13636": {
+      "title": "Category Manager, Strategic Sourcing \u2013 F&B",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13636",
+      "location": "Miami, FL, United States",
+      "country_code": "US",
+      "matched_on": [
+        "analytics",
+        "segmentation",
+        "stakeholder",
+        "metrics"
+      ]
+    },
+    "13606": {
+      "title": "Product Development Program Manager",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13606",
+      "location": "Miami, FL, United States",
+      "country_code": "US",
+      "matched_on": [
+        "reporting",
+        "data-driven insights",
+        "stakeholder",
+        "metrics",
+        "financial model"
+      ]
+    },
+    "13929": {
+      "title": "Specialist, Strategic Sourcing, Technical and Ports",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13929",
+      "location": "Miami, FL, United States",
+      "country_code": "US",
+      "matched_on": [
+        "market research",
+        "reporting",
+        "stakeholder",
+        "metrics",
+        "benchmarking"
+      ]
+    },
+    "13737": {
+      "title": "Manager, Human Resource Technology",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13737",
+      "location": "Miami, FL, United States",
+      "country_code": "US",
+      "matched_on": [
+        "analytics",
+        "business intelligence",
+        "reporting",
+        "sql",
+        "stakeholder",
+        "process improvement"
+      ]
+    },
+    "13702": {
+      "title": "Technical Product Owner, Data and Payment Technology",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13702",
+      "location": "Fort Lauderdale, FL, United States",
+      "country_code": "US",
+      "matched_on": [
+        "analytics",
+        "sql",
+        "tableau",
+        "power bi",
+        "snowflake",
+        "etl"
+      ]
+    },
+    "13235": {
+      "title": "Full Stack Web Developer, Fuel Performance & Decarbonization",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13235",
+      "location": "Miami, FL, United States",
+      "country_code": "US",
+      "matched_on": [
+        "analytics",
+        "reporting",
+        "sql",
+        "python",
+        "power bi",
+        "etl",
+        "data visualization",
+        "stakeholder"
+      ]
+    },
     "13703": {
       "title": "Data Architect",
       "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13703",
@@ -7015,6 +7168,159 @@
         "snowflake",
         "etl",
         "quantitative"
+      ]
+    },
+    "13891": {
+      "title": "Specialist, Health Claims",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13891",
+      "location": "Miami, FL, United States",
+      "country_code": "US",
+      "matched_on": [
+        "analytics",
+        "reporting",
+        "trend analysis",
+        "power bi"
+      ]
+    },
+    "13926": {
+      "title": "Manager, Web Content",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13926",
+      "location": "Miami, FL, United States",
+      "country_code": "US",
+      "matched_on": [
+        "analytics",
+        "reporting",
+        "requirements gathering",
+        "process improvement"
+      ]
+    },
+    "13261": {
+      "title": "Senior Administrator, Financial Systems",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13261",
+      "location": "Seattle, WA, United States",
+      "country_code": "US",
+      "matched_on": [
+        "reporting",
+        "sql",
+        "power bi",
+        "process improvement",
+        "quantitative"
+      ]
+    },
+    "13914": {
+      "title": "Engineer, AI/ML",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13914",
+      "location": "Miami, FL, United States",
+      "country_code": "US",
+      "matched_on": [
+        "analytics",
+        "data science",
+        "experimentation",
+        "python",
+        "snowflake"
+      ]
+    },
+    "13861": {
+      "title": "Sr. Specialist, Cybersecurity Risk",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13861",
+      "location": "Miami, FL, United States",
+      "country_code": "US",
+      "matched_on": [
+        "reporting",
+        "stakeholder",
+        "metrics"
+      ]
+    },
+    "13904": {
+      "title": "Senior Manager, Delivery & Support",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13904",
+      "location": "Miami, FL, United States",
+      "country_code": "US",
+      "matched_on": [
+        "reporting",
+        "kpi",
+        "sql",
+        "stakeholder",
+        "root cause"
+      ]
+    },
+    "13603": {
+      "title": "Senior Ship Superintendent",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13603",
+      "location": "Miami, FL, United States",
+      "country_code": "US",
+      "matched_on": [
+        "data analytics",
+        "analytics",
+        "reporting",
+        "tableau"
+      ]
+    },
+    "13701": {
+      "title": "eCommerce Platform and Content Enablement Manager",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13701",
+      "location": "Seattle, WA, United States",
+      "country_code": "US",
+      "matched_on": [
+        "analytics",
+        "reporting",
+        "stakeholder",
+        "metrics",
+        "process improvement"
+      ]
+    },
+    "11824": {
+      "title": "Strategic Projects Specialist",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/11824",
+      "location": "Miami, FL, United States",
+      "country_code": "US",
+      "matched_on": [
+        "analytics",
+        "business intelligence",
+        "reporting",
+        "experimentation",
+        "stakeholder",
+        "process improvement",
+        "quantitative"
+      ]
+    },
+    "13797": {
+      "title": "Senior Manager, Product Engineering",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13797",
+      "location": "Fort Lauderdale, FL, United States",
+      "country_code": "US",
+      "matched_on": [
+        "analytics",
+        "experimentation",
+        "metrics"
+      ]
+    },
+    "13759": {
+      "title": "eCommerce Product Manager",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13759",
+      "location": "Fort Lauderdale, FL, United States",
+      "country_code": "US",
+      "matched_on": [
+        "analytics",
+        "experimentation",
+        "segmentation",
+        "stakeholder"
+      ]
+    },
+    "13773": {
+      "title": "Senior Manager, Booked Guest Ecommerce",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13773",
+      "location": "Miami, FL, United States",
+      "country_code": "US",
+      "matched_on": [
+        "data analytics",
+        "analytics",
+        "forecasting",
+        "reporting",
+        "kpi",
+        "experimentation",
+        "segmentation",
+        "data-driven insights"
       ]
     },
     "13692": {
@@ -7031,31 +7337,41 @@
         "metrics"
       ]
     },
-    "13883": {
-      "title": "Manager, Global Strategic Sourcing IT",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13883",
+    "13859": {
+      "title": "Manager, Fleet Finance",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13859",
+      "location": "Miami, FL, United States",
+      "country_code": "US",
+      "matched_on": [
+        "data analytics",
+        "analytics",
+        "reporting",
+        "sql",
+        "power bi",
+        "stakeholder",
+        "process improvement"
+      ]
+    },
+    "13835": {
+      "title": "Senior Revenue Performance Specialist",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13835",
       "location": "Miami, FL, United States",
       "country_code": "US",
       "matched_on": [
         "analytics",
         "reporting",
-        "segmentation",
-        "power bi",
-        "stakeholder",
-        "benchmarking"
+        "stakeholder"
       ]
     },
-    "13701": {
-      "title": "eCommerce Platform and Content Enablement Manager",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13701",
-      "location": "Seattle, WA, United States",
+    "13855": {
+      "title": "Specialist, Cybersecurity Risk",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13855",
+      "location": "Miami, FL, United States",
       "country_code": "US",
       "matched_on": [
-        "analytics",
         "reporting",
         "stakeholder",
-        "metrics",
-        "process improvement"
+        "metrics"
       ]
     },
     "13644": {
@@ -7081,157 +7397,6 @@
         "reporting"
       ]
     },
-    "13835": {
-      "title": "Senior Revenue Performance Specialist",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13835",
-      "location": "Miami, FL, United States",
-      "country_code": "US",
-      "matched_on": [
-        "analytics",
-        "reporting",
-        "stakeholder"
-      ]
-    },
-    "13773": {
-      "title": "Senior Manager, Booked Guest Ecommerce",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13773",
-      "location": "Miami, FL, United States",
-      "country_code": "US",
-      "matched_on": [
-        "data analytics",
-        "analytics",
-        "forecasting",
-        "reporting",
-        "kpi",
-        "experimentation",
-        "segmentation",
-        "data-driven insights"
-      ]
-    },
-    "13904": {
-      "title": "Senior Manager, Delivery & Support",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13904",
-      "location": "Miami, FL, United States",
-      "country_code": "US",
-      "matched_on": [
-        "reporting",
-        "kpi",
-        "sql",
-        "stakeholder",
-        "root cause"
-      ]
-    },
-    "13926": {
-      "title": "Manager, Web Content",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13926",
-      "location": "Miami, FL, United States",
-      "country_code": "US",
-      "matched_on": [
-        "analytics",
-        "reporting",
-        "requirements gathering",
-        "process improvement"
-      ]
-    },
-    "13759": {
-      "title": "eCommerce Product Manager",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13759",
-      "location": "Fort Lauderdale, FL, United States",
-      "country_code": "US",
-      "matched_on": [
-        "analytics",
-        "experimentation",
-        "segmentation",
-        "stakeholder"
-      ]
-    },
-    "13603": {
-      "title": "Senior Ship Superintendent",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13603",
-      "location": "Miami, FL, United States",
-      "country_code": "US",
-      "matched_on": [
-        "data analytics",
-        "analytics",
-        "reporting",
-        "tableau"
-      ]
-    },
-    "13929": {
-      "title": "Specialist, Strategic Sourcing, Technical and Ports",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13929",
-      "location": "Miami, FL, United States",
-      "country_code": "US",
-      "matched_on": [
-        "market research",
-        "reporting",
-        "stakeholder",
-        "metrics",
-        "benchmarking"
-      ]
-    },
-    "13778": {
-      "title": "Manager, Consumer AI",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13778",
-      "location": "Miami, FL, United States",
-      "country_code": "US",
-      "matched_on": [
-        "data science",
-        "python",
-        "stakeholder"
-      ]
-    },
-    "13861": {
-      "title": "Sr. Specialist, Cybersecurity Risk",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13861",
-      "location": "Miami, FL, United States",
-      "country_code": "US",
-      "matched_on": [
-        "reporting",
-        "stakeholder",
-        "metrics"
-      ]
-    },
-    "13859": {
-      "title": "Manager, Fleet Finance",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13859",
-      "location": "Miami, FL, United States",
-      "country_code": "US",
-      "matched_on": [
-        "data analytics",
-        "analytics",
-        "reporting",
-        "sql",
-        "power bi",
-        "stakeholder",
-        "process improvement"
-      ]
-    },
-    "13906": {
-      "title": "Senior Manager, Delivery & Support",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13906",
-      "location": "Miami, FL, United States",
-      "country_code": "US",
-      "matched_on": [
-        "reporting",
-        "kpi",
-        "sql",
-        "stakeholder",
-        "root cause"
-      ]
-    },
-    "13891": {
-      "title": "Specialist, Health Claims",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13891",
-      "location": "Miami, FL, United States",
-      "country_code": "US",
-      "matched_on": [
-        "analytics",
-        "reporting",
-        "trend analysis",
-        "power bi"
-      ]
-    },
     "13678": {
       "title": "Senior Engineer, ITSM AI Platform",
       "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13678",
@@ -7248,41 +7413,6 @@
         "power bi"
       ]
     },
-    "13858": {
-      "title": "Program Manager, Cybersecurity Risk Supply Chain",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13858",
-      "location": "Miami, FL, United States",
-      "country_code": "US",
-      "matched_on": [
-        "reporting",
-        "stakeholder",
-        "metrics"
-      ]
-    },
-    "13855": {
-      "title": "Specialist, Cybersecurity Risk",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13855",
-      "location": "Miami, FL, United States",
-      "country_code": "US",
-      "matched_on": [
-        "reporting",
-        "stakeholder",
-        "metrics"
-      ]
-    },
-    "13261": {
-      "title": "Senior Administrator, Financial Systems",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13261",
-      "location": "Seattle, WA, United States",
-      "country_code": "US",
-      "matched_on": [
-        "reporting",
-        "sql",
-        "power bi",
-        "process improvement",
-        "quantitative"
-      ]
-    },
     "13862": {
       "title": "Program Manager, Cybersecurity Risk",
       "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13862",
@@ -7294,32 +7424,42 @@
         "metrics"
       ]
     },
-    "11824": {
-      "title": "Strategic Projects Specialist",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/11824",
-      "location": "Miami, FL, United States",
-      "country_code": "US",
-      "matched_on": [
-        "analytics",
-        "business intelligence",
-        "reporting",
-        "experimentation",
-        "stakeholder",
-        "process improvement",
-        "quantitative"
-      ]
-    },
-    "13914": {
-      "title": "Engineer, AI/ML",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13914",
+    "12856": {
+      "title": "Principal, AI Forward Deployment Engineer",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/12856",
       "location": "Miami, FL, United States",
       "country_code": "US",
       "matched_on": [
         "analytics",
         "data science",
-        "experimentation",
         "python",
-        "snowflake"
+        "stakeholder",
+        "root cause"
+      ]
+    },
+    "13778": {
+      "title": "Manager, Consumer AI",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13778",
+      "location": "Miami, FL, United States",
+      "country_code": "US",
+      "matched_on": [
+        "data science",
+        "python",
+        "stakeholder"
+      ]
+    },
+    "13883": {
+      "title": "Manager, Global Strategic Sourcing IT",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13883",
+      "location": "Miami, FL, United States",
+      "country_code": "US",
+      "matched_on": [
+        "analytics",
+        "reporting",
+        "segmentation",
+        "power bi",
+        "stakeholder",
+        "benchmarking"
       ]
     },
     "13917": {
@@ -7333,30 +7473,28 @@
         "metrics"
       ]
     },
-    "13882": {
-      "title": "Senior Manager, Global Strategic Sourcing IT",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13882",
+    "13858": {
+      "title": "Program Manager, Cybersecurity Risk Supply Chain",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13858",
       "location": "Miami, FL, United States",
       "country_code": "US",
       "matched_on": [
-        "analytics",
-        "competitive analysis",
         "reporting",
-        "segmentation",
-        "power bi",
         "stakeholder",
-        "benchmarking"
+        "metrics"
       ]
     },
-    "13797": {
-      "title": "Senior Manager, Product Engineering",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13797",
-      "location": "Fort Lauderdale, FL, United States",
+    "13906": {
+      "title": "Senior Manager, Delivery & Support",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13906",
+      "location": "Miami, FL, United States",
       "country_code": "US",
       "matched_on": [
-        "analytics",
-        "experimentation",
-        "metrics"
+        "reporting",
+        "kpi",
+        "sql",
+        "stakeholder",
+        "root cause"
       ]
     },
     "13728": {
@@ -7375,31 +7513,19 @@
         "tableau"
       ]
     },
-    "12856": {
-      "title": "Principal, AI Forward Deployment Engineer",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/12856",
+    "13882": {
+      "title": "Senior Manager, Global Strategic Sourcing IT",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13882",
       "location": "Miami, FL, United States",
       "country_code": "US",
       "matched_on": [
         "analytics",
-        "data science",
-        "python",
-        "stakeholder",
-        "root cause"
-      ]
-    },
-    "13737": {
-      "title": "Manager, Human Resource Technology",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13737",
-      "location": "Miami, FL, United States",
-      "country_code": "US",
-      "matched_on": [
-        "analytics",
-        "business intelligence",
+        "competitive analysis",
         "reporting",
-        "sql",
+        "segmentation",
+        "power bi",
         "stakeholder",
-        "process improvement"
+        "benchmarking"
       ]
     },
     "13937": {
@@ -7412,36 +7538,6 @@
         "business intelligence",
         "reporting",
         "stakeholder"
-      ]
-    },
-    "13235": {
-      "title": "Full Stack Web Developer, Fuel Performance & Decarbonization",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13235",
-      "location": "Miami, FL, United States",
-      "country_code": "US",
-      "matched_on": [
-        "analytics",
-        "reporting",
-        "sql",
-        "python",
-        "power bi",
-        "etl",
-        "data visualization",
-        "stakeholder"
-      ]
-    },
-    "13702": {
-      "title": "Technical Product Owner, Data and Payment Technology",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13702",
-      "location": "Fort Lauderdale, FL, United States",
-      "country_code": "US",
-      "matched_on": [
-        "analytics",
-        "sql",
-        "tableau",
-        "power bi",
-        "snowflake",
-        "etl"
       ]
     }
   },
@@ -7926,12 +8022,13 @@
       "title": "Business Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Oklahoma-City-Business-Analyst-OK-73107-2411/1409672500/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Medical-Claims-Recovery-Specialist-%28Subrogation%29-Tucker%2C-GA-Hybrid-GA-99999/1428987900/": {
-      "title": "Medical Claims Recovery Specialist (Subrogation) - Tucker, GA - Hybrid",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Medical-Claims-Recovery-Specialist-%28Subrogation%29-Tucker%2C-GA-Hybrid-GA-99999/1428987900/",
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Product-Manager%2C-Medicaid-Claims-Transformation-AZ-99999/1429216000/": {
+      "title": "Product Manager, Medicaid Claims Transformation",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Product-Manager%2C-Medicaid-Claims-Transformation-AZ-99999/1429216000/",
       "matched_on": [
-        "data analytics",
-        "analytics"
+        "data analysis",
+        "experimentation",
+        "quantitative"
       ]
     },
     "https://jobs.gainwelltechnologies.com/job/Bangalore-FileNet-ECM-Developer-KA-560100/1416561000/": {
@@ -7941,15 +8038,6 @@
         "reporting",
         "sql",
         "root cause"
-      ]
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Product-Manager%2C-Medicaid-Claims-Transformation-AZ-99999/1429216000/": {
-      "title": "Product Manager, Medicaid Claims Transformation",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Product-Manager%2C-Medicaid-Claims-Transformation-AZ-99999/1429216000/",
-      "matched_on": [
-        "data analysis",
-        "experimentation",
-        "quantitative"
       ]
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Information-Systems-Architect-Service-Now-TX-99999/1391512000/": {
@@ -8277,13 +8365,13 @@
       "title": "Global CRM Business Analyst Expert",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Marseille-Global-CRM-Business-Analyst-Expert/1386384333/"
     },
-    "https://jobs.cmacgm-group.com/CEVALogistics/job/Courbevoie-Data-Insight-and-Innovation-Specialist-EUROPE/1433801333/": {
-      "title": "Data Insight and Innovation Specialist EUROPE",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Courbevoie-Data-Insight-and-Innovation-Specialist-EUROPE/1433801333/"
-    },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Ashby-de-la-Zouch-Logistics-Planning-&-CI-Analyst/1435477033/": {
       "title": "Logistics Planning & CI Analyst",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Ashby-de-la-Zouch-Logistics-Planning-&-CI-Analyst/1435477033/"
+    },
+    "https://jobs.cmacgm-group.com/CEVALogistics/job/Courbevoie-Data-Insight-and-Innovation-Specialist-EUROPE/1433801333/": {
+      "title": "Data Insight and Innovation Specialist EUROPE",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Courbevoie-Data-Insight-and-Innovation-Specialist-EUROPE/1433801333/"
     },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/London-Heathrow-Healthcare-Airfreight-Pricing-Analyst/1433067233/": {
       "title": "Healthcare Airfreight Pricing Analyst",
@@ -8349,14 +8437,13 @@
       "url": "https://job-boards.greenhouse.io/beyondfinance/jobs/6961066",
       "location": "Chicago, IL"
     },
-    "6961384": {
-      "title": "Strategy & Operations Associate",
-      "url": "https://job-boards.greenhouse.io/beyondfinance/jobs/6961384",
-      "location": "Chicago, IL",
+    "8114268": {
+      "title": "Senior Cloud Security Engineer",
+      "url": "https://job-boards.greenhouse.io/beyondfinance/jobs/8114268",
+      "location": "Remote",
       "matched_on": [
-        "reporting",
-        "actionable insights",
-        "metrics"
+        "segmentation",
+        "python"
       ]
     },
     "6961473": {
@@ -8378,13 +8465,14 @@
         "python"
       ]
     },
-    "8114268": {
-      "title": "Senior Cloud Security Engineer",
-      "url": "https://job-boards.greenhouse.io/beyondfinance/jobs/8114268",
-      "location": "Remote",
+    "6961384": {
+      "title": "Strategy & Operations Associate",
+      "url": "https://job-boards.greenhouse.io/beyondfinance/jobs/6961384",
+      "location": "Chicago, IL",
       "matched_on": [
-        "segmentation",
-        "python"
+        "reporting",
+        "actionable insights",
+        "metrics"
       ]
     },
     "8112040": {
@@ -9098,9 +9186,28 @@
       "title": "10050896320009/11/2026Senior Lead Data EngineerWilmington, DE",
       "url": "https://www.capitalonecareers.com/job/wilmington/senior-lead-data-engineer/1732/100508963200"
     },
+    "https://www.capitalonecareers.com/job/plano/senior-lead-software-engineer-fullstack-typescript-nodejs-python/1732/97189630704": {
+      "title": "9718963070407/01/2026Senior Lead Software Engineer, Fullstack (Typescript/Nodejs/Python)Plano, TX",
+      "url": "https://www.capitalonecareers.com/job/plano/senior-lead-software-engineer-fullstack-typescript-nodejs-python/1732/97189630704",
+      "matched_on": [
+        "data science",
+        "experimentation",
+        "sql",
+        "python"
+      ]
+    },
     "https://www.capitalonecareers.com/job/mclean/senior-lead-software-engineer-fullstack-nodejs-go-angularjs/1732/97759093680": {
       "title": "9775909368007/20/2026Senior Lead Software Engineer, Fullstack (Nodejs/Go/Angularjs)McLean, VA",
       "url": "https://www.capitalonecareers.com/job/mclean/senior-lead-software-engineer-fullstack-nodejs-go-angularjs/1732/97759093680",
+      "matched_on": [
+        "data science",
+        "sql",
+        "python"
+      ]
+    },
+    "https://www.capitalonecareers.com/job/richmond/lead-software-engineer-full-stack/1732/97114927104": {
+      "title": "9711492710406/29/2026Lead Software Engineer, Full StackRichmond, VA",
+      "url": "https://www.capitalonecareers.com/job/richmond/lead-software-engineer-full-stack/1732/97114927104",
       "matched_on": [
         "data science",
         "sql",
@@ -9115,6 +9222,15 @@
         "python"
       ]
     },
+    "https://www.capitalonecareers.com/job/plano/lead-software-engineer-devops-network-automation/1732/100516855760": {
+      "title": "10051685576009/12/2026Lead Software Engineer, DevOps (Network Automation)Plano, TX",
+      "url": "https://www.capitalonecareers.com/job/plano/lead-software-engineer-devops-network-automation/1732/100516855760",
+      "matched_on": [
+        "data science",
+        "sql",
+        "python"
+      ]
+    },
     "https://www.capitalonecareers.com/job/chicago/senior-lead-software-engineer-back-end/1732/100175949152": {
       "title": "10017594915209/04/2026Senior Lead Software Engineer, Back EndChicago, IL",
       "url": "https://www.capitalonecareers.com/job/chicago/senior-lead-software-engineer-back-end/1732/100175949152",
@@ -9124,6 +9240,17 @@
         "python",
         "snowflake",
         "databricks"
+      ]
+    },
+    "https://www.capitalonecareers.com/job/san-francisco/senior-director-technical-program-management-ai-remote-eligible/1732/97520527968": {
+      "title": "9752052796809/11/2026Senior Director, Technical Program Management - AI  (Remote Eligible)San Francisco, CA",
+      "url": "https://www.capitalonecareers.com/job/san-francisco/senior-director-technical-program-management-ai-remote-eligible/1732/97520527968",
+      "matched_on": [
+        "data science",
+        "reporting",
+        "experimentation",
+        "metrics",
+        "quantitative"
       ]
     },
     "https://www.capitalonecareers.com/job/richmond/lead-software-engineer-full-stack/1732/97114926624": {
@@ -9140,45 +9267,6 @@
       "url": "https://www.capitalonecareers.com/job/mclean/lead-software-engineer-fullstack-nodejs-angularjs-java/1732/98052317856",
       "matched_on": [
         "data science",
-        "sql",
-        "python"
-      ]
-    },
-    "https://www.capitalonecareers.com/job/plano/lead-software-engineer-devops-network-automation/1732/100516855760": {
-      "title": "10051685576009/12/2026Lead Software Engineer, DevOps (Network Automation)Plano, TX",
-      "url": "https://www.capitalonecareers.com/job/plano/lead-software-engineer-devops-network-automation/1732/100516855760",
-      "matched_on": [
-        "data science",
-        "sql",
-        "python"
-      ]
-    },
-    "https://www.capitalonecareers.com/job/san-francisco/senior-director-technical-program-management-ai-remote-eligible/1732/97520527968": {
-      "title": "9752052796809/11/2026Senior Director, Technical Program Management - AI  (Remote Eligible)San Francisco, CA",
-      "url": "https://www.capitalonecareers.com/job/san-francisco/senior-director-technical-program-management-ai-remote-eligible/1732/97520527968",
-      "matched_on": [
-        "data science",
-        "reporting",
-        "experimentation",
-        "metrics",
-        "quantitative"
-      ]
-    },
-    "https://www.capitalonecareers.com/job/richmond/lead-software-engineer-full-stack/1732/97114927104": {
-      "title": "9711492710406/29/2026Lead Software Engineer, Full StackRichmond, VA",
-      "url": "https://www.capitalonecareers.com/job/richmond/lead-software-engineer-full-stack/1732/97114927104",
-      "matched_on": [
-        "data science",
-        "sql",
-        "python"
-      ]
-    },
-    "https://www.capitalonecareers.com/job/plano/senior-lead-software-engineer-fullstack-typescript-nodejs-python/1732/97189630704": {
-      "title": "9718963070407/01/2026Senior Lead Software Engineer, Fullstack (Typescript/Nodejs/Python)Plano, TX",
-      "url": "https://www.capitalonecareers.com/job/plano/senior-lead-software-engineer-fullstack-typescript-nodejs-python/1732/97189630704",
-      "matched_on": [
-        "data science",
-        "experimentation",
         "sql",
         "python"
       ]
@@ -13973,64 +14061,25 @@
       "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tampa-FL/Security-Data-Engineer-and-Governance--VP_10076102-WD",
       "location": "2 Locations"
     },
-    "/job/Jersey-City-NJ/Director--Distinguished-Engineer--Enterprise-AI-Platforms_10078743-WD": {
-      "title": "Director, Distinguished Engineer, Enterprise AI Platforms",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Director--Distinguished-Engineer--Enterprise-AI-Platforms_10078743-WD",
-      "location": "Jersey City, NJ",
-      "matched_on": [
-        "data science",
-        "experimentation",
-        "sql",
-        "python",
-        "snowflake",
-        "databricks",
-        "airflow"
-      ]
-    },
-    "/job/Jersey-City-NJ/Application-Production-Support--Assistant-Vice-President_10077887-WD": {
-      "title": "Application Production Support, Assistant Vice President",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Application-Production-Support--Assistant-Vice-President_10077887-WD",
-      "location": "Jersey City, NJ",
-      "matched_on": [
-        "reporting",
-        "kpi",
-        "stakeholder",
-        "metrics",
-        "root cause"
-      ]
-    },
-    "/job/Singapore-Office-Marina-One/Assistant-Vice-President--Global-HR-Solutions-Consultant-APAC--Region---Location-Agnostic-_10078388-WD": {
-      "title": "Assistant Vice President, Global HR Solutions Consultant APAC (Region - Location Agnostic)",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Singapore-Office-Marina-One/Assistant-Vice-President--Global-HR-Solutions-Consultant-APAC--Region---Location-Agnostic-_10078388-WD",
+    "/job/Jersey-City-NJ/Continuous-Control-Monitoring--CCM--Lead--VP_10073742-WD": {
+      "title": "Continuous Control Monitoring (CCM) Lead, Vice President",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Continuous-Control-Monitoring--CCM--Lead--VP_10073742-WD",
       "location": "3 Locations",
       "matched_on": [
-        "data analysis",
-        "analytics",
-        "data-driven insights",
-        "power bi",
+        "reporting",
+        "sql",
+        "python",
+        "tableau",
+        "power bi"
+      ]
+    },
+    "/job/Tempe-AZ/Cybersecurity-Product---Service-Delivery-Specialist--AVP_10077446-WD": {
+      "title": "Cybersecurity Product & Service Delivery Specialist, AVP",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tempe-AZ/Cybersecurity-Product---Service-Delivery-Specialist--AVP_10077446-WD",
+      "location": "3 Locations",
+      "matched_on": [
+        "reporting",
         "stakeholder",
-        "process improvement",
-        "quantitative"
-      ]
-    },
-    "/job/Tempe-AZ/Strategic-Sourcing-Manager--Vice-President_10075373-WD": {
-      "title": "Strategic Sourcing Manager, Vice President",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tempe-AZ/Strategic-Sourcing-Manager--Vice-President_10075373-WD",
-      "location": "2 Locations",
-      "matched_on": [
-        "market research",
-        "reporting",
-        "stakeholder"
-      ]
-    },
-    "/job/Jersey-City-NJ/EA-Governance-Delivery-and-Process-Analyst--AVP_10077123-WD": {
-      "title": "EA Governance Delivery and Process Specialist, AVP",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/EA-Governance-Delivery-and-Process-Analyst--AVP_10077123-WD",
-      "location": "2 Locations",
-      "matched_on": [
-        "data analysis",
-        "reporting",
-        "power bi",
         "metrics",
         "process improvement"
       ]
@@ -14043,83 +14092,6 @@
         "data analysis",
         "reporting",
         "python"
-      ]
-    },
-    "/job/Jersey-City-NJ/Microsoft-Ai---Automation-Governance-Engineer---Productivity-Intelligence--Financial-Services---VP_10075906-WD": {
-      "title": "Microsoft Ai & Automation Governance Engineer \u2013 Productivity Intelligence (Financial Services), VP",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Microsoft-Ai---Automation-Governance-Engineer---Productivity-Intelligence--Financial-Services---VP_10075906-WD",
-      "location": "2 Locations",
-      "matched_on": [
-        "analytics",
-        "reporting",
-        "segmentation",
-        "power bi",
-        "stakeholder",
-        "metrics"
-      ]
-    },
-    "/job/New-York-NY/Securities-and-Market-Data---Process-Steward-Director_10075917-WD": {
-      "title": "Director, Securities Business Data Quality & Process Excellence",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-York-NY/Securities-and-Market-Data---Process-Steward-Director_10075917-WD",
-      "location": "2 Locations",
-      "matched_on": [
-        "analytics",
-        "reporting",
-        "stakeholder",
-        "process improvement"
-      ]
-    },
-    "/job/Jersey-City-NJ/Application-Security-Engineer--Vice-President_10076438-WD": {
-      "title": "Application Security Engineer, Vice President",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Application-Security-Engineer--Vice-President_10076438-WD",
-      "location": "Jersey City, NJ",
-      "matched_on": [
-        "reporting",
-        "python",
-        "process improvement"
-      ]
-    },
-    "/job/Tempe-AZ/Global-Red-Team-AI-Engineer--AVP_10078819-WD": {
-      "title": "Global Red Team AI Engineer, AVP",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tempe-AZ/Global-Red-Team-AI-Engineer--AVP_10078819-WD",
-      "location": "2 Locations",
-      "matched_on": [
-        "data science",
-        "reporting",
-        "python"
-      ]
-    },
-    "/job/Tempe-AZ/Global-Director-of-Autonomous-Cyber-Defense-and-Security-Event-Triage--SOC-_10076418-WD": {
-      "title": "Global Director of Autonomous Cyber Defense and Security Event Triage (SOC)",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tempe-AZ/Global-Director-of-Autonomous-Cyber-Defense-and-Security-Event-Triage--SOC-_10076418-WD",
-      "location": "2 Locations",
-      "matched_on": [
-        "analytics",
-        "reporting",
-        "kpi",
-        "snowflake",
-        "metrics",
-        "quantitative"
-      ]
-    },
-    "/job/Jersey-City-NJ/Senior-Network-Engineer--VP_10078778-WD": {
-      "title": "Senior Network Engineer, VP",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Senior-Network-Engineer--VP_10078778-WD",
-      "location": "2 Locations",
-      "matched_on": [
-        "reporting",
-        "segmentation",
-        "python"
-      ]
-    },
-    "/job/Tempe-AZ/Strategic-Sourcing-Manager--Vice-President_10075460-WD": {
-      "title": "Strategic Sourcing Manager, Vice President",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tempe-AZ/Strategic-Sourcing-Manager--Vice-President_10075460-WD",
-      "location": "2 Locations",
-      "matched_on": [
-        "market research",
-        "reporting",
-        "stakeholder"
       ]
     },
     "/job/Jersey-City-NJ/Global-Director-of-Autonomous-Incident-Response-and-Forensic-Analysis_10076420-WD": {
@@ -14135,55 +14107,31 @@
         "quantitative"
       ]
     },
-    "/job/Jersey-City-NJ/Software-Engineer--VP_10077813-WD": {
-      "title": "Software Engineer, VP",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Software-Engineer--VP_10077813-WD",
-      "location": "Jersey City, NJ",
+    "/job/Tempe-AZ/Credit-Risk-Review-VP_10079091-WD": {
+      "title": "Credit Risk Review VP",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tempe-AZ/Credit-Risk-Review-VP_10079091-WD",
+      "location": "2 Locations",
       "matched_on": [
+        "data analytics",
         "analytics",
-        "sql",
-        "python",
-        "tableau",
-        "power bi"
-      ]
-    },
-    "/job/Tampa-FL/IT-Software-Asset-Manager--VP_10078297-WD": {
-      "title": "IT Software Asset Manager, VP",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tampa-FL/IT-Software-Asset-Manager--VP_10078297-WD",
-      "location": "4 Locations",
-      "matched_on": [
         "reporting",
-        "power bi"
-      ]
-    },
-    "/job/New-York-NY/Director--Head-of-Markets-Regulatory-Affairs---Registrations--US-Broker-Dealer-_10078128-WD": {
-      "title": "Director, Head of Markets Regulatory Affairs & Registrations (U.S. Broker-Dealer)",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-York-NY/Director--Head-of-Markets-Regulatory-Affairs---Registrations--US-Broker-Dealer-_10078128-WD",
-      "location": "New York, NY",
-      "matched_on": [
-        "reporting",
+        "kpi",
         "stakeholder",
         "metrics"
       ]
     },
-    "/job/New-York-NY/VP--Talent-Acquisition-Delivery---RPO-Governance_10078871-WD": {
-      "title": "VP, Talent Acquisition Delivery & RPO Governance",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-York-NY/VP--Talent-Acquisition-Delivery---RPO-Governance_10078871-WD",
-      "location": "2 Locations",
-      "matched_on": [
-        "forecasting",
-        "reporting",
-        "stakeholder"
-      ]
-    },
-    "/job/Jersey-City-NJ/Technical-Project-Manager-TIO_10078918-WD": {
-      "title": "Technical Project Manager-TIO",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Technical-Project-Manager-TIO_10078918-WD",
+    "/job/Jersey-City-NJ/Director--Distinguished-Engineer--Enterprise-AI-Platforms_10078743-WD": {
+      "title": "Director, Distinguished Engineer, Enterprise AI Platforms",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Director--Distinguished-Engineer--Enterprise-AI-Platforms_10078743-WD",
       "location": "Jersey City, NJ",
       "matched_on": [
-        "reporting",
-        "power bi",
-        "stakeholder"
+        "data science",
+        "experimentation",
+        "sql",
+        "python",
+        "snowflake",
+        "databricks",
+        "airflow"
       ]
     },
     "/job/Irving-TX/Global-Financial-Crimes---Compliance-Testing--AVP_10077797-WD": {
@@ -14198,37 +14146,6 @@
         "large datasets"
       ]
     },
-    "/job/Dallas-TX/Executive-Assistant-Project-Administrative-Professional_10078038-WD-1": {
-      "title": "Executive Assistant/Project Administrative Professional",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Dallas-TX/Executive-Assistant-Project-Administrative-Professional_10078038-WD-1",
-      "location": "Dallas, TX",
-      "matched_on": [
-        "data analysis",
-        "data analytics",
-        "analytics",
-        "reporting"
-      ]
-    },
-    "/job/Jersey-City-NJ/Global-Red-Team-AI-Engineer--AVP_10078820-WD": {
-      "title": "Global Red Team AI Engineer, AVP",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Global-Red-Team-AI-Engineer--AVP_10078820-WD",
-      "location": "Jersey City, NJ",
-      "matched_on": [
-        "data science",
-        "reporting",
-        "python"
-      ]
-    },
-    "/job/New-Jersey-Office---210-Hudson-Street/Director--Data-Governance---Transformation_10078400-WD": {
-      "title": "Director, Data Governance & Transformation",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-Jersey-Office---210-Hudson-Street/Director--Data-Governance---Transformation_10078400-WD",
-      "location": "2 Locations",
-      "matched_on": [
-        "analytics",
-        "data science",
-        "reporting"
-      ]
-    },
     "/job/Jersey-City-NJ/Data-Security-Specialist--VP_10078450-WD": {
       "title": "Data Security Specialist, VP",
       "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Data-Security-Specialist--VP_10078450-WD",
@@ -14237,127 +14154,6 @@
         "analytics",
         "reporting",
         "metrics"
-      ]
-    },
-    "/job/Jersey-City-NJ/Workforce-Identity-Architect--VP_10075977-WD-1": {
-      "title": "Workforce Identity Architect, VP",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Workforce-Identity-Architect--VP_10075977-WD-1",
-      "location": "2 Locations",
-      "matched_on": [
-        "analytics",
-        "reporting",
-        "stakeholder",
-        "metrics"
-      ]
-    },
-    "/job/Jersey-City-NJ/AI-Foundational-Model-Engineer_10078775-WD-1": {
-      "title": "AI Foundational Model Engineer",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/AI-Foundational-Model-Engineer_10078775-WD-1",
-      "location": "Jersey City, NJ",
-      "matched_on": [
-        "experimentation",
-        "python",
-        "stakeholder",
-        "metrics"
-      ]
-    },
-    "/job/Tempe-AZ/Strategic-Sourcing-Manager--VP_10075459-WD-1": {
-      "title": "Strategic Sourcing Manager, Vice President",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tempe-AZ/Strategic-Sourcing-Manager--VP_10075459-WD-1",
-      "location": "2 Locations",
-      "matched_on": [
-        "market research",
-        "reporting",
-        "stakeholder"
-      ]
-    },
-    "/job/Tempe-AZ/Credit-Risk-Review-VP_10079091-WD": {
-      "title": "Credit Risk Review VP",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tempe-AZ/Credit-Risk-Review-VP_10079091-WD",
-      "location": "2 Locations",
-      "matched_on": [
-        "data analytics",
-        "analytics",
-        "reporting",
-        "kpi",
-        "stakeholder",
-        "metrics"
-      ]
-    },
-    "/job/Jersey-City-NJ/Continuous-Control-Monitoring--CCM--Lead--VP_10073742-WD": {
-      "title": "Continuous Control Monitoring (CCM) Lead, Vice President",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Continuous-Control-Monitoring--CCM--Lead--VP_10073742-WD",
-      "location": "3 Locations",
-      "matched_on": [
-        "reporting",
-        "sql",
-        "python",
-        "tableau",
-        "power bi"
-      ]
-    },
-    "/job/New-Jersey-Office---210-Hudson-Street/Microsoft-Ai---Automation-Engineer---Productivity-Intelligence--Financial-Services-_10075905-WD": {
-      "title": "Microsoft Ai & Automation Engineer, Productivity Intelligence, VP",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-Jersey-Office---210-Hudson-Street/Microsoft-Ai---Automation-Engineer---Productivity-Intelligence--Financial-Services-_10075905-WD",
-      "location": "2 Locations",
-      "matched_on": [
-        "analytics",
-        "python",
-        "stakeholder"
-      ]
-    },
-    "/job/New-York-NY/Global-Markets-FP-A_10077539-WD": {
-      "title": "Global Markets FP&A",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-York-NY/Global-Markets-FP-A_10077539-WD",
-      "location": "New York, NY",
-      "matched_on": [
-        "data analytics",
-        "analytics",
-        "forecasting",
-        "reporting",
-        "tableau",
-        "powerbi",
-        "alteryx",
-        "ad hoc analysis"
-      ]
-    },
-    "/job/Irving-TX/Corporate-Function-Compliance--AVP_10077424-WD": {
-      "title": "Corporate Function Compliance, AVP",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Irving-TX/Corporate-Function-Compliance--AVP_10077424-WD",
-      "location": "Irving, TX",
-      "matched_on": [
-        "analytics",
-        "reporting"
-      ]
-    },
-    "/job/Jersey-City-NJ/Cash-and-Liquidity-Transaction-and-Reporting-Lead-Software-Developer--VP_10075808-WD": {
-      "title": "WD Cash Management Software Team Manager, Vice President",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Cash-and-Liquidity-Transaction-and-Reporting-Lead-Software-Developer--VP_10075808-WD",
-      "location": "Jersey City, NJ",
-      "matched_on": [
-        "reporting",
-        "sql",
-        "python"
-      ]
-    },
-    "/job/New-York-NY/Technology-Risk-Management---Control-Officer--VP_10077404-WD": {
-      "title": "Technology Risk Management - Control Officer; VP",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-York-NY/Technology-Risk-Management---Control-Officer--VP_10077404-WD",
-      "location": "New York, NY",
-      "matched_on": [
-        "reporting",
-        "stakeholder",
-        "metrics"
-      ]
-    },
-    "/job/New-Jersey-Office---210-Hudson-Street/Data-Risk--Vice-President_10075927-WD": {
-      "title": "Business Data Governance Lead, Vice President",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-Jersey-Office---210-Hudson-Street/Data-Risk--Vice-President_10075927-WD",
-      "location": "2 Locations",
-      "matched_on": [
-        "analytics",
-        "reporting",
-        "stakeholder"
       ]
     },
     "/job/New-Jersey-Office---210-Hudson-Street/XMLNAME---IT-Operations-and-Service-Delivery-Manager--AVP_10078934-WD": {
@@ -14374,12 +14170,23 @@
         "metrics"
       ]
     },
-    "/job/New-York-NY/VP-TRM-Sales-FIG_10077345-WD-1": {
-      "title": "Vice President, Treasury Relationship Manager Sales FIG",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-York-NY/VP-TRM-Sales-FIG_10077345-WD-1",
-      "location": "New York, NY",
+    "/job/Tampa-FL/IT-Software-Asset-Manager--VP_10078297-WD": {
+      "title": "IT Software Asset Manager, VP",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tampa-FL/IT-Software-Asset-Manager--VP_10078297-WD",
+      "location": "4 Locations",
       "matched_on": [
-        "forecasting",
+        "reporting",
+        "power bi"
+      ]
+    },
+    "/job/Dallas-TX/Executive-Assistant-Project-Administrative-Professional_10078038-WD-1": {
+      "title": "Executive Assistant/Project Administrative Professional",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Dallas-TX/Executive-Assistant-Project-Administrative-Professional_10078038-WD-1",
+      "location": "Dallas, TX",
+      "matched_on": [
+        "data analysis",
+        "data analytics",
+        "analytics",
         "reporting"
       ]
     },
@@ -14389,6 +14196,167 @@
       "location": "Jersey City, NJ",
       "matched_on": [
         "reporting",
+        "power bi",
+        "stakeholder",
+        "metrics"
+      ]
+    },
+    "/job/Irving-TX/Vice-President-Sanctions-SME---Digital-Assets_10078111-WD": {
+      "title": "Vice President Sanctions SME - Digital Assets",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Irving-TX/Vice-President-Sanctions-SME---Digital-Assets_10078111-WD",
+      "location": "Irving, TX",
+      "matched_on": [
+        "analytics",
+        "reporting",
+        "stakeholder"
+      ]
+    },
+    "/job/New-York-NY/VP-TRM-Sales-FIG_10077345-WD-1": {
+      "title": "Vice President, Treasury Relationship Manager Sales FIG",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-York-NY/VP-TRM-Sales-FIG_10077345-WD-1",
+      "location": "New York, NY",
+      "matched_on": [
+        "forecasting",
+        "reporting"
+      ]
+    },
+    "/job/Jersey-City-NJ/Enterprise-Architecture-Governance---ServiceNow-Solution-Engineer--AVP_10077128-WD": {
+      "title": "Enterprise Architecture Governance \u2013 ServiceNow Solution Engineer, AVP",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Enterprise-Architecture-Governance---ServiceNow-Solution-Engineer--AVP_10077128-WD",
+      "location": "2 Locations",
+      "matched_on": [
+        "analytics",
+        "reporting",
+        "sql",
+        "stakeholder"
+      ]
+    },
+    "/job/Tempe-AZ/Global-Director-of-Autonomous-Cyber-Defense-and-Security-Event-Triage--SOC-_10076418-WD": {
+      "title": "Global Director of Autonomous Cyber Defense and Security Event Triage (SOC)",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tempe-AZ/Global-Director-of-Autonomous-Cyber-Defense-and-Security-Event-Triage--SOC-_10076418-WD",
+      "location": "2 Locations",
+      "matched_on": [
+        "analytics",
+        "reporting",
+        "kpi",
+        "snowflake",
+        "metrics",
+        "quantitative"
+      ]
+    },
+    "/job/Jersey-City-NJ/Application-Production-Support--Assistant-Vice-President_10077887-WD": {
+      "title": "Application Production Support, Assistant Vice President",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Application-Production-Support--Assistant-Vice-President_10077887-WD",
+      "location": "Jersey City, NJ",
+      "matched_on": [
+        "reporting",
+        "kpi",
+        "stakeholder",
+        "metrics",
+        "root cause"
+      ]
+    },
+    "/job/Jersey-City-NJ/Cash-and-Liquidity-Transaction-and-Reporting-Lead-Software-Developer--VP_10075808-WD": {
+      "title": "WD Cash Management Software Team Manager, Vice President",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Cash-and-Liquidity-Transaction-and-Reporting-Lead-Software-Developer--VP_10075808-WD",
+      "location": "Jersey City, NJ",
+      "matched_on": [
+        "reporting",
+        "sql",
+        "python"
+      ]
+    },
+    "/job/Jersey-City-NJ/Workforce-Identity-Architect--VP_10075977-WD-1": {
+      "title": "Workforce Identity Architect, VP",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Workforce-Identity-Architect--VP_10075977-WD-1",
+      "location": "2 Locations",
+      "matched_on": [
+        "analytics",
+        "reporting",
+        "stakeholder",
+        "metrics"
+      ]
+    },
+    "/job/Tempe-AZ/Strategic-Sourcing-Manager--Vice-President_10075373-WD": {
+      "title": "Strategic Sourcing Manager, Vice President",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tempe-AZ/Strategic-Sourcing-Manager--Vice-President_10075373-WD",
+      "location": "2 Locations",
+      "matched_on": [
+        "market research",
+        "reporting",
+        "stakeholder"
+      ]
+    },
+    "/job/Jersey-City-NJ/Commercial-Lending-Technical-Expert--VP_10073168-WD": {
+      "title": "Commercial Lending Technical Expert, VP",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Commercial-Lending-Technical-Expert--VP_10073168-WD",
+      "location": "Jersey City, NJ",
+      "matched_on": [
+        "reporting",
+        "sql"
+      ]
+    },
+    "/job/New-York-NY/VP--Talent-Acquisition-Delivery---RPO-Governance_10078871-WD": {
+      "title": "VP, Talent Acquisition Delivery & RPO Governance",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-York-NY/VP--Talent-Acquisition-Delivery---RPO-Governance_10078871-WD",
+      "location": "2 Locations",
+      "matched_on": [
+        "forecasting",
+        "reporting",
+        "stakeholder"
+      ]
+    },
+    "/job/Tampa-FL/IAM-Security-and-Technology-Governance--Vice-President_10075863-WD": {
+      "title": "IAM Security and Technology Governance, Vice President",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tampa-FL/IAM-Security-and-Technology-Governance--Vice-President_10075863-WD",
+      "location": "2 Locations",
+      "matched_on": [
+        "reporting",
+        "kpi",
+        "powerbi",
+        "metrics"
+      ]
+    },
+    "/job/Jersey-City-NJ/Executive-Assistant_10077586-WD-1": {
+      "title": "Executive Assistant",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Executive-Assistant_10077586-WD-1",
+      "location": "Jersey City, NJ",
+      "matched_on": [
+        "data analytics",
+        "analytics"
+      ]
+    },
+    "/job/Irving-TX/Corporate-Function-Compliance--AVP_10077424-WD": {
+      "title": "Corporate Function Compliance, AVP",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Irving-TX/Corporate-Function-Compliance--AVP_10077424-WD",
+      "location": "Irving, TX",
+      "matched_on": [
+        "analytics",
+        "reporting"
+      ]
+    },
+    "/job/Singapore-Office-Marina-One/Assistant-Vice-President--Global-HR-Solutions-Consultant-APAC--Region---Location-Agnostic-_10078388-WD": {
+      "title": "Assistant Vice President, Global HR Solutions Consultant APAC (Region - Location Agnostic)",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Singapore-Office-Marina-One/Assistant-Vice-President--Global-HR-Solutions-Consultant-APAC--Region---Location-Agnostic-_10078388-WD",
+      "location": "3 Locations",
+      "matched_on": [
+        "data analysis",
+        "analytics",
+        "data-driven insights",
+        "power bi",
+        "stakeholder",
+        "process improvement",
+        "quantitative"
+      ]
+    },
+    "/job/Jersey-City-NJ/Microsoft-Ai---Automation-Governance-Engineer---Productivity-Intelligence--Financial-Services---VP_10075906-WD": {
+      "title": "Microsoft Ai & Automation Governance Engineer \u2013 Productivity Intelligence (Financial Services), VP",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Microsoft-Ai---Automation-Governance-Engineer---Productivity-Intelligence--Financial-Services---VP_10075906-WD",
+      "location": "2 Locations",
+      "matched_on": [
+        "analytics",
+        "reporting",
+        "segmentation",
         "power bi",
         "stakeholder",
         "metrics"
@@ -14409,44 +14377,78 @@
         "powerbi"
       ]
     },
-    "/job/Tampa-FL/IAM-Security-and-Technology-Governance--Vice-President_10075863-WD": {
-      "title": "IAM Security and Technology Governance, Vice President",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tampa-FL/IAM-Security-and-Technology-Governance--Vice-President_10075863-WD",
-      "location": "2 Locations",
+    "/job/Jersey-City-NJ/Technical-Project-Manager-TIO_10078918-WD": {
+      "title": "Technical Project Manager-TIO",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Technical-Project-Manager-TIO_10078918-WD",
+      "location": "Jersey City, NJ",
       "matched_on": [
         "reporting",
-        "kpi",
-        "powerbi",
-        "metrics"
+        "power bi",
+        "stakeholder"
       ]
     },
-    "/job/New-York-NY/Secured-Financing---Solutions-Associate_10079016-WD-1": {
-      "title": "Secured Financing & Solutions Associate",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-York-NY/Secured-Financing---Solutions-Associate_10079016-WD-1",
-      "location": "New York, NY",
+    "/job/Jersey-City-NJ/Software-Engineer--VP_10077813-WD": {
+      "title": "Software Engineer, VP",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Software-Engineer--VP_10077813-WD",
+      "location": "Jersey City, NJ",
       "matched_on": [
-        "quantitative analysis",
-        "metrics",
-        "quantitative"
+        "analytics",
+        "sql",
+        "python",
+        "tableau",
+        "power bi"
       ]
     },
-    "/job/Singapore---Marina-One-East-Tower-Securities/Chief-Operating-Officer--Capital-Markets-Group-APAC--Director_10078422-WD": {
-      "title": "Chief Operating Officer, Capital Markets Group APAC- Director",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Singapore---Marina-One-East-Tower-Securities/Chief-Operating-Officer--Capital-Markets-Group-APAC--Director_10078422-WD",
+    "/job/New-Jersey-Office---210-Hudson-Street/Data-Risk--Vice-President_10075927-WD": {
+      "title": "Business Data Governance Lead, Vice President",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-Jersey-Office---210-Hudson-Street/Data-Risk--Vice-President_10075927-WD",
       "location": "2 Locations",
-      "matched_on": [
-        "data analysis",
-        "reporting"
-      ]
-    },
-    "/job/Irving-TX/Vice-President-Sanctions-SME---Digital-Assets_10078111-WD": {
-      "title": "Vice President Sanctions SME - Digital Assets",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Irving-TX/Vice-President-Sanctions-SME---Digital-Assets_10078111-WD",
-      "location": "Irving, TX",
       "matched_on": [
         "analytics",
         "reporting",
         "stakeholder"
+      ]
+    },
+    "/job/New-York-NY/Securities-and-Market-Data---Process-Steward-Director_10075917-WD": {
+      "title": "Director, Securities Business Data Quality & Process Excellence",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-York-NY/Securities-and-Market-Data---Process-Steward-Director_10075917-WD",
+      "location": "2 Locations",
+      "matched_on": [
+        "analytics",
+        "reporting",
+        "stakeholder",
+        "process improvement"
+      ]
+    },
+    "/job/Jersey-City-NJ/Senior-Network-Engineer--VP_10078778-WD": {
+      "title": "Senior Network Engineer, VP",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Senior-Network-Engineer--VP_10078778-WD",
+      "location": "2 Locations",
+      "matched_on": [
+        "reporting",
+        "segmentation",
+        "python"
+      ]
+    },
+    "/job/Jersey-City-NJ/AI-Foundational-Model-Engineer_10078775-WD-1": {
+      "title": "AI Foundational Model Engineer",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/AI-Foundational-Model-Engineer_10078775-WD-1",
+      "location": "Jersey City, NJ",
+      "matched_on": [
+        "experimentation",
+        "python",
+        "stakeholder",
+        "metrics"
+      ]
+    },
+    "/job/Jersey-City-NJ/Application-Security-Engineer--Vice-President_10076438-WD": {
+      "title": "Application Security Engineer, Vice President",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Application-Security-Engineer--Vice-President_10076438-WD",
+      "location": "Jersey City, NJ",
+      "matched_on": [
+        "reporting",
+        "python",
+        "process improvement"
       ]
     },
     "/job/Jersey-City-NJ/Enterprise-Data-and-AI-Architect--Vice-President_10077204-WD": {
@@ -14459,6 +14461,28 @@
         "databricks",
         "etl",
         "stakeholder"
+      ]
+    },
+    "/job/Jersey-City-NJ/EA-Governance-Delivery-and-Process-Analyst--AVP_10077123-WD": {
+      "title": "EA Governance Delivery and Process Specialist, AVP",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/EA-Governance-Delivery-and-Process-Analyst--AVP_10077123-WD",
+      "location": "2 Locations",
+      "matched_on": [
+        "data analysis",
+        "reporting",
+        "power bi",
+        "metrics",
+        "process improvement"
+      ]
+    },
+    "/job/New-York-NY/Director--Head-of-Markets-Regulatory-Affairs---Registrations--US-Broker-Dealer-_10078128-WD": {
+      "title": "Director, Head of Markets Regulatory Affairs & Registrations (U.S. Broker-Dealer)",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-York-NY/Director--Head-of-Markets-Regulatory-Affairs---Registrations--US-Broker-Dealer-_10078128-WD",
+      "location": "New York, NY",
+      "matched_on": [
+        "reporting",
+        "stakeholder",
+        "metrics"
       ]
     },
     "/job/New-York-NY/Treasury-Risk--AVP_10078347-WD": {
@@ -14474,44 +14498,108 @@
         "ad hoc analysis"
       ]
     },
-    "/job/Tempe-AZ/Cybersecurity-Product---Service-Delivery-Specialist--AVP_10077446-WD": {
-      "title": "Cybersecurity Product & Service Delivery Specialist, AVP",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tempe-AZ/Cybersecurity-Product---Service-Delivery-Specialist--AVP_10077446-WD",
-      "location": "3 Locations",
-      "matched_on": [
-        "reporting",
-        "stakeholder",
-        "metrics",
-        "process improvement"
-      ]
-    },
-    "/job/Jersey-City-NJ/Executive-Assistant_10077586-WD-1": {
-      "title": "Executive Assistant",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Executive-Assistant_10077586-WD-1",
-      "location": "Jersey City, NJ",
-      "matched_on": [
-        "data analytics",
-        "analytics"
-      ]
-    },
-    "/job/Jersey-City-NJ/Enterprise-Architecture-Governance---ServiceNow-Solution-Engineer--AVP_10077128-WD": {
-      "title": "Enterprise Architecture Governance \u2013 ServiceNow Solution Engineer, AVP",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Enterprise-Architecture-Governance---ServiceNow-Solution-Engineer--AVP_10077128-WD",
+    "/job/New-Jersey-Office---210-Hudson-Street/Microsoft-Ai---Automation-Engineer---Productivity-Intelligence--Financial-Services-_10075905-WD": {
+      "title": "Microsoft Ai & Automation Engineer, Productivity Intelligence, VP",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-Jersey-Office---210-Hudson-Street/Microsoft-Ai---Automation-Engineer---Productivity-Intelligence--Financial-Services-_10075905-WD",
       "location": "2 Locations",
       "matched_on": [
         "analytics",
-        "reporting",
-        "sql",
+        "python",
         "stakeholder"
       ]
     },
-    "/job/Jersey-City-NJ/Commercial-Lending-Technical-Expert--VP_10073168-WD": {
-      "title": "Commercial Lending Technical Expert, VP",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Commercial-Lending-Technical-Expert--VP_10073168-WD",
-      "location": "Jersey City, NJ",
+    "/job/Tempe-AZ/Global-Red-Team-AI-Engineer--AVP_10078819-WD": {
+      "title": "Global Red Team AI Engineer, AVP",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tempe-AZ/Global-Red-Team-AI-Engineer--AVP_10078819-WD",
+      "location": "2 Locations",
+      "matched_on": [
+        "data science",
+        "reporting",
+        "python"
+      ]
+    },
+    "/job/New-Jersey-Office---210-Hudson-Street/Director--Data-Governance---Transformation_10078400-WD": {
+      "title": "Director, Data Governance & Transformation",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-Jersey-Office---210-Hudson-Street/Director--Data-Governance---Transformation_10078400-WD",
+      "location": "2 Locations",
+      "matched_on": [
+        "analytics",
+        "data science",
+        "reporting"
+      ]
+    },
+    "/job/Tempe-AZ/Strategic-Sourcing-Manager--VP_10075459-WD-1": {
+      "title": "Strategic Sourcing Manager, Vice President",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tempe-AZ/Strategic-Sourcing-Manager--VP_10075459-WD-1",
+      "location": "2 Locations",
+      "matched_on": [
+        "market research",
+        "reporting",
+        "stakeholder"
+      ]
+    },
+    "/job/Singapore---Marina-One-East-Tower-Securities/Chief-Operating-Officer--Capital-Markets-Group-APAC--Director_10078422-WD": {
+      "title": "Chief Operating Officer, Capital Markets Group APAC- Director",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Singapore---Marina-One-East-Tower-Securities/Chief-Operating-Officer--Capital-Markets-Group-APAC--Director_10078422-WD",
+      "location": "2 Locations",
+      "matched_on": [
+        "data analysis",
+        "reporting"
+      ]
+    },
+    "/job/New-York-NY/Global-Markets-FP-A_10077539-WD": {
+      "title": "Global Markets FP&A",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-York-NY/Global-Markets-FP-A_10077539-WD",
+      "location": "New York, NY",
+      "matched_on": [
+        "data analytics",
+        "analytics",
+        "forecasting",
+        "reporting",
+        "tableau",
+        "powerbi",
+        "alteryx",
+        "ad hoc analysis"
+      ]
+    },
+    "/job/Tempe-AZ/Strategic-Sourcing-Manager--Vice-President_10075460-WD": {
+      "title": "Strategic Sourcing Manager, Vice President",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tempe-AZ/Strategic-Sourcing-Manager--Vice-President_10075460-WD",
+      "location": "2 Locations",
+      "matched_on": [
+        "market research",
+        "reporting",
+        "stakeholder"
+      ]
+    },
+    "/job/New-York-NY/Technology-Risk-Management---Control-Officer--VP_10077404-WD": {
+      "title": "Technology Risk Management - Control Officer; VP",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-York-NY/Technology-Risk-Management---Control-Officer--VP_10077404-WD",
+      "location": "New York, NY",
       "matched_on": [
         "reporting",
-        "sql"
+        "stakeholder",
+        "metrics"
+      ]
+    },
+    "/job/Jersey-City-NJ/Global-Red-Team-AI-Engineer--AVP_10078820-WD": {
+      "title": "Global Red Team AI Engineer, AVP",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Global-Red-Team-AI-Engineer--AVP_10078820-WD",
+      "location": "Jersey City, NJ",
+      "matched_on": [
+        "data science",
+        "reporting",
+        "python"
+      ]
+    },
+    "/job/New-York-NY/Secured-Financing---Solutions-Associate_10079016-WD-1": {
+      "title": "Secured Financing & Solutions Associate",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-York-NY/Secured-Financing---Solutions-Associate_10079016-WD-1",
+      "location": "New York, NY",
+      "matched_on": [
+        "quantitative analysis",
+        "metrics",
+        "quantitative"
       ]
     }
   },
