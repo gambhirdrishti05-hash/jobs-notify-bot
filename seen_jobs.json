@@ -60,12 +60,6 @@
       "location": "Newark, DE, United States",
       "country_code": "US"
     },
-    "210779539": {
-      "title": "Quant Analytics Vice President \u2013 Credit Card Analytics",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779539",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
     "210775281": {
       "title": "Trade Lifecyle Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775281",
@@ -480,12 +474,6 @@
       "location": "Newark, DE, United States",
       "country_code": "US"
     },
-    "210742812": {
-      "title": "Compliance  - Senior Associate Product Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210742812",
-      "location": "Newark, DE, United States",
-      "country_code": "US"
-    },
     "210779537": {
       "title": "Senior Associate of Morgan Health, Analytics Engineering",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779537",
@@ -880,12 +868,6 @@
       "title": "Product Portfolio Operations, Vice President, Data & Analytics Development Team Lead",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770106",
       "location": "Wilmington, DE, United States",
-      "country_code": "US"
-    },
-    "210762307": {
-      "title": "2027 Commercial & Investment Bank Risk Management Full-Time Analyst Program",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762307",
-      "location": "New York, NY, United States",
       "country_code": "US"
     },
     "210763462": {
@@ -1428,12 +1410,6 @@
       "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
-    "210781506": {
-      "title": "Business Banking Product Quant Analytics Associate Sr",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781506",
-      "location": "Columbus, OH, United States",
-      "country_code": "US"
-    },
     "210780303": {
       "title": "Senior Analytics Associate, Marketing Analytics",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780303",
@@ -1644,16 +1620,16 @@
       "location": "Columbus, OH, United States",
       "country_code": "US"
     },
-    "210780203": {
-      "title": "Corporate Finance Analytics, Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780203",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
     "210770599": {
       "title": "Vice President Product Delivery Manager - Data Analytics Platform",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770599",
       "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
+    "210780203": {
+      "title": "Corporate Finance Analytics, Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780203",
+      "location": "New York, NY, United States",
       "country_code": "US"
     },
     "210780362": {
@@ -1941,6 +1917,12 @@
     "210769230": {
       "title": "Quant Analytics Senior Associate - Point of Sales Capabilities",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210769230",
+      "location": "Wilmington, DE, United States",
+      "country_code": "US"
+    },
+    "210760108": {
+      "title": "Manager, Fraud Analytics",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210760108",
       "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
@@ -3819,6 +3801,11 @@
   },
   "Waters Corporation": {},
   "CVS Health": {
+    "/job/Field-Florida/Bilingual-Case-Management-Analyst---Field-in-Miami-Dade-County--FL_R1016193": {
+      "title": "Bilingual Case Management Analyst - Field in Miami-Dade County, FL",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Field-Florida/Bilingual-Case-Management-Analyst---Field-in-Miami-Dade-County--FL_R1016193",
+      "location": "Field-Florida"
+    },
     "/job/Work-At-Home-Rhode-Island/Senior-Data-Engineer---AdTech_R1023889": {
       "title": "Senior Data Engineer - AdTech",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Rhode-Island/Senior-Data-Engineer---AdTech_R1023889",
@@ -4739,6 +4726,11 @@
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Salem-MA/Application-Analyst-II_RQ4079590",
       "location": "Salem-MA"
     },
+    "/job/Boston-MA/Senior-Financial-Analyst_RQ4067611-1": {
+      "title": "Senior Financial Analyst",
+      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Senior-Financial-Analyst_RQ4067611-1",
+      "location": "Boston-MA"
+    },
     "/job/Boston-MA/Financial-Analyst-II_RQ4072792": {
       "title": "Financial Analyst II",
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Financial-Analyst-II_RQ4072792",
@@ -5314,13 +5306,17 @@
     }
   },
   "Gainwell": {
+    "https://jobs.gainwelltechnologies.com/job/Bangalore-Data-Science-AI-Engineer-KA-560100/1430026800/": {
+      "title": "Data Science AI Engineer",
+      "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Data-Science-AI-Engineer-KA-560100/1430026800/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Bilingual-Call-Center-Quality-Assurance-Analyst-Remote-CA-CA-95605-1630/1429997500/": {
+      "title": "Bilingual Call Center Quality Assurance Analyst - Remote CA",
+      "url": "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Bilingual-Call-Center-Quality-Assurance-Analyst-Remote-CA-CA-95605-1630/1429997500/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Tucker-Early-Career-Business-Analyst-Hybrid-Tucker%2C-GA-GA-30084-7060/1429836600/": {
       "title": "Early Career Business Analyst - Hybrid Tucker, GA",
       "url": "https://jobs.gainwelltechnologies.com/job/Tucker-Early-Career-Business-Analyst-Hybrid-Tucker%2C-GA-GA-30084-7060/1429836600/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Oklahoma-City-Business-Analyst-OK-73107-2411/1409672500/": {
-      "title": "Business Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Oklahoma-City-Business-Analyst-OK-73107-2411/1409672500/"
     }
   },
   "Happen Bank": {
@@ -5381,6 +5377,10 @@
       "title": "Security Operations Center Analyst - Houston, TX (Physical Security)",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Houston-Tx-Security-Operations-Center-Analyst-Houston%2C-TX-%28Physical-Security%29-TX-77001/1428066433/"
     },
+    "https://jobs.cmacgm-group.com/CEVALogistics/job/Courbevoie-Data-Insight-and-Innovation-Specialist-EUROPE/1433801333/": {
+      "title": "Data Insight and Innovation Specialist EUROPE",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Courbevoie-Data-Insight-and-Innovation-Specialist-EUROPE/1433801333/"
+    },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Ashby-de-la-Zouch-Logistics-Planning-&-CI-Analyst/1435477033/": {
       "title": "Logistics Planning & CI Analyst",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Ashby-de-la-Zouch-Logistics-Planning-&-CI-Analyst/1435477033/"
@@ -5388,10 +5388,6 @@
     "https://jobs.cmacgm-group.com/CEVALogistics/job/London-Heathrow-Healthcare-Airfreight-Pricing-Analyst/1433067233/": {
       "title": "Healthcare Airfreight Pricing Analyst",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/London-Heathrow-Healthcare-Airfreight-Pricing-Analyst/1433067233/"
-    },
-    "https://jobs.cmacgm-group.com/CEVALogistics/job/Courbevoie-Data-Insight-and-Innovation-Specialist-EUROPE/1433801333/": {
-      "title": "Data Insight and Innovation Specialist EUROPE",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Courbevoie-Data-Insight-and-Innovation-Specialist-EUROPE/1433801333/"
     },
     "https://jobs.cmacgm-group.com/job/Norfolk-Va-Business-Process-Analyst-VA-23501/1435880533/": {
       "title": "Business Process Analyst",
@@ -5405,6 +5401,10 @@
       "title": "Pricing Analyst (REMOTE)",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Bernville_PA-Pricing-Analyst-%28REMOTE%29-CA/1432029633/"
     },
+    "https://jobs.cmacgm-group.com/CEVALogistics/job/Tilburg-Data-Analyst/1433934633/": {
+      "title": "Data Analyst",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Tilburg-Data-Analyst/1433934633/"
+    },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Houston-Tx-Pricing-Analyst-REMOTE-TX-77001/1419977633/": {
       "title": "Pricing Analyst - REMOTE",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Houston-Tx-Pricing-Analyst-REMOTE-TX-77001/1419977633/"
@@ -5416,10 +5416,6 @@
     "https://jobs.cmacgm-group.com/job/Marseille-Internship-Data-Analyst-Vessel-Energy-Performance/1435135733/": {
       "title": "Internship - Data Analyst - Vessel Energy Performance",
       "url": "https://jobs.cmacgm-group.com/job/Marseille-Internship-Data-Analyst-Vessel-Energy-Performance/1435135733/"
-    },
-    "https://jobs.cmacgm-group.com/CEVALogistics/job/Tilburg-Data-Analyst/1433934633/": {
-      "title": "Data Analyst",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Tilburg-Data-Analyst/1433934633/"
     },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Mississauga-On-Pricing-Analyst-ON/1423463833/": {
       "title": "Pricing Analyst",
@@ -6061,12 +6057,7 @@
       "location": "Los Angeles, CA"
     }
   },
-  "AbbVibe": {
-    "https://careers.abbvie.com/en/job/associate-director-international-business-analytics-in-mettawa-il-jid-31833": {
-      "title": "Associate Director, International Business Analytics",
-      "url": "https://careers.abbvie.com/en/job/associate-director-international-business-analytics-in-mettawa-il-jid-31833"
-    }
-  },
+  "AbbVibe": {},
   "HPE": {
     "/job/Sofia-Sofia-Bulgaria/PowerBI-Developer-Analyst_1207234-3": {
       "title": "PowerBI Developer/Analyst",
@@ -6579,6 +6570,11 @@
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Investment-Grade--Debt-Capital-Markets-Analyst-I_R0118559",
       "location": "Atlanta, GA"
     },
+    "/job/New-York-NY/XMLNAME-2027-Corporate-Banking-Analyst-Program--Full-time-_R0118964": {
+      "title": "2027 Corporate Banking Analyst Program (Full-time)",
+      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/New-York-NY/XMLNAME-2027-Corporate-Banking-Analyst-Program--Full-time-_R0118964",
+      "location": "New York, NY"
+    },
     "/job/Charlotte-NC/Consumer---Small-Business-Banking--CSBB--Analyst-Program_R0119210": {
       "title": "Consumer & Small Business Banking (CSBB) Analyst Program",
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Consumer---Small-Business-Banking--CSBB--Analyst-Program_R0119210",
@@ -7018,9 +7014,24 @@
       "title": "Fraud Analyst I - 2027 (Farmington Hills, MI)",
       "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Farmington-Hills-MI/Fraud-Analyst-I_R71857",
       "location": "Farmington Hills, MI"
+    },
+    "/job/Cincinnati-OH/Associate-Data-Scientist_R72860": {
+      "title": "Associate Data Scientist",
+      "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Associate-Data-Scientist_R72860",
+      "location": "Cincinnati, OH"
+    },
+    "/job/Chicago-IL/Data-Scientist_R61308": {
+      "title": "Data Scientist",
+      "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Chicago-IL/Data-Scientist_R61308",
+      "location": "Chicago, IL"
     }
   },
   "Key Bank": {
+    "/job/Buffalo-NY/Commercial-Analyst-Team-Lead_R-41426": {
+      "title": "Commercial Analyst Team Lead",
+      "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Buffalo-NY/Commercial-Analyst-Team-Lead_R-41426",
+      "location": "6 Locations"
+    },
     "/job/Brooklyn-OH/Senior-Cyber-Threat-Intelligence-Analyst_R-41905": {
       "title": "Senior Cyber Threat Intelligence Analyst",
       "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Senior-Cyber-Threat-Intelligence-Analyst_R-41905",
@@ -7180,11 +7191,6 @@
       "title": "KPB Sr. Manager Research Analyst",
       "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/KPB-Sr-Research-Analyst_R-39256",
       "location": "2 Locations"
-    },
-    "/job/Buffalo-NY/Commercial-Analyst-Team-Lead_R-41426": {
-      "title": "Commercial Analyst Team Lead",
-      "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Buffalo-NY/Commercial-Analyst-Team-Lead_R-41426",
-      "location": "5 Locations"
     },
     "/job/Cleveland-OH/XMLNAME-2027-Analytics-and-Quantitative-Modeling-Rotational-Analyst-Program--Cleveland_R-41381-1": {
       "title": "2027 Analytics and Quantitative Modeling Rotational Analyst Program- Cleveland",
