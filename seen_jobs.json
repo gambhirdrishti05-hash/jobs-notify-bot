@@ -24,12 +24,6 @@
       "location": "San Francisco, CA, United States",
       "country_code": "US"
     },
-    "210789356": {
-      "title": "Events Management Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789356",
-      "location": "NY, United States",
-      "country_code": "US"
-    },
     "210773070": {
       "title": "Margin and Collateral Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773070",
@@ -46,6 +40,12 @@
       "title": "Securities Services \u2013 Announcement Capture Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790587",
       "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
+    "210790831": {
+      "title": "Head of Auto Commercial Analytics-Executive Director",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790831",
+      "location": "New York, NY, United States",
       "country_code": "US"
     },
     "210705145": {
@@ -132,12 +132,6 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
-    "210781695": {
-      "title": "Loan Servicing Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781695",
-      "location": "Newark, DE, United States",
-      "country_code": "US"
-    },
     "210779705": {
       "title": "Investment Banking - Director Advisory Services- Associate/Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779705",
@@ -153,12 +147,6 @@
     "210789863": {
       "title": "Securitized Product Group Financial Controller Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789863",
-      "location": "Newark, DE, United States",
-      "country_code": "US"
-    },
-    "210775281": {
-      "title": "Trade Lifecyle Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775281",
       "location": "Newark, DE, United States",
       "country_code": "US"
     },
@@ -1278,6 +1266,12 @@
       "location": "OH, United States",
       "country_code": "US"
     },
+    "210791197": {
+      "title": "External Reporting Controller Senior Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791197",
+      "location": "Brooklyn, NY, United States",
+      "country_code": "US"
+    },
     "210790742": {
       "title": "Liquidity Forecasting & Management Reporting, Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790742",
@@ -1716,16 +1710,16 @@
       "location": "Columbus, OH, United States",
       "country_code": "US"
     },
-    "210780203": {
-      "title": "Corporate Finance Analytics, Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780203",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
     "210770599": {
       "title": "Vice President Product Delivery Manager - Data Analytics Platform",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210770599",
       "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
+    "210780203": {
+      "title": "Corporate Finance Analytics, Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780203",
+      "location": "New York, NY, United States",
       "country_code": "US"
     },
     "210780362": {
@@ -2028,12 +2022,6 @@
       "location": "Jersey City, NJ, United States",
       "country_code": "US"
     },
-    "210760293": {
-      "title": "Consumer Banking Data Scientist Director - American Dream",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210760293",
-      "location": "Columbus, OH, United States",
-      "country_code": "US"
-    },
     "210749526": {
       "title": "Asset Management - Investment Platform Trading Analytics & Strategy (GFICC) - Executive Director",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210749526",
@@ -2256,6 +2244,12 @@
       "location": "North Reading, Massachusetts, USA",
       "country_code": "USA"
     },
+    "10547746": {
+      "title": "Senior Network Performance Analyst \u2013 AI Transformation, Network Strategy and Performance ",
+      "url": "https://www.amazon.jobs/en/jobs/10547746/senior-network-performance-analyst-ai-transformation-network-strategy-and-performance",
+      "location": "Seattle, Washington, USA",
+      "country_code": "USA"
+    },
     "10543987": {
       "title": "Finance Analyst, FinOps AR",
       "url": "https://www.amazon.jobs/en/jobs/10543987/finance-analyst-finops-ar",
@@ -2266,6 +2260,12 @@
       "title": "Financial Analyst, Amazon Leo Finance",
       "url": "https://www.amazon.jobs/en/jobs/10544011/financial-analyst-amazon-leo-finance",
       "location": "Redmond, Washington, USA",
+      "country_code": "USA"
+    },
+    "10547728": {
+      "title": "Senior Network Performance Analyst \u2013 AI Transformation, Network Strategy and Performance",
+      "url": "https://www.amazon.jobs/en/jobs/10547728/senior-network-performance-analyst-ai-transformation-network-strategy-and-performance",
+      "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
     "10546231": {
@@ -2646,6 +2646,12 @@
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
+    "10515127": {
+      "title": "Business Analyst, Amazon Logistics, AMZL OTR Planning",
+      "url": "https://www.amazon.jobs/en/jobs/10515127/business-analyst-amazon-logistics-amzl-otr-planning",
+      "location": "Nashville, Tennessee, USA",
+      "country_code": "USA"
+    },
     "10525043": {
       "title": "Sr Configuration Analyst/Manager, Mechanical Engineering, Configuration Management",
       "url": "https://www.amazon.jobs/en/jobs/10525043/sr-configuration-analyst-manager-mechanical-engineering-configuration-management",
@@ -2745,6 +2751,12 @@
     "10510956": {
       "title": "Sr. Financial Analyst, Amazon Business Finance",
       "url": "https://www.amazon.jobs/en/jobs/10510956/sr-financial-analyst-amazon-business-finance",
+      "location": "Seattle, Washington, USA",
+      "country_code": "USA"
+    },
+    "10548871": {
+      "title": "Business Analyst, Selling Partner Experience, Selling Partner Experience EASE and Analytics (SPXEA)",
+      "url": "https://www.amazon.jobs/en/jobs/10548871/business-analyst-selling-partner-experience-selling-partner-experience-ease-and-analytics-spxea",
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
@@ -3516,12 +3528,6 @@
       "location": "Bellevue, Washington, USA",
       "country_code": "USA"
     },
-    "10458455": {
-      "title": "Senior Business Analyst, Talent Acquisition Analytics",
-      "url": "https://www.amazon.jobs/en/jobs/10458455/senior-business-analyst-talent-acquisition-analytics",
-      "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
     "10449161": {
       "title": "Senior Financial Analyst, US Hardlines, US Hardlines",
       "url": "https://www.amazon.jobs/en/jobs/10449161/senior-financial-analyst-us-hardlines-us-hardlines",
@@ -3867,6 +3873,31 @@
   },
   "Waters Corporation": {},
   "CVS Health": {
+    "/job/Field-Illinois/Analyst--Case-Mgt-Field_R1039548": {
+      "title": "Analyst, Case Mgt Field",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Field-Illinois/Analyst--Case-Mgt-Field_R1039548",
+      "location": "2 Locations"
+    },
+    "/job/NY---Work-from-hom/Senior-Data-Engineer_R1030255": {
+      "title": "Senior Data Engineer",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Work-from-hom/Senior-Data-Engineer_R1030255",
+      "location": "8 Locations"
+    },
+    "/job/IL---Chicago/Principal-Data-Scientist_R1040213": {
+      "title": "Principal Data Scientist",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Chicago/Principal-Data-Scientist_R1040213",
+      "location": "2 Locations"
+    },
+    "/job/IL---Work-from-home/Sr-Analyst--Stars-Regional-Performance_R1010507-1": {
+      "title": "Sr Analyst, Stars Regional Performance(Consultant)",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Sr-Analyst--Stars-Regional-Performance_R1010507-1",
+      "location": "IL - Work from home"
+    },
+    "/job/IRL---Galway/Senior-Product-Analyst---Learning-Technologies---AI-Solutions_R0985550": {
+      "title": "Senior Product Analyst - Learning Technologies & AI Solutions",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IRL---Galway/Senior-Product-Analyst---Learning-Technologies---AI-Solutions_R0985550",
+      "location": "IRL - Galway"
+    },
     "/job/RI---Woonsocket/Lead-Director--Talent-Practices---Insights_R1032585": {
       "title": "Lead Director, Talent Practices & Insights",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Lead-Director--Talent-Practices---Insights_R1032585",
@@ -4116,11 +4147,6 @@
       "title": "Underwriting Analytics - Senior Analyst",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Illinois/Underwriting-Analytics---Senior-Analyst_R1017667",
       "location": "Work At Home-Illinois"
-    },
-    "/job/Field-West-Virginia/Analyst-Case-Manager-Mountain-Health-Promise---Field---Must-reside-in-West-Virginia_R1019051": {
-      "title": "Analyst Case Manager Mountain Health Promise - Field - Must reside in West Virginia",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Field-West-Virginia/Analyst-Case-Manager-Mountain-Health-Promise---Field---Must-reside-in-West-Virginia_R1019051",
-      "location": "Field-West Virginia"
     },
     "/job/Field-Illinois/Case-Management-Analyst---Field-Chicago-IL_R1021682": {
       "title": "Case Management Analyst - Field Chicago IL",
@@ -4446,6 +4472,11 @@
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Arlington-VA/International-Stakeholder-Engagement-Analyst_R2602630",
       "location": "Arlington, VA"
     },
+    "/job/Annapolis-MD/Lead-Test-Engineer_R2602937": {
+      "title": "Lead Quality Assurance Analyst",
+      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Annapolis-MD/Lead-Test-Engineer_R2602937",
+      "location": "Annapolis, MD"
+    },
     "/job/Alexandria-VA/Project-Analyst--SETA-2_R2602988": {
       "title": "Project Analyst, SETA 2",
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Alexandria-VA/Project-Analyst--SETA-2_R2602988",
@@ -4645,11 +4676,6 @@
     "/job/Baltimore-MD/Analyst--Investment-Liaison_83553": {
       "title": "Analyst, Investment Liaison",
       "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Analyst--Investment-Liaison_83553",
-      "location": "Baltimore, MD"
-    },
-    "/job/Baltimore-MD/Multi-Asset-Product-Analyst_81079": {
-      "title": "Multi Asset Product Analyst",
-      "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/job/Baltimore-MD/Multi-Asset-Product-Analyst_81079",
       "location": "Baltimore, MD"
     },
     "/job/Baltimore-MD/Investment-AI-Solutions-Analyst_81557": {
@@ -4902,11 +4928,6 @@
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/HR-Analytics-Insights-Manager_RQ4069038",
       "location": "Somerville-MA"
     },
-    "/job/Boston-MA/Data-Scientist-Pulmonary-Research_RQ4078174": {
-      "title": "Data Scientist Pulmonary Research",
-      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Data-Scientist-Pulmonary-Research_RQ4078174",
-      "location": "Boston-MA"
-    },
     "/job/Somerville-MA/HR-Business-Intelligence-Manager_RQ4068878": {
       "title": "Workday Business Intelligence Manager",
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/HR-Business-Intelligence-Manager_RQ4068878",
@@ -4938,6 +4959,12 @@
   "UBS": {},
   "CBRE": {},
   "Carnival Corporation": {
+    "13979": {
+      "title": "Analyst, Workforce Planning",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13979",
+      "location": "Miami, FL, United States",
+      "country_code": "US"
+    },
     "13918": {
       "title": "Sr. Business Analyst, Global Cyber Security",
       "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13918",
@@ -5081,6 +5108,16 @@
       "title": "Senior Private Credit Fund Analyst",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Senior-Private-Credit-Fund-Analyst_26022599",
       "location": "New York"
+    },
+    "/job/Jacksonville/Global-AML-Operations---Client-Quantitative-Analyst-I_26022816-2": {
+      "title": "Global AML Operations - Client Quantitative Analyst I",
+      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jacksonville/Global-AML-Operations---Client-Quantitative-Analyst-I_26022816-2",
+      "location": "4 Locations"
+    },
+    "/job/Charlotte/Sr-Quantitative-Finance-Analyst_26034103": {
+      "title": "Sr. Quantitative Finance Analyst",
+      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Sr-Quantitative-Finance-Analyst_26034103",
+      "location": "3 Locations"
     },
     "/job/Fort-Worth/Consumer-Product-Strategic-Analyst-III_26030572-2": {
       "title": "Consumer Product Strategic Analyst III",
@@ -5416,25 +5453,20 @@
       "title": "Business Analyst - Third Party Liability (TPL)",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-Third-Party-Liability-%28TPL%29-TX-99999/1420787800/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Business-Analyst-Claims-Configuration-DC-99999/1430718200/": {
-      "title": "Advisor Business Analyst - Claims Configuration",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Business-Analyst-Claims-Configuration-DC-99999/1430718200/"
+    "https://jobs.gainwelltechnologies.com/job/Bangalore-Senior-Financial-Analyst-KA-560100/1430510200/": {
+      "title": "Senior Financial Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Senior-Financial-Analyst-KA-560100/1430510200/"
     },
     "https://jobs.gainwelltechnologies.com/job/Roseville-Senior-Business-Analyst-CA-95747-6645/1430564900/": {
       "title": "Senior Business Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Roseville-Senior-Business-Analyst-CA-95747-6645/1430564900/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Bangalore-Senior-Financial-Analyst-KA-560100/1430510200/": {
-      "title": "Senior Financial Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Senior-Financial-Analyst-KA-560100/1430510200/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Business-Analyst-Claims-Configuration-DC-99999/1430718200/": {
+      "title": "Advisor Business Analyst - Claims Configuration",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Business-Analyst-Claims-Configuration-DC-99999/1430718200/"
     }
   },
   "Happen Bank": {
-    "/job/Lehi-UT/WFM-Analyst_R0007486": {
-      "title": "WFM Analyst",
-      "url": "https://lendingclub.wd1.myworkdayjobs.com/external/job/Lehi-UT/WFM-Analyst_R0007486",
-      "location": "Lehi, UT"
-    },
     "/job/San-Francisco-CA/Sr-Personal-Loans-Analyst_R0007435": {
       "title": "Sr Personal Loans Analyst",
       "url": "https://lendingclub.wd1.myworkdayjobs.com/external/job/San-Francisco-CA/Sr-Personal-Loans-Analyst_R0007435",
@@ -5497,10 +5529,6 @@
       "title": "Security Operations Center Analyst - Houston, TX (Physical Security)",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Houston-Tx-Security-Operations-Center-Analyst-Houston%2C-TX-%28Physical-Security%29-TX-77001/1428066433/"
     },
-    "https://jobs.cmacgm-group.com/CEVALogistics/job/Ashby-de-la-Zouch-Logistics-Planning-&-CI-Analyst/1435477033/": {
-      "title": "Logistics Planning & CI Analyst",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Ashby-de-la-Zouch-Logistics-Planning-&-CI-Analyst/1435477033/"
-    },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/London-Heathrow-Healthcare-Airfreight-Pricing-Analyst/1433067233/": {
       "title": "Healthcare Airfreight Pricing Analyst",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/London-Heathrow-Healthcare-Airfreight-Pricing-Analyst/1433067233/"
@@ -5509,21 +5537,25 @@
       "title": "Data Insight and Innovation Specialist EUROPE",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Courbevoie-Data-Insight-and-Innovation-Specialist-EUROPE/1433801333/"
     },
-    "https://jobs.cmacgm-group.com/job/Norfolk-Va-Business-Process-Analyst-VA-23501/1435880533/": {
-      "title": "Business Process Analyst",
-      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Business-Process-Analyst-VA-23501/1435880533/"
+    "https://jobs.cmacgm-group.com/CEVALogistics/job/Ashby-de-la-Zouch-Logistics-Planning-&-CI-Analyst/1435477033/": {
+      "title": "Logistics Planning & CI Analyst",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Ashby-de-la-Zouch-Logistics-Planning-&-CI-Analyst/1435477033/"
     },
     "https://jobs.cmacgm-group.com/job/Auckland-Marketing-&-Data-Analyst-%28NZ%29/1426822133/": {
       "title": "Marketing & Data Analyst (NZ)",
       "url": "https://jobs.cmacgm-group.com/job/Auckland-Marketing-&-Data-Analyst-%28NZ%29/1426822133/"
     },
-    "https://jobs.cmacgm-group.com/CEVALogistics/job/Tilburg-Data-Analyst/1433934633/": {
-      "title": "Data Analyst",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Tilburg-Data-Analyst/1433934633/"
+    "https://jobs.cmacgm-group.com/job/Norfolk-Va-Business-Process-Analyst-VA-23501/1435880533/": {
+      "title": "Business Process Analyst",
+      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Business-Process-Analyst-VA-23501/1435880533/"
     },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Bernville_PA-Pricing-Analyst-%28REMOTE%29-CA/1432029633/": {
       "title": "Pricing Analyst (REMOTE)",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Bernville_PA-Pricing-Analyst-%28REMOTE%29-CA/1432029633/"
+    },
+    "https://jobs.cmacgm-group.com/CEVALogistics/job/Tilburg-Data-Analyst/1433934633/": {
+      "title": "Data Analyst",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Tilburg-Data-Analyst/1433934633/"
     },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Houston-Tx-Pricing-Analyst-REMOTE-TX-77001/1419977633/": {
       "title": "Pricing Analyst - REMOTE",
@@ -5701,11 +5733,6 @@
       "title": "Asset & Liability Management Analyst-Officer",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Asset---Liability-Management-Analyst-Officer_R-797926-2",
       "location": "Boston, Massachusetts"
-    },
-    "/job/Jersey-City-New-Jersey/IAM-Business-Analyst--Assistant-Vice-President_R-770857": {
-      "title": "IAM Business Analyst, Assistant Vice President",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Jersey-City-New-Jersey/IAM-Business-Analyst--Assistant-Vice-President_R-770857",
-      "location": "2 Locations"
     },
     "/job/Burlington-Massachusetts/Business-Analyst-EDM-and-Data-Warhouse-2_R-783215": {
       "title": "Business Analyst \u2013 Data Integration and ETL\u00a0",
@@ -6069,6 +6096,10 @@
     }
   },
   "Capital One": {
+    "https://www.capitalonecareers.com/job/mclean/manager-data-scientist-credit-review/1732/94700974768": {
+      "title": "9470097476805/04/2026Manager, Data Scientist - Credit ReviewMcLean, VA",
+      "url": "https://www.capitalonecareers.com/job/mclean/manager-data-scientist-credit-review/1732/94700974768"
+    },
     "https://www.capitalonecareers.com/job/houston/senior-business-analyst-pulse-global-payment-network/1732/99120454016": {
       "title": "9912045401609/16/2026Senior Business Analyst- PULSE - Global Payment NetworkHouston, TX",
       "url": "https://www.capitalonecareers.com/job/houston/senior-business-analyst-pulse-global-payment-network/1732/99120454016"
@@ -6080,29 +6111,14 @@
     "https://www.capitalonecareers.com/job/mclean/senior-manager-data-scientist-bank-customer-protection-agentic-claims/1732/100673266848": {
       "title": "10067326684809/15/2026Senior Manager, Data Scientist - Bank Customer Protection Agentic ClaimsMcLean, VA",
       "url": "https://www.capitalonecareers.com/job/mclean/senior-manager-data-scientist-bank-customer-protection-agentic-claims/1732/100673266848"
-    },
-    "https://www.capitalonecareers.com/job/mclean/sr-business-director-strategy-and-analytics/1732/100721147088": {
-      "title": "10072114708809/16/2026Sr. Business Director, Strategy and AnalyticsMcLean, VA",
-      "url": "https://www.capitalonecareers.com/job/mclean/sr-business-director-strategy-and-analytics/1732/100721147088"
-    },
-    "https://www.capitalonecareers.com/job/mclean/senior-data-analyst-us-card/1732/96621293552": {
-      "title": "9662129355209/16/2026Senior Data Analyst - US CardMcLean, VA",
-      "url": "https://www.capitalonecareers.com/job/mclean/senior-data-analyst-us-card/1732/96621293552"
-    },
-    "https://www.capitalonecareers.com/job/mclean/senior-data-analyst-card/1732/100685334432": {
-      "title": "10068533443209/15/2026Senior Data Analyst - CardMcLean, VA",
-      "url": "https://www.capitalonecareers.com/job/mclean/senior-data-analyst-card/1732/100685334432"
-    },
-    "https://www.capitalonecareers.com/job/mclean/business-director-strategy-and-analytics/1732/99773354240": {
-      "title": "9977335424009/15/2026Business Director, Strategy and AnalyticsMcLean, VA",
-      "url": "https://www.capitalonecareers.com/job/mclean/business-director-strategy-and-analytics/1732/99773354240"
-    },
-    "https://www.capitalonecareers.com/job/mclean/senior-business-analyst-business-analysis-for-talent-acquisition/1732/100674364816": {
-      "title": "10067436481609/15/2026Senior Business Analyst - Business Analysis for Talent AcquisitionMcLean, VA",
-      "url": "https://www.capitalonecareers.com/job/mclean/senior-business-analyst-business-analysis-for-talent-acquisition/1732/100674364816"
     }
   },
   "BMO": {
+    "/job/Chicago-IL-USA/Financial-Analyst_R260021974-1": {
+      "title": "Financial Analyst",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Financial-Analyst_R260021974-1",
+      "location": "Chicago, IL, USA"
+    },
     "/job/REMOTETELETRAVAIL-ON-CAN/Digital-Support-Analyst--BMO-Investorline--Bilingual-in-French-and-in-English-_R260026601": {
       "title": "Digital Support Analyst, BMO Investorline (Bilingual in French and in English)",
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/REMOTETELETRAVAIL-ON-CAN/Digital-Support-Analyst--BMO-Investorline--Bilingual-in-French-and-in-English-_R260026601",
@@ -6263,9 +6279,17 @@
     }
   },
   "AbbVibe": {
-    "https://careers.abbvie.com/en/job/senior-analyst-field-planning-and-analytics-in-mettawa-il-jid-33276": {
-      "title": "Senior Analyst, Field Planning & Analytics",
-      "url": "https://careers.abbvie.com/en/job/senior-analyst-field-planning-and-analytics-in-mettawa-il-jid-33276"
+    "https://careers.abbvie.com/en/job/senior-manager-analytics-and-research-oncology-in-mettawa-il-jid-33290": {
+      "title": "Senior Manager, Analytics & Research - Oncology",
+      "url": "https://careers.abbvie.com/en/job/senior-manager-analytics-and-research-oncology-in-mettawa-il-jid-33290"
+    },
+    "https://careers.abbvie.com/en/job/associate-director-market-analytics-and-business-insights-in-mettawa-il-jid-33289": {
+      "title": "Associate Director, Market Analytics and Business Insights",
+      "url": "https://careers.abbvie.com/en/job/associate-director-market-analytics-and-business-insights-in-mettawa-il-jid-33289"
+    },
+    "https://careers.abbvie.com/en/job/manager-commercial-analytics-oncology-in-mettawa-il-jid-33288": {
+      "title": "Manager, Commercial Analytics - Oncology",
+      "url": "https://careers.abbvie.com/en/job/manager-commercial-analytics-oncology-in-mettawa-il-jid-33288"
     }
   },
   "HPE": {
@@ -6620,6 +6644,11 @@
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL/Grandbridge-Asset-Analyst_R0119249",
       "location": "2 Locations"
     },
+    "/job/Atlanta-GA/Middle-Market-Credit-Delivery-Analyst-or-Senior-Analyst_R0119353": {
+      "title": "Middle Market Credit Delivery Analyst or Senior Analyst",
+      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Middle-Market-Credit-Delivery-Analyst-or-Senior-Analyst_R0119353",
+      "location": "2 Locations"
+    },
     "/job/Charlotte-NC/Deposit-Lifecycle-Sr-Analyst_R0117712": {
       "title": "Deposit Lifecycle Sr. Analyst",
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Deposit-Lifecycle-Sr-Analyst_R0117712",
@@ -6664,11 +6693,6 @@
       "title": "Financial Crimes Analyst I",
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Lumberton-NC/Financial-Crimes-Analyst-I_R0119191",
       "location": "3 Locations"
-    },
-    "/job/Raleigh-NC/CSBB-Business-Execution-Analyst_R0117734-1": {
-      "title": "CSBB Business Execution Analyst",
-      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Raleigh-NC/CSBB-Business-Execution-Analyst_R0117734-1",
-      "location": "2 Locations"
     },
     "/job/Atlanta-GA/Advice-and-Financial-Planning-Wealth-Management-Analyst_R0111092": {
       "title": "Financial Planning Analyst- Wealth Management",
@@ -6785,6 +6809,11 @@
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Consumer---Small-Business-Banking--CSBB--Analyst-Program_R0119210",
       "location": "Charlotte, NC"
     },
+    "/job/Charlotte-NC/XMLNAME-2027-Truist-Analyst-Program---Technology--Data--and-Operations-Track_R0118056": {
+      "title": "2027 Truist Analyst Program - Technology, Data, and Operations Track",
+      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/XMLNAME-2027-Truist-Analyst-Program---Technology--Data--and-Operations-Track_R0118056",
+      "location": "2 Locations"
+    },
     "/job/Greenville-SC/SFC-Business-Senior-Analyst_R0118209": {
       "title": "SFC Business Senior Analyst and Consumer Loans Investor Reporting",
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Greenville-SC/SFC-Business-Senior-Analyst_R0118209",
@@ -6869,6 +6898,11 @@
       "title": "Financial Crimes Model Analytics Officer II",
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Financial-Crimes-Model-Analytics-Officer-II_R0118897",
       "location": "5 Locations"
+    },
+    "/job/Charlotte-NC/Analytics-Consultant_R0119345": {
+      "title": "Analytics Consultant",
+      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Analytics-Consultant_R0119345",
+      "location": "3 Locations"
     },
     "/job/Charlotte-NC/Senior-Data-Platform-Engineer--Data-and-Analytics-Cloud-Engineer-_R0113506": {
       "title": "Senior AI Platform Engineer (Data and Analytics Cloud Engineer)",
@@ -8118,6 +8152,11 @@
     "/job/Santa-ClaraCA/Data-Scientist---Agentic-AI---ML_R2621700": {
       "title": "Data Scientist - Agentic AI / ML",
       "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Data-Scientist---Agentic-AI---ML_R2621700",
+      "location": "Santa Clara,CA"
+    },
+    "/job/Santa-ClaraCA/Data-Scientist---Agentic-AI---ML_R2628868": {
+      "title": "Data Scientist - Agentic AI / ML",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Data-Scientist---Agentic-AI---ML_R2628868",
       "location": "Santa Clara,CA"
     },
     "/job/AustinTX/SPG-SmartStart---Install-Automation-Engineer_R2622218": {
