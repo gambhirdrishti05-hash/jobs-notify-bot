@@ -1242,6 +1242,12 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
+    "210791374": {
+      "title": "AI/ML Data and Analytics - Product Manager, Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791374",
+      "location": "Brooklyn, NY, United States",
+      "country_code": "US"
+    },
     "210790742": {
       "title": "Liquidity Forecasting & Management Reporting, Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790742",
@@ -4426,15 +4432,15 @@
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Nationwide-Remote-Office-US99/Senior-Research-Analyst---REMOTE_R2602977",
       "location": "Nationwide Remote Office (US99)"
     },
-    "/job/Alexandria-VA/Project-Analyst---SETA-Level-2---Hybrid-Role-_R2602869": {
-      "title": "Project Analyst - SETA Level 2, (Hybrid Role)",
-      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Alexandria-VA/Project-Analyst---SETA-Level-2---Hybrid-Role-_R2602869",
-      "location": "Alexandria, VA"
-    },
     "/job/Reston-VA/ICF-Resources--LLC--Energy-Analyst---Reston--VA_R2602126": {
       "title": "ICF Resources, LLC: Energy Analyst \u2013 Reston, VA",
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/ICF-Resources--LLC--Energy-Analyst---Reston--VA_R2602126",
       "location": "Reston, VA"
+    },
+    "/job/Alexandria-VA/Project-Analyst---SETA-Level-2---Hybrid-Role-_R2602869": {
+      "title": "Project Analyst - SETA Level 2, (Hybrid Role)",
+      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Alexandria-VA/Project-Analyst---SETA-Level-2---Hybrid-Role-_R2602869",
+      "location": "Alexandria, VA"
     },
     "/job/Washington-DC/Marketing-and-Communications-Data-Analyst--Top-Secret-cleared-_R2601401": {
       "title": "Marketing and Communications Data Analyst (Top Secret cleared)",
@@ -5455,21 +5461,21 @@
       "title": "Data Insight and Innovation Specialist EUROPE",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Courbevoie-Data-Insight-and-Innovation-Specialist-EUROPE/1433801333/"
     },
-    "https://jobs.cmacgm-group.com/job/Auckland-Marketing-&-Data-Analyst-%28NZ%29/1426822133/": {
-      "title": "Marketing & Data Analyst (NZ)",
-      "url": "https://jobs.cmacgm-group.com/job/Auckland-Marketing-&-Data-Analyst-%28NZ%29/1426822133/"
-    },
     "https://jobs.cmacgm-group.com/job/Norfolk-Va-Business-Process-Analyst-VA-23501/1435880533/": {
       "title": "Business Process Analyst",
       "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Business-Process-Analyst-VA-23501/1435880533/"
     },
-    "https://jobs.cmacgm-group.com/CEVALogistics/job/Bernville_PA-Pricing-Analyst-%28REMOTE%29-CA/1432029633/": {
-      "title": "Pricing Analyst (REMOTE)",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Bernville_PA-Pricing-Analyst-%28REMOTE%29-CA/1432029633/"
+    "https://jobs.cmacgm-group.com/job/Auckland-Marketing-&-Data-Analyst-%28NZ%29/1426822133/": {
+      "title": "Marketing & Data Analyst (NZ)",
+      "url": "https://jobs.cmacgm-group.com/job/Auckland-Marketing-&-Data-Analyst-%28NZ%29/1426822133/"
     },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Tilburg-Data-Analyst/1433934633/": {
       "title": "Data Analyst",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Tilburg-Data-Analyst/1433934633/"
+    },
+    "https://jobs.cmacgm-group.com/CEVALogistics/job/Bernville_PA-Pricing-Analyst-%28REMOTE%29-CA/1432029633/": {
+      "title": "Pricing Analyst (REMOTE)",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Bernville_PA-Pricing-Analyst-%28REMOTE%29-CA/1432029633/"
     },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Houston-Tx-Pricing-Analyst-REMOTE-TX-77001/1419977633/": {
       "title": "Pricing Analyst - REMOTE",
@@ -6121,13 +6127,25 @@
     }
   },
   "Deloitte": {
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Project-Analyst-Watchlist-Intelligence-Investigations/366974": {
+      "title": "Project Analyst, Watchlist Intelligence & Investigations",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Project-Analyst-Watchlist-Intelligence-Investigations/366974"
+    },
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Insights-Analytics-Agent-Software-Engineer-III/366971": {
+      "title": "Insights & Analytics Agent Software Engineer III",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Insights-Analytics-Agent-Software-Engineer-III/366971"
+    },
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Lead-AI-Governance-Analytics-and-Insights-Engineer-II/366970": {
+      "title": "Lead AI Governance Analytics and Insights Engineer II",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Lead-AI-Governance-Analytics-and-Insights-Engineer-II/366970"
+    },
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Lead-Agent-Analytics-Software-Engineer-II/366969": {
+      "title": "Lead Agent & Analytics Software Engineer II",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Lead-Agent-Analytics-Software-Engineer-II/366969"
+    },
     "https://apply.deloitte.com/en_US/careers/JobDetail/RCM-Performance-Analyst/366946": {
       "title": "RCM Performance Analyst",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/RCM-Performance-Analyst/366946"
-    },
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Finance-Analytics-AI-Manager/366902": {
-      "title": "Finance Analytics & AI Manager",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Finance-Analytics-AI-Manager/366902"
     }
   },
   "OpenX": {
@@ -6154,10 +6172,6 @@
     "https://careers.abbvie.com/en/job/manager-statistical-programming-in-florham-park-nj-jid-33219": {
       "title": "Manager, Statistical Programming",
       "url": "https://careers.abbvie.com/en/job/manager-statistical-programming-in-florham-park-nj-jid-33219"
-    },
-    "https://careers.abbvie.com/en/job/manager-statistical-programming-in-north-chicago-il-jid-33218": {
-      "title": "Manager, Statistical Programming",
-      "url": "https://careers.abbvie.com/en/job/manager-statistical-programming-in-north-chicago-il-jid-33218"
     }
   },
   "HPE": {
@@ -6417,11 +6431,6 @@
     "/job/HQ---San-Diego-CA/Analyst--Commercial-Credit-and-Risk_JR5379": {
       "title": "Analyst, Commercial Credit and Risk",
       "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Analyst--Commercial-Credit-and-Risk_JR5379",
-      "location": "HQ - San Diego, CA"
-    },
-    "/job/HQ---San-Diego-CA/Vice-President--HR-Information-Systems_JR4389": {
-      "title": "Senior Human Resources Information System Analyst",
-      "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Vice-President--HR-Information-Systems_JR4389",
       "location": "HQ - San Diego, CA"
     },
     "/job/HQ---San-Diego-CA/AVP--Data-Analytics---Regulatory-Reporting_JR5131": {
@@ -7901,6 +7910,11 @@
       "title": "Supply Chain Planning Analyst",
       "url": "https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Supply-Chain-Planning-Analyst_R2624960",
       "location": "Austin,TX"
+    },
+    "/job/Santa-ClaraCA/Financial-Analyst--FP-A_R2625599": {
+      "title": "Financial Analyst, FP&A",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Financial-Analyst--FP-A_R2625599",
+      "location": "Santa Clara,CA"
     },
     "/job/BillericaMA/Sr-Finance-Analyst-Operations_R2626138": {
       "title": "Sr. Finance Analyst Operations",
