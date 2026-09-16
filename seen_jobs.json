@@ -42,10 +42,22 @@
       "location": "Plano, TX, United States",
       "country_code": "US"
     },
+    "210784702": {
+      "title": "Lead Solutions Analyst - Cloud Business Operations",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784702",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
     "210764083": {
       "title": "Analyst - Risk Oversight \u2013 Strategic Investments and Apple Card Portfolio",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764083",
       "location": "Wilmington, DE, United States",
+      "country_code": "US"
+    },
+    "210779539": {
+      "title": "Quant Analytics Vice President \u2013 Credit Card Analytics",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779539",
+      "location": "New York, NY, United States",
       "country_code": "US"
     },
     "210790082": {
@@ -1254,6 +1266,12 @@
       "location": "Columbus, OH, United States",
       "country_code": "US"
     },
+    "210790994": {
+      "title": "Software Engineer II: Data Engineer",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790994",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
     "210782912": {
       "title": "Lead Software Engineer - Analytics & Feedback Platforms",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210782912",
@@ -2202,6 +2220,18 @@
     }
   },
   "Amazon": {
+    "10543987": {
+      "title": "Finance Analyst, FinOps AR",
+      "url": "https://www.amazon.jobs/en/jobs/10543987/finance-analyst-finops-ar",
+      "location": "Arlington, Virginia, USA",
+      "country_code": "USA"
+    },
+    "10544011": {
+      "title": "Financial Analyst, Amazon Leo Finance",
+      "url": "https://www.amazon.jobs/en/jobs/10544011/financial-analyst-amazon-leo-finance",
+      "location": "Redmond, Washington, USA",
+      "country_code": "USA"
+    },
     "10539106": {
       "title": "Data Engineer I, Business Data Technologies",
       "url": "https://www.amazon.jobs/en/jobs/10539106/data-engineer-i-business-data-technologies",
@@ -2902,12 +2932,6 @@
       "title": "Financial Analyst III - AMZ9970961",
       "url": "https://www.amazon.jobs/en/jobs/10493174/financial-analyst-iii-amz9970961",
       "location": "New York, New York, USA",
-      "country_code": "USA"
-    },
-    "10494727": {
-      "title": "Sr. Sales Compensation Analyst, Advertising Sales Incentive Compensation ",
-      "url": "https://www.amazon.jobs/en/jobs/10494727/sr-sales-compensation-analyst-advertising-sales-incentive-compensation",
-      "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
     "10516305": {
@@ -3783,6 +3807,16 @@
   },
   "Waters Corporation": {},
   "CVS Health": {
+    "/job/NY---Work-from-hom/Case-Management-Analyst---Work-at-Home-NY_R1032231": {
+      "title": "Case Management Analyst - Work at Home NY",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Work-from-hom/Case-Management-Analyst---Work-at-Home-NY_R1032231",
+      "location": "NY - Work from hom"
+    },
+    "/job/VA---Work-from-home/Medical-Claim-Analyst_R1031789-1": {
+      "title": "Medical Claim Analyst",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/VA---Work-from-home/Medical-Claim-Analyst_R1031789-1",
+      "location": "VA - Work from home"
+    },
     "/job/Work-At-Home-Rhode-Island/Sr-Analyst--Colleague-Relations_R1038465-1": {
       "title": "Sr Analyst, Colleague Relations",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Rhode-Island/Sr-Analyst--Colleague-Relations_R1038465-1",
@@ -3823,6 +3857,11 @@
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Field-Florida/Bilingual-Case-Management-Analyst---Field-in-Miami-Dade-County--FL_R1016193",
       "location": "Field-Florida"
     },
+    "/job/Field-Florida/Bilingual-Case-Management-Analyst---Field-Florida_R1018536": {
+      "title": "Case Management Analyst - Field Florida",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Field-Florida/Bilingual-Case-Management-Analyst---Field-Florida_R1018536",
+      "location": "Field-Florida"
+    },
     "/job/PA---Work-from-home/Senior-Analyst--Project-Management_R1000638-1": {
       "title": "Senior Analyst, Project Management",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Work-from-home/Senior-Analyst--Project-Management_R1000638-1",
@@ -3852,11 +3891,6 @@
       "title": "Senior Analyst, Underwriter",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Connecticut/Senior-Analyst--Underwriter_R1004560",
       "location": "Work At Home-Connecticut"
-    },
-    "/job/Field-Florida/Bilingual-Case-Management-Analyst---Field-Florida_R1018536": {
-      "title": "Bilingual Case Management Analyst - Field Florida",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Field-Florida/Bilingual-Case-Management-Analyst---Field-Florida_R1018536",
-      "location": "Field-Florida"
     },
     "/job/TX---Work-from-home/Lead-Director---Decision-Scientist-and-Analytical-Validation-for-Financial-Products_R1028985": {
       "title": "Lead Director - Decision Scientist and Analytical Validation for Financial Products",
@@ -4157,11 +4191,6 @@
       "title": "Case Management Analyst - Field in Will and DuPage Counties, IL",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Field-Illinois/Case-Management-Analyst---Field-in-Will-and-DuPage-Counties--IL_R0982611",
       "location": "Field-Illinois"
-    },
-    "/job/IL---Northbrook/Rebates-Invoicing-Analyst_R0990999": {
-      "title": "Rebates Invoicing Analyst",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Northbrook/Rebates-Invoicing-Analyst_R0990999",
-      "location": "5 Locations"
     }
   },
   "Analog Devices": {
@@ -5004,6 +5033,11 @@
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Senior-Private-Credit-Fund-Analyst_26022599",
       "location": "New York"
     },
+    "/job/Charlotte/Senior-Data-Analyst----Sanctions-Filter-Support_26033955": {
+      "title": "Senior Data Analyst -  Sanctions Filter Support",
+      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Senior-Data-Analyst----Sanctions-Filter-Support_26033955",
+      "location": "3 Locations"
+    },
     "/job/Charlotte/Cons-Prod-Strat-Analyst-III---Global-Payment-Operations-Fraud-Analytics_26021301": {
       "title": "Cons Prod Strat Analyst III - Global Payment Operations Fraud Analytics",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Cons-Prod-Strat-Analyst-III---Global-Payment-Operations-Fraud-Analytics_26021301",
@@ -5337,13 +5371,13 @@
       "title": "Experienced Business Analyst - Requirement Validation (RV) Lead",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Business-Analyst-Requirement-Validation-%28RV%29-Lead-IN-99999/1430087400/"
     },
-    "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Bilingual-Call-Center-Quality-Assurance-Analyst-Remote-CA-CA-95605-1630/1429997500/": {
-      "title": "Bilingual Call Center Quality Assurance Analyst - Remote CA",
-      "url": "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Bilingual-Call-Center-Quality-Assurance-Analyst-Remote-CA-CA-95605-1630/1429997500/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Drug-Rebate-Analyst-Remote-West-Virginia-WV-99999/1430196200/": {
       "title": "Drug Rebate Analyst - Remote West Virginia",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Drug-Rebate-Analyst-Remote-West-Virginia-WV-99999/1430196200/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Bilingual-Call-Center-Quality-Assurance-Analyst-Remote-CA-CA-95605-1630/1429997500/": {
+      "title": "Bilingual Call Center Quality Assurance Analyst - Remote CA",
+      "url": "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Bilingual-Call-Center-Quality-Assurance-Analyst-Remote-CA-CA-95605-1630/1429997500/"
     }
   },
   "Happen Bank": {
@@ -5409,10 +5443,6 @@
       "title": "Security Operations Center Analyst - Houston, TX (Physical Security)",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Houston-Tx-Security-Operations-Center-Analyst-Houston%2C-TX-%28Physical-Security%29-TX-77001/1428066433/"
     },
-    "https://jobs.cmacgm-group.com/CEVALogistics/job/Courbevoie-Data-Insight-and-Innovation-Specialist-EUROPE/1433801333/": {
-      "title": "Data Insight and Innovation Specialist EUROPE",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Courbevoie-Data-Insight-and-Innovation-Specialist-EUROPE/1433801333/"
-    },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Ashby-de-la-Zouch-Logistics-Planning-&-CI-Analyst/1435477033/": {
       "title": "Logistics Planning & CI Analyst",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Ashby-de-la-Zouch-Logistics-Planning-&-CI-Analyst/1435477033/"
@@ -5421,13 +5451,17 @@
       "title": "Healthcare Airfreight Pricing Analyst",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/London-Heathrow-Healthcare-Airfreight-Pricing-Analyst/1433067233/"
     },
-    "https://jobs.cmacgm-group.com/job/Norfolk-Va-Business-Process-Analyst-VA-23501/1435880533/": {
-      "title": "Business Process Analyst",
-      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Business-Process-Analyst-VA-23501/1435880533/"
+    "https://jobs.cmacgm-group.com/CEVALogistics/job/Courbevoie-Data-Insight-and-Innovation-Specialist-EUROPE/1433801333/": {
+      "title": "Data Insight and Innovation Specialist EUROPE",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Courbevoie-Data-Insight-and-Innovation-Specialist-EUROPE/1433801333/"
     },
     "https://jobs.cmacgm-group.com/job/Auckland-Marketing-&-Data-Analyst-%28NZ%29/1426822133/": {
       "title": "Marketing & Data Analyst (NZ)",
       "url": "https://jobs.cmacgm-group.com/job/Auckland-Marketing-&-Data-Analyst-%28NZ%29/1426822133/"
+    },
+    "https://jobs.cmacgm-group.com/job/Norfolk-Va-Business-Process-Analyst-VA-23501/1435880533/": {
+      "title": "Business Process Analyst",
+      "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Business-Process-Analyst-VA-23501/1435880533/"
     },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Bernville_PA-Pricing-Analyst-%28REMOTE%29-CA/1432029633/": {
       "title": "Pricing Analyst (REMOTE)",
@@ -5603,11 +5637,6 @@
       "title": "GlobalLink - Product/Business Analyst - AVP",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/GlobalLink---Product-Business-Analyst---AVP_R-795827-1",
       "location": "Boston, Massachusetts"
-    },
-    "/job/Boston-Massachusetts/Counterparty-Analyst--Assistant-Vice-President_R-795585-1": {
-      "title": "Counterparty Analyst, Assistant Vice President",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Counterparty-Analyst--Assistant-Vice-President_R-795585-1",
-      "location": "2 Locations"
     },
     "/job/Jersey-City-New-Jersey/IAM-Business-Analyst--Assistant-Vice-President_R-770857": {
       "title": "IAM Business Analyst, Assistant Vice President",
@@ -5924,29 +5953,29 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Senior-SIEM-Data-Engineer_R-794334-1",
       "location": "Quincy, Massachusetts"
     },
-    "/job/Quincy-Massachusetts/Sr-Databricks-Data-Engineer--Vice-President--Hybrid_R-789490-1": {
-      "title": "Sr. Databricks Data Engineer, Vice President",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Sr-Databricks-Data-Engineer--Vice-President--Hybrid_R-789490-1",
-      "location": "2 Locations"
-    },
     "/job/Boston-Massachusetts/Global-Head-of-Insight-Generation-and-AI-Adoption--MD---State-Street-Investment-Management_R-792525": {
       "title": "Global Head of Insight Generation and AI Adoption, MD - State Street Investment Management",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Global-Head-of-Insight-Generation-and-AI-Adoption--MD---State-Street-Investment-Management_R-792525",
       "location": "Boston, Massachusetts"
+    },
+    "/job/Quincy-Massachusetts/Sr-Databricks-Data-Engineer--Vice-President--Hybrid_R-789490-1": {
+      "title": "Sr. Databricks Data Engineer, Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Sr-Databricks-Data-Engineer--Vice-President--Hybrid_R-789490-1",
+      "location": "2 Locations"
     }
   },
   "Capital One": {
-    "https://www.capitalonecareers.com/job/mclean/senior-business-analyst-business-analysis-for-talent-acquisition/1732/100674364816": {
-      "title": "10067436481609/15/2026Senior Business Analyst - Business Analysis for Talent AcquisitionMcLean, VA",
-      "url": "https://www.capitalonecareers.com/job/mclean/senior-business-analyst-business-analysis-for-talent-acquisition/1732/100674364816"
+    "https://www.capitalonecareers.com/job/richmond/principal-associate-capital-resilience-analytics-cra-operations-management/1732/100685334464": {
+      "title": "10068533446409/15/2026Principal Associate, Capital Resilience Analytics - CRA Operations ManagementRichmond, VA",
+      "url": "https://www.capitalonecareers.com/job/richmond/principal-associate-capital-resilience-analytics-cra-operations-management/1732/100685334464"
     },
-    "https://www.capitalonecareers.com/job/mclean/manager-product-manager-audit-insights-and-innovation-ai-and-data-engineering/1732/100673267200": {
-      "title": "10067326720009/15/2026Manager, Product Manager, Audit Insights & Innovation, AI and Data EngineeringMcLean, VA",
-      "url": "https://www.capitalonecareers.com/job/mclean/manager-product-manager-audit-insights-and-innovation-ai-and-data-engineering/1732/100673267200"
+    "https://www.capitalonecareers.com/job/mclean/senior-data-analyst-card/1732/100685334432": {
+      "title": "10068533443209/15/2026Senior Data Analyst - CardMcLean, VA",
+      "url": "https://www.capitalonecareers.com/job/mclean/senior-data-analyst-card/1732/100685334432"
     },
-    "https://www.capitalonecareers.com/job/mclean/sr-business-analyst-us-card/1732/98707315360": {
-      "title": "9870731536009/15/2026Sr. Business Analyst - US CardMcLean, VA",
-      "url": "https://www.capitalonecareers.com/job/mclean/sr-business-analyst-us-card/1732/98707315360"
+    "https://www.capitalonecareers.com/job/mclean/business-director-strategy-and-analytics/1732/99773354240": {
+      "title": "9977335424009/15/2026Business Director, Strategy and AnalyticsMcLean, VA",
+      "url": "https://www.capitalonecareers.com/job/mclean/business-director-strategy-and-analytics/1732/99773354240"
     }
   },
   "BMO": {
@@ -6092,13 +6121,13 @@
     }
   },
   "Deloitte": {
+    "https://apply.deloitte.com/en_US/careers/JobDetail/RCM-Performance-Analyst/366946": {
+      "title": "RCM Performance Analyst",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/RCM-Performance-Analyst/366946"
+    },
     "https://apply.deloitte.com/en_US/careers/JobDetail/Finance-Analytics-AI-Manager/366902": {
       "title": "Finance Analytics & AI Manager",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Finance-Analytics-AI-Manager/366902"
-    },
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Finance-Analytics-AI-Senior-Consultant/366900": {
-      "title": "Finance Analytics & AI Senior Consultant",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Finance-Analytics-AI-Senior-Consultant/366900"
     }
   },
   "OpenX": {
@@ -6114,17 +6143,21 @@
     }
   },
   "AbbVibe": {
-    "https://careers.abbvie.com/en/job/senior-manager-statistical-innovation-in-irvine-ca-jid-33212": {
-      "title": "Senior Manager, Statistical Innovation",
-      "url": "https://careers.abbvie.com/en/job/senior-manager-statistical-innovation-in-irvine-ca-jid-33212"
+    "https://careers.abbvie.com/en/job/manager-statistical-programming-in-south-san-francisco-ca-jid-33221": {
+      "title": "Manager, Statistical Programming",
+      "url": "https://careers.abbvie.com/en/job/manager-statistical-programming-in-south-san-francisco-ca-jid-33221"
     },
-    "https://careers.abbvie.com/en/job/senior-manager-statistical-innovation-in-north-chicago-il-jid-33211": {
-      "title": "Senior Manager, Statistical Innovation",
-      "url": "https://careers.abbvie.com/en/job/senior-manager-statistical-innovation-in-north-chicago-il-jid-33211"
+    "https://careers.abbvie.com/en/job/manager-statistical-programming-in-irvine-ca-jid-33220": {
+      "title": "Manager, Statistical Programming",
+      "url": "https://careers.abbvie.com/en/job/manager-statistical-programming-in-irvine-ca-jid-33220"
     },
-    "https://careers.abbvie.com/en/job/data-engineer-ai-enablement-in-north-chicago-il-jid-33207": {
-      "title": "Data Engineer, AI Enablement",
-      "url": "https://careers.abbvie.com/en/job/data-engineer-ai-enablement-in-north-chicago-il-jid-33207"
+    "https://careers.abbvie.com/en/job/manager-statistical-programming-in-florham-park-nj-jid-33219": {
+      "title": "Manager, Statistical Programming",
+      "url": "https://careers.abbvie.com/en/job/manager-statistical-programming-in-florham-park-nj-jid-33219"
+    },
+    "https://careers.abbvie.com/en/job/manager-statistical-programming-in-north-chicago-il-jid-33218": {
+      "title": "Manager, Statistical Programming",
+      "url": "https://careers.abbvie.com/en/job/manager-statistical-programming-in-north-chicago-il-jid-33218"
     }
   },
   "HPE": {
@@ -6544,6 +6577,11 @@
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Lumberton-NC/Financial-Crimes-Analyst-I_R0119191",
       "location": "3 Locations"
     },
+    "/job/Raleigh-NC/CSBB-Business-Execution-Analyst_R0117734-1": {
+      "title": "CSBB Business Execution Analyst",
+      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Raleigh-NC/CSBB-Business-Execution-Analyst_R0117734-1",
+      "location": "2 Locations"
+    },
     "/job/Atlanta-GA/Advice-and-Financial-Planning-Wealth-Management-Analyst_R0111092": {
       "title": "Financial Planning Analyst- Wealth Management",
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Advice-and-Financial-Planning-Wealth-Management-Analyst_R0111092",
@@ -6578,6 +6616,11 @@
       "title": "Asset Liability Management Senior Analyst",
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Asset-Liability-Management-Senior-Analyst_R0118803",
       "location": "Charlotte, NC"
+    },
+    "/job/New-York-NY/Equity-Capital-Markets-Analyst-I_R0119189": {
+      "title": "Equity Capital Markets Analyst I",
+      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/New-York-NY/Equity-Capital-Markets-Analyst-I_R0119189",
+      "location": "New York, NY"
     },
     "/job/Charlotte-NC/FP-A-Senior-Financial-Analyst_R0119296": {
       "title": "FP&A Senior Financial Analyst",
@@ -6792,6 +6835,11 @@
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Senior-Finance-Analyst--US-_R_1509117",
       "location": "Mount Laurel, New Jersey"
     },
+    "/job/Mount-Laurel-New-Jersey/Senior-Finance-Analyst--US-_R_1506822": {
+      "title": "Senior Finance Analyst (US)",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Senior-Finance-Analyst--US-_R_1506822",
+      "location": "Mount Laurel, New Jersey"
+    },
     "/job/Lake-Mary-Florida/Senior-Operations-Analyst---Options-Clearing_R_1490196": {
       "title": "Senior Operations Analyst - Options Clearing",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Lake-Mary-Florida/Senior-Operations-Analyst---Options-Clearing_R_1490196",
@@ -6910,6 +6958,11 @@
     "/job/New-York-New-York/Data-Scientist-III--US----Financial-Crimes-Modeling_R_1492772": {
       "title": "Data Scientist III (US) - Financial Crimes Modeling",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Data-Scientist-III--US----Financial-Crimes-Modeling_R_1492772",
+      "location": "2 Locations"
+    },
+    "/job/Mount-Laurel-New-Jersey/Data-Scientist-III--US-_R_1508667": {
+      "title": "Data Scientist III (US)",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Data-Scientist-III--US-_R_1508667",
       "location": "2 Locations"
     },
     "/job/New-York-New-York/VP-Broker-Dealer-Regulatory-Reporting_R_1486167": {
@@ -7539,6 +7592,11 @@
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/Sr-Relationship-Analyst_Req1612531",
       "location": "Miami"
     },
+    "/job/Madison-Ave-Corp/USA-SCIB-Markets-Analyst_Req1612903": {
+      "title": "USA SCIB Markets Analyst",
+      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/USA-SCIB-Markets-Analyst_Req1612903",
+      "location": "Madison Ave Corp"
+    },
     "/job/Miami/Transformation-and-Data---Senior-Analyst_Req1612528": {
       "title": "Transformation and Data - Senior Analyst",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/Transformation-and-Data---Senior-Analyst_Req1612528",
@@ -7711,6 +7769,11 @@
       "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-York-NY/Analyst_10077750-WD-1",
       "location": "New York, NY"
     },
+    "/job/New-York-NY/Analyst--Trading-Assistant-G10---EM-Rates-Trading_10078331-WD-1": {
+      "title": "Analyst, Trading Assistant-G10 & EM Rates Trading",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-York-NY/Analyst--Trading-Assistant-G10---EM-Rates-Trading_10078331-WD-1",
+      "location": "New York, NY"
+    },
     "/job/Tempe-AZ/XMLNAME-2027-Operations-Summer-Analyst-Program---Tempe--AZ_10079130-WD-1": {
       "title": "2027 Operations Summer Analyst Program - Tempe, AZ",
       "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Tempe-AZ/XMLNAME-2027-Operations-Summer-Analyst-Program---Tempe--AZ_10079130-WD-1",
@@ -7792,5 +7855,202 @@
       "location": "2 Locations"
     }
   },
-  "Motional": {}
+  "Motional": {},
+  "Applied Materials": {
+    "/job/Santa-ClaraCA/Market-Analyst-III_R2616820": {
+      "title": "Market Analyst III",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Market-Analyst-III_R2616820",
+      "location": "Santa Clara,CA"
+    },
+    "/job/Santa-ClaraCA/Market-Analyst-IV_R2625682-1": {
+      "title": "Market Analyst IV",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Market-Analyst-IV_R2625682-1",
+      "location": "Santa Clara,CA"
+    },
+    "/job/AustinTX/Senior-Financial-Analyst_R2619745": {
+      "title": "Senior Financial Analyst",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Senior-Financial-Analyst_R2619745",
+      "location": "Austin,TX"
+    },
+    "/job/Santa-ClaraCA/Business-Intelligence-Analyst_R2621779": {
+      "title": "Business Intelligence Analyst",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Business-Intelligence-Analyst_R2621779",
+      "location": "Santa Clara,CA"
+    },
+    "/job/RehovotISR/Operations-Finance-Analyst_R2621264": {
+      "title": "Operations Finance Analyst",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/RehovotISR/Operations-Finance-Analyst_R2621264",
+      "location": "Rehovot,ISR"
+    },
+    "/job/Santa-ClaraCA/Workday-HCM-Analyst_R2623823": {
+      "title": "Workday HCM Analyst",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Workday-HCM-Analyst_R2623823",
+      "location": "Santa Clara,CA"
+    },
+    "/job/AustinTX/Compensation-Solutions-Analyst-V_R2610521": {
+      "title": "Compensation Solutions Analyst V",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Compensation-Solutions-Analyst-V_R2610521",
+      "location": "2 Locations"
+    },
+    "/job/AustinTX/Payroll-Processing-Analyst----B2-_R2624920": {
+      "title": "Payroll Processing Analyst - (B2)",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Payroll-Processing-Analyst----B2-_R2624920",
+      "location": "Austin,TX"
+    },
+    "/job/AustinTX/Supply-Chain-Planning-Analyst_R2624960": {
+      "title": "Supply Chain Planning Analyst",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Supply-Chain-Planning-Analyst_R2624960",
+      "location": "Austin,TX"
+    },
+    "/job/BillericaMA/Sr-Finance-Analyst-Operations_R2626138": {
+      "title": "Sr. Finance Analyst Operations",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/BillericaMA/Sr-Finance-Analyst-Operations_R2626138",
+      "location": "Billerica,MA"
+    },
+    "/job/Santa-ClaraCA/Business-Intelligence-Analyst-IV_R2627195": {
+      "title": "Business Intelligence Analyst IV",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Business-Intelligence-Analyst-IV_R2627195",
+      "location": "Santa Clara,CA"
+    },
+    "/job/Santa-ClaraCA/GFG-Finance-Analyst--B4-_R2628508": {
+      "title": "GFG Finance Analyst (B4)",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/GFG-Finance-Analyst--B4-_R2628508",
+      "location": "Santa Clara,CA"
+    },
+    "/job/GloucesterMA/M4-Manager-IV--Business-Intelligence-Analyst_R2616381-1": {
+      "title": "M4 Manager IV, Business Intelligence Analyst",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/GloucesterMA/M4-Manager-IV--Business-Intelligence-Analyst_R2616381-1",
+      "location": "Gloucester,MA"
+    },
+    "/job/AustinTX/Business-Intelligence-Analyst---Global-Logistics-Supplier-Management--B2-_R2622477": {
+      "title": "Business Intelligence Analyst - Global Logistics Supplier Management (B2)",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Business-Intelligence-Analyst---Global-Logistics-Supplier-Management--B2-_R2622477",
+      "location": "Austin,TX"
+    },
+    "/job/AustinTX/Global-Supply-Chain-Rotational-Program--Business-Intelligence-Analyst-I--New-College-Grad--Bachelor-s--Austin-TX-_R2627400": {
+      "title": "Global Supply Chain Rotational Program, Business Intelligence Analyst I, New College Grad- Bachelor's (Austin TX)",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Global-Supply-Chain-Rotational-Program--Business-Intelligence-Analyst-I--New-College-Grad--Bachelor-s--Austin-TX-_R2627400",
+      "location": "Austin,TX"
+    },
+    "/job/Santa-ClaraCA/Business-Intelligence-Analyst-I--New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626650": {
+      "title": "Business Intelligence Analyst I, New College Grad- Bachelor's (Santa Clara, CA)",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Business-Intelligence-Analyst-I--New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626650",
+      "location": "Santa Clara,CA"
+    },
+    "/job/Santa-ClaraCA/AI-Business-Analyst---HR-Technology_R2623413": {
+      "title": "AI Business Analyst - HR Technology",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/AI-Business-Analyst---HR-Technology_R2623413",
+      "location": "2 Locations"
+    },
+    "/job/Santa-ClaraCA/Business-Analyst--HR-Technology_R2623411-1": {
+      "title": "AI Business Analyst, HR Technology",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Business-Analyst--HR-Technology_R2623411-1",
+      "location": "2 Locations"
+    },
+    "/job/Santa-ClaraCA/Data-Governance-and-Protection-Analyst_R2625922": {
+      "title": "Data Governance and Protection Analyst",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Data-Governance-and-Protection-Analyst_R2625922",
+      "location": "Santa Clara,CA"
+    },
+    "/job/Santa-ClaraCA/Service-Business-Unit-Financial-Analyst_R2626871": {
+      "title": "Service Business Unit Financial Analyst",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Service-Business-Unit-Financial-Analyst_R2626871",
+      "location": "Santa Clara,CA"
+    },
+    "/job/Santa-ClaraCA/Workday-HRIS-Analyst---onsite-based-job_R2624998": {
+      "title": "Workday HRIS Analyst - onsite based job",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Workday-HRIS-Analyst---onsite-based-job_R2624998",
+      "location": "Santa Clara,CA"
+    },
+    "/job/AustinTX/FP-A-Analyst--MBA---Austin--TX-_R2627306": {
+      "title": "FP&A Analyst (MBA - Austin, TX)",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/FP-A-Analyst--MBA---Austin--TX-_R2627306",
+      "location": "Austin,TX"
+    },
+    "/job/HsinchuTWN/Finance-Analyst-IV--B4----Global-Workplace---Infrastructure_R2610376": {
+      "title": "Finance Analyst IV (B4) \u2013 Global Workplace & Infrastructure",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/HsinchuTWN/Finance-Analyst-IV--B4----Global-Workplace---Infrastructure_R2610376",
+      "location": "Hsinchu,TWN"
+    },
+    "/job/AustinTX/Senior-Financial-Analyst-III--Global-Corporate-Functions--B3-_R2627944": {
+      "title": "Senior Financial Analyst III, Global Corporate Functions (B3)",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Senior-Financial-Analyst-III--Global-Corporate-Functions--B3-_R2627944",
+      "location": "Austin,TX"
+    },
+    "/job/Santa-ClaraCA/FP-A-Analyst-New-College-Grad--MBA---Santa-Clara--CA-_R2624935": {
+      "title": "FP&A Analyst New College Grad (MBA - Santa Clara, CA)",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/FP-A-Analyst-New-College-Grad--MBA---Santa-Clara--CA-_R2624935",
+      "location": "Santa Clara,CA"
+    },
+    "/job/AustinTX/Financial-Analyst---Costing-Gross-Margin--World-Wide-Operations-----B3-_R2627977-1": {
+      "title": "Financial Analyst \u2013 Costing/Gross Margin (World Wide Operations) - (B3)",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Financial-Analyst---Costing-Gross-Margin--World-Wide-Operations-----B3-_R2627977-1",
+      "location": "Austin,TX"
+    },
+    "/job/Santa-ClaraCA/Financial-Analyst-I--New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2627553-1": {
+      "title": "Financial Analyst I, New College Grad- Bachelor's (Santa Clara, CA)",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Financial-Analyst-I--New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2627553-1",
+      "location": "Santa Clara,CA"
+    },
+    "/job/AlbanyNY/Summer-2027-Global-Technical-Learning-Center-Data-Analyst-Intern--Bachelor-s-Master-s--Albany--NY-_R2627551": {
+      "title": "Summer 2027 Global Technical Learning Center Data Analyst Intern- Bachelor's/Master's (Albany, NY)",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/AlbanyNY/Summer-2027-Global-Technical-Learning-Center-Data-Analyst-Intern--Bachelor-s-Master-s--Albany--NY-_R2627551",
+      "location": "Albany,NY"
+    },
+    "/job/Santa-ClaraCA/Senior-Product-Owner---PALMS--Process---Analytical-Lab-Management-System-_R2623420": {
+      "title": "Senior Product Owner \u2013 PALMS (Process & Analytical Lab Management System)",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Senior-Product-Owner---PALMS--Process---Analytical-Lab-Management-System-_R2623420",
+      "location": "Santa Clara,CA"
+    },
+    "/job/Santa-ClaraCA/Senior-Manager--Supply-Chain-Data-Science---AI-Operationalization_R2626411-1": {
+      "title": "Senior Manager, Supply Chain Data Science & AI Operationalization",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Senior-Manager--Supply-Chain-Data-Science---AI-Operationalization_R2626411-1",
+      "location": "Santa Clara,CA"
+    },
+    "/job/Santa-ClaraCA/Data-Scientist_R2624867": {
+      "title": "Data Scientist",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Data-Scientist_R2624867",
+      "location": "Santa Clara,CA"
+    },
+    "/job/Santa-ClaraCA/Data-Scientist_R2626820": {
+      "title": "Data Scientist",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Data-Scientist_R2626820",
+      "location": "Santa Clara,CA"
+    },
+    "/job/Santa-ClaraCA/Data-Scientist---Agentic-AI---ML_R2621700": {
+      "title": "Data Scientist - Agentic AI / ML",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Data-Scientist---Agentic-AI---ML_R2621700",
+      "location": "Santa Clara,CA"
+    },
+    "/job/AustinTX/SPG-SmartStart---Install-Automation-Engineer_R2622218": {
+      "title": "Data Scientist- Install Automation",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/SPG-SmartStart---Install-Automation-Engineer_R2622218",
+      "location": "Austin,TX"
+    },
+    "/job/Santa-ClaraCA/Data-Scientist_R2626821": {
+      "title": "Data Scientist",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Data-Scientist_R2626821",
+      "location": "Santa Clara,CA"
+    },
+    "/job/Santa-ClaraCA/Sr-IT-Advanced-Analytics-and-Data-Solutions_R2628289": {
+      "title": "Sr. IT Advanced Analytics and Data Solutions",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Sr-IT-Advanced-Analytics-and-Data-Solutions_R2628289",
+      "location": "Santa Clara,CA"
+    },
+    "/job/Santa-ClaraCA/Ethics-and-Compliance-Risk---Analytics-Lead_R2624732": {
+      "title": "Ethics and Compliance Risk & Analytics Lead",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Ethics-and-Compliance-Risk---Analytics-Lead_R2624732",
+      "location": "Santa Clara,CA"
+    },
+    "/job/Santa-ClaraCA/Data-Scientist----B3-_R2628442": {
+      "title": "Data Scientist - (B3)",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Data-Scientist----B3-_R2628442",
+      "location": "Santa Clara,CA"
+    },
+    "/job/AustinTX/Manager--Data-Scientist_R2622927": {
+      "title": "Manager, Data Scientist",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Manager--Data-Scientist_R2622927",
+      "location": "Austin,TX"
+    }
+  }
 }
