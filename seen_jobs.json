@@ -42,6 +42,12 @@
       "location": "Jersey City, NJ, United States",
       "country_code": "US"
     },
+    "210791039": {
+      "title": "U.S. Private Bank \u2013 Lending Professional \u2013 Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791039",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
     "210790831": {
       "title": "Head of Auto Commercial Analytics-Executive Director",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790831",
@@ -1968,18 +1974,6 @@
       "location": "Jersey City, NJ, United States",
       "country_code": "US"
     },
-    "210775481": {
-      "title": "Business Bank Lending Risk Analytics Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775481",
-      "location": "Wilmington, DE, United States",
-      "country_code": "US"
-    },
-    "210771547": {
-      "title": "Regulatory Capital Reporting & Analysis \u2013 Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771547",
-      "location": "Brooklyn, NY, United States",
-      "country_code": "US"
-    },
     "210790618": {
       "title": "Liquidity Risk Reporting - Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790618",
@@ -2056,6 +2050,12 @@
       "title": "Vice President, Sports & Entertainment Marketing Strategy & Insights",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781227",
       "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210775481": {
+      "title": "Business Bank Lending Risk Analytics Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775481",
+      "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
     "210772809": {
@@ -2238,6 +2238,12 @@
     }
   },
   "Amazon": {
+    "10551379": {
+      "title": "Senior Financial Analyst, Global Procurement Finance",
+      "url": "https://www.amazon.jobs/en/jobs/10551379/senior-financial-analyst-global-procurement-finance",
+      "location": "Bellevue, Washington, USA",
+      "country_code": "USA"
+    },
     "10544705": {
       "title": "Buying Analyst, Robotics Supply Chain - Procurement",
       "url": "https://www.amazon.jobs/en/jobs/10544705/buying-analyst-robotics-supply-chain-procurement",
@@ -2560,12 +2566,6 @@
       "title": "Financial Analyst, Amazon MGM Studios FP&A",
       "url": "https://www.amazon.jobs/en/jobs/10526892/financial-analyst-amazon-mgm-studios-fp-a",
       "location": "Culver City, California, USA",
-      "country_code": "USA"
-    },
-    "10526325": {
-      "title": "Amazon Leo Global Contract to Cash - Contract Ops and Billing Analyst, Amazon Leo",
-      "url": "https://www.amazon.jobs/en/jobs/10526325/amazon-leo-global-contract-to-cash-contract-ops-and-billing-analyst-amazon-leo",
-      "location": "Bellevue, Washington, USA",
       "country_code": "USA"
     },
     "10526531": {
@@ -4527,15 +4527,15 @@
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Nationwide-Remote-Office-US99/Senior-Research-Analyst---REMOTE_R2602977",
       "location": "Nationwide Remote Office (US99)"
     },
-    "/job/Alexandria-VA/Project-Analyst---SETA-Level-2---Hybrid-Role-_R2602869": {
-      "title": "Project Analyst - SETA Level 2, (Hybrid Role)",
-      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Alexandria-VA/Project-Analyst---SETA-Level-2---Hybrid-Role-_R2602869",
-      "location": "Alexandria, VA"
-    },
     "/job/Reston-VA/ICF-Resources--LLC--Energy-Analyst---Reston--VA_R2602126": {
       "title": "ICF Resources, LLC: Energy Analyst \u2013 Reston, VA",
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/ICF-Resources--LLC--Energy-Analyst---Reston--VA_R2602126",
       "location": "Reston, VA"
+    },
+    "/job/Alexandria-VA/Project-Analyst---SETA-Level-2---Hybrid-Role-_R2602869": {
+      "title": "Project Analyst - SETA Level 2, (Hybrid Role)",
+      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Alexandria-VA/Project-Analyst---SETA-Level-2---Hybrid-Role-_R2602869",
+      "location": "Alexandria, VA"
     },
     "/job/Washington-DC/Marketing-and-Communications-Data-Analyst--Top-Secret-cleared-_R2601401": {
       "title": "Marketing and Communications Data Analyst (Top Secret cleared)",
@@ -5457,13 +5457,13 @@
       "title": "Senior Financial Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Senior-Financial-Analyst-KA-560100/1430510200/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Roseville-Senior-Business-Analyst-CA-95747-6645/1430564900/": {
-      "title": "Senior Business Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Roseville-Senior-Business-Analyst-CA-95747-6645/1430564900/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Business-Analyst-Claims-Configuration-DC-99999/1430718200/": {
       "title": "Advisor Business Analyst - Claims Configuration",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Business-Analyst-Claims-Configuration-DC-99999/1430718200/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Roseville-Senior-Professional-Business-Analyst-CA-95747-6645/1430564900/": {
+      "title": "Senior Professional Business Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Roseville-Senior-Professional-Business-Analyst-CA-95747-6645/1430564900/"
     }
   },
   "Happen Bank": {
@@ -5529,25 +5529,25 @@
       "title": "Security Operations Center Analyst - Houston, TX (Physical Security)",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Houston-Tx-Security-Operations-Center-Analyst-Houston%2C-TX-%28Physical-Security%29-TX-77001/1428066433/"
     },
-    "https://jobs.cmacgm-group.com/CEVALogistics/job/London-Heathrow-Healthcare-Airfreight-Pricing-Analyst/1433067233/": {
-      "title": "Healthcare Airfreight Pricing Analyst",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/London-Heathrow-Healthcare-Airfreight-Pricing-Analyst/1433067233/"
+    "https://jobs.cmacgm-group.com/CEVALogistics/job/Ashby-de-la-Zouch-Logistics-Planning-&-CI-Analyst/1435477033/": {
+      "title": "Logistics Planning & CI Analyst",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Ashby-de-la-Zouch-Logistics-Planning-&-CI-Analyst/1435477033/"
     },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Courbevoie-Data-Insight-and-Innovation-Specialist-EUROPE/1433801333/": {
       "title": "Data Insight and Innovation Specialist EUROPE",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Courbevoie-Data-Insight-and-Innovation-Specialist-EUROPE/1433801333/"
     },
-    "https://jobs.cmacgm-group.com/CEVALogistics/job/Ashby-de-la-Zouch-Logistics-Planning-&-CI-Analyst/1435477033/": {
-      "title": "Logistics Planning & CI Analyst",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Ashby-de-la-Zouch-Logistics-Planning-&-CI-Analyst/1435477033/"
-    },
-    "https://jobs.cmacgm-group.com/job/Auckland-Marketing-&-Data-Analyst-%28NZ%29/1426822133/": {
-      "title": "Marketing & Data Analyst (NZ)",
-      "url": "https://jobs.cmacgm-group.com/job/Auckland-Marketing-&-Data-Analyst-%28NZ%29/1426822133/"
+    "https://jobs.cmacgm-group.com/CEVALogistics/job/London-Heathrow-Healthcare-Airfreight-Pricing-Analyst/1433067233/": {
+      "title": "Healthcare Airfreight Pricing Analyst",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/London-Heathrow-Healthcare-Airfreight-Pricing-Analyst/1433067233/"
     },
     "https://jobs.cmacgm-group.com/job/Norfolk-Va-Business-Process-Analyst-VA-23501/1435880533/": {
       "title": "Business Process Analyst",
       "url": "https://jobs.cmacgm-group.com/job/Norfolk-Va-Business-Process-Analyst-VA-23501/1435880533/"
+    },
+    "https://jobs.cmacgm-group.com/job/Auckland-Marketing-&-Data-Analyst-%28NZ%29/1426822133/": {
+      "title": "Marketing & Data Analyst (NZ)",
+      "url": "https://jobs.cmacgm-group.com/job/Auckland-Marketing-&-Data-Analyst-%28NZ%29/1426822133/"
     },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Bernville_PA-Pricing-Analyst-%28REMOTE%29-CA/1432029633/": {
       "title": "Pricing Analyst (REMOTE)",
@@ -6265,7 +6265,12 @@
       "location": "2 Locations"
     }
   },
-  "Deloitte": {},
+  "Deloitte": {
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Data-Analytics-and-Insights-Engineer-II/367161": {
+      "title": "Data Analytics and Insights Engineer II",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Data-Analytics-and-Insights-Engineer-II/367161"
+    }
+  },
   "OpenX": {
     "df23b30a-21b5-4055-9698-5b5c2767df3c": {
       "title": "Business Intelligence Data Analyst",
@@ -6514,6 +6519,11 @@
     "/job/Centennial-CO/Analyst--Operations---Cash-Management_JR4826": {
       "title": "Analyst, Operations - Cash Management",
       "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/Centennial-CO/Analyst--Operations---Cash-Management_JR4826",
+      "location": "Centennial, CO"
+    },
+    "/job/Centennial-CO/Analyst--Operations---Client-Communications_JR5394": {
+      "title": "Analyst, Operations - Client Communications",
+      "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/Centennial-CO/Analyst--Operations---Client-Communications_JR5394",
       "location": "Centennial, CO"
     },
     "/job/HQ---San-Diego-CA/Sr-Technical-Business-Systems-Analyst_JR4310": {
