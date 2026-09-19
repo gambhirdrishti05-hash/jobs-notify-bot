@@ -3125,12 +3125,6 @@
       "location": "New York, New York, USA",
       "country_code": "USA"
     },
-    "10496852": {
-      "title": "Senior Financial Analyst, AWS WWSO Data & AI GTM Finance",
-      "url": "https://www.amazon.jobs/en/jobs/10496852/senior-financial-analyst-aws-wwso-data-ai-gtm-finance",
-      "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
     "10500413": {
       "title": "Sr. Financial Analyst, Device Manufacturing & Logistics Finance",
       "url": "https://www.amazon.jobs/en/jobs/10500413/sr-financial-analyst-device-manufacturing-logistics-finance",
@@ -3581,12 +3575,6 @@
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
-    "10471559": {
-      "title": "Sr. Financial Analyst, Transportation Technology & Services Finance",
-      "url": "https://www.amazon.jobs/en/jobs/10471559/sr-financial-analyst-transportation-technology-services-finance",
-      "location": "Bellevue, Washington, USA",
-      "country_code": "USA"
-    },
     "10471927": {
       "title": "Senior Financial Analyst, Amazon Robotics Finance",
       "url": "https://www.amazon.jobs/en/jobs/10471927/senior-financial-analyst-amazon-robotics-finance",
@@ -3657,12 +3645,6 @@
       "title": "Security Intelligence Analyst, AWS Security",
       "url": "https://www.amazon.jobs/en/jobs/10482741/security-intelligence-analyst-aws-security",
       "location": "Arlington, Virginia, USA",
-      "country_code": "USA"
-    },
-    "10449182": {
-      "title": "Senior Financial Analyst, Amazon Freight Finance",
-      "url": "https://www.amazon.jobs/en/jobs/10449182/senior-financial-analyst-amazon-freight-finance",
-      "location": "Irving, Texas, USA",
       "country_code": "USA"
     },
     "10446574": {
@@ -5515,21 +5497,17 @@
     }
   },
   "Gainwell": {
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Analyst-Remote-AR-99999/1412088100/": {
-      "title": "Provider Enrollment Analyst - Remote",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Analyst-Remote-AR-99999/1412088100/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Data-Science-AI-Engineer-TX-99999/1394079400/": {
       "title": "Experienced Data Science AI Engineer",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Data-Science-AI-Engineer-TX-99999/1394079400/"
     },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Analyst-Remote-AR-99999/1412088100/": {
+      "title": "Provider Enrollment Analyst - Remote",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Analyst-Remote-AR-99999/1412088100/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-Business-Analyst-Healthcare-Claims-IN-99999/1431751100/": {
       "title": "Early Career Business Analyst - Healthcare Claims",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-Business-Analyst-Healthcare-Claims-IN-99999/1431751100/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Business-Analyst-Provider%2B-NC-99999/1421631100/": {
-      "title": "Advisor Business Analyst - Provider+",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Business-Analyst-Provider%2B-NC-99999/1421631100/"
     }
   },
   "Happen Bank": {
