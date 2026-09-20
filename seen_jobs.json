@@ -3083,12 +3083,6 @@
       "location": "San Diego, California, USA",
       "country_code": "USA"
     },
-    "10514545": {
-      "title": "Business Operations Analyst, WWPS Partners & WW A&S",
-      "url": "https://www.amazon.jobs/en/jobs/10514545/business-operations-analyst-wwps-partners-ww-a-s",
-      "location": "Arlington, Virginia, USA",
-      "country_code": "USA"
-    },
     "10524277": {
       "title": "Senior System/Data Analyst, Global Tax Data",
       "url": "https://www.amazon.jobs/en/jobs/10524277/senior-system-data-analyst-global-tax-data",
@@ -3201,12 +3195,6 @@
       "title": "AWS Senior Financial Analyst, Global Accounts Receivable - Cash Application",
       "url": "https://www.amazon.jobs/en/jobs/10491987/aws-senior-financial-analyst-global-accounts-receivable-cash-application",
       "location": "Arlington, Virginia, USA",
-      "country_code": "USA"
-    },
-    "10521107": {
-      "title": "Sr Talent Intelligence Analyst, Global Specialty Recruiting",
-      "url": "https://www.amazon.jobs/en/jobs/10521107/sr-talent-intelligence-analyst-global-specialty-recruiting",
-      "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
     "10492836": {
@@ -3915,6 +3903,12 @@
       "title": "Senior Finance Analyst, Amazon Air",
       "url": "https://www.amazon.jobs/en/jobs/3197207/senior-finance-analyst-amazon-air",
       "location": "Bellevue, Washington, USA",
+      "country_code": "USA"
+    },
+    "10371904": {
+      "title": "Senior Financial Analyst, AWS Regions Finance - Public Sector",
+      "url": "https://www.amazon.jobs/en/jobs/10371904/senior-financial-analyst-aws-regions-finance-public-sector",
+      "location": "Arlington, Virginia, USA",
       "country_code": "USA"
     },
     "10379075": {
@@ -5484,6 +5478,10 @@
     "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Client-Services-Analyst-TX-99999/1394502100/": {
       "title": "Senior Client Services Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Client-Services-Analyst-TX-99999/1394502100/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Data-Science-AI-Engineer-TX-99999/1394079400/": {
+      "title": "Experienced Data Science AI Engineer",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Data-Science-AI-Engineer-TX-99999/1394079400/"
     }
   },
   "Happen Bank": {
