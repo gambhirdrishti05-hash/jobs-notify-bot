@@ -456,12 +456,6 @@
       "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
-    "210745730": {
-      "title": "Data Scientist (Card Data & Analytics Strategy)-Executive Director",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745730",
-      "location": "Wilmington, DE, United States",
-      "country_code": "US"
-    },
     "210763228": {
       "title": "Finance Data & Insights (PXT) - Analytics Solutions Senior Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210763228",
@@ -5472,10 +5466,6 @@
     "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Client-Services-Analyst-TX-99999/1394502100/": {
       "title": "Senior Client Services Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Client-Services-Analyst-TX-99999/1394502100/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Analyst-Remote-AR-99999/1412088100/": {
-      "title": "Provider Enrollment Analyst - Remote",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Analyst-Remote-AR-99999/1412088100/"
     }
   },
   "Happen Bank": {
@@ -6278,6 +6268,10 @@
     }
   },
   "AbbVibe": {
+    "https://careers.abbvie.com/en/job/senior-financial-analyst-finance-in-montreal-qc-jid-31398": {
+      "title": "Senior Financial Analyst, Finance",
+      "url": "https://careers.abbvie.com/en/job/senior-financial-analyst-finance-in-montreal-qc-jid-31398"
+    },
     "https://careers.abbvie.com/en/job/complaint-processing-analyst-i-in-lagunilla-provincia-de-guanacaste-jid-33394": {
       "title": "Complaint Processing Analyst I",
       "url": "https://careers.abbvie.com/en/job/complaint-processing-analyst-i-in-lagunilla-provincia-de-guanacaste-jid-33394"
@@ -7106,7 +7100,7 @@
       "location": "Cincinnati, OH"
     },
     "/job/Frisco-TX/Regulatory-Financial-Analyst_R72198": {
-      "title": "Regulatory Financial Analyst",
+      "title": "Finance Reporting Analyst",
       "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Frisco-TX/Regulatory-Financial-Analyst_R72198",
       "location": "Frisco, TX"
     },
@@ -7171,7 +7165,7 @@
       "location": "Cincinnati, OH"
     },
     "/job/Frisco-TX/Senior-Regulatory-Financial-Analyst_R72199": {
-      "title": "Senior Regulatory Financial Analyst",
+      "title": "Senior Finance Reporting Analyst",
       "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Frisco-TX/Senior-Regulatory-Financial-Analyst_R72199",
       "location": "Frisco, TX"
     },
