@@ -1,5 +1,23 @@
 {
   "JPMorgan Chase": {
+    "210790765": {
+      "title": "2027 Commercial & Specialized Industries Full-time Analyst Program \u2013 Diversified",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790765",
+      "location": "Phoenix, AZ, United States",
+      "country_code": "US"
+    },
+    "210790798": {
+      "title": "2027 Commercial Real Estate Full-Time Analyst Program - Real Estate Banking (Chicago & Irvine)",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790798",
+      "location": "Chicago, IL, United States",
+      "country_code": "US"
+    },
+    "210789883": {
+      "title": "2027 Commercial & Specialized Industries Summer Analyst Program",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789883",
+      "location": "Atlanta, GA, United States",
+      "country_code": "US"
+    },
     "210790930": {
       "title": "Credit Ops Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790930",
@@ -3967,11 +3985,6 @@
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Work-from-home/Epic-STARS-Senior-Analyst_R1046529",
       "location": "RI - Work from home"
     },
-    "/job/TX---Work-from-home/Analyst--Resource-Planning_R0982669-1": {
-      "title": "Analyst, Resource Planning",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Analyst--Resource-Planning_R0982669-1",
-      "location": "48 Locations"
-    },
     "/job/TX---Work-from-home/Senior-Analyst--Project-Management_R1031457": {
       "title": "Senior Analyst, Project Management",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Senior-Analyst--Project-Management_R1031457",
@@ -4211,11 +4224,6 @@
       "title": "Business Operations & Project Management, Senior Analyst, Revenue Cycle",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Monroeville/Senior-Analyst--Revenue-Cycle_R0925061-1",
       "location": "PA - Monroeville"
-    },
-    "/job/FL---Orlando/Senior-Analyst--Operational-Excellence--Industrial-Engineering---Labor-Management-Systems-_R0976855": {
-      "title": "Senior Analyst, Operational Excellence (Industrial Engineering & Labor Management Systems)",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/FL---Orlando/Senior-Analyst--Operational-Excellence--Industrial-Engineering---Labor-Management-Systems-_R0976855",
-      "location": "FL - Orlando"
     },
     "/job/RI---Woonsocket/Construction-and-Property-Senior-Financial-Analyst_R1024889": {
       "title": "Construction and Property Senior Financial Analyst",
@@ -4832,11 +4840,6 @@
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/SIU-Fraud-Analyst_RQ4079699",
       "location": "Somerville-MA"
     },
-    "/job/Somerville-MA/Data-Analyst-II_RQ4077852-1": {
-      "title": "Data Analyst II",
-      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Data-Analyst-II_RQ4077852-1",
-      "location": "Somerville-MA"
-    },
     "/job/Somerville-MA/Business-Analyst-II_RQ4071710-1": {
       "title": "Business Analyst II",
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Business-Analyst-II_RQ4071710-1",
@@ -5166,11 +5169,6 @@
       "title": "Data Feed Enablement - Information Management Analyst",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jacksonville/Data-Feed-Enablement---Information-Management-Analyst_26031849",
       "location": "Jacksonville"
-    },
-    "/job/Fort-Worth/Sr-Claims-Analyst-Check-Fraud-Claims_26032651": {
-      "title": "Sr Claims Analyst-Check Fraud Claims",
-      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Fort-Worth/Sr-Claims-Analyst-Check-Fraud-Claims_26032651",
-      "location": "Fort Worth"
     },
     "/job/New-York/Equity-Research-Analyst-Associate--Payments--Processors---IT-Services_26020311": {
       "title": "Equity Research Analyst/Associate- Payments, Processors & IT Services",
@@ -5568,6 +5566,10 @@
     "https://jobs.cmacgm-group.com/job/Marseille-Internship-Container-Fleet-Procurement-Analyst/1438329933/": {
       "title": "Internship - Container Fleet Procurement Analyst",
       "url": "https://jobs.cmacgm-group.com/job/Marseille-Internship-Container-Fleet-Procurement-Analyst/1438329933/"
+    },
+    "https://jobs.cmacgm-group.com/job/Petaling-Jaya-Senior-Analyst%2C-Accounting-Operations/1433671333/": {
+      "title": "Senior Analyst, Accounting Operations",
+      "url": "https://jobs.cmacgm-group.com/job/Petaling-Jaya-Senior-Analyst%2C-Accounting-Operations/1433671333/"
     }
   },
   "Beyond Finance": {
@@ -5870,11 +5872,6 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Account-Services-Implementation-Analyst-and-Project-Manager--Officer_R-796024-1",
       "location": "2 Locations"
     },
-    "/job/Burlington-Massachusetts/Client-implementation-Analyst--Alpha-Performance--Assistant-Vice-President_R-796198": {
-      "title": "Client implementation Analyst, Alpha Performance, Assistant Vice President",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Client-implementation-Analyst--Alpha-Performance--Assistant-Vice-President_R-796198",
-      "location": "Burlington Massachusetts"
-    },
     "/job/Boston-Massachusetts/Front-Office-Market-Risk-Analyst--Assistant-Vice-President_R-796902-1": {
       "title": "Front Office Market Risk Analyst, Assistant Vice President",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Front-Office-Market-Risk-Analyst--Assistant-Vice-President_R-796902-1",
@@ -6034,11 +6031,6 @@
       "title": "AI and Trading Analytics Researcher-AVP",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/AI-and-Trading-Analytics-Researcher-AVP_R-792986",
       "location": "Cambridge, Massachusetts"
-    },
-    "/job/Quincy-Massachusetts/Financial-Reporting--Officer_R-796356": {
-      "title": "Financial Reporting, Officer",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Financial-Reporting--Officer_R-796356",
-      "location": "Quincy, Massachusetts"
     },
     "/job/Krakow-Poland/Senior-Risk-Analytics-Products-Developer--Assistant-Vice-President-of-Non-Financial-Risk-Analytics---NFR---hybrid--Krakow-Gdansk_R-791338": {
       "title": "Senior Risk Analytics Products Developer, Assistant Vice President of Non Financial Risk Analytics, (NFR), hybrid, Krakow/Gdansk",
@@ -6262,13 +6254,17 @@
     }
   },
   "AbbVibe": {
+    "https://careers.abbvie.com/en/job/senior-business-intelligence-and-data-management-specialist-in-taipei-tw-jid-33403": {
+      "title": "Senior Business Intelligence & Data Management Specialist",
+      "url": "https://careers.abbvie.com/en/job/senior-business-intelligence-and-data-management-specialist-in-taipei-tw-jid-33403"
+    },
+    "https://careers.abbvie.com/en/job/statutory-reporting-controller-in-krakow-lesser-poland-voivodeship-jid-33402": {
+      "title": "Statutory Reporting Controller",
+      "url": "https://careers.abbvie.com/en/job/statutory-reporting-controller-in-krakow-lesser-poland-voivodeship-jid-33402"
+    },
     "https://careers.abbvie.com/en/job/senior-financial-analyst-finance-in-montreal-qc-jid-31398": {
       "title": "Senior Financial Analyst, Finance",
       "url": "https://careers.abbvie.com/en/job/senior-financial-analyst-finance-in-montreal-qc-jid-31398"
-    },
-    "https://careers.abbvie.com/en/job/complaint-processing-analyst-i-in-lagunilla-provincia-de-guanacaste-jid-33394": {
-      "title": "Complaint Processing Analyst I",
-      "url": "https://careers.abbvie.com/en/job/complaint-processing-analyst-i-in-lagunilla-provincia-de-guanacaste-jid-33394"
     }
   },
   "HPE": {
@@ -6300,11 +6296,6 @@
     "/job/Tlaquepaque-Jalisco-Mexico/EFR-Senior-Financial-Analyst_1210716": {
       "title": "EFR-Senior Financial Analyst",
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Tlaquepaque-Jalisco-Mexico/EFR-Senior-Financial-Analyst_1210716",
-      "location": "2 Locations"
-    },
-    "/job/Bangalore-Karnataka-India/CSLV-Senior-Financial-Analyst_1214377-1": {
-      "title": "CSLV Senior Financial Analyst",
-      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bangalore-Karnataka-India/CSLV-Senior-Financial-Analyst_1214377-1",
       "location": "2 Locations"
     },
     "/job/Bengaluru-Karntaka-India/HPE-Networking-Finance-Operations-Analyst_1210064": {
@@ -6798,11 +6789,6 @@
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Consumer---Small-Business-Banking--CSBB--Analyst-Program_R0119210",
       "location": "Charlotte, NC"
     },
-    "/job/Charlotte-NC/XMLNAME-2027-Truist-Analyst-Program---Technology--Data--and-Operations-Track_R0118056": {
-      "title": "2027 Truist Analyst Program - Technology, Data, and Operations Track",
-      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/XMLNAME-2027-Truist-Analyst-Program---Technology--Data--and-Operations-Track_R0118056",
-      "location": "2 Locations"
-    },
     "/job/Greenville-SC/SFC-Business-Senior-Analyst_R0118209": {
       "title": "SFC Business Senior Analyst and Consumer Loans Investor Reporting",
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Greenville-SC/SFC-Business-Senior-Analyst_R0118209",
@@ -6817,11 +6803,6 @@
       "title": "Loan Administration Analyst - Grandbridge Real Estate Capital - Operations Support (New Loan Boarding)",
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Loan-Administration-Analyst---Grandbridge-Real-Estate-Capital---Operations-Support--New-Loan-Boarding-_R0119394",
       "location": "Charlotte, NC"
-    },
-    "/job/Charlotte-NC/Wholesale-Portfolio-Strategy-and-Reporting-Consultant_R0117711": {
-      "title": "Wholesale Portfolio Strategy and Reporting Consultant",
-      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Wholesale-Portfolio-Strategy-and-Reporting-Consultant_R0117711",
-      "location": "2 Locations"
     },
     "/job/Atlanta-GA/Deposit-Pricing-Analytics-Consultant_R0117716-1": {
       "title": "Deposit Pricing Analytics Consultant",
@@ -6921,11 +6902,6 @@
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Senior-Finance-Analyst--US-_R_1509117",
       "location": "Mount Laurel, New Jersey"
     },
-    "/job/Mount-Laurel-New-Jersey/Senior-Finance-Analyst--US-_R_1506822": {
-      "title": "Senior Finance Analyst (US)",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Senior-Finance-Analyst--US-_R_1506822",
-      "location": "Mount Laurel, New Jersey"
-    },
     "/job/Lake-Mary-Florida/Senior-Operations-Analyst---Options-Clearing_R_1490196": {
       "title": "Senior Operations Analyst - Options Clearing",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Lake-Mary-Florida/Senior-Operations-Analyst---Options-Clearing_R_1490196",
@@ -6996,11 +6972,6 @@
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Analyst_R_1510800",
       "location": "Mount Laurel, New Jersey"
     },
-    "/job/Charlotte-North-Carolina/Modelling-Forecasting-Sr-Analyst---Treasury-Business-Architecture---Solutions-3_R_1509614": {
-      "title": "Modelling/Forecasting Sr. Analyst - Treasury Business Architecture & Solutions-3",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Charlotte-North-Carolina/Modelling-Forecasting-Sr-Analyst---Treasury-Business-Architecture---Solutions-3_R_1509614",
-      "location": "2 Locations"
-    },
     "/job/New-York-New-York/Executive-Technology-Support-Specialist---IT-Operations-Analyst-IV--US-_R_1502865-1": {
       "title": "Executive Technology Support Specialist / IT Operations Analyst IV (US)",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Executive-Technology-Support-Specialist---IT-Operations-Analyst-IV--US-_R_1502865-1",
@@ -7064,11 +7035,6 @@
     "/job/Mount-Laurel-New-Jersey/Head--LOB-Analytics-and-Insights--US-_R_1510394": {
       "title": "Head, LOB Analytics and Insights (US)",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Head--LOB-Analytics-and-Insights--US-_R_1510394",
-      "location": "2 Locations"
-    },
-    "/job/Mount-Laurel-New-Jersey/Data-Engineering---Platform-Enablement-Practice-Lead--US-_R_1501948": {
-      "title": "Data Engineering & Platform Enablement Practice Lead (US)",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Data-Engineering---Platform-Enablement-Practice-Lead--US-_R_1501948",
       "location": "2 Locations"
     },
     "/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Engineer_R_1510111": {
@@ -7699,11 +7665,6 @@
       "title": "Corporate and I-Banking Cash Management Analyst",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/Corporate-and-I-Banking-Cash-Management-Analyst_Req1596493",
       "location": "Madison Ave Corp"
-    },
-    "/job/Madison-Ave-Corp/Vice-President---Front-Office-Quantitative-Analytics--Latin-America-Rates---FX-_Req1593978-1": {
-      "title": "Vice President \u2013 Front Office Quantitative Analytics (Latin America Rates & FX)",
-      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/Vice-President---Front-Office-Quantitative-Analytics--Latin-America-Rates---FX-_Req1593978-1",
-      "location": "Madison Ave Corp"
     }
   },
   "MUFG": {
@@ -8234,6 +8195,11 @@
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Krakow-Poland/Data-Engineer_2025792",
       "location": "2 Locations"
     },
+    "/job/Mumbai-India/Data-Engineer_2024220": {
+      "title": "Data Engineer",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Mumbai-India/Data-Engineer_2024220",
+      "location": "2 Locations"
+    },
     "/job/Mumbai-India/Data-Engineer_2015732-1": {
       "title": "Data Engineer",
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Mumbai-India/Data-Engineer_2015732-1",
@@ -8243,11 +8209,6 @@
       "title": "Director, Compliance Data and Analytics",
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Seattle-Washington-US/Director--Compliance-Data-and-Analytics_2024472-1",
       "location": "6 Locations"
-    },
-    "/job/San-Jose-California-US/Data-Science-Engineer-II--Full-Time----United-States_2024971": {
-      "title": "Data Science Engineer II (Full Time) - United States",
-      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Data-Science-Engineer-II--Full-Time----United-States_2024971",
-      "location": "3 Locations"
     },
     "/job/RTP-North-Carolina-US/Data-Engineer-I--Full-Time----United-States_2024459": {
       "title": "Data Engineer I (Full-Time) - United States",
@@ -8389,11 +8350,6 @@
       "url": "https://osu.wd1.myworkdayjobs.com/osucareers/job/Health-System-Shared-Services/Sr-Reimbursement-Analyst_R157881-2",
       "location": "Health System Shared Services"
     },
-    "/job/Columbus-Campus/IT-Service-Support-Analyst-1_R158330-2": {
-      "title": "IT Service Support Analyst 1",
-      "url": "https://osu.wd1.myworkdayjobs.com/osucareers/job/Columbus-Campus/IT-Service-Support-Analyst-1_R158330-2",
-      "location": "Columbus Campus"
-    },
     "/job/Columbus-Campus/IT-Service-Support-Analyst-2_R148379-1": {
       "title": "IT Service Support Analyst 2",
       "url": "https://osu.wd1.myworkdayjobs.com/osucareers/job/Columbus-Campus/IT-Service-Support-Analyst-2_R148379-1",
@@ -8499,5 +8455,31 @@
       "country_code": "US"
     }
   },
-  "Terracon": {}
+  "Terracon": {},
+  "AgFirst Farm Credit Bank": {
+    "5016": {
+      "title": "Lead Continuous Improvement Analyst",
+      "url": "https://eozs.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5016",
+      "location": "Columbia, SC, United States",
+      "country_code": "US"
+    },
+    "4896": {
+      "title": "Cash Services Operations & Business Intelligence Analyst",
+      "url": "https://eozs.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4896",
+      "location": "Columbia, SC, United States",
+      "country_code": "US"
+    },
+    "4834": {
+      "title": "Sr. Compensation Analyst",
+      "url": "https://eozs.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4834",
+      "location": "Columbia, SC, United States",
+      "country_code": "US"
+    },
+    "4809": {
+      "title": "Sr. HR Technology Analyst",
+      "url": "https://eozs.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4809",
+      "location": "Columbia, SC, United States",
+      "country_code": "US"
+    }
+  }
 }
