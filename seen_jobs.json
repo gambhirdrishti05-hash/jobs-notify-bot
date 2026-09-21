@@ -2363,12 +2363,6 @@
       "location": "Arlington, Virginia, USA",
       "country_code": "USA"
     },
-    "10552515": {
-      "title": "Financial Analyst II, Amazon Last Mile Investment Analytics",
-      "url": "https://www.amazon.jobs/en/jobs/10552515/financial-analyst-ii-amazon-last-mile-investment-analytics",
-      "location": "Bellevue, Washington, USA",
-      "country_code": "USA"
-    },
     "10552311": {
       "title": "Senior Finance Analyst , Applied AI Solutions - AWS Connect",
       "url": "https://www.amazon.jobs/en/jobs/10552311/senior-finance-analyst-applied-ai-solutions-aws-connect",
@@ -5531,13 +5525,13 @@
       "title": "Security Operations Center Analyst - Houston, TX (Physical Security)",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Houston-Tx-Security-Operations-Center-Analyst-Houston%2C-TX-%28Physical-Security%29-TX-77001/1428066433/"
     },
-    "https://jobs.cmacgm-group.com/CEVALogistics/job/Courbevoie-Data-Insight-and-Innovation-Specialist-EUROPE/1433801333/": {
-      "title": "Data Insight and Innovation Specialist EUROPE",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Courbevoie-Data-Insight-and-Innovation-Specialist-EUROPE/1433801333/"
-    },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/London-Heathrow-Healthcare-Airfreight-Pricing-Analyst/1433067233/": {
       "title": "Healthcare Airfreight Pricing Analyst",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/London-Heathrow-Healthcare-Airfreight-Pricing-Analyst/1433067233/"
+    },
+    "https://jobs.cmacgm-group.com/CEVALogistics/job/Courbevoie-Data-Insight-and-Innovation-Specialist-EUROPE/1433801333/": {
+      "title": "Data Insight and Innovation Specialist EUROPE",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Courbevoie-Data-Insight-and-Innovation-Specialist-EUROPE/1433801333/"
     },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Ashby-de-la-Zouch-Logistics-Planning-&-CI-Analyst/1435477033/": {
       "title": "Logistics Planning & CI Analyst",
@@ -6288,6 +6282,16 @@
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bratislava-22-Bratislavsk-kraj-Slovakia/Business-Operation-Analyst_1208104",
       "location": "Bratislava 22, Bratislavsk\u00fd kraj, Slovakia"
     },
+    "/job/All-Texas-United-States-of-America/Sales-Operations-Analyst_1212277-3": {
+      "title": "Sales Operations Analyst",
+      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/All-Texas-United-States-of-America/Sales-Operations-Analyst_1212277-3",
+      "location": "3 Locations"
+    },
+    "/job/Tlaquepaque-Jalisco-Mexico/Senior-Financial-Analyst_1211973": {
+      "title": "Senior Financial Analyst",
+      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Tlaquepaque-Jalisco-Mexico/Senior-Financial-Analyst_1211973",
+      "location": "2 Locations"
+    },
     "/job/Spring-Texas-United-States-of-America/Revenue-Accounting-Senior-Analyst_1192313": {
       "title": "Revenue Accounting Senior Analyst",
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Revenue-Accounting-Senior-Analyst_1192313",
@@ -6332,6 +6336,11 @@
       "title": "Procurement Operations Analyst - Manufacturing Partner Collaboration",
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Aguadilla-Puerto-Rico-Puerto-Rico/Procurement-Operations-Analyst---Manufacturing-Partner-Collaboration_1209223",
       "location": "Aguadilla, Puerto Rico, Puerto Rico"
+    },
+    "/job/Tlaquepaque-Jalisco-Mexico/Hybrid-Cloud-Solutions-Senior-Financial-Analyst_1212329": {
+      "title": "Hybrid Cloud Solutions Senior Financial Analyst",
+      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Tlaquepaque-Jalisco-Mexico/Hybrid-Cloud-Solutions-Senior-Financial-Analyst_1212329",
+      "location": "2 Locations"
     },
     "/job/Houston-Texas-United-States-of-America/AMS-LASER-HPEN-Pricing-Operations-Analyst--Houston--TX-_1209260-2": {
       "title": "AMS LASER HPEN Pricing Operations Analyst (Houston, TX)",
@@ -8450,5 +8459,45 @@
       "url": "https://osu.wd1.myworkdayjobs.com/osucareers/job/OSU-Health-Plan/Sr-Apps-Development-Analyst---OSU-Health-Plan_R152415-1",
       "location": "OSU Health Plan"
     }
-  }
+  },
+  "HP": {},
+  "Southwest Gas": {
+    "4179": {
+      "title": "Sr Analyst/Application Services/Technical",
+      "url": "https://ebtw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4179",
+      "location": "Las Vegas, NV, United States",
+      "country_code": "US"
+    },
+    "4139": {
+      "title": "Analyst/GIS",
+      "url": "https://ebtw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4139",
+      "location": "Las Vegas, NV, United States",
+      "country_code": "US"
+    },
+    "4140": {
+      "title": "Sr Analyst/GIS Staff",
+      "url": "https://ebtw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4140",
+      "location": "Las Vegas, NV, United States",
+      "country_code": "US"
+    },
+    "4062": {
+      "title": "Analyst II/System Integrity",
+      "url": "https://ebtw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4062",
+      "location": "Las Vegas, NV, United States",
+      "country_code": "US"
+    },
+    "4138": {
+      "title": "Analyst II/HR Systems (Oracle HCM Functional)",
+      "url": "https://ebtw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4138",
+      "location": "Las Vegas, NV, United States",
+      "country_code": "US"
+    },
+    "4044": {
+      "title": "Senior Manager/Financial Reporting",
+      "url": "https://ebtw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4044",
+      "location": "Las Vegas, NV, United States",
+      "country_code": "US"
+    }
+  },
+  "Terracon": {}
 }
