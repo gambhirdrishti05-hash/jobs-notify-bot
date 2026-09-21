@@ -30,6 +30,12 @@
       "location": "Tampa, FL, United States",
       "country_code": "US"
     },
+    "210793027": {
+      "title": "US Equity Research - Life Science Tools & Diagnostics - Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793027",
+      "location": "NY, United States",
+      "country_code": "US"
+    },
     "210790765": {
       "title": "2027 Commercial & Specialized Industries Full-time Analyst Program \u2013 Diversified",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790765",
@@ -2058,12 +2064,6 @@
       "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
-    "210771547": {
-      "title": "Regulatory Capital Reporting & Analysis \u2013 Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771547",
-      "location": "Brooklyn, NY, United States",
-      "country_code": "US"
-    },
     "210790618": {
       "title": "Liquidity Risk Reporting - Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790618",
@@ -2224,12 +2224,6 @@
       "title": "Quant Analytics Associate Sr - DART",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210751165",
       "location": "Plano, TX, United States",
-      "country_code": "US"
-    },
-    "210750761": {
-      "title": "Quant Analytics Associate I \u2013 Fraud Strategy",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210750761",
-      "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
     "210746297": {
@@ -3055,12 +3049,6 @@
       "title": "Communications Business Analyst, Operations Internal Communications",
       "url": "https://www.amazon.jobs/en/jobs/10499284/communications-business-analyst-operations-internal-communications",
       "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
-    "10513030": {
-      "title": "Freight Audit Payment Analyst, ISCAP - Var",
-      "url": "https://www.amazon.jobs/en/jobs/10513030/freight-audit-payment-analyst-iscap-var",
-      "location": "Bellevue, Washington, USA",
       "country_code": "USA"
     },
     "10526767": {
@@ -4004,11 +3992,6 @@
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OH---Cleveland/Patient-Relations-Analyst_R1048372-1",
       "location": "OH - Cleveland"
     },
-    "/job/CT---Hartford/Technical-Business-Analyst--Investment-Systems_R1044909": {
-      "title": "Technical Business Analyst, Investment Systems",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Technical-Business-Analyst--Investment-Systems_R1044909",
-      "location": "CT - Hartford"
-    },
     "/job/RI---Work-from-home/Epic-STARS-Senior-Analyst_R1046529": {
       "title": "Epic STARS Senior Analyst",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Work-from-home/Epic-STARS-Senior-Analyst_R1046529",
@@ -4443,6 +4426,11 @@
     }
   },
   "ICF Incorporated": {
+    "/job/Reston-VA/Business-Analyst_R2603158": {
+      "title": "Business Analyst",
+      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Business-Analyst_R2603158",
+      "location": "Reston, VA"
+    },
     "/job/Newark-NJ/IT-Business-Analyst_R2601281": {
       "title": "IT Business Analyst",
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Newark-NJ/IT-Business-Analyst_R2601281",
@@ -5488,6 +5476,10 @@
       "title": "Technical Analyst / Advisor Application Architect",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Technical-Analyst-Advisor-Application-Architect-TX-99999/1432056000/"
     },
+    "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Quality-Assurance-Compliance-Analyst-Remote-CA-CA-95605-1630/1432226300/": {
+      "title": "Quality Assurance Compliance Analyst - Remote CA",
+      "url": "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Quality-Assurance-Compliance-Analyst-Remote-CA-CA-95605-1630/1432226300/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Client-Services-Analyst-TX-99999/1394502100/": {
       "title": "Senior Client Services Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Client-Services-Analyst-TX-99999/1394502100/"
@@ -6257,7 +6249,12 @@
       "location": "2 Locations"
     }
   },
-  "Deloitte": {},
+  "Deloitte": {
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Delivery-Consultant-Data-Engineering-and-Conversion-Solutions/367779": {
+      "title": "Delivery Consultant, Data Engineering and Conversion Solutions",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Delivery-Consultant-Data-Engineering-and-Conversion-Solutions/367779"
+    }
+  },
   "OpenX": {
     "df23b30a-21b5-4055-9698-5b5c2767df3c": {
       "title": "Business Intelligence Data Analyst",
@@ -6271,13 +6268,9 @@
     }
   },
   "AbbVibe": {
-    "https://careers.abbvie.com/en/job/senior-analyst-business-systems-in-north-chicago-il-jid-33445": {
-      "title": "Senior Analyst, Business Systems",
-      "url": "https://careers.abbvie.com/en/job/senior-analyst-business-systems-in-north-chicago-il-jid-33445"
-    },
-    "https://careers.abbvie.com/en/job/associate-ai-data-scientist-i-in-north-chicago-il-jid-33444": {
-      "title": "Associate AI Data Scientist I",
-      "url": "https://careers.abbvie.com/en/job/associate-ai-data-scientist-i-in-north-chicago-il-jid-33444"
+    "https://careers.abbvie.com/en/job/director-ii-data-engineering-business-technology-solutions-in-north-chicago-il-jid-33453": {
+      "title": "Director II, Data Engineering - Business Technology Solutions",
+      "url": "https://careers.abbvie.com/en/job/director-ii-data-engineering-business-technology-solutions-in-north-chicago-il-jid-33453"
     }
   },
   "HPE": {
@@ -6622,6 +6615,11 @@
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Orlando-FL/Treasury-Sales-Analyst_R0119377",
       "location": "6 Locations"
     },
+    "/job/Atlanta-GA/Investment-Analyst-I_R0119462": {
+      "title": "Investment Analyst I",
+      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Investment-Analyst-I_R0119462",
+      "location": "3 Locations"
+    },
     "/job/Atlanta-GA/Middle-Market-Credit-Delivery-Analyst-or-Senior-Analyst_R0119353": {
       "title": "Middle Market Credit Delivery Analyst or Senior Analyst",
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Middle-Market-Credit-Delivery-Analyst-or-Senior-Analyst_R0119353",
@@ -6905,11 +6903,6 @@
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Senior-Finance-Analyst--US-_R_1509117",
       "location": "Mount Laurel, New Jersey"
     },
-    "/job/Mount-Laurel-New-Jersey/Senior-Finance-Analyst--US-_R_1506822": {
-      "title": "Senior Finance Analyst (US)",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Senior-Finance-Analyst--US-_R_1506822",
-      "location": "Mount Laurel, New Jersey"
-    },
     "/job/Lake-Mary-Florida/Senior-Operations-Analyst---Options-Clearing_R_1490196": {
       "title": "Senior Operations Analyst - Options Clearing",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Lake-Mary-Florida/Senior-Operations-Analyst---Options-Clearing_R_1490196",
@@ -6969,6 +6962,11 @@
       "title": "Sr. Specialized Finance Analyst, TDS (US) - Product Control",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Lake-Mary-Florida/Sr-Specialized-Finance-Analyst--TDS--US----Product-Control_R_1508743",
       "location": "Lake Mary, Florida"
+    },
+    "/job/Mount-Laurel-New-Jersey/Business-Insights-Analyst-II--US---Decision-Science--Deposits_R_1511856": {
+      "title": "Business Insights Analyst II (US)- Decision Science- Deposits",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Business-Insights-Analyst-II--US---Decision-Science--Deposits_R_1511856",
+      "location": "2 Locations"
     },
     "/job/New-York-New-York/Experienced-Analyst---Investment-Banking--Private-Capital-Markets---TDS--US-_R_1507740": {
       "title": "Experienced Analyst \u2013 Investment Banking, Private Capital Markets \u2013 TDS (US)",
@@ -7060,9 +7058,14 @@
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Business-Insights-Specialist--US-----Cards-Finance-Manager---Decision-Science_R_1507120",
       "location": "2 Locations"
     },
-    "/job/Mount-Laurel-New-Jersey/Business-Insights-Specialist--US----Decision-Science_R_1507106": {
-      "title": "Business Insights Specialist (US) - Decision Science",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Business-Insights-Specialist--US----Decision-Science_R_1507106",
+    "/job/Mount-Laurel-New-Jersey/Business-Insights-Specialist--US---Decision-Science--Deposits_R_1512423-1": {
+      "title": "Business Insights Specialist (US)- Decision Science -Deposits",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Business-Insights-Specialist--US---Decision-Science--Deposits_R_1512423-1",
+      "location": "2 Locations"
+    },
+    "/job/Mount-Laurel-New-Jersey/Business-Insights-Specialist--US----Decision-Science--Loan-Portfolio_R_1512419": {
+      "title": "Business Insights Specialist (US) - Decision Science- Loan Portfolio",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Business-Insights-Specialist--US----Decision-Science--Loan-Portfolio_R_1512419",
       "location": "2 Locations"
     },
     "/job/New-York-New-York/VP-Broker-Dealer-Regulatory-Reporting_R_1486167": {
@@ -7246,6 +7249,11 @@
       "title": "Corporate Client Analyst I - Entertainment",
       "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Los-Angeles-CA/Corporate-Client-Analyst-I---Entertainment_R73007",
       "location": "Los Angeles, CA"
+    },
+    "/job/Detroit-MI/Corporate-Banking-Analyst--Multinational-Banking_R73134": {
+      "title": "Corporate Banking Analyst- Multinational Banking",
+      "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Detroit-MI/Corporate-Banking-Analyst--Multinational-Banking_R73134",
+      "location": "Detroit, MI"
     },
     "/job/Cincinnati-OH/Fraud-Analyst-I_R71860": {
       "title": "Fraud Analyst I - 2027 (Cincinnati, OH)",
