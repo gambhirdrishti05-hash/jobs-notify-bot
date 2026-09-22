@@ -2058,12 +2058,6 @@
       "location": "Jersey City, NJ, United States",
       "country_code": "US"
     },
-    "210775481": {
-      "title": "Business Bank Lending Risk Analytics Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775481",
-      "location": "Wilmington, DE, United States",
-      "country_code": "US"
-    },
     "210790618": {
       "title": "Liquidity Risk Reporting - Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790618",
@@ -2146,6 +2140,12 @@
       "title": "Agility Lead - Reference Data Engineering",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785916",
       "location": "Chicago, IL, United States",
+      "country_code": "US"
+    },
+    "210775481": {
+      "title": "Business Bank Lending Risk Analytics Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775481",
+      "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
     "210772809": {
@@ -3327,12 +3327,6 @@
       "location": "Arlington, Virginia, USA",
       "country_code": "USA"
     },
-    "10491875": {
-      "title": "Sr. Cultural Researcher, Futures Insights, Devices Experience Design ",
-      "url": "https://www.amazon.jobs/en/jobs/10491875/sr-cultural-researcher-futures-insights-devices-experience-design",
-      "location": "New York, New York, USA",
-      "country_code": "USA"
-    },
     "10482980": {
       "title": "Business Analyst III - AMZ9898510",
       "url": "https://www.amazon.jobs/en/jobs/10482980/business-analyst-iii-amz9898510",
@@ -3571,12 +3565,6 @@
       "title": "Business Analyst, Relay Supply Product and Technology",
       "url": "https://www.amazon.jobs/en/jobs/10482480/business-analyst-relay-supply-product-and-technology",
       "location": "Nashville, Tennessee, USA",
-      "country_code": "USA"
-    },
-    "10454620": {
-      "title": "Sr. Financial Analyst, Amazon Ads, Ads Trust",
-      "url": "https://www.amazon.jobs/en/jobs/10454620/sr-financial-analyst-amazon-ads-ads-trust",
-      "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
     "10458131": {
@@ -3956,11 +3944,6 @@
       "title": "Senior Analyst, Project Management",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MI---Work-from-home/Senior-Analyst--Project-Management_R1031995",
       "location": "49 Locations"
-    },
-    "/job/TX---Farmers-Branch/Senior-Workday-Configuration-Analyst---HCM_R0876199": {
-      "title": "Senior Workday Configuration Analyst - HCM",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Farmers-Branch/Senior-Workday-Configuration-Analyst---HCM_R0876199",
-      "location": "52 Locations"
     },
     "/job/IL---Northbrook/Analyst--Corporate-Audit_R1039692": {
       "title": "Analyst, Corporate Audit",
@@ -4490,6 +4473,11 @@
       "title": "Project Analyst, SETA 1",
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Alexandria-VA/Project-Analyst--SETA-1_R2602992",
       "location": "Alexandria, VA"
+    },
+    "/job/San-Diego-CA/GIS-Analyst--On-Call-_R2603166": {
+      "title": "GIS Analyst (On-Call)",
+      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/San-Diego-CA/GIS-Analyst--On-Call-_R2603166",
+      "location": "San Diego, CA"
     },
     "/job/Reston-VA-VA30/Salesforce-Business-Analyst--Public-Trust-_R2602434-1": {
       "title": "Salesforce Business Analyst (Public Trust)",
@@ -5099,6 +5087,12 @@
       "location": "Miami, FL, United States",
       "country_code": "US"
     },
+    "13974": {
+      "title": "Manager Sr, Financial Data and Analytics",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13974",
+      "location": "Miami, FL, United States",
+      "country_code": "US"
+    },
     "13810": {
       "title": "Manager, Global Sourcing Analytics",
       "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13810",
@@ -5472,13 +5466,13 @@
     }
   },
   "Gainwell": {
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Technical-Analyst-Advisor-Application-Architect-TX-99999/1432056000/": {
-      "title": "Technical Analyst / Advisor Application Architect",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Technical-Analyst-Advisor-Application-Architect-TX-99999/1432056000/"
-    },
     "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Quality-Assurance-Compliance-Analyst-Remote-CA-CA-95605-1630/1432226300/": {
       "title": "Quality Assurance Compliance Analyst - Remote CA",
       "url": "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Quality-Assurance-Compliance-Analyst-Remote-CA-CA-95605-1630/1432226300/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Technical-Analyst-Advisor-Application-Architect-TX-99999/1432056000/": {
+      "title": "Technical Analyst / Advisor Application Architect",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Technical-Analyst-Advisor-Application-Architect-TX-99999/1432056000/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Client-Services-Analyst-TX-99999/1394502100/": {
       "title": "Senior Client Services Analyst",
@@ -5548,6 +5542,10 @@
       "title": "Security Operations Center Analyst - Houston, TX (Physical Security)",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Houston-Tx-Security-Operations-Center-Analyst-Houston%2C-TX-%28Physical-Security%29-TX-77001/1428066433/"
     },
+    "https://jobs.cmacgm-group.com/CEVALogistics/job/Ashby-de-la-Zouch-Logistics-Planning-&-CI-Analyst/1435477033/": {
+      "title": "Logistics Planning & CI Analyst",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Ashby-de-la-Zouch-Logistics-Planning-&-CI-Analyst/1435477033/"
+    },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/London-Heathrow-Healthcare-Airfreight-Pricing-Analyst/1433067233/": {
       "title": "Healthcare Airfreight Pricing Analyst",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/London-Heathrow-Healthcare-Airfreight-Pricing-Analyst/1433067233/"
@@ -5555,10 +5553,6 @@
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Courbevoie-Data-Insight-and-Innovation-Specialist-EUROPE/1433801333/": {
       "title": "Data Insight and Innovation Specialist EUROPE",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Courbevoie-Data-Insight-and-Innovation-Specialist-EUROPE/1433801333/"
-    },
-    "https://jobs.cmacgm-group.com/CEVALogistics/job/Ashby-de-la-Zouch-Logistics-Planning-&-CI-Analyst/1435477033/": {
-      "title": "Logistics Planning & CI Analyst",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Ashby-de-la-Zouch-Logistics-Planning-&-CI-Analyst/1435477033/"
     },
     "https://jobs.cmacgm-group.com/job/Norfolk-Va-Business-Process-Analyst-VA-23501/1435880533/": {
       "title": "Business Process Analyst",
@@ -6079,20 +6073,22 @@
     }
   },
   "Capital One": {
-    "https://www.capitalonecareers.com/job/mclean/sr-business-analyst-retail-and-small-business-bank-orgs/1732/95994957696": {
-      "title": "9599495769609/21/2026Sr. Business Analyst - Retail and Small Business Bank OrgsMcLean, VA",
-      "url": "https://www.capitalonecareers.com/job/mclean/sr-business-analyst-retail-and-small-business-bank-orgs/1732/95994957696"
-    },
-    "https://www.capitalonecareers.com/job/mclean/data-engineer-4-risk-tech/1732/100950788176": {
-      "title": "10095078817609/21/2026Data Engineer 4 (Risk Tech)McLean, VA",
-      "url": "https://www.capitalonecareers.com/job/mclean/data-engineer-4-risk-tech/1732/100950788176"
-    },
-    "https://www.capitalonecareers.com/job/mclean/sr-business-analyst-us-card/1732/98707315360": {
-      "title": "9870731536009/21/2026Sr. Business Analyst - US CardMcLean, VA",
-      "url": "https://www.capitalonecareers.com/job/mclean/sr-business-analyst-us-card/1732/98707315360"
+    "https://www.capitalonecareers.com/job/richmond/data-engineer-4-python-aws/1732/100959430640": {
+      "title": "10095943064009/21/2026Data Engineer 4 (Python, AWS)Richmond, VA",
+      "url": "https://www.capitalonecareers.com/job/richmond/data-engineer-4-python-aws/1732/100959430640"
     }
   },
   "BMO": {
+    "/job/Chicago-IL-USA/Intraday-Liquidity-Analyst_R260027274-1": {
+      "title": "Intraday Liquidity Analyst",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Intraday-Liquidity-Analyst_R260027274-1",
+      "location": "Chicago, IL, USA"
+    },
+    "/job/REMOTETELETRAVAIL-QC-CAN/Bilingual--French-English--Fraud-Inbound-Analyst---REMOTE_R260026887": {
+      "title": "Bilingual (French/English) Fraud Inbound Analyst - REMOTE",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/REMOTETELETRAVAIL-QC-CAN/Bilingual--French-English--Fraud-Inbound-Analyst---REMOTE_R260026887",
+      "location": "11 Locations"
+    },
     "/job/Hinsdale-IL-USA/Client-Service-Analyst_R260017186": {
       "title": "Client Service Analyst",
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Hinsdale-IL-USA/Client-Service-Analyst_R260017186",
@@ -6274,11 +6270,6 @@
     }
   },
   "HPE": {
-    "/job/Tokyo-Tokyo-Japan/Japan-Pricing-Analyst_1206612": {
-      "title": "Japan Pricing Analyst",
-      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Tokyo-Tokyo-Japan/Japan-Pricing-Analyst_1206612",
-      "location": "2 Locations"
-    },
     "/job/Bratislava-22-Bratislavsk-kraj-Slovakia/Business-Operation-Analyst_1208104": {
       "title": "Business Operation Analyst",
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bratislava-22-Bratislavsk-kraj-Slovakia/Business-Operation-Analyst_1208104",
@@ -6317,11 +6308,6 @@
     "/job/Bengaluru-Karntaka-India/HPE-Networking-Finance-Operations-Analyst_1210014": {
       "title": "HPE Networking Finance Operations Analyst",
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bengaluru-Karntaka-India/HPE-Networking-Finance-Operations-Analyst_1210014",
-      "location": "2 Locations"
-    },
-    "/job/Tlaquepaque-Jalisco-Mexico/People-Care-AI-Process-Analyst_1212457-3": {
-      "title": "People Care AI Process Analyst",
-      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Tlaquepaque-Jalisco-Mexico/People-Care-AI-Process-Analyst_1212457-3",
       "location": "2 Locations"
     },
     "/job/Bengaluru-Karntaka-India/Supply-Chain---Inventory-Compliance-Analyst_1210634-3": {
@@ -6515,6 +6501,11 @@
     "/job/HQ---San-Diego-CA/Analyst--Commercial-Credit-and-Risk_JR5379": {
       "title": "Analyst, Commercial Credit and Risk",
       "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Analyst--Commercial-Credit-and-Risk_JR5379",
+      "location": "HQ - San Diego, CA"
+    },
+    "/job/HQ---San-Diego-CA/Jr-Commercial-QC---AI-Automation-Analyst_JR5523": {
+      "title": "Jr. Commercial QC & AI Automation Analyst",
+      "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Jr-Commercial-QC---AI-Automation-Analyst_JR5523",
       "location": "HQ - San Diego, CA"
     },
     "/job/HQ---San-Diego-CA/AVP--Data-Analytics---Regulatory-Reporting_JR5131": {
@@ -7717,6 +7708,21 @@
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/Sr-Relationship-Analyst_Req1612531",
       "location": "Miami"
     },
+    "/job/NY-360-Lexington-Ave/Analyst--Portfolio-Management_Req1614343-2": {
+      "title": "Analyst, Portfolio Management",
+      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/NY-360-Lexington-Ave/Analyst--Portfolio-Management_Req1614343-2",
+      "location": "NY 360 Lexington Ave"
+    },
+    "/job/NY-360-Lexington-Ave/Leveraged-Finance-Analyst_Req1614308-1": {
+      "title": "Leveraged Finance Analyst",
+      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/NY-360-Lexington-Ave/Leveraged-Finance-Analyst_Req1614308-1",
+      "location": "NY 360 Lexington Ave"
+    },
+    "/job/NY-360-Lexington-Ave/Leveraged-Finance-Analyst_Req1614301": {
+      "title": "Leveraged Finance Analyst",
+      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/NY-360-Lexington-Ave/Leveraged-Finance-Analyst_Req1614301",
+      "location": "NY 360 Lexington Ave"
+    },
     "/job/Dallas/Whole-Loans-Operations--Analyst_Req1600347": {
       "title": "Whole Loans Operations, Analyst",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Dallas/Whole-Loans-Operations--Analyst_Req1600347",
@@ -7742,6 +7748,11 @@
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/USA-SCIB-Portfolio-Management-Analyst---CIB-Lending_Req1612357-2",
       "location": "Miami"
     },
+    "/job/Madison-Ave-Corp/Corporate-and-I-Banking-Cash-Management-Analyst_Req1596493": {
+      "title": "Corporate and I-Banking Cash Management Analyst",
+      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/Corporate-and-I-Banking-Cash-Management-Analyst_Req1596493",
+      "location": "Madison Ave Corp"
+    },
     "/job/Madison-Ave-Corp/Export---Agency-Finance--EAF-US----LatAm-Focus---Analyst_Req1587693": {
       "title": "Export & Agency Finance (EAF US) \u2013 LatAm Focus - Analyst",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/Export---Agency-Finance--EAF-US----LatAm-Focus---Analyst_Req1587693",
@@ -7752,10 +7763,10 @@
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/Corporate---Investment-Banking-Latam-Rates-FX-Structured-Products-Analyst_Req1594213",
       "location": "Madison Ave Corp"
     },
-    "/job/Madison-Ave-Corp/Corporate-and-I-Banking-Cash-Management-Analyst_Req1596493": {
-      "title": "Corporate and I-Banking Cash Management Analyst",
-      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/Corporate-and-I-Banking-Cash-Management-Analyst_Req1596493",
-      "location": "Madison Ave Corp"
+    "/job/CT-Southington/Manager--Segment-Profitability-Accounting-and-Reporting_Req1614353": {
+      "title": "Manager, Segment Profitability Accounting and Reporting",
+      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/CT-Southington/Manager--Segment-Profitability-Accounting-and-Reporting_Req1614353",
+      "location": "CT Southington"
     },
     "/job/New-York/Senior-Director--Head-of-Insights---Marketing-Analytics--Boston--New-York-or-Miami_Req1588096": {
       "title": "Senior Director, Head of Insights & Marketing Analytics, Boston, New York or Miami",
@@ -8065,11 +8076,6 @@
     "/job/AustinTX/Business-Intelligence-Analyst---Global-Logistics-Supplier-Management--B2-_R2622477": {
       "title": "Business Intelligence Analyst - Global Logistics Supplier Management (B2)",
       "url": "https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Business-Intelligence-Analyst---Global-Logistics-Supplier-Management--B2-_R2622477",
-      "location": "Austin,TX"
-    },
-    "/job/AustinTX/Global-Supply-Chain-Rotational-Program--Business-Intelligence-Analyst-I--New-College-Grad--Bachelor-s--Austin-TX-_R2627400": {
-      "title": "Global Supply Chain Rotational Program, Business Intelligence Analyst I, New College Grad- Bachelor's (Austin TX)",
-      "url": "https://amat.wd1.myworkdayjobs.com/external/job/AustinTX/Global-Supply-Chain-Rotational-Program--Business-Intelligence-Analyst-I--New-College-Grad--Bachelor-s--Austin-TX-_R2627400",
       "location": "Austin,TX"
     },
     "/job/Santa-ClaraCA/Business-Intelligence-Analyst-I--New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626650": {
@@ -8524,12 +8530,6 @@
   },
   "HP": {},
   "Southwest Gas": {
-    "4179": {
-      "title": "Sr Analyst/Application Services/Technical",
-      "url": "https://ebtw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4179",
-      "location": "Las Vegas, NV, United States",
-      "country_code": "US"
-    },
     "4139": {
       "title": "Analyst/GIS",
       "url": "https://ebtw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4139",
