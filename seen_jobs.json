@@ -1,5 +1,11 @@
 {
   "JPMorgan Chase": {
+    "210777458": {
+      "title": "Investor Reporting Associate - Commercial Real Estate - Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777458",
+      "location": "Plano, TX, United States",
+      "country_code": "US"
+    },
     "210790930": {
       "title": "Credit Ops Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790930",
@@ -58,18 +64,6 @@
       "title": "PricingDirect Evaluator - Municipal Bond - Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792604",
       "location": "New York, NY, United States",
-      "country_code": "US"
-    },
-    "210784267": {
-      "title": "Risk Management - Risk Reporting Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784267",
-      "location": "Jersey City, NJ, United States",
-      "country_code": "US"
-    },
-    "210789883": {
-      "title": "2027 Commercial & Specialized Industries Summer Analyst Program",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789883",
-      "location": "Atlanta, GA, United States",
       "country_code": "US"
     },
     "210792559": {
@@ -1272,6 +1266,12 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
+    "210790742": {
+      "title": "Liquidity Forecasting & Management Reporting, Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790742",
+      "location": "Brooklyn, NY, United States",
+      "country_code": "US"
+    },
     "210792297": {
       "title": "Global Security - Business Analysis & Reporting Specialist",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792297",
@@ -1902,15 +1902,15 @@
       "location": "Columbus, OH, United States",
       "country_code": "US"
     },
-    "210778647": {
-      "title": "Audit Chief Data Office - Data Scientist - Senior Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778647",
-      "location": "Jersey City, NJ, United States",
-      "country_code": "US"
-    },
     "210780227": {
       "title": "Chief Data & Analytics Office- Data Privacy Governance- Executive Director",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780227",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
+    "210778647": {
+      "title": "Audit Chief Data Office - Data Scientist - Senior Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778647",
       "location": "Jersey City, NJ, United States",
       "country_code": "US"
     },
@@ -2052,6 +2052,18 @@
       "location": "Jersey City, NJ, United States",
       "country_code": "US"
     },
+    "210775481": {
+      "title": "Business Bank Lending Risk Analytics Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775481",
+      "location": "Wilmington, DE, United States",
+      "country_code": "US"
+    },
+    "210771547": {
+      "title": "Regulatory Capital Reporting & Analysis \u2013 Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771547",
+      "location": "Brooklyn, NY, United States",
+      "country_code": "US"
+    },
     "210790618": {
       "title": "Liquidity Risk Reporting - Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790618",
@@ -2134,12 +2146,6 @@
       "title": "Agility Lead - Reference Data Engineering",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785916",
       "location": "Chicago, IL, United States",
-      "country_code": "US"
-    },
-    "210775481": {
-      "title": "Business Bank Lending Risk Analytics Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775481",
-      "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
     "210772809": {
@@ -3723,12 +3729,6 @@
       "location": "Memphis, Tennessee, USA",
       "country_code": "USA"
     },
-    "10416437": {
-      "title": "Senior Finance Analyst, NA Amazon Logistics Field Finance RSR Execution",
-      "url": "https://www.amazon.jobs/en/jobs/10416437/senior-finance-analyst-na-amazon-logistics-field-finance-rsr-execution",
-      "location": "Nashville, Tennessee, USA",
-      "country_code": "USA"
-    },
     "10404459": {
       "title": "Senior Financial Analyst, TTS Finance",
       "url": "https://www.amazon.jobs/en/jobs/10404459/senior-financial-analyst-tts-finance",
@@ -3769,6 +3769,12 @@
       "title": "Senior Product Manager - Technical, Quick Sight - Structured Data Analytics",
       "url": "https://www.amazon.jobs/en/jobs/10421322/senior-product-manager-technical-quick-sight-structured-data-analytics",
       "location": "Seattle, Washington, USA",
+      "country_code": "USA"
+    },
+    "10400131": {
+      "title": "Senior Financial Analyst, Fixed, Capital, Analytics, and Planning (FCAP)",
+      "url": "https://www.amazon.jobs/en/jobs/10400131/senior-financial-analyst-fixed-capital-analytics-and-planning-fcap",
+      "location": "Bellevue, Washington, USA",
       "country_code": "USA"
     },
     "10383371": {
@@ -4543,15 +4549,15 @@
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Alexandria-VA/Project-Analyst---SETA-Level-2----Security-Clearance-Required--Hybrid-Role-_R2603076",
       "location": "Alexandria, VA"
     },
+    "/job/Los-Angeles-CA/Homeless-Services--HMIS-Analyst--Los-Angeles-Area-or-REMOTE-ROLE-_R2603176": {
+      "title": "Homeless Services, HMIS Analyst (Los Angeles Area or REMOTE ROLE)",
+      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Los-Angeles-CA/Homeless-Services--HMIS-Analyst--Los-Angeles-Area-or-REMOTE-ROLE-_R2603176",
+      "location": "4 Locations"
+    },
     "/job/Richmond-VA/Critical-Infrastructure--Fuels--Transportation--and-Water--Analyst--SME--High-Level-Clearance-Required-_R2602917": {
       "title": "Critical Infrastructure (Fuels, Transportation, and Water) Analyst, SME (High Level Clearance Required)",
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Richmond-VA/Critical-Infrastructure--Fuels--Transportation--and-Water--Analyst--SME--High-Level-Clearance-Required-_R2602917",
       "location": "2 Locations"
-    },
-    "/job/Reston-VA/Data-Engineer--Clearance-Required-_R2602945": {
-      "title": "Data Engineer (Clearance Required)",
-      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Data-Engineer--Clearance-Required-_R2602945",
-      "location": "Reston, VA"
     },
     "/job/Arlington-VA-VA31/Data-Mining---Analytics-Engineer--Journeyman--Security-Clearance-Required-_R2602428": {
       "title": "Data Mining & Analytics Engineer, Journeyman (Security Clearance Required)",
@@ -4562,6 +4568,11 @@
       "title": "Data Mining & Analytics Engineer, Senior (Security Clearance Required)",
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Arlington-VA-VA31/Data-Mining---Analytics-Engineer--Senior--Security-Clearance-Required-_R2602427",
       "location": "2 Locations"
+    },
+    "/job/Reston-VA/Data-Engineer--Clearance-Required-_R2602945": {
+      "title": "Data Engineer (Clearance Required)",
+      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Data-Engineer--Clearance-Required-_R2602945",
+      "location": "Reston, VA"
     },
     "/job/Arlington-VA-VA31/Senior-Data-Scientist--Security-Clearance-Required-_R2601051": {
       "title": "Senior Data Scientist (Security Clearance Required)",
@@ -5455,6 +5466,14 @@
     }
   },
   "Gainwell": {
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Data-Engineer-Cloudera-&-AWS-Lakehouse-%28Irving%2C-Texas%29-TX-99999/1422454900/": {
+      "title": "Data Engineer - Cloudera & AWS Lakehouse (Irving, Texas)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Data-Engineer-Cloudera-&-AWS-Lakehouse-%28Irving%2C-Texas%29-TX-99999/1422454900/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Pharmacy-LA-99999/1422714000/": {
+      "title": "Senior Business Analyst - Pharmacy",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Pharmacy-LA-99999/1422714000/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Technical-Analyst-Advisor-Application-Architect-TX-99999/1432056000/": {
       "title": "Technical Analyst / Advisor Application Architect",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Technical-Analyst-Advisor-Application-Architect-TX-99999/1432056000/"
@@ -5574,6 +5593,10 @@
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Mississauga-On-Pricing-Analyst-ON/1423463833/": {
       "title": "Pricing Analyst",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Mississauga-On-Pricing-Analyst-ON/1423463833/"
+    },
+    "https://jobs.cmacgm-group.com/job/Marseille-Internship-Container-Fleet-Procurement-Analyst/1438329933/": {
+      "title": "Internship - Container Fleet Procurement Analyst",
+      "url": "https://jobs.cmacgm-group.com/job/Marseille-Internship-Container-Fleet-Procurement-Analyst/1438329933/"
     }
   },
   "Beyond Finance": {
@@ -6069,11 +6092,6 @@
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Intraday-Liquidity-Analyst_R260027274-1",
       "location": "Chicago, IL, USA"
     },
-    "/job/REMOTETELETRAVAIL-QC-CAN/Bilingual--French-English--Fraud-Inbound-Analyst---REMOTE_R260026887": {
-      "title": "Bilingual (French/English) Fraud Inbound Analyst - REMOTE",
-      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/REMOTETELETRAVAIL-QC-CAN/Bilingual--French-English--Fraud-Inbound-Analyst---REMOTE_R260026887",
-      "location": "11 Locations"
-    },
     "/job/Hinsdale-IL-USA/Client-Service-Analyst_R260017186": {
       "title": "Client Service Analyst",
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Hinsdale-IL-USA/Client-Service-Analyst_R260017186",
@@ -6244,9 +6262,9 @@
     }
   },
   "AbbVibe": {
-    "https://careers.abbvie.com/en/job/financial-analyst-pricing-gtn-in-mettawa-il-jid-33459": {
-      "title": "Financial Analyst \u00e2\u0080\u0093 Pricing GTN",
-      "url": "https://careers.abbvie.com/en/job/financial-analyst-pricing-gtn-in-mettawa-il-jid-33459"
+    "https://careers.abbvie.com/en/job/senior-financial-analyst-finance-location-montreal-in-montreal-qc-jid-31398": {
+      "title": "Senior Financial Analyst, Finance - Location Montreal",
+      "url": "https://careers.abbvie.com/en/job/senior-financial-analyst-finance-location-montreal-in-montreal-qc-jid-31398"
     }
   },
   "HPE": {
@@ -7678,11 +7696,6 @@
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/USA-SCIB-Portfolio-Management-Analyst---CIB-Lending_Req1612357-2",
       "location": "Miami"
     },
-    "/job/Madison-Ave-Corp/Corporate-and-I-Banking-Cash-Management-Analyst_Req1596493": {
-      "title": "Corporate and I-Banking Cash Management Analyst",
-      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/Corporate-and-I-Banking-Cash-Management-Analyst_Req1596493",
-      "location": "Madison Ave Corp"
-    },
     "/job/Madison-Ave-Corp/Export---Agency-Finance--EAF-US----LatAm-Focus---Analyst_Req1587693": {
       "title": "Export & Agency Finance (EAF US) \u2013 LatAm Focus - Analyst",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/Export---Agency-Finance--EAF-US----LatAm-Focus---Analyst_Req1587693",
@@ -7691,6 +7704,11 @@
     "/job/Madison-Ave-Corp/Corporate---Investment-Banking-Latam-Rates-FX-Structured-Products-Analyst_Req1594213": {
       "title": "Corporate & Investment Banking Latam Rates/FX Structured Products Analyst",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/Corporate---Investment-Banking-Latam-Rates-FX-Structured-Products-Analyst_Req1594213",
+      "location": "Madison Ave Corp"
+    },
+    "/job/Madison-Ave-Corp/Corporate-and-I-Banking-Cash-Management-Analyst_Req1596493": {
+      "title": "Corporate and I-Banking Cash Management Analyst",
+      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/Corporate-and-I-Banking-Cash-Management-Analyst_Req1596493",
       "location": "Madison Ave Corp"
     },
     "/job/CT-Southington/Manager--Segment-Profitability-Accounting-and-Reporting_Req1614353": {
