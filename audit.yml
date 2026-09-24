@@ -1,0 +1,31 @@
+name: Audit coverage
+
+# Manual only. This is a diagnostic, not part of the alerting pipeline.
+# It writes nothing and commits nothing.
+on:
+  workflow_dispatch:
+    inputs:
+      companies:
+        description: "Optional: comma-separated company names to audit. Leave blank for all."
+        required: false
+        default: ""
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    # Fetches every board twice, so it runs longer than a normal check.
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run audit
+        env:
+          AUDIT_COMPANIES: ${{ inputs.companies }}
+        run: python audit_coverage.py
