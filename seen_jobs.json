@@ -372,12 +372,6 @@
       "location": "Brooklyn, NY, United States",
       "country_code": "US"
     },
-    "210789551": {
-      "title": "Executive Product Solutions Director Agent Platform Engineer Chief Data & Analytics Office Fusion Platform",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789551",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
     "210788993": {
       "title": "Equity Capital Markets - Syndicate - Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788993",
@@ -3760,6 +3754,12 @@
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
+    "10415963": {
+      "title": "Senior Financial Analyst, Amazon Freight Finance",
+      "url": "https://www.amazon.jobs/en/jobs/10415963/senior-financial-analyst-amazon-freight-finance",
+      "location": "Irving, Texas, USA",
+      "country_code": "USA"
+    },
     "10423985": {
       "title": "Senior Financial Analyst, FP&A, ISS FP&A",
       "url": "https://www.amazon.jobs/en/jobs/10423985/senior-financial-analyst-fp-a-iss-fp-a",
@@ -5118,12 +5118,6 @@
       "location": "Miami, FL, United States",
       "country_code": "US"
     },
-    "13399": {
-      "title": "Senior Finance Analyst-Capital Planning",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13399",
-      "location": "Seattle, WA, United States",
-      "country_code": "US"
-    },
     "13310": {
       "title": "Analyst Sr., Operational Performance & Analytics",
       "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13310",
@@ -5509,37 +5503,29 @@
     }
   },
   "Gainwell": {
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-Business-Analyst-IN-99999/1423284200/": {
-      "title": "Early Career Business Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-Business-Analyst-IN-99999/1423284200/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Client-Services-Analyst-II-TX-99999/1413068600/": {
-      "title": "Client Services Analyst II",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Client-Services-Analyst-II-TX-99999/1413068600/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-Data-Analytics-&-Reporting-TX-99999/1410241500/": {
+      "title": "Business Analyst - Data Analytics & Reporting",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-Data-Analytics-&-Reporting-TX-99999/1410241500/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Data-Mining-&-Payment-Integrity-Analyst-TX-99999/1357001600/": {
       "title": "Senior Data Mining & Payment Integrity Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Data-Mining-&-Payment-Integrity-Analyst-TX-99999/1357001600/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-Data-Analytics-&-Reporting-TX-99999/1410241500/": {
-      "title": "Business Analyst - Data Analytics & Reporting",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-Data-Analytics-&-Reporting-TX-99999/1410241500/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Client-Services-Analyst-II-TX-99999/1413068600/": {
+      "title": "Client Services Analyst II",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Client-Services-Analyst-II-TX-99999/1413068600/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Associate-Professional-Programmer-Analyst-TX-99999/1433072400/": {
-      "title": "Associate Professional Programmer Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Associate-Professional-Programmer-Analyst-TX-99999/1433072400/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-Business-Analyst-IN-99999/1423284200/": {
+      "title": "Early Career Business Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-Business-Analyst-IN-99999/1423284200/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Professional-Business-Analyst-TX-99999/1432950600/": {
       "title": "Senior Professional Business Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Professional-Business-Analyst-TX-99999/1432950600/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Professional-Business-Analyst-LA-99999/1422714000/": {
-      "title": "Senior Professional Business Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Professional-Business-Analyst-LA-99999/1422714000/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Data-Engineer-Cloudera-&-AWS-Lakehouse-%28Irving%2C-Texas%29-TX-99999/1422454900/": {
-      "title": "Data Engineer - Cloudera & AWS Lakehouse (Irving, Texas)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Data-Engineer-Cloudera-&-AWS-Lakehouse-%28Irving%2C-Texas%29-TX-99999/1422454900/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Associate-Professional-Programmer-Analyst-TX-99999/1433072400/": {
+      "title": "Associate Professional Programmer Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Associate-Professional-Programmer-Analyst-TX-99999/1433072400/"
     }
   },
   "Happen Bank": {
@@ -5605,13 +5591,13 @@
       "title": "Data Insight and Innovation Specialist EUROPE",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Courbevoie-Data-Insight-and-Innovation-Specialist-EUROPE/1433801333/"
     },
-    "https://jobs.cmacgm-group.com/CEVALogistics/job/London-Heathrow-Healthcare-Airfreight-Pricing-Analyst/1433067233/": {
-      "title": "Healthcare Airfreight Pricing Analyst",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/London-Heathrow-Healthcare-Airfreight-Pricing-Analyst/1433067233/"
-    },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Ashby-de-la-Zouch-Logistics-Planning-&-CI-Analyst/1435477033/": {
       "title": "Logistics Planning & CI Analyst",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Ashby-de-la-Zouch-Logistics-Planning-&-CI-Analyst/1435477033/"
+    },
+    "https://jobs.cmacgm-group.com/CEVALogistics/job/London-Heathrow-Healthcare-Airfreight-Pricing-Analyst/1433067233/": {
+      "title": "Healthcare Airfreight Pricing Analyst",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/London-Heathrow-Healthcare-Airfreight-Pricing-Analyst/1433067233/"
     },
     "https://jobs.cmacgm-group.com/job/Norfolk-Va-Business-Process-Analyst-VA-23501/1435880533/": {
       "title": "Business Process Analyst",
@@ -5621,13 +5607,13 @@
       "title": "Pricing Analyst (REMOTE)",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Bernville_PA-Pricing-Analyst-%28REMOTE%29-CA/1440664233/"
     },
-    "https://jobs.cmacgm-group.com/CEVALogistics/job/Tilburg-Data-Analyst/1433934633/": {
-      "title": "Data Analyst",
-      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Tilburg-Data-Analyst/1433934633/"
-    },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Bernville_PA-Pricing-Analyst-%28REMOTE%29-CA/1432029633/": {
       "title": "Pricing Analyst (REMOTE)",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Bernville_PA-Pricing-Analyst-%28REMOTE%29-CA/1432029633/"
+    },
+    "https://jobs.cmacgm-group.com/CEVALogistics/job/Tilburg-Data-Analyst/1433934633/": {
+      "title": "Data Analyst",
+      "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Tilburg-Data-Analyst/1433934633/"
     },
     "https://jobs.cmacgm-group.com/job/Lisboa-Shipping-and-Logistics-Analyst/1439648933/": {
       "title": "Shipping and Logistics Analyst",
@@ -6818,6 +6804,11 @@
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Business-Data-Analyst---Corporate-Real-Estate_R0119634",
       "location": "Charlotte, NC"
     },
+    "/job/Charlotte-NC/Wholesale-Payments---Payments-Analysts-Leader_R0119505": {
+      "title": "Wholesale Payments - Payments Analysts Leader",
+      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Wholesale-Payments---Payments-Analysts-Leader_R0119505",
+      "location": "Charlotte, NC"
+    },
     "/job/Charlotte-NC/Senior-Financial-Analyst--Wholesale-FP-A-Advisory_R0117671": {
       "title": "Senior Financial Analyst- Wholesale FP&A Advisory",
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Senior-Financial-Analyst--Wholesale-FP-A-Advisory_R0117671",
@@ -6842,11 +6833,6 @@
       "title": "Investment Grade- Debt Capital Markets Analyst I",
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Investment-Grade--Debt-Capital-Markets-Analyst-I_R0118559",
       "location": "Atlanta, GA"
-    },
-    "/job/Charlotte-NC/Wholesale-Payments---Payments-Analysts-Leader_R0119505": {
-      "title": "Wholesale Payments - Payments Analysts Leader",
-      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Wholesale-Payments---Payments-Analysts-Leader_R0119505",
-      "location": "Charlotte, NC"
     },
     "/job/Atlanta-GA/Analyst-I-or-II---Real-Estate-Investment-Banking_R0116842-1": {
       "title": "Analyst I or II - Real Estate Investment Banking",
@@ -7212,11 +7198,6 @@
       "title": "Consumer Lending Data Analyst",
       "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Consumer-Home-Equity-Pricing-Analyst_R62015",
       "location": "Cincinnati, OH"
-    },
-    "/job/Cincinnati-OH/Capital-Planning-Analyst-III_R65974-1": {
-      "title": "Capital Planning Analyst III",
-      "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Capital-Planning-Analyst-III_R65974-1",
-      "location": "2 Locations"
     },
     "/job/Cincinnati-OH/Capital-Planning-Senior-Analyst_R66678": {
       "title": "Capital Planning Senior Analyst",
@@ -8259,6 +8240,11 @@
   "Speciality": {},
   "Ross": {},
   "Cisco": {
+    "/job/San-Jose-California-US/Pricing-Business-Analyst_2023520-1": {
+      "title": "Pricing Business Analyst",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Pricing-Business-Analyst_2023520-1",
+      "location": "2 Locations"
+    },
     "/job/RTP-North-Carolina-US/Business-Analyst-I--Intern--United-States_2026181": {
       "title": "Business Analyst I (Intern) United States",
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Business-Analyst-I--Intern--United-States_2026181",
@@ -9098,6 +9084,10 @@
     }
   },
   "Intuit": {
+    "https://jobs.intuit.com/job/san-diego/staff-quality-analyst-quality-management-system/27595/101058524176": {
+      "title": "Staff Quality Analyst \u2014 Quality Management SystemMultiple Locations",
+      "url": "https://jobs.intuit.com/job/san-diego/staff-quality-analyst-quality-management-system/27595/101058524176"
+    },
     "https://jobs.intuit.com/job/mountain-view/senior-staff-business-systems-analyst-legal-technology/27595/101043377872": {
       "title": "Senior Staff Business Systems Analyst \u2013 Legal TechnologyMultiple Locations",
       "url": "https://jobs.intuit.com/job/mountain-view/senior-staff-business-systems-analyst-legal-technology/27595/101043377872"
