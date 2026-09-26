@@ -4715,6 +4715,11 @@
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Tech-Partners-Operations-Analyst--Reston--VA-_R2603246",
       "location": "Reston, VA"
     },
+    "/job/Los-Angeles-CA/Homeless-Services--HMIS-Analyst--Los-Angeles-Area-or-REMOTE-ROLE-_R2603176": {
+      "title": "Homeless Services, HMIS Analyst (Los Angeles Area or REMOTE ROLE)",
+      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Los-Angeles-CA/Homeless-Services--HMIS-Analyst--Los-Angeles-Area-or-REMOTE-ROLE-_R2603176",
+      "location": "4 Locations"
+    },
     "/job/Richmond-VA/Critical-Infrastructure--Fuels--Transportation--and-Water--Analyst--SME--High-Level-Clearance-Required-_R2602917": {
       "title": "Critical Infrastructure (Fuels, Transportation, and Water) Analyst, SME (High Level Clearance Required)",
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Richmond-VA/Critical-Infrastructure--Fuels--Transportation--and-Water--Analyst--SME--High-Level-Clearance-Required-_R2602917",
@@ -6328,6 +6333,16 @@
     }
   },
   "Capital One": {
+    "/job/New-York-NY/Data-Engineer-4--Python--AWS--Spark--Kafka--SQL--Snowflake--Databricks--GenAI-_R1002121-1": {
+      "title": "Data Engineer 4 (Python, AWS, Spark, Kafka, SQL, Snowflake, Databricks, GenAI)",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Data-Engineer-4--Python--AWS--Spark--Kafka--SQL--Snowflake--Databricks--GenAI-_R1002121-1",
+      "location": "3 Locations"
+    },
+    "/job/New-York-NY/Data-Engineer-4--Python--AWS--Spark--Kafka--SQL--Snowflake--Databricks--GenAI-_R1002122-1": {
+      "title": "Data Engineer 4 (Python, AWS, Spark, Kafka, SQL, Snowflake, Databricks, GenAI)",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Data-Engineer-4--Python--AWS--Spark--Kafka--SQL--Snowflake--Databricks--GenAI-_R1002122-1",
+      "location": "3 Locations"
+    },
     "/job/Chicago-IL/Data-Engineer-4_R1001811-1": {
       "title": "Data Engineer 4",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Data-Engineer-4_R1001811-1",
@@ -11391,9 +11406,9 @@
   },
   "Intuit": {},
   "Moodys": {
-    "https://careers.moodys.com/en/job/new-york/associate-lead-analyst-1/49841/101146690448": {
-      "title": "Associate Lead Analyst 1",
-      "url": "https://careers.moodys.com/en/job/new-york/associate-lead-analyst-1/49841/101146690448"
+    "https://careers.moodys.com/en/job/paris/data-scientist-intern/49841/101118940864": {
+      "title": "Data Scientist Intern",
+      "url": "https://careers.moodys.com/en/job/paris/data-scientist-intern/49841/101118940864"
     }
   },
   "UKG": {},
