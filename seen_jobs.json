@@ -1278,6 +1278,12 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
+    "210784618": {
+      "title": "Stakeholder Insights, Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784618",
+      "location": "Washington, DC, United States",
+      "country_code": "US"
+    },
     "210794045": {
       "title": "Vice President Digital Marketing Analytics - Card Data Analytics",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794045",
@@ -5754,6 +5760,11 @@
       "title": "Technical Accounting & Reporting Manager",
       "url": "https://lendingclub.wd1.myworkdayjobs.com/external/job/San-Francisco-CA/SEC-Reporting---Technical-Accounting-Manager_R0007440-1",
       "location": "San Francisco, CA"
+    },
+    "/job/San-Francisco-CA/Associate-Data-Scientist--Fraud-Strategy_R0007503": {
+      "title": "Associate Data Scientist, Fraud Strategy",
+      "url": "https://lendingclub.wd1.myworkdayjobs.com/external/job/San-Francisco-CA/Associate-Data-Scientist--Fraud-Strategy_R0007503",
+      "location": "San Francisco, CA"
     }
   },
   "CEVA Logistics": {
@@ -5833,13 +5844,13 @@
       "title": "Sr. Pricing Analyst N/S",
       "url": "https://jobs.cmacgm-group.com/job/Miami-Fl-Sr_-Pricing-Analyst-NS-FL-33109/1439568633/"
     },
-    "https://jobs.cmacgm-group.com/job/Marseille-Internship-Container-Fleet-Procurement-Analyst/1438329933/": {
-      "title": "Internship - Container Fleet Procurement Analyst",
-      "url": "https://jobs.cmacgm-group.com/job/Marseille-Internship-Container-Fleet-Procurement-Analyst/1438329933/"
-    },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Roosendaal-Logistics-Inventory-Analyst/1441492033/": {
       "title": "Logistics Inventory Analyst",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Roosendaal-Logistics-Inventory-Analyst/1441492033/"
+    },
+    "https://jobs.cmacgm-group.com/job/Marseille-Internship-Container-Fleet-Procurement-Analyst/1438329933/": {
+      "title": "Internship - Container Fleet Procurement Analyst",
+      "url": "https://jobs.cmacgm-group.com/job/Marseille-Internship-Container-Fleet-Procurement-Analyst/1438329933/"
     },
     "https://jobs.cmacgm-group.com/job/Petaling-Jaya-Senior-Analyst%2C-Accounting-Operations/1433671333/": {
       "title": "Senior Analyst, Accounting Operations",
@@ -5848,10 +5859,6 @@
     "https://jobs.cmacgm-group.com/job/Petaling-Jaya-Senior-Analyst%2C-Tax-%28Pillar-2%29/1433674833/": {
       "title": "Senior Analyst, Tax (Pillar 2)",
       "url": "https://jobs.cmacgm-group.com/job/Petaling-Jaya-Senior-Analyst%2C-Tax-%28Pillar-2%29/1433674833/"
-    },
-    "https://jobs.cmacgm-group.com/job/Marseille-Internship-Alternative-Fuels-Analyst/1436606033/": {
-      "title": "Internship - Alternative Fuels Analyst",
-      "url": "https://jobs.cmacgm-group.com/job/Marseille-Internship-Alternative-Fuels-Analyst/1436606033/"
     }
   },
   "Beyond Finance": {
@@ -10680,6 +10687,11 @@
     }
   },
   "Elevance Health": {
+    "/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Field-Support-Analyst-II_JR204323-1": {
+      "title": "Field Support Analyst II",
+      "url": "https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Field-Support-Analyst-II_JR204323-1",
+      "location": "IN-INDIANAPOLIS, 220 VIRGINIA AVE"
+    },
     "/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Business-Information-Analyst-II_JR204189": {
       "title": "Business Information Analyst II",
       "url": "https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Business-Information-Analyst-II_JR204189",
@@ -11471,6 +11483,18 @@
   },
   "UKG": {},
   "PGE": {
+    "https://jobs.pge.com/job/oakland/principal-quantitative-power-system-analyst/29673/97944063728": {
+      "title": "Principal, Quantitative Power System Analyst",
+      "url": "https://jobs.pge.com/job/oakland/principal-quantitative-power-system-analyst/29673/97944063728"
+    },
+    "https://jobs.pge.com/job/oakland/market-and-procurement-policy-analyst/29673/101153698416": {
+      "title": "Market and Procurement Policy Analyst",
+      "url": "https://jobs.pge.com/job/oakland/market-and-procurement-policy-analyst/29673/101153698416"
+    },
+    "https://jobs.pge.com/job/san-ramon/project-controls-analyst/29673/100467158176": {
+      "title": "Project Controls Analyst",
+      "url": "https://jobs.pge.com/job/san-ramon/project-controls-analyst/29673/100467158176"
+    },
     "https://jobs.pge.com/job/oakland/risk-analyst-expert-ogo-sacramento/29673/96276950640": {
       "title": "Risk Analyst, Expert - OGO/Sacramento",
       "url": "https://jobs.pge.com/job/oakland/risk-analyst-expert-ogo-sacramento/29673/96276950640"
