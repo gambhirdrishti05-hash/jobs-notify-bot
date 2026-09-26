@@ -2944,12 +2944,6 @@
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
-    "10522490": {
-      "title": "Financial Analyst, Reverse Logistics Finance",
-      "url": "https://www.amazon.jobs/en/jobs/10522490/financial-analyst-reverse-logistics-finance",
-      "location": "Sunnyvale, California, USA",
-      "country_code": "USA"
-    },
     "10538107": {
       "title": "Supply Chain Analyst, Amazon Business, AB Enterprise DEX",
       "url": "https://www.amazon.jobs/en/jobs/10538107/supply-chain-analyst-amazon-business-ab-enterprise-dex",
@@ -3154,12 +3148,6 @@
       "location": "Irving, Texas, USA",
       "country_code": "USA"
     },
-    "10522171": {
-      "title": "Financial Analyst, WW Ops Finance",
-      "url": "https://www.amazon.jobs/en/jobs/10522171/financial-analyst-ww-ops-finance",
-      "location": "Bellevue, Washington, USA",
-      "country_code": "USA"
-    },
     "10507439": {
       "title": "Senior Financial Analyst, Sustainability Finance",
       "url": "https://www.amazon.jobs/en/jobs/10507439/senior-financial-analyst-sustainability-finance",
@@ -3356,12 +3344,6 @@
       "title": "Sr Talent Intelligence Analyst, Global Specialty Recruiting",
       "url": "https://www.amazon.jobs/en/jobs/10521107/sr-talent-intelligence-analyst-global-specialty-recruiting",
       "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
-    "10492836": {
-      "title": "Startups Business Operations Sr. Analyst ",
-      "url": "https://www.amazon.jobs/en/jobs/10492836/startups-business-operations-sr-analyst",
-      "location": "San Francisco, California, USA",
       "country_code": "USA"
     },
     "10491985": {
@@ -3812,12 +3794,6 @@
       "title": "Senior Financial Analyst, AWS Global Sales Finance",
       "url": "https://www.amazon.jobs/en/jobs/10427550/senior-financial-analyst-aws-global-sales-finance",
       "location": "New York, New York, USA",
-      "country_code": "USA"
-    },
-    "10433467": {
-      "title": "Data Engineer, WW Pricing - Data & Analytics",
-      "url": "https://www.amazon.jobs/en/jobs/10433467/data-engineer-ww-pricing-data-analytics",
-      "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
     "10437863": {
@@ -11422,9 +11398,13 @@
   },
   "UKG": {},
   "PGE": {
-    "https://jobs.pge.com/job/oakland/senior-data-scientist/29673/92744163488": {
-      "title": "Senior Data Scientist",
-      "url": "https://jobs.pge.com/job/oakland/senior-data-scientist/29673/92744163488"
+    "https://jobs.pge.com/job/oakland/risk-analyst-expert-ogo-sacramento/29673/96276950640": {
+      "title": "Risk Analyst, Expert - OGO/Sacramento",
+      "url": "https://jobs.pge.com/job/oakland/risk-analyst-expert-ogo-sacramento/29673/96276950640"
+    },
+    "https://jobs.pge.com/job/oakland/principal-quantitative-power-system-analyst/29673/97944063728": {
+      "title": "Principal, Quantitative Power System Analyst",
+      "url": "https://jobs.pge.com/job/oakland/principal-quantitative-power-system-analyst/29673/97944063728"
     }
   },
   "Raunch": {}
