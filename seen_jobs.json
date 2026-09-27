@@ -2354,16 +2354,22 @@
     }
   },
   "Flowserve": {
-    "F0A761FDDF7048B9AAB918E55CC2FBEB": {
-      "title": "Data Engineer Ms Fabric",
-      "url": "https://careers.flowserve.com/irving-tx/data-engineer-ms-fabric/F0A761FDDF7048B9AAB918E55CC2FBEB/job/",
-      "location": "Irving, TX",
-      "country_code": "US"
-    },
     "0457A489F5674C02BCF1A64F5505153D": {
       "title": "Manufacturing Systems Analyst",
       "url": "https://careers.flowserve.com/taneytown-md/manufacturing-systems-analyst/0457A489F5674C02BCF1A64F5505153D/job/",
       "location": "Taneytown, MD",
+      "country_code": "US"
+    },
+    "9BE2E1AA3D444A8F95487CFDC0081CC6": {
+      "title": "It Business Analyst Enterprise Applications",
+      "url": "https://careers.flowserve.com/irving-tx/it-business-analyst-enterprise-applications/9BE2E1AA3D444A8F95487CFDC0081CC6/job/",
+      "location": "Irving, TX",
+      "country_code": "US"
+    },
+    "F0A761FDDF7048B9AAB918E55CC2FBEB": {
+      "title": "Data Engineer Ms Fabric",
+      "url": "https://careers.flowserve.com/irving-tx/data-engineer-ms-fabric/F0A761FDDF7048B9AAB918E55CC2FBEB/job/",
+      "location": "Irving, TX",
       "country_code": "US"
     }
   },
@@ -2896,12 +2902,6 @@
       "location": "Culver City, California, USA",
       "country_code": "USA"
     },
-    "10526531": {
-      "title": "Senior Financial Analyst, Amazon Payments FP&A",
-      "url": "https://www.amazon.jobs/en/jobs/10526531/senior-financial-analyst-amazon-payments-fp-a",
-      "location": "Arlington, Virginia, USA",
-      "country_code": "USA"
-    },
     "10517469": {
       "title": "Data Analyst, Returns SX",
       "url": "https://www.amazon.jobs/en/jobs/10517469/data-analyst-returns-sx",
@@ -3310,12 +3310,6 @@
       "location": "Bellevue, Washington, USA",
       "country_code": "USA"
     },
-    "10495469": {
-      "title": "Senior Financial Analyst, Worldwide Returns & Recommerce",
-      "url": "https://www.amazon.jobs/en/jobs/10495469/senior-financial-analyst-worldwide-returns-recommerce",
-      "location": "Bellevue, Washington, USA",
-      "country_code": "USA"
-    },
     "10493776": {
       "title": "Senior Financial Analyst, WWSO Finance",
       "url": "https://www.amazon.jobs/en/jobs/10493776/senior-financial-analyst-wwso-finance",
@@ -3596,12 +3590,6 @@
       "title": "Product Operations Analyst, World Wide Revenue Operations",
       "url": "https://www.amazon.jobs/en/jobs/10477414/product-operations-analyst-world-wide-revenue-operations",
       "location": "Arlington, Virginia, USA",
-      "country_code": "USA"
-    },
-    "10480397": {
-      "title": "Compliance Analyst, North American Surface Transportation (NAST) Compliance",
-      "url": "https://www.amazon.jobs/en/jobs/10480397/compliance-analyst-north-american-surface-transportation-nast-compliance",
-      "location": "Tempe, Arizona, USA",
       "country_code": "USA"
     },
     "10478043": {
@@ -4004,12 +3992,6 @@
       "title": "RF System Analyst, Amazon Leo  ",
       "url": "https://www.amazon.jobs/en/jobs/3138294/rf-system-analyst-amazon-leo",
       "location": "Redmond, Washington, USA",
-      "country_code": "USA"
-    },
-    "3115916": {
-      "title": "Senior Financial Analyst, Rapid & Rural Logistics Finance, Sub Same Day Delivery",
-      "url": "https://www.amazon.jobs/en/jobs/3115916/senior-financial-analyst-rapid-rural-logistics-finance-sub-same-day-delivery",
-      "location": "Bellevue, Washington, USA",
       "country_code": "USA"
     },
     "10460567": {
@@ -5712,13 +5694,13 @@
     }
   },
   "Gainwell": {
-    "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Call-Center-Quality-Assurance-Analyst-Remote-CA-CA-95605-1630/1424689700/": {
-      "title": "Call Center Quality Assurance Analyst - Remote CA",
-      "url": "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Call-Center-Quality-Assurance-Analyst-Remote-CA-CA-95605-1630/1424689700/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Call-Center-Quality-Assurance-Analyst-Remote-OK-TX-99999/1424696800/": {
       "title": "Call Center Quality Assurance Analyst - Remote OK",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Call-Center-Quality-Assurance-Analyst-Remote-OK-TX-99999/1424696800/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Call-Center-Quality-Assurance-Analyst-Remote-CA-CA-95605-1630/1424689700/": {
+      "title": "Call Center Quality Assurance Analyst - Remote CA",
+      "url": "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Call-Center-Quality-Assurance-Analyst-Remote-CA-CA-95605-1630/1424689700/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-GA-99999/1414357100/": {
       "title": "Business Analyst",
@@ -5829,13 +5811,13 @@
       "title": "Sr. Pricing Analyst N/S",
       "url": "https://jobs.cmacgm-group.com/job/Miami-Fl-Sr_-Pricing-Analyst-NS-FL-33109/1439568633/"
     },
-    "https://jobs.cmacgm-group.com/job/Marseille-Internship-Container-Fleet-Procurement-Analyst/1438329933/": {
-      "title": "Internship - Container Fleet Procurement Analyst",
-      "url": "https://jobs.cmacgm-group.com/job/Marseille-Internship-Container-Fleet-Procurement-Analyst/1438329933/"
-    },
     "https://jobs.cmacgm-group.com/CEVALogistics/job/Roosendaal-Logistics-Inventory-Analyst/1441492033/": {
       "title": "Logistics Inventory Analyst",
       "url": "https://jobs.cmacgm-group.com/CEVALogistics/job/Roosendaal-Logistics-Inventory-Analyst/1441492033/"
+    },
+    "https://jobs.cmacgm-group.com/job/Marseille-Internship-Container-Fleet-Procurement-Analyst/1438329933/": {
+      "title": "Internship - Container Fleet Procurement Analyst",
+      "url": "https://jobs.cmacgm-group.com/job/Marseille-Internship-Container-Fleet-Procurement-Analyst/1438329933/"
     },
     "https://jobs.cmacgm-group.com/job/Petaling-Jaya-Senior-Analyst%2C-Accounting-Operations/1433671333/": {
       "title": "Senior Analyst, Accounting Operations",
@@ -9229,6 +9211,11 @@
     "/job/New-York-New-York/Investment-Banking-Analyst---Consumer_R_1501279": {
       "title": "Investment Banking Analyst - Consumer",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Investment-Banking-Analyst---Consumer_R_1501279",
+      "location": "New York, New York"
+    },
+    "/job/New-York-New-York/Senior-Finance-Analyst--TDS_R_1503920": {
+      "title": "Senior Finance Analyst, TDS",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Senior-Finance-Analyst--TDS_R_1503920",
       "location": "New York, New York"
     },
     "/job/Lake-Mary-Florida/Operations-Analyst--TD-Securities_R_1512927": {
