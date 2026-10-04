@@ -1,5 +1,11 @@
 {
   "JPMorgan Chase": {
+    "210797198": {
+      "title": "Head of Card Customer Analytics & AI Enablement-Executive Director",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797198",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
     "210756146": {
       "title": "Quantitative Trading & Research - RMSB - Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210756146",
@@ -28,12 +34,6 @@
       "title": "Lead Business Systems Analyst - Marketing Data and Analytics",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797038",
       "location": "Wilmington, DE, United States",
-      "country_code": "US"
-    },
-    "210797198": {
-      "title": "Head of Card Customer Analytics & AI Enablement-Executive Director",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797198",
-      "location": "New York, NY, United States",
       "country_code": "US"
     },
     "210789551": {
@@ -1746,12 +1746,6 @@
       "location": "Brooklyn, NY, United States",
       "country_code": "US"
     },
-    "210727002": {
-      "title": "Data Engineer III -  UI/Java/React/Agentic AI",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210727002",
-      "location": "Plano, TX, United States",
-      "country_code": "US"
-    },
     "210784849": {
       "title": "Compliance - Quant Analytics Senior Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784849",
@@ -2004,6 +1998,12 @@
       "location": "Jersey City, NJ, United States",
       "country_code": "US"
     },
+    "210772642": {
+      "title": "Tech Risk and Controls Lead - Citizen Development Governance & Analytics",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772642",
+      "location": "Plano, TX, United States",
+      "country_code": "US"
+    },
     "210790618": {
       "title": "Liquidity Risk Reporting - Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790618",
@@ -2086,12 +2086,6 @@
       "title": "Agility Lead - Reference Data Engineering",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785916",
       "location": "Chicago, IL, United States",
-      "country_code": "US"
-    },
-    "210772642": {
-      "title": "Tech Risk and Controls Lead - Citizen Development Governance & Analytics",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210772642",
-      "location": "Plano, TX, United States",
       "country_code": "US"
     },
     "210774020": {
@@ -5653,6 +5647,10 @@
       "title": "Medical Claims Research Analyst Lead - Remote California",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Medical-Claims-Research-Analyst-Lead-Remote-California-CA-99999/1436535900/"
     },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Claims-and-Financial-Analyst-Hybrid-Farmington-CT-CT-99999/1426599800/": {
+      "title": "Claims and Financial Analyst Hybrid Farmington CT",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Claims-and-Financial-Analyst-Hybrid-Farmington-CT-CT-99999/1426599800/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Principal-Provider-Integration-&-Analytics-Delivery-Manager-MD-99999/1397834200/": {
       "title": "Principal Provider Integration & Analytics Delivery Manager",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Principal-Provider-Integration-&-Analytics-Delivery-Manager-MD-99999/1397834200/"
@@ -8634,11 +8632,6 @@
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/CA---Calabasas/Loan-Support-Analyst-Senior--Multifamily-Capital--Loan-Administration_R235556-1",
       "location": "7 Locations"
     },
-    "/job/IL---Chicago-60606/Corporate---Institutional-Banking-Development-Program-Analyst-Associate---Commercial---Corporate-Banking---Financials-and-Diversified-Track_R230890-1": {
-      "title": "Corporate & Institutional Banking Development Program Analyst/Associate \u2013 Commercial & Corporate Banking \u2013 Financials and Diversified Track",
-      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/IL---Chicago-60606/Corporate---Institutional-Banking-Development-Program-Analyst-Associate---Commercial---Corporate-Banking---Financials-and-Diversified-Track_R230890-1",
-      "location": "5 Locations"
-    },
     "/job/VA---Tysons-Corner/Quantitative-Analytics---Model-Development-Analyst-Senior---Data--Model---Analytics_R217438-1": {
       "title": "Quantitative Analytics & Model Development Analyst Senior - Data, Model & Analytics",
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/VA---Tysons-Corner/Quantitative-Analytics---Model-Development-Analyst-Senior---Data--Model---Analytics_R217438-1",
@@ -8658,6 +8651,11 @@
       "title": "Portfolio Analytics & Strategy Analyst Senior - Real Estate Market Analytics",
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Portfolio-Analytics---Strategy-Analyst-Senior---Real-Estate-Market-Analytics_R235001-1",
       "location": "3 Locations"
+    },
+    "/job/IL---Chicago-60606/Corporate---Institutional-Banking-Development-Program-Analyst-Associate---Commercial---Corporate-Banking---Financials-and-Diversified-Track_R230890-1": {
+      "title": "Corporate & Institutional Banking Development Program Analyst/Associate \u2013 Commercial & Corporate Banking \u2013 Financials and Diversified Track",
+      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/IL---Chicago-60606/Corporate---Institutional-Banking-Development-Program-Analyst-Associate---Commercial---Corporate-Banking---Financials-and-Diversified-Track_R230890-1",
+      "location": "5 Locations"
     },
     "/job/KY---Louisville-40202/Corporate---Institutional-Banking--C-IB--Development-Program-Analyst-Associate---Tax-Credit_R230886-1": {
       "title": "Corporate & Institutional Banking (C&IB) Development Program Analyst/Associate \u2013 Tax Credit",
@@ -10856,9 +10854,9 @@
     }
   },
   "Intuit": {
-    "https://jobs.intuit.com/job/san-diego/staff-data-scientist-intelligent-process-automation-solutions/27595/100770608000": {
-      "title": "Staff Data Scientist: Intelligent Process Automation SolutionsMultiple Locations",
-      "url": "https://jobs.intuit.com/job/san-diego/staff-data-scientist-intelligent-process-automation-solutions/27595/100770608000"
+    "https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360": {
+      "title": "Summer 2027: Business Data Analyst Intern, Strategy & PlanningMountain View, California",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-business-data-analyst-intern-strategy-and-planning/27595/101410847360"
     }
   },
   "Moodys": {
