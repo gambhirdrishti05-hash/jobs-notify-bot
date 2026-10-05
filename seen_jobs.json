@@ -2285,6 +2285,12 @@
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
+    "10568529": {
+      "title": "Business Analyst II, WW Grocery Store Private Brands",
+      "url": "https://www.amazon.jobs/en/jobs/10568529/business-analyst-ii-ww-grocery-store-private-brands",
+      "location": "Seattle, Washington, USA",
+      "country_code": "USA"
+    },
     "10565926": {
       "title": "Senior Financial Analyst, Alexa Devices Finance",
       "url": "https://www.amazon.jobs/en/jobs/10565926/senior-financial-analyst-alexa-devices-finance",
@@ -5647,13 +5653,13 @@
       "title": "Medical Claims Research Analyst Lead - Remote California",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Medical-Claims-Research-Analyst-Lead-Remote-California-CA-99999/1436535900/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Claims-and-Financial-Analyst-Hybrid-Farmington-CT-CT-99999/1426599800/": {
-      "title": "Claims and Financial Analyst Hybrid Farmington CT",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Claims-and-Financial-Analyst-Hybrid-Farmington-CT-CT-99999/1426599800/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Principal-Provider-Integration-&-Analytics-Delivery-Manager-MD-99999/1397834200/": {
       "title": "Principal Provider Integration & Analytics Delivery Manager",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Principal-Provider-Integration-&-Analytics-Delivery-Manager-MD-99999/1397834200/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Claims-and-Financial-Analyst-Hybrid-Farmington-CT-CT-99999/1426599800/": {
+      "title": "Claims and Financial Analyst Hybrid Farmington CT",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Claims-and-Financial-Analyst-Hybrid-Farmington-CT-CT-99999/1426599800/"
     }
   },
   "Happen Bank": {
@@ -6066,6 +6072,11 @@
     }
   },
   "Capital One": {
+    "/job/New-York-NY/Data-Engineer-4_R1002915-1": {
+      "title": "Data Engineer 4",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Data-Engineer-4_R1002915-1",
+      "location": "2 Locations"
+    },
     "/job/McLean-VA/Data-Analysis-Manager---Office-of-the-Chief-Data-Officer--Central-Analytics-and-Reporting_R1001683-1": {
       "title": "Data Analysis Manager - Office of the Chief Data Officer, Central Analytics",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Data-Analysis-Manager---Office-of-the-Chief-Data-Officer--Central-Analytics-and-Reporting_R1001683-1",
@@ -8557,11 +8568,6 @@
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/KS---Overland-Park/Loan-Support-Analyst---Collateral-Operations---Midland_R236230-1",
       "location": "10 Locations"
     },
-    "/job/TX---Dallas/Corporate---Institutional-Banking--C-IB--Development-Program-Analyst-Associate---Agency-Finance_R230881": {
-      "title": "Corporate & Institutional Banking (C&IB) Development Program Analyst/Associate \u2013 Agency Finance",
-      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/TX---Dallas/Corporate---Institutional-Banking--C-IB--Development-Program-Analyst-Associate---Agency-Finance_R230881",
-      "location": "TX - Dallas"
-    },
     "/job/PA---Pittsburgh-15222/Portfolio-Analytics---Strategy-Analyst-Senior---Decision-Science_R228372-1": {
       "title": "Portfolio Analytics & Strategy Analyst Senior - Decision Science",
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Portfolio-Analytics---Strategy-Analyst-Senior---Decision-Science_R228372-1",
@@ -8581,6 +8587,11 @@
       "title": "Detection & Investigation Analyst Lead:  Outbound Zelle Fraud",
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Detection---Investigation-Analyst-Lead---Outbound-Zelle-Fraud---Monday---Friday-8-30---5-00-pm-EST_R234569",
       "location": "PA - Pittsburgh (15222)"
+    },
+    "/job/TX---Dallas/Corporate---Institutional-Banking--C-IB--Development-Program-Analyst-Associate---Agency-Finance_R230881": {
+      "title": "Corporate & Institutional Banking (C&IB) Development Program Analyst/Associate \u2013 Agency Finance",
+      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/TX---Dallas/Corporate---Institutional-Banking--C-IB--Development-Program-Analyst-Associate---Agency-Finance_R230881",
+      "location": "TX - Dallas"
     },
     "/job/Overland-Park---PNC-Kansas-City-KS012/Loan-Support-Analyst-Senior---Complex-Loan-Administration---Midland_R222385-1": {
       "title": "Loan Support Analyst Senior - Complex Loan Administration - Midland",
@@ -8877,6 +8888,11 @@
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/VA---Vienna-22182/Portfolio-Analytics---Strategy-Manager-Senior_R233308-1",
       "location": "2 Locations"
     },
+    "/job/PA---Pittsburgh-15222/Business-Analytics-Manager---Marketing---Customer-Analytics_R225333-1": {
+      "title": "Business Analytics Manager - Marketing & Customer Analytics",
+      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Analytics-Manager---Marketing---Customer-Analytics_R225333-1",
+      "location": "5 Locations"
+    },
     "/job/NY---New-York-10173/Quantitative-Analytics---Model-Consultant-Senior_R222218-1": {
       "title": "Quantitative Analytics & Model Consultant Senior - Market Risk",
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/NY---New-York-10173/Quantitative-Analytics---Model-Consultant-Senior_R222218-1",
@@ -8891,11 +8907,6 @@
       "title": "Quantitative Analytics & Model Consultant Senior - Capital Markets Models",
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Quantitative-Analytics---Model-Consultant-Senior---Capital-Markets-Models_R237252",
       "location": "3 Locations"
-    },
-    "/job/PA---Pittsburgh-15222/Business-Analytics-Manager---Marketing---Customer-Analytics_R225333-1": {
-      "title": "Business Analytics Manager - Marketing & Customer Analytics",
-      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Analytics-Manager---Marketing---Customer-Analytics_R225333-1",
-      "location": "5 Locations"
     },
     "/job/PA---Pittsburgh-15222/Business-Analytics-Consultant---Regulatory-Reporting-System-Support_R224490-1": {
       "title": "Business Analytics Consultant - Regulatory Reporting System Support",
@@ -9014,6 +9025,11 @@
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Business-Management-Analyst--BMA-_R_1510120",
       "location": "Mount Laurel, New Jersey"
     },
+    "/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology-Solutions---Business-Systems-Analyst--BSA-_R_1510802": {
+      "title": "2027 Summer Internship Program - Global Technology Solutions - Business Systems Analyst (BSA)",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology-Solutions---Business-Systems-Analyst--BSA-_R_1510802",
+      "location": "Mount Laurel, New Jersey"
+    },
     "/job/Southfield-Michigan/Principal-Data-Scientist--US-_R_1501026": {
       "title": "Principal Data Scientist (US)",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Southfield-Michigan/Principal-Data-Scientist--US-_R_1501026",
@@ -9072,6 +9088,11 @@
     "/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Engineer_R_1510111": {
       "title": "2027 Spring Co-op - Global Technology & Solutions - Data Engineer",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Engineer_R_1510111",
+      "location": "Mount Laurel, New Jersey"
+    },
+    "/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797": {
+      "title": "2027 Summer Internship Program - Global Technology & Solutions - Data Engineer",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797",
       "location": "Mount Laurel, New Jersey"
     },
     "/job/Mount-Laurel-New-Jersey/Manager--TD-Premier---Performance-Insights-and-Strategic-Planning_R_1509486": {
@@ -10864,9 +10885,21 @@
       "title": "VP-Data Engineer (People Analytics)",
       "url": "https://careers.moodys.com/en/job/new-york/vp-data-engineer-people-analytics/49841/99771528736"
     },
+    "https://careers.moodys.com/en/job/charlotte/technical-support-analyst/49841/99693292480": {
+      "title": "Technical Support Analyst",
+      "url": "https://careers.moodys.com/en/job/charlotte/technical-support-analyst/49841/99693292480"
+    },
     "https://careers.moodys.com/en/job/bengaluru/sr-data-scientist/49841/101475308992": {
       "title": "Sr Data Scientist",
       "url": "https://careers.moodys.com/en/job/bengaluru/sr-data-scientist/49841/101475308992"
+    },
+    "https://careers.moodys.com/en/job/bengaluru/sr-product-analyst/49841/101475308976": {
+      "title": "Sr Product Analyst",
+      "url": "https://careers.moodys.com/en/job/bengaluru/sr-product-analyst/49841/101475308976"
+    },
+    "https://careers.moodys.com/en/job/bengaluru/avp-product-analyst/49841/101475308960": {
+      "title": "AVP-Product Analyst",
+      "url": "https://careers.moodys.com/en/job/bengaluru/avp-product-analyst/49841/101475308960"
     }
   },
   "UKG": {},
