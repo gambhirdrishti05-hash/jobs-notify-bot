@@ -1,5 +1,11 @@
 {
   "JPMorgan Chase": {
+    "210795969": {
+      "title": "Lead Solutions Analyst II | Business Systems, Data & AI (Wealth Management)",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795969",
+      "location": "Plano, TX, United States",
+      "country_code": "US"
+    },
     "210785269": {
       "title": "U.S. Private Bank - Program Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785269",
@@ -643,7 +649,7 @@
       "country_code": "US"
     },
     "210765898": {
-      "title": "Risk Consumer Fraud Strategic Analytics - Senior Associate",
+      "title": "Risk Consumer Fraud Strategic Analytics - Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765898",
       "location": "Plano, TX, United States",
       "country_code": "US"
@@ -1276,12 +1282,6 @@
       "title": "Quant Analytics Senior Associate - Card Marketing",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792840",
       "location": "Wilmington, DE, United States",
-      "country_code": "US"
-    },
-    "210765380": {
-      "title": "Data Engineer - Data Domain Architect Associate Senior - Payment Operations",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765380",
-      "location": "Plano, TX, United States",
       "country_code": "US"
     },
     "210794644": {
@@ -2206,6 +2206,12 @@
     }
   },
   "Amazon": {
+    "10569918": {
+      "title": "Talent Intelligence Analyst, Global Specialty Recruiting",
+      "url": "https://www.amazon.jobs/en/jobs/10569918/talent-intelligence-analyst-global-specialty-recruiting",
+      "location": "New York, New York, USA",
+      "country_code": "USA"
+    },
     "10569623": {
       "title": "Senior Financial Analyst, Amazon Grocery \u2013 AI-Native FP&A, WW Grocery Stores FP&A",
       "url": "https://www.amazon.jobs/en/jobs/10569623/senior-financial-analyst-amazon-grocery-ai-native-fp-a-ww-grocery-stores-fp-a",
@@ -2234,6 +2240,12 @@
       "title": "Sr. Financial Analyst - Advertising Marketing, Marketing Finance ",
       "url": "https://www.amazon.jobs/en/jobs/10567989/sr-financial-analyst-advertising-marketing-marketing-finance",
       "location": "New York, New York, USA",
+      "country_code": "USA"
+    },
+    "10569924": {
+      "title": "WW Content Strat. & Analytics, Prime Video Licensing, Analytics, Operations, and Strategy (LASO)",
+      "url": "https://www.amazon.jobs/en/jobs/10569924/ww-content-strat-analytics-prime-video-licensing-analytics-operations-and-strategy-laso",
+      "location": "Culver City, California, USA",
       "country_code": "USA"
     },
     "10567954": {
@@ -3518,12 +3530,6 @@
       "title": "Senior Financial Analyst, NACF",
       "url": "https://www.amazon.jobs/en/jobs/10469400/senior-financial-analyst-nacf",
       "location": "Bellevue, Washington, USA",
-      "country_code": "USA"
-    },
-    "10464965": {
-      "title": "Business Analyst II - AMZ26512.2",
-      "url": "https://www.amazon.jobs/en/jobs/10464965/business-analyst-ii-amz26512-2",
-      "location": "Austin, Texas, USA",
       "country_code": "USA"
     },
     "10466286": {
@@ -7480,6 +7486,16 @@
     }
   },
   "HPE": {
+    "/job/Wroclaw-Lower-Silesian-Poland/Tax-Analyst_1213951": {
+      "title": "Tax Analyst",
+      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Wroclaw-Lower-Silesian-Poland/Tax-Analyst_1213951",
+      "location": "2 Locations"
+    },
+    "/job/All-Texas-United-States-of-America/Sales-Operations-Analyst_1212277-3": {
+      "title": "Sales Operations Analyst",
+      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/All-Texas-United-States-of-America/Sales-Operations-Analyst_1212277-3",
+      "location": "3 Locations"
+    },
     "/job/Tlaquepaque-Jalisco-Mexico/Senior-Financial-Analyst_1211973": {
       "title": "Senior Financial Analyst",
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Tlaquepaque-Jalisco-Mexico/Senior-Financial-Analyst_1211973",
@@ -8859,11 +8875,6 @@
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/VA---Vienna-22182/Portfolio-Analytics---Strategy-Manager-Senior_R233308-1",
       "location": "2 Locations"
     },
-    "/job/PA---Pittsburgh-15222/Business-Analytics-Manager---Marketing---Customer-Analytics_R225333-1": {
-      "title": "Business Analytics Manager - Marketing & Customer Analytics",
-      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Analytics-Manager---Marketing---Customer-Analytics_R225333-1",
-      "location": "5 Locations"
-    },
     "/job/NY---New-York-10173/Quantitative-Analytics---Model-Consultant-Senior_R222218-1": {
       "title": "Quantitative Analytics & Model Consultant Senior - Market Risk",
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/NY---New-York-10173/Quantitative-Analytics---Model-Consultant-Senior_R222218-1",
@@ -8883,6 +8894,11 @@
       "title": "Quantitative Analytics and Model Consultant - Fraud Model Validation",
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Quantitative-Analytics-and-Model-Consultant---Fraud-Model-Validation_R236014-1",
       "location": "3 Locations"
+    },
+    "/job/PA---Pittsburgh-15222/Business-Analytics-Manager---Marketing---Customer-Analytics_R225333-1": {
+      "title": "Business Analytics Manager - Marketing & Customer Analytics",
+      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Analytics-Manager---Marketing---Customer-Analytics_R225333-1",
+      "location": "5 Locations"
     },
     "/job/PA---Pittsburgh-15222/Business-Analytics-Consultant---Regulatory-Reporting-System-Support_R224490-1": {
       "title": "Business Analytics Consultant - Regulatory Reporting System Support",
@@ -9324,11 +9340,6 @@
       "title": "Lead Operations Analyst, Commercial Card",
       "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Remote-United-States/Lead-Operations-Analyst--Commercial-Card_R-41825",
       "location": "Remote, United States"
-    },
-    "/job/Brooklyn-OH/Senior-Cyber-Threat-Intelligence-Analyst_R-41905": {
-      "title": "Senior Cyber Threat Intelligence Analyst",
-      "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Senior-Cyber-Threat-Intelligence-Analyst_R-41905",
-      "location": "2 Locations"
     },
     "/job/Dallas-TX/Senior-Analyst-Affordable-Housing_R-42131": {
       "title": "Senior Analyst Affordable Housing",
@@ -10144,11 +10155,6 @@
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Krakow-Poland/Data-Engineer_2025792",
       "location": "2 Locations"
     },
-    "/job/RTP-North-Carolina-US/Data-Engineer_2025379": {
-      "title": "Data Engineer",
-      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Data-Engineer_2025379",
-      "location": "RTP, North Carolina, US"
-    },
     "/job/Seattle-Washington-US/Director--Compliance-Data-and-Analytics_2024472-1": {
       "title": "Director, Legal Compliance Data & Analytics",
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Seattle-Washington-US/Director--Compliance-Data-and-Analytics_2024472-1",
@@ -10320,11 +10326,6 @@
       "title": "HRO Change Management Analyst",
       "url": "https://osu.wd1.myworkdayjobs.com/osucareers/job/University-Hospital/HRO-Change-Management-Analyst_R159559-1",
       "location": "University Hospital"
-    },
-    "/job/Health-System-Shared-Services/Enterprise-Applications-Management-Senior-Analyst_R151549-1": {
-      "title": "Enterprise Applications Management Senior Analyst",
-      "url": "https://osu.wd1.myworkdayjobs.com/osucareers/job/Health-System-Shared-Services/Enterprise-Applications-Management-Senior-Analyst_R151549-1",
-      "location": "Health System Shared Services"
     },
     "/job/Health-System-Shared-Services/Sr-Reimbursement-Analyst_R157881-2": {
       "title": "Sr. Reimbursement Analyst",
@@ -10848,13 +10849,13 @@
     }
   },
   "Intuit": {
+    "https://jobs.intuit.com/job/mountain-view/manager-3-data-science-data-foundations/27595/101589385232": {
+      "title": "Manager 3, Data Science - Data FoundationsMultiple Locations",
+      "url": "https://jobs.intuit.com/job/mountain-view/manager-3-data-science-data-foundations/27595/101589385232"
+    },
     "https://jobs.intuit.com/job/oakland/staff-data-scientist-engagement/27595/101580723616": {
       "title": "Staff Data Scientist - EngagementMultiple Locations",
       "url": "https://jobs.intuit.com/job/oakland/staff-data-scientist-engagement/27595/101580723616"
-    },
-    "https://jobs.intuit.com/job/mountain-view/principal-data-scientist-workforce-solutions-gbsg/27595/101575696944": {
-      "title": "Principal Data Scientist, Workforce Solutions (GBSG)Multiple Locations",
-      "url": "https://jobs.intuit.com/job/mountain-view/principal-data-scientist-workforce-solutions-gbsg/27595/101575696944"
     }
   },
   "Moodys": {
@@ -10869,13 +10870,13 @@
   },
   "UKG": {},
   "PGE": {
+    "https://jobs.pge.com/job/oakland/data-engineer/29673/101590734336": {
+      "title": "Data Engineer",
+      "url": "https://jobs.pge.com/job/oakland/data-engineer/29673/101590734336"
+    },
     "https://jobs.pge.com/job/oakland/strategic-analyst-senior/29673/97533249616": {
       "title": "Strategic Analyst, Senior",
       "url": "https://jobs.pge.com/job/oakland/strategic-analyst-senior/29673/97533249616"
-    },
-    "https://jobs.pge.com/job/oakland/expert-regulatory-analyst-location-flexible/29673/92320220480": {
-      "title": "Expert Regulatory Analyst - Location Flexible",
-      "url": "https://jobs.pge.com/job/oakland/expert-regulatory-analyst-location-flexible/29673/92320220480"
     }
   },
   "Raunch": {},
