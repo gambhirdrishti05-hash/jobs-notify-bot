@@ -1,5 +1,11 @@
 {
   "JPMorgan Chase": {
+    "210785457": {
+      "title": "Market Risk Time Series Analytics - Analyst/Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785457",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
     "210797484": {
       "title": "Asset Management Global Liquidity & Cash - Program Analyst (Client Advisor)",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797484",
@@ -2182,6 +2188,12 @@
       "location": "Irving, Texas, USA",
       "country_code": "USA"
     },
+    "10571359": {
+      "title": "AWS Senior Financial Analyst, AWS Central FP&A Team",
+      "url": "https://www.amazon.jobs/en/jobs/10571359/aws-senior-financial-analyst-aws-central-fp-a-team",
+      "location": "Seattle, Washington, USA",
+      "country_code": "USA"
+    },
     "10571033": {
       "title": "Senior Financial Analyst, NACF",
       "url": "https://www.amazon.jobs/en/jobs/10571033/senior-financial-analyst-nacf",
@@ -2539,12 +2551,6 @@
     "10564339": {
       "title": "Senior Business Intelligence Engineer, Prime Video Partner Experience & Supply Chain",
       "url": "https://www.amazon.jobs/en/jobs/10564339/senior-business-intelligence-engineer-prime-video-partner-experience-supply-chain",
-      "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
-    "10539106": {
-      "title": "Data Engineer I, Business Data Technologies",
-      "url": "https://www.amazon.jobs/en/jobs/10539106/data-engineer-i-business-data-technologies",
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
@@ -3830,12 +3836,6 @@
       "title": "RF System Analyst, Amazon Leo  ",
       "url": "https://www.amazon.jobs/en/jobs/3138294/rf-system-analyst-amazon-leo",
       "location": "Redmond, Washington, USA",
-      "country_code": "USA"
-    },
-    "3115916": {
-      "title": "Senior Financial Analyst, Rapid & Rural Logistics Finance, Sub Same Day Delivery",
-      "url": "https://www.amazon.jobs/en/jobs/3115916/senior-financial-analyst-rapid-rural-logistics-finance-sub-same-day-delivery",
-      "location": "Bellevue, Washington, USA",
       "country_code": "USA"
     },
     "10460567": {
@@ -5149,11 +5149,6 @@
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Customer-Risk-Assessment---Senior-Data-Analyst_26034535-2",
       "location": "2 Locations"
     },
-    "/job/Fort-Worth/Sr-Claims-Analyst-Check-Fraud-Claims_26032651": {
-      "title": "Sr Claims Analyst-Check Fraud Claims",
-      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Fort-Worth/Sr-Claims-Analyst-Check-Fraud-Claims_26032651",
-      "location": "Fort Worth"
-    },
     "/job/Charlotte/Quantitative-Finance-Analyst_26034344-1": {
       "title": "Quantitative Finance Analyst",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Quantitative-Finance-Analyst_26034344-1",
@@ -5163,6 +5158,11 @@
       "title": "Transaction Management Ops Analyst",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Transaction-Management-Ops-Analyst_26035007-1",
       "location": "Charlotte"
+    },
+    "/job/Fort-Worth/Sr-Claims-Analyst-Check-Fraud-Claims_26032651": {
+      "title": "Sr Claims Analyst-Check Fraud Claims",
+      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Fort-Worth/Sr-Claims-Analyst-Check-Fraud-Claims_26032651",
+      "location": "Fort Worth"
     },
     "/job/Pennington/Financial-Data-and-Reporting-Ops-Analyst_26036172": {
       "title": "Financial Data and Reporting Ops Analyst",
@@ -5232,11 +5232,6 @@
     "/job/Charlotte/Cons-Prod-Strategic-Analyst-IV---H4_26032743-2": {
       "title": "Cons Prod Strategic Analyst IV - H4",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Cons-Prod-Strategic-Analyst-IV---H4_26032743-2",
-      "location": "10 Locations"
-    },
-    "/job/Fort-Worth/Consumer-Product-Strategic-Analyst-III_26030572-2": {
-      "title": "Consumer Product Strategic Analyst III",
-      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Fort-Worth/Consumer-Product-Strategic-Analyst-III_26030572-2",
       "location": "10 Locations"
     },
     "/job/Plano/Client-Reporting-Analyst-III_26022240-2": {
@@ -5578,10 +5573,6 @@
       "title": "Senior Manager, Healthcare Data Integration and Analytics",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Manager%2C-Healthcare-Data-Integration-and-Analytics-TX-99999/1422120600/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Medicaid-Business-Analyst-%28Configuration-&-Policy%29-TX-99999/1437308200/": {
-      "title": "Senior Medicaid Business Analyst (Configuration & Policy)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Medicaid-Business-Analyst-%28Configuration-&-Policy%29-TX-99999/1437308200/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Professional-Programmer-Analyst-IL-99999/1437341000/": {
       "title": "Professional Programmer Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Professional-Programmer-Analyst-IL-99999/1437341000/"
@@ -5589,6 +5580,10 @@
     "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-Medicaid-Claims-TX-99999/1437564900/": {
       "title": "Business Analyst - Medicaid Claims",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-Medicaid-Claims-TX-99999/1437564900/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Medicaid-Business-Analyst-%28Configuration-&-Policy%29-TX-99999/1437308200/": {
+      "title": "Senior Medicaid Business Analyst (Configuration & Policy)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Medicaid-Business-Analyst-%28Configuration-&-Policy%29-TX-99999/1437308200/"
     }
   },
   "Happen Bank": {
@@ -5981,6 +5976,11 @@
     }
   },
   "Capital One": {
+    "/job/Richmond-VA/Data-Engineer-4---Intelligent-Foundations-and-Experiences--IFX-_R1003010-1": {
+      "title": "Data Engineer 4 - Intelligent Foundations and Experiences (IFX)",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Data-Engineer-4---Intelligent-Foundations-and-Experiences--IFX-_R1003010-1",
+      "location": "2 Locations"
+    },
     "/job/McLean-VA/Senior-Associate--Financial-Analyst---Card-External-Planning---Analysis_R1000656-2": {
       "title": "Senior Associate, Financial Analyst - Card External Planning & Analysis",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Financial-Analyst---Card-External-Planning---Analysis_R1000656-2",
@@ -7323,11 +7323,6 @@
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/REMOTETELETRAVAIL-ON-CAN/Digital-Support-Analyst--BMO-Investorline--Bilingual-in-French-and-in-English-_R260026601",
       "location": "10 Locations"
     },
-    "/job/Toronto-ON-CAN/Incident-Management-Analyst_R260026491": {
-      "title": "Incident Management Analyst",
-      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Incident-Management-Analyst_R260026491",
-      "location": "2 Locations"
-    },
     "/job/Milwaukee-WI-USA/Sr-Financial-Analyst---Equipment-Finance_R260016585": {
       "title": "Sr. Financial Analyst - Equipment Finance",
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Milwaukee-WI-USA/Sr-Financial-Analyst---Equipment-Finance_R260016585",
@@ -8333,11 +8328,6 @@
     }
   },
   "PNC": {
-    "/job/PA---Pittsburgh-15222/Quant-Analyst---Model-Analyst-Sr_R237559-1": {
-      "title": "Quant Analyst & Model Analyst Sr",
-      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Quant-Analyst---Model-Analyst-Sr_R237559-1",
-      "location": "PA - Pittsburgh (15222)"
-    },
     "/job/PA---Pittsburgh-15222/Business-Analyst-Senior----Balance-Sheet-Analytics---Modeling_R214886-1": {
       "title": "Business Analyst Senior  - Data, Modeling & Analytics",
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Analyst-Senior----Balance-Sheet-Analytics---Modeling_R214886-1",
@@ -8386,6 +8376,11 @@
     "/job/PA---Pittsburgh-15222/Business-Analyst--C-IB_R237676-1": {
       "title": "Business Analyst--C&IB",
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Analyst--C-IB_R237676-1",
+      "location": "PA - Pittsburgh (15222)"
+    },
+    "/job/PA---Pittsburgh-15222/Quant-Analyst---Model-Analyst-Sr_R237559-1": {
+      "title": "Quant Analyst & Model Analyst Sr",
+      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Quant-Analyst---Model-Analyst-Sr_R237559-1",
       "location": "PA - Pittsburgh (15222)"
     },
     "/job/PA---Pittsburgh-15222/Tax-Analyst-Sr_R234057-1": {
@@ -8583,11 +8578,6 @@
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Detection---Investigation-Analyst-Lead---Outbound-Zelle-Fraud---Monday---Friday-8-30---5-00-pm-EST_R234569",
       "location": "PA - Pittsburgh (15222)"
     },
-    "/job/IL---Chicago-60606/Corporate---Institutional-Banking-Development-Program-Analyst-Associate---Commercial---Corporate-Banking---Financials-and-Diversified-Track_R230890-1": {
-      "title": "Corporate & Institutional Banking Development Program Analyst/Associate \u2013 Commercial & Corporate Banking \u2013 Financials and Diversified Track",
-      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/IL---Chicago-60606/Corporate---Institutional-Banking-Development-Program-Analyst-Associate---Commercial---Corporate-Banking---Financials-and-Diversified-Track_R230890-1",
-      "location": "5 Locations"
-    },
     "/job/Overland-Park---PNC-Kansas-City-KS012/Loan-Support-Analyst-Senior---Complex-Loan-Administration---Midland_R222385-1": {
       "title": "Loan Support Analyst Senior - Complex Loan Administration - Midland",
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/Overland-Park---PNC-Kansas-City-KS012/Loan-Support-Analyst-Senior---Complex-Loan-Administration---Midland_R222385-1",
@@ -8642,6 +8632,11 @@
       "title": "Portfolio Analytics and Strategy Analyst Senior - Enterprise Risk",
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Portfolio-Analytics-and-Strategy-Analyst-Senior---Enterprise-Risk_R236274-2",
       "location": "8 Locations"
+    },
+    "/job/IL---Chicago-60606/Corporate---Institutional-Banking-Development-Program-Analyst-Associate---Commercial---Corporate-Banking---Financials-and-Diversified-Track_R230890-1": {
+      "title": "Corporate & Institutional Banking Development Program Analyst/Associate \u2013 Commercial & Corporate Banking \u2013 Financials and Diversified Track",
+      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/IL---Chicago-60606/Corporate---Institutional-Banking-Development-Program-Analyst-Associate---Commercial---Corporate-Banking---Financials-and-Diversified-Track_R230890-1",
+      "location": "5 Locations"
     },
     "/job/VA---Tysons-Corner/Quantitative-Analytics---Model-Development-Analyst-Senior---Data--Model---Analytics_R217438-1": {
       "title": "Quantitative Analytics & Model Development Analyst Senior - Data, Model & Analytics",
@@ -9537,11 +9532,6 @@
       "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Business-Analyst--IAM-Strategy---Product-Management_R158266",
       "location": "2 Locations"
     },
-    "/job/Chicago-IL/Anaplan-Solutions-Analyst--Private-Capital-Administration_R158457": {
-      "title": "Anaplan Solutions Analyst, Private Capital Administration",
-      "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Anaplan-Solutions-Analyst--Private-Capital-Administration_R158457",
-      "location": "Chicago, IL"
-    },
     "/job/Chicago-IL/Financial-Analyst---Business-Unit-Support--Technology-_R159835": {
       "title": "Financial Analyst - Business Unit Support (Technology)",
       "url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Financial-Analyst---Business-Unit-Support--Technology-_R159835",
@@ -9909,14 +9899,14 @@
   },
   "Motional": {},
   "Applied Materials": {
-    "/job/Santa-ClaraCA/Financial-Analyst_R2626698": {
-      "title": "Financial Analyst",
-      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Financial-Analyst_R2626698",
-      "location": "Santa Clara,CA"
-    },
     "/job/Santa-ClaraCA/Market-Analyst-IV_R2625682-1": {
       "title": "Market Analyst IV",
       "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Market-Analyst-IV_R2625682-1",
+      "location": "Santa Clara,CA"
+    },
+    "/job/Santa-ClaraCA/Financial-Analyst_R2626698": {
+      "title": "Financial Analyst",
+      "url": "https://amat.wd1.myworkdayjobs.com/external/job/Santa-ClaraCA/Financial-Analyst_R2626698",
       "location": "Santa Clara,CA"
     },
     "/job/AustinTX/Senior-Financial-Analyst_R2619745": {
@@ -10866,20 +10856,7 @@
       "country_code": "US"
     }
   },
-  "Intuit": {
-    "https://jobs.intuit.com/job/mountain-view/senior-staff-data-scientist-mid-market-product-growth/27595/101619853104": {
-      "title": "Senior Staff Data Scientist - Mid-Market Product GrowthMountain View, California",
-      "url": "https://jobs.intuit.com/job/mountain-view/senior-staff-data-scientist-mid-market-product-growth/27595/101619853104"
-    },
-    "https://jobs.intuit.com/job/atlanta/senior-staff-data-scientist-finance-data-science/27595/101619852912": {
-      "title": "Senior Staff Data Scientist, Finance Data ScienceAtlanta, Georgia",
-      "url": "https://jobs.intuit.com/job/atlanta/senior-staff-data-scientist-finance-data-science/27595/101619852912"
-    },
-    "https://jobs.intuit.com/job/bengaluru/staff-software-engineer-sre-business-intelligence/27595/101619852720": {
-      "title": "Staff Software Engineer (SRE) - Business IntelligenceBangalore, India",
-      "url": "https://jobs.intuit.com/job/bengaluru/staff-software-engineer-sre-business-intelligence/27595/101619852720"
-    }
-  },
+  "Intuit": {},
   "Moodys": {
     "https://careers.moodys.com/en/job/new-york/vp-data-engineer-people-analytics/49841/99771528736": {
       "title": "VP-Data Engineer (People Analytics)",
