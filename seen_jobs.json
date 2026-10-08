@@ -2242,6 +2242,12 @@
       "location": "Arlington, Virginia, USA",
       "country_code": "USA"
     },
+    "10572575": {
+      "title": "Sr. Business Intelligence Engineer, Deal Tooling and I",
+      "url": "https://www.amazon.jobs/en/jobs/10572575/sr-business-intelligence-engineer-deal-tooling-and-i",
+      "location": "Seattle, Washington, USA",
+      "country_code": "USA"
+    },
     "10571147": {
       "title": "Senior Financial Analyst, AWS Infrastructure Central Finance",
       "url": "https://www.amazon.jobs/en/jobs/10571147/senior-financial-analyst-aws-infrastructure-central-finance",
@@ -3871,6 +3877,16 @@
   },
   "Waters Corporation": {},
   "CVS Health": {
+    "/job/IL---Work-from-home/Manager--Revenue-Cycle-Analytics--EPIC-Reporting-_R1052059": {
+      "title": "Manager, Revenue Cycle Analytics (EPIC Reporting)",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Manager--Revenue-Cycle-Analytics--EPIC-Reporting-_R1052059",
+      "location": "IL - Work from home"
+    },
+    "/job/Chicago-525-West-Monroe/Risk-Adjustment-Analyst--Population-Health_R1054134-1": {
+      "title": "Risk Adjustment Analyst, Population Health",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Chicago-525-West-Monroe/Risk-Adjustment-Analyst--Population-Health_R1054134-1",
+      "location": "Chicago-525 West Monroe"
+    },
     "/job/IL---Work-from-home/Aspect-Performance-Mgmt--APM--Project-Manager_R0999985": {
       "title": "Manager, Reporting & Insights \u2013 Service Operations",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Aspect-Performance-Mgmt--APM--Project-Manager_R0999985",
@@ -5585,10 +5601,6 @@
     "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Manager%2C-Healthcare-Data-Integration-and-Analytics-TX-99999/1422120600/": {
       "title": "Senior Manager, Healthcare Data Integration and Analytics",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Manager%2C-Healthcare-Data-Integration-and-Analytics-TX-99999/1422120600/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Professional-Programmer-Analyst-IL-99999/1437341000/": {
-      "title": "Professional Programmer Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Professional-Programmer-Analyst-IL-99999/1437341000/"
     }
   },
   "Happen Bank": {
@@ -5606,6 +5618,11 @@
       "title": "Sr Compliance Data Analyst",
       "url": "https://lendingclub.wd1.myworkdayjobs.com/external/job/San-Francisco-CA/Sr-Compliance-Data-Analyst_R0007455",
       "location": "3 Locations"
+    },
+    "/job/San-Francisco-CA/Sr-Credit-Strategy-Analyst_R0007512": {
+      "title": "Sr Credit Strategy Analyst",
+      "url": "https://lendingclub.wd1.myworkdayjobs.com/external/job/San-Francisco-CA/Sr-Credit-Strategy-Analyst_R0007512",
+      "location": "San Francisco, CA"
     },
     "/job/San-Francisco-CA/SEC-Reporting---Technical-Accounting-Manager_R0007440-1": {
       "title": "Technical Accounting & Reporting Manager",
@@ -5991,6 +6008,16 @@
     }
   },
   "Capital One": {
+    "/job/McLean-VA/KippsDeSanto---Investment-Banking-Analyst_R237029-2": {
+      "title": "KippsDeSanto - Investment Banking Analyst",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/KippsDeSanto---Investment-Banking-Analyst_R237029-2",
+      "location": "McLean, VA"
+    },
+    "/job/McLean-VA/Manager--Data-Analytics_R1003307-1": {
+      "title": "Manager, Data Analytics",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Analytics_R1003307-1",
+      "location": "3 Locations"
+    },
     "/job/New-York-NY/Data-Analysis-Manager---ES-Risk-Analytics_R249906-1": {
       "title": "Data Analysis Manager - ES Risk Analytics",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Data-Analysis-Manager---ES-Risk-Analytics_R249906-1",
@@ -6525,11 +6552,6 @@
       "title": "Manager, Data Scientist- Capital One Data Insights and Analytics",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Manager--Data-Scientist--Capital-One-Data-Insights-and-Analytics_R1000334-1",
       "location": "2 Locations"
-    },
-    "/job/McLean-VA/KippsDeSanto---Investment-Banking-Analyst_R237029-2": {
-      "title": "KippsDeSanto - Investment Banking Analyst",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/KippsDeSanto---Investment-Banking-Analyst_R237029-2",
-      "location": "McLean, VA"
     },
     "/job/McLean-VA/Manager--Data-Scientist---US-Card--Upmarket-Acquisitions-_R1000405-1": {
       "title": "Manager, Data Scientist - US Card (Upmarket Acquisitions)",
@@ -7415,13 +7437,9 @@
     }
   },
   "Deloitte": {
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Data-Engineer-II/370489": {
-      "title": "Data Engineer II",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Data-Engineer-II/370489"
-    },
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Data-Scientist/370462": {
-      "title": "Data Scientist",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Data-Scientist/370462"
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Lead-Data-Engineer-II/370530": {
+      "title": "Lead Data Engineer II",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Lead-Data-Engineer-II/370530"
     }
   },
   "OpenX": {
@@ -7437,21 +7455,9 @@
     }
   },
   "AbbVibe": {
-    "https://careers.abbvie.com/en/job/complaint-processing-analyst-i-in-heredia-heredia-province-jid-34099": {
-      "title": "Complaint Processing Analyst I",
-      "url": "https://careers.abbvie.com/en/job/complaint-processing-analyst-i-in-heredia-heredia-province-jid-34099"
-    },
-    "https://careers.abbvie.com/en/job/scientist-i-analytical-operations-outsourcing-in-north-chicago-il-jid-31805": {
-      "title": "Scientist I, Analytical Operations Outsourcing",
-      "url": "https://careers.abbvie.com/en/job/scientist-i-analytical-operations-outsourcing-in-north-chicago-il-jid-31805"
-    },
-    "https://careers.abbvie.com/en/job/principal-data-engineer-ai-enablement-in-north-chicago-il-jid-34096": {
-      "title": "Principal Data Engineer, AI Enablement",
-      "url": "https://careers.abbvie.com/en/job/principal-data-engineer-ai-enablement-in-north-chicago-il-jid-34096"
-    },
-    "https://careers.abbvie.com/en/job/manager-market-access-data-strategy-and-business-intelligence-in-mettawa-il-jid-27139": {
-      "title": "Manager, Market Access Data Strategy and Business Intelligence",
-      "url": "https://careers.abbvie.com/en/job/manager-market-access-data-strategy-and-business-intelligence-in-mettawa-il-jid-27139"
+    "https://careers.abbvie.com/en/job/senior-analyst-global-r-and-d-study-forecasting-in-north-chicago-il-jid-34117": {
+      "title": "Senior Analyst, Global R&D Study Forecasting",
+      "url": "https://careers.abbvie.com/en/job/senior-analyst-global-r-and-d-study-forecasting-in-north-chicago-il-jid-34117"
     }
   },
   "HPE": {
@@ -7728,6 +7734,11 @@
       "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/Centennial-CO/Analyst--Operations---Client-Communications_JR5394",
       "location": "Centennial, CO"
     },
+    "/job/Omaha-NE/Business-Analyst--Business-Management_JR5560": {
+      "title": "Business Analyst- Business Management",
+      "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/Omaha-NE/Business-Analyst--Business-Management_JR5560",
+      "location": "2 Locations"
+    },
     "/job/HQ---San-Diego-CA/Sr-Technical-Business-Systems-Analyst_JR4310": {
       "title": "Sr. Technical Business Systems Analyst",
       "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Sr-Technical-Business-Systems-Analyst_JR4310",
@@ -7839,11 +7850,6 @@
       "title": "Senior Infrastructure Analyst",
       "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Senior-Infrastructure-Analyst_2026-0030547",
       "location": "9 Locations"
-    },
-    "/job/Charlotte-NC/Customer-Outreach-Analyst_2026-0031364-1": {
-      "title": "Customer Outreach Analyst",
-      "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/Customer-Outreach-Analyst_2026-0031364-1",
-      "location": "Charlotte, NC"
     },
     "/job/Charlotte-NC/Financial-Analyst---Liquidity_2026-0030782-1": {
       "title": "Financial Analyst - Liquidity",
@@ -8267,6 +8273,11 @@
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Analyst-I-or-II---Real-Estate-Investment-Banking_R0116842-1",
       "location": "Atlanta, GA"
     },
+    "/job/Charlotte-NC/Senior-Business-Performance---Executive-Communications-Analyst---TD-O_R0120544": {
+      "title": "Senior Business Performance & Executive Communications Analyst - TD&O",
+      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Senior-Business-Performance---Executive-Communications-Analyst---TD-O_R0120544",
+      "location": "3 Locations"
+    },
     "/job/Raleigh-NC/Senior-Analyst---Mortgage-Market-Intelligence---Channel-Pricing-Analytics_R0117814": {
       "title": "Senior Analyst - Mortgage Market Intelligence & Channel Pricing Analytics",
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Raleigh-NC/Senior-Analyst---Mortgage-Market-Intelligence---Channel-Pricing-Analytics_R0117814",
@@ -8331,11 +8342,6 @@
       "title": "Internal Auditor II - Finance & Regulatory Reporting",
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Raleigh-NC/Internal-Auditor-II---Finance---Regulatory-Reporting_R0117863",
       "location": "3 Locations"
-    },
-    "/job/Richmond-VA/Associate-Software-Engineer--Python---Data-Analytics_R0119972": {
-      "title": "Associate Software Engineer--Python & Data Analytics",
-      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Richmond-VA/Associate-Software-Engineer--Python---Data-Analytics_R0119972",
-      "location": "2 Locations"
     },
     "/job/Charlotte-NC---214-North-Tryon-Street/Decision-Science-Lead_R0119602": {
       "title": "Decision Science Lead",
@@ -8443,6 +8449,11 @@
       "title": "Production Analyst Senior",
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/CA---Calabasas/Production-Analyst-Senior_R237999-1",
       "location": "CA - Calabasas"
+    },
+    "/job/ZZ---Remote-Location/Treasury--Funds-Transfer-Analyst_R221593-1": {
+      "title": "Treasury /Funds Transfer Analyst",
+      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/ZZ---Remote-Location/Treasury--Funds-Transfer-Analyst_R221593-1",
+      "location": "ZZ - Remote Location"
     },
     "/job/PA---Pittsburgh-15222/Portfolio-Analytics---Strategy-Analyst_R225178-2": {
       "title": "Portfolio Analytics & Strategy Analyst",
@@ -8729,11 +8740,6 @@
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/VA---Tysons-Corner/Quantitative-Analytics---Model-Analyst-Senior---Data-Operations-and-Machine-Learning-Operations_R234596-1",
       "location": "3 Locations"
     },
-    "/job/PA---Philadelphia/Corporate---Institutional-Banking-Development-Program-Analyst-Associate---Centralized-Credit-Products-Group--CCPG-_R231188-1": {
-      "title": "Corporate & Institutional Banking Development Program Analyst/Associate - Centralized Credit Products Group (CCPG)",
-      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Philadelphia/Corporate---Institutional-Banking-Development-Program-Analyst-Associate---Centralized-Credit-Products-Group--CCPG-_R231188-1",
-      "location": "3 Locations"
-    },
     "/job/NY---New-York-10173/Graduate-Intern--Portfolio-Management-and-Analytics--Chief-Investment-Office--CIO---Non-Campus-_R237633-1": {
       "title": "Graduate Intern, Portfolio Management and Analytics, Chief Investment Office (CIO) (Non-Campus)",
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/NY---New-York-10173/Graduate-Intern--Portfolio-Management-and-Analytics--Chief-Investment-Office--CIO---Non-Campus-_R237633-1",
@@ -8887,6 +8893,11 @@
     "/job/PA---Pittsburgh-15222/Portfolio-Analytics-and-Strategy-Specialist--Credit-Portfolio_R228795-1": {
       "title": "Portfolio Analytics and Strategy Specialist Credit Portfolio",
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Portfolio-Analytics-and-Strategy-Specialist--Credit-Portfolio_R228795-1",
+      "location": "2 Locations"
+    },
+    "/job/OH---Cleveland/Asset-Liability-Management--ALM--Associate---Balance-Sheet-Analyst_R235531-1": {
+      "title": "Asset Liability Management (ALM) Associate - Balance Sheet Analytics",
+      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/OH---Cleveland/Asset-Liability-Management--ALM--Associate---Balance-Sheet-Analyst_R235531-1",
       "location": "2 Locations"
     },
     "/job/PA---Pittsburgh-15222/Portfolio-Analytics-and-Strategy-Expert--Credit-Portfolio_R230036-1": {
@@ -9715,6 +9726,11 @@
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/USA-SCIB-Portfolio-Management-Analyst---CIB-Lending_Req1612357-2",
       "location": "Miami"
     },
+    "/job/Madison-Ave-Corp/Export---Agency-Finance--EAF-US----LatAm-Focus---Analyst_Req1625981": {
+      "title": "Export & Agency Finance (EAF US) - LatAm Focus - Analyst",
+      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/Export---Agency-Finance--EAF-US----LatAm-Focus---Analyst_Req1625981",
+      "location": "Madison Ave Corp"
+    },
     "/job/Madison-Ave-Corp/Corporate---Investment-Banking-Latam-Rates-FX-Structured-Products-Analyst_Req1594213": {
       "title": "Corporate & Investment Banking Latam Rates/FX Structured Products Analyst",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/Corporate---Investment-Banking-Latam-Rates-FX-Structured-Products-Analyst_Req1594213",
@@ -10164,11 +10180,6 @@
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Finance-Analyst_2027258-1",
       "location": "San Jose, California, US"
     },
-    "/job/RTP-North-Carolina-US/Finance-Analyst_2024200-1": {
-      "title": "Finance Analyst",
-      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Finance-Analyst_2024200-1",
-      "location": "7 Locations"
-    },
     "/job/San-Jose-California-US/Analyst-Relations-Manager--Identity-Security--US-Remote-_2020603": {
       "title": "Analyst Relations Manager: Identity Security (US Remote)",
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Analyst-Relations-Manager--Identity-Security--US-Remote-_2020603",
@@ -10509,11 +10520,6 @@
     "/job/Chicago---20-S-Wacker/Sr-Analyst--Memberships---Commercial-Operations_34786": {
       "title": "Sr Analyst: Memberships & Commercial Operations",
       "url": "https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/Sr-Analyst--Memberships---Commercial-Operations_34786",
-      "location": "Chicago - 20 S. Wacker"
-    },
-    "/job/Chicago---20-S-Wacker/Cyber-Defense-Analyst-III_34794-1": {
-      "title": "Cyber Defense Analyst III",
-      "url": "https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/Cyber-Defense-Analyst-III_34794-1",
       "location": "Chicago - 20 S. Wacker"
     },
     "/job/Chicago---20-S-Wacker/Cyber-Defense-Response-Analyst-II_34737": {
@@ -10892,12 +10898,6 @@
       "location": "Pittsburgh, PA, United States",
       "country_code": "US"
     },
-    "77487": {
-      "title": "Senior Vice President, Metrics and Analytics Manager",
-      "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY/job/77487",
-      "location": "Pittsburgh, PA, United States",
-      "country_code": "US"
-    },
     "76786": {
       "title": "Senior Vice President,  AI / Machine Learning Data Engineer",
       "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY/job/76786",
@@ -10936,6 +10936,18 @@
     }
   },
   "Intuit": {
+    "https://jobs.intuit.com/job/frisco/senior-staff-business-systems-analyst-seller-experience/27595/101676660816": {
+      "title": "Senior Staff Business Systems Analyst - Seller ExperienceMultiple Locations",
+      "url": "https://jobs.intuit.com/job/frisco/senior-staff-business-systems-analyst-seller-experience/27595/101676660816"
+    },
+    "https://jobs.intuit.com/job/new-york/senior-analyst-risk-data-intelligence-fintech/27595/101676653520": {
+      "title": "Senior Analyst - Risk Data Intelligence, FintechNew York, New York",
+      "url": "https://jobs.intuit.com/job/new-york/senior-analyst-risk-data-intelligence-fintech/27595/101676653520"
+    },
+    "https://jobs.intuit.com/job/mountain-view/senior-staff-data-scientist-mid-market-product-growth/27595/101619853104": {
+      "title": "Senior Staff Data Scientist - Mid-Market Product GrowthMountain View, California",
+      "url": "https://jobs.intuit.com/job/mountain-view/senior-staff-data-scientist-mid-market-product-growth/27595/101619853104"
+    },
     "https://jobs.intuit.com/job/san-diego/staff-financial-analyst-customer-success-fp-and-a/27595/101663564096": {
       "title": "Staff Financial Analyst - Customer Success FP&AMultiple Locations",
       "url": "https://jobs.intuit.com/job/san-diego/staff-financial-analyst-customer-success-fp-and-a/27595/101663564096"
@@ -10950,28 +10962,20 @@
       "title": "Technical Support Analyst",
       "url": "https://careers.moodys.com/en/job/charlotte/technical-support-analyst/49841/99693292480"
     },
-    "https://careers.moodys.com/en/job/frankfurt-am-main/quantitative-analytics-and-modeling-summer-intern/49841/101661854496": {
-      "title": "Quantitative Analytics and Modeling Summer Intern",
-      "url": "https://careers.moodys.com/en/job/frankfurt-am-main/quantitative-analytics-and-modeling-summer-intern/49841/101661854496"
-    },
-    "https://careers.moodys.com/en/job/vilnius/senior-financial-data-analyst-german-french-speaker/49841/101661854480": {
-      "title": "Senior Financial Data Analyst (German/French Speaker)",
-      "url": "https://careers.moodys.com/en/job/vilnius/senior-financial-data-analyst-german-french-speaker/49841/101661854480"
+    "https://careers.moodys.com/en/job/new-york/associate-data-scientist/49841/101678695664": {
+      "title": "Associate Data Scientist",
+      "url": "https://careers.moodys.com/en/job/new-york/associate-data-scientist/49841/101678695664"
     }
   },
   "UKG": {},
   "PGE": {
+    "https://jobs.pge.com/job/oakland/operations-data-analyst-expert/29673/101678005056": {
+      "title": "Operations Data Analyst, Expert",
+      "url": "https://jobs.pge.com/job/oakland/operations-data-analyst-expert/29673/101678005056"
+    },
     "https://jobs.pge.com/job/auburn/power-generation-project-controls-analyst/29673/101665765472": {
       "title": "Power Generation Project Controls Analyst",
       "url": "https://jobs.pge.com/job/auburn/power-generation-project-controls-analyst/29673/101665765472"
-    },
-    "https://jobs.pge.com/job/oakland/operations-data-analyst-principal/29673/94610480032": {
-      "title": "Operations Data Analyst, Principal",
-      "url": "https://jobs.pge.com/job/oakland/operations-data-analyst-principal/29673/94610480032"
-    },
-    "https://jobs.pge.com/job/oakland/erp-functional-analyst-expert-finance/29673/89562695072": {
-      "title": "ERP Functional Analyst, Expert - Finance",
-      "url": "https://jobs.pge.com/job/oakland/erp-functional-analyst-expert-finance/29673/89562695072"
     }
   },
   "Raunch": {},
@@ -10980,6 +10984,12 @@
       "title": "Risk Analyst",
       "url": "https://jobs.ashbyhq.com/check-technologies/5acfe014-785a-49d2-b4b0-bbe7164905ad",
       "location": "Remote"
+    }
+  },
+  "Corning": {
+    "https://corningjobs.corning.com/job/Phoenix-Finance-Cost-Analyst-AZ-85353/1427774700/": {
+      "title": "Finance Cost Analyst",
+      "url": "https://corningjobs.corning.com/job/Phoenix-Finance-Cost-Analyst-AZ-85353/1427774700/"
     }
   }
 }
