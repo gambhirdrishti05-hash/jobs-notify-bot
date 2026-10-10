@@ -4975,6 +4975,11 @@
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/HR-Analytics-Insights-Manager_RQ4069038",
       "location": "Somerville-MA"
     },
+    "/job/Boston-MA/Senior-Data-Scientist-Redline-Lab_RQ4082425": {
+      "title": "Senior Data Scientist Redline Lab",
+      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Senior-Data-Scientist-Redline-Lab_RQ4082425",
+      "location": "Boston-MA"
+    },
     "/job/Somerville-MA/Workday-Business-Intelligence-Manager_RQ4081577": {
       "title": "Workday Business Intelligence Manager",
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Workday-Business-Intelligence-Manager_RQ4081577",
@@ -7433,7 +7438,12 @@
       "location": "Los Angeles, CA"
     }
   },
-  "AbbVibe": {},
+  "AbbVibe": {
+    "https://careers.abbvie.com/en/job/affiliate-gaap-rtr-and-tax-senior-analyst-in-sofia-sofia-city-province-jid-34249": {
+      "title": "Affiliate GAAP RTR and Tax Senior Analyst",
+      "url": "https://careers.abbvie.com/en/job/affiliate-gaap-rtr-and-tax-senior-analyst-in-sofia-sofia-city-province-jid-34249"
+    }
+  },
   "HPE": {
     "/job/Wroclaw-Lower-Silesian-Poland/Tax-Analyst_1213951": {
       "title": "Tax Analyst",
@@ -10960,7 +10970,12 @@
     }
   },
   "UKG": {},
-  "PGE": {},
+  "PGE": {
+    "https://jobs.pge.com/job/oakland/senior-asset-accounting-analyst/29673/101682594192": {
+      "title": "Senior Asset Accounting Analyst",
+      "url": "https://jobs.pge.com/job/oakland/senior-asset-accounting-analyst/29673/101682594192"
+    }
+  },
   "Raunch": {},
   "Check": {
     "5acfe014-785a-49d2-b4b0-bbe7164905ad": {
