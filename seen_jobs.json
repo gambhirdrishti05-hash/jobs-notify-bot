@@ -2662,12 +2662,6 @@
       "location": "Austin, Texas, USA",
       "country_code": "USA"
     },
-    "10536887": {
-      "title": "Billing Analyst, Billing Central",
-      "url": "https://www.amazon.jobs/en/jobs/10536887/billing-analyst-billing-central",
-      "location": "Culver City, California, USA",
-      "country_code": "USA"
-    },
     "10553985": {
       "title": "Sales Operations Analyst, AWSI Strategy & Operations",
       "url": "https://www.amazon.jobs/en/jobs/10553985/sales-operations-analyst-awsi-strategy-operations",
@@ -3100,12 +3094,6 @@
       "location": "New York, New York, USA",
       "country_code": "USA"
     },
-    "10510956": {
-      "title": "Sr. Financial Analyst, Amazon Business Finance",
-      "url": "https://www.amazon.jobs/en/jobs/10510956/sr-financial-analyst-amazon-business-finance",
-      "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
     "10548871": {
       "title": "Business Analyst, Selling Partner Experience, Selling Partner Experience EASE and Analytics (SPXEA)",
       "url": "https://www.amazon.jobs/en/jobs/10548871/business-analyst-selling-partner-experience-selling-partner-experience-ease-and-analytics-spxea",
@@ -3416,12 +3404,6 @@
       "title": "AWS Senior Financial Analyst, AWS Central FP&A",
       "url": "https://www.amazon.jobs/en/jobs/10489415/aws-senior-financial-analyst-aws-central-fp-a",
       "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
-    "10484773": {
-      "title": "Business Analyst II - AMZ15546.6",
-      "url": "https://www.amazon.jobs/en/jobs/10484773/business-analyst-ii-amz15546-6",
-      "location": "Austin, Texas, USA",
       "country_code": "USA"
     },
     "10482980": {
@@ -6049,15 +6031,15 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Technology-and-Reporting-Manager_R-798691",
       "location": "2 Locations"
     },
-    "/job/London-England/Data-Scientist---Automation-Lead---Vulnerabilities-remediation-Governance_R-796679": {
-      "title": "Data Scientist & Automation Lead - Vulnerabilities remediation Governance",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Data-Scientist---Automation-Lead---Vulnerabilities-remediation-Governance_R-796679",
-      "location": "3 Locations"
-    },
     "/job/Quincy-Massachusetts/Performance-and-Analytics-for-Private-Markets-Product-Owner--Vice-President-_R-797710-1": {
       "title": "Performance and Analytics for Private Markets Product Owner, Vice President,",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Performance-and-Analytics-for-Private-Markets-Product-Owner--Vice-President-_R-797710-1",
       "location": "Quincy, Massachusetts"
+    },
+    "/job/London-England/Data-Scientist---Automation-Lead---Vulnerabilities-remediation-Governance_R-796679": {
+      "title": "Data Scientist & Automation Lead - Vulnerabilities remediation Governance",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Data-Scientist---Automation-Lead---Vulnerabilities-remediation-Governance_R-796679",
+      "location": "3 Locations"
     },
     "/job/Quincy-Massachusetts/Data-Analytics---Snowflake-Technical-Engineering-Lead--AVP_R-796092": {
       "title": "Data Analytics - Snowflake Technical Engineer, AVP",
@@ -6079,15 +6061,15 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/SIEM-Data-Engineer_R-794331",
       "location": "Quincy, Massachusetts"
     },
-    "/job/Boston-Massachusetts/Global-Head-of-Insight-Generation-and-AI-Adoption--MD---State-Street-Investment-Management_R-792525": {
-      "title": "Global Head of Insight Generation and AI Adoption, MD - State Street Investment Management",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Global-Head-of-Insight-Generation-and-AI-Adoption--MD---State-Street-Investment-Management_R-792525",
-      "location": "Boston, Massachusetts"
-    },
     "/job/Quincy-Massachusetts/Sr-Databricks-Data-Engineer--Onsite--AVP_R-797611-2": {
       "title": "Sr. Databricks Data Engineer, Onsite, AVP",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Sr-Databricks-Data-Engineer--Onsite--AVP_R-797611-2",
       "location": "3 Locations"
+    },
+    "/job/Boston-Massachusetts/Global-Head-of-Insight-Generation-and-AI-Adoption--MD---State-Street-Investment-Management_R-792525": {
+      "title": "Global Head of Insight Generation and AI Adoption, MD - State Street Investment Management",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Global-Head-of-Insight-Generation-and-AI-Adoption--MD---State-Street-Investment-Management_R-792525",
+      "location": "Boston, Massachusetts"
     },
     "/job/Quincy-Massachusetts/Data-Engineering-and-Development-VP_R-791462": {
       "title": "Data Engineering and Development VP",
@@ -11108,7 +11090,12 @@
       "country_code": "US"
     }
   },
-  "Intuit": {},
+  "Intuit": {
+    "https://jobs.intuit.com/job/mountain-view/staff-people-analyst-applied-ai/27595/101711266336": {
+      "title": "Staff People Analyst - Applied AIMultiple Locations",
+      "url": "https://jobs.intuit.com/job/mountain-view/staff-people-analyst-applied-ai/27595/101711266336"
+    }
+  },
   "Moodys": {
     "https://careers.moodys.com/en/job/new-york/vp-data-engineer-people-analytics/49841/99771528736": {
       "title": "VP-Data Engineer (People Analytics)",
@@ -11118,18 +11105,13 @@
       "title": "Technical Support Analyst",
       "url": "https://careers.moodys.com/en/job/charlotte/technical-support-analyst/49841/99693292480"
     },
-    "https://careers.moodys.com/en/job/new-york/product-analyst-salesforce/49841/100140837088": {
-      "title": "Product Analyst, Salesforce",
-      "url": "https://careers.moodys.com/en/job/new-york/product-analyst-salesforce/49841/100140837088"
+    "https://careers.moodys.com/en/job/heredia/associate-data-analyst/49841/98864603216": {
+      "title": "Associate Data Analyst",
+      "url": "https://careers.moodys.com/en/job/heredia/associate-data-analyst/49841/98864603216"
     }
   },
   "UKG": {},
-  "PGE": {
-    "https://jobs.pge.com/job/oakland/senior-risk-management-analyst-electric-risk-management/29673/100838108352": {
-      "title": "Senior Risk Management Analyst, Electric Risk Management",
-      "url": "https://jobs.pge.com/job/oakland/senior-risk-management-analyst-electric-risk-management/29673/100838108352"
-    }
-  },
+  "PGE": {},
   "Raunch": {},
   "Check": {
     "5acfe014-785a-49d2-b4b0-bbe7164905ad": {
