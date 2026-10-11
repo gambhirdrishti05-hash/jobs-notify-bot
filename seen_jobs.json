@@ -3094,12 +3094,6 @@
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
-    "10518507": {
-      "title": "Business Analyst, Integrated Demand Center, AWS Marketing, IDC Analytics, IDC Analytics",
-      "url": "https://www.amazon.jobs/en/jobs/10518507/business-analyst-integrated-demand-center-aws-marketing-idc-analytics-idc-analytics",
-      "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
     "10566019": {
       "title": "Senior Financial Analyst, Amazon Music Finance",
       "url": "https://www.amazon.jobs/en/jobs/10566019/senior-financial-analyst-amazon-music-finance",
@@ -5572,13 +5566,9 @@
     }
   },
   "Gainwell": {
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Principal%2C-Programmer-Analyst-TX-99999/1438794300/": {
-      "title": "Principal, Programmer Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Principal%2C-Programmer-Analyst-TX-99999/1438794300/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-Business-Analyst-AL-99999/1438839400/": {
-      "title": "Early Career Business Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Early-Career-Business-Analyst-AL-99999/1438839400/"
+    "https://jobs.gainwelltechnologies.com/job/Oklahoma-City-Business-Analyst-Healthcare-Claims-OK-73107-2411/1409672500/": {
+      "title": "Business Analyst - Healthcare Claims",
+      "url": "https://jobs.gainwelltechnologies.com/job/Oklahoma-City-Business-Analyst-Healthcare-Claims-OK-73107-2411/1409672500/"
     }
   },
   "Happen Bank": {
@@ -7393,11 +7383,6 @@
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Data-Analyst_R260027161",
       "location": "Chicago, IL, USA"
     },
-    "/job/New-York-NY-USA/Analyst--Corporate-Banking--Project-and-Energy-Transition-Finance_R260025926": {
-      "title": "Analyst, Corporate Banking, Project and Energy Transition Finance",
-      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/New-York-NY-USA/Analyst--Corporate-Banking--Project-and-Energy-Transition-Finance_R260025926",
-      "location": "New York, NY, USA"
-    },
     "/job/Chicago-IL-USA/Senior-Manager--Fraud-Analytics---Solutions-Implementation_R260028106": {
       "title": "Senior Manager, Fraud Analytics & Solutions Implementation",
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Senior-Manager--Fraud-Analytics---Solutions-Implementation_R260028106",
@@ -8081,16 +8066,6 @@
     }
   },
   "Truist": {
-    "/job/Atlanta-GA/Middle-Market-Credit-Delivery-Analyst-or-Senior-Analyst_R0119353": {
-      "title": "Middle Market Credit Delivery Analyst or Senior Analyst",
-      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Middle-Market-Credit-Delivery-Analyst-or-Senior-Analyst_R0119353",
-      "location": "2 Locations"
-    },
-    "/job/Atlanta-GA/Middle-Market-Credit-Delivery-Analyst-or-Senior-Analyst_R0119393": {
-      "title": "Middle Market Credit Delivery Analyst or Senior Analyst",
-      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Middle-Market-Credit-Delivery-Analyst-or-Senior-Analyst_R0119393",
-      "location": "2 Locations"
-    },
     "/job/Richmond-VA---1001-Semmes-Ave---Truist-Plaza-Richmond/Process-Analyst-II_R0114407": {
       "title": "Process Analyst II",
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Richmond-VA---1001-Semmes-Ave---Truist-Plaza-Richmond/Process-Analyst-II_R0114407",
@@ -8135,6 +8110,16 @@
       "title": "Treasury Sales Analyst",
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Orlando-FL/Treasury-Sales-Analyst_R0120605",
       "location": "3 Locations"
+    },
+    "/job/Atlanta-GA/Middle-Market-Credit-Delivery-Analyst-or-Senior-Analyst_R0119353": {
+      "title": "Middle Market Credit Delivery Analyst or Senior Analyst",
+      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Middle-Market-Credit-Delivery-Analyst-or-Senior-Analyst_R0119353",
+      "location": "2 Locations"
+    },
+    "/job/Atlanta-GA/Middle-Market-Credit-Delivery-Analyst-or-Senior-Analyst_R0119393": {
+      "title": "Middle Market Credit Delivery Analyst or Senior Analyst",
+      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Middle-Market-Credit-Delivery-Analyst-or-Senior-Analyst_R0119393",
+      "location": "2 Locations"
     },
     "/job/Houston-TX/Investment-Banking-Analyst---Energy_R0118091": {
       "title": "Investment Banking Analyst - Energy",
@@ -8286,6 +8271,11 @@
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Wholesale-Payments---Payments-Analysts-Leader_R0119505",
       "location": "Charlotte, NC"
     },
+    "/job/Charlotte-NC/Senior-Business-Performance---Executive-Communications-Analyst---TD-O_R0120544": {
+      "title": "Senior Business Performance & Executive Communications Analyst - TD&O",
+      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Senior-Business-Performance---Executive-Communications-Analyst---TD-O_R0120544",
+      "location": "3 Locations"
+    },
     "/job/Raleigh-NC/Senior-Analyst---Mortgage-Market-Intelligence---Channel-Pricing-Analytics_R0117814": {
       "title": "Senior Analyst - Mortgage Market Intelligence & Channel Pricing Analytics",
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Raleigh-NC/Senior-Analyst---Mortgage-Market-Intelligence---Channel-Pricing-Analytics_R0117814",
@@ -8295,11 +8285,6 @@
       "title": "Product Analyst-Agile - End-to End Lending Automation",
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA---303-Peachtree-Center-Avenue---Garden-Offices/Product-Analyst-Agile---End-to-End-Lending-Automation_R0119380-1",
       "location": "Atlanta GA - 303 Peachtree Center Avenue - Garden Offices"
-    },
-    "/job/Charlotte-NC/Senior-Business-Performance---Executive-Communications-Analyst---TD-O_R0120544": {
-      "title": "Senior Business Performance & Executive Communications Analyst - TD&O",
-      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Senior-Business-Performance---Executive-Communications-Analyst---TD-O_R0120544",
-      "location": "3 Locations"
     },
     "/job/Charlotte-NC/Risk-Data-and-Reporting-Senior-Analyst-I--Risk-Appetite_R0119645": {
       "title": "Risk Data and Reporting Senior Analyst I- Risk Appetite",
@@ -8638,6 +8623,11 @@
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/Home-Location-KS-KSH01/Loan-Support-Analyst-Senior---Covenant-Administration---Midland_R235734-1",
       "location": "9 Locations"
     },
+    "/job/PA---Pittsburgh-15222/Portfolio-Analytics---Strategy-Analyst-Senior---Real-Estate-Market-Analytics_R235001-1": {
+      "title": "Portfolio Analytics & Strategy Analyst Senior - Real Estate Market Analytics",
+      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Portfolio-Analytics---Strategy-Analyst-Senior---Real-Estate-Market-Analytics_R235001-1",
+      "location": "3 Locations"
+    },
     "/job/Overland-Park---PNC-Kansas-City-KS012/Loan-Support-Analyst-Senior---Complex-Loan-Administration---Midland_R222385-1": {
       "title": "Loan Support Analyst Senior - Complex Loan Administration - Midland",
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/Overland-Park---PNC-Kansas-City-KS012/Loan-Support-Analyst-Senior---Complex-Loan-Administration---Midland_R222385-1",
@@ -8692,11 +8682,6 @@
       "title": "Lending Transaction Analyst Sr (Loan Fulfillment - Commercial Lending)",
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/Portage---650-Trade-Centre-MIZ37/Lending-Transaction-Analyst-Sr--Loan-Fulfillment---Commercial-Lending-_R236173-2",
       "location": "8 Locations"
-    },
-    "/job/PA---Pittsburgh-15222/Portfolio-Analytics---Strategy-Analyst-Senior---Real-Estate-Market-Analytics_R235001-1": {
-      "title": "Portfolio Analytics & Strategy Analyst Senior - Real Estate Market Analytics",
-      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Portfolio-Analytics---Strategy-Analyst-Senior---Real-Estate-Market-Analytics_R235001-1",
-      "location": "3 Locations"
     },
     "/job/VA---Tysons-Corner/Quantitative-Analytics---Model-Development-Analyst-Senior---Data--Model---Analytics_R217438-1": {
       "title": "Quantitative Analytics & Model Development Analyst Senior - Data, Model & Analytics",
@@ -9005,11 +8990,6 @@
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Senior-Group-Risk-Analyst_R_1511745",
       "location": "3 Locations"
     },
-    "/job/Wilmington-Delaware/Business-Analyst-III--US-_R_1515007": {
-      "title": "Business Analyst III (US)",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Wilmington-Delaware/Business-Analyst-III--US-_R_1515007",
-      "location": "2 Locations"
-    },
     "/job/New-York-New-York/Operations-Analyst---Options-Clearing_R_1515661": {
       "title": "Operations Analyst - Options Clearing",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Operations-Analyst---Options-Clearing_R_1515661",
@@ -9065,20 +9045,10 @@
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Analyst---Corporate-Banking---Industrials--TD-Securities_R_1514917",
       "location": "New York, New York"
     },
-    "/job/Jacksonville-Florida/KYC-Senior-Business-Intelligence-Analyst--US-_R_1507768": {
-      "title": "KYC Senior Business Intelligence Analyst (US)",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Jacksonville-Florida/KYC-Senior-Business-Intelligence-Analyst--US-_R_1507768",
-      "location": "4 Locations"
-    },
     "/job/New-York-New-York/Investment-Banking-Analyst--Debt-Private-Placements_R_1515753": {
       "title": "Investment Banking Analyst, Debt Private Placements",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Investment-Banking-Analyst--Debt-Private-Placements_R_1515753",
       "location": "New York, New York"
-    },
-    "/job/Portland-Maine/Senior-Business-Management-Analyst--Mortgage---Consumer-Lending_R_1514303": {
-      "title": "Senior Business Management Analyst \u2013Mortgage / Consumer Lending",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Portland-Maine/Senior-Business-Management-Analyst--Mortgage---Consumer-Lending_R_1514303",
-      "location": "5 Locations"
     },
     "/job/Mount-Laurel-New-Jersey/Senior-Financial-Crime-Risk-Analyst--US-Sanctions-Escalations-_R_1515272": {
       "title": "Senior Financial Crime Risk Analyst (US Sanctions Escalations)",
@@ -9095,16 +9065,6 @@
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Experienced-Analyst---Investment-Banking--Private-Capital-Markets---TDS--US-_R_1507740",
       "location": "New York, New York"
     },
-    "/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Analyst_R_1510236": {
-      "title": "2027 Spring Co-op - Global Technology & Solutions - Data Analyst",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Analyst_R_1510236",
-      "location": "Mount Laurel, New Jersey"
-    },
-    "/job/San-Francisco-California/XMLNAME-2027-Summer-Analyst-Program---Investment-Banking--Healthcare--San-Francisco-_R_1513984": {
-      "title": "2027 Summer Analyst Program - Investment Banking, Healthcare (San Francisco)",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/San-Francisco-California/XMLNAME-2027-Summer-Analyst-Program---Investment-Banking--Healthcare--San-Francisco-_R_1513984",
-      "location": "San Francisco, California"
-    },
     "/job/Mount-Laurel-New-Jersey/Senior-Group-Risk-Analyst--2A-Oversight-of-Finance--US-_R_1515046": {
       "title": "Senior Group Risk Analyst- 2A Oversight of Finance (US)",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Senior-Group-Risk-Analyst--2A-Oversight-of-Finance--US-_R_1515046",
@@ -9114,16 +9074,6 @@
       "title": "Senior Analyst, Regulatory Compliance Risk Assessment Data and Reporting (US)",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Senior-Analyst--Regulatory-Compliance-Risk-Assessment-Data-and-Reporting--US-_R_1511214",
       "location": "2 Locations"
-    },
-    "/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Business-Management-Analyst--BMA-_R_1510120": {
-      "title": "2027 Spring Co-op - Global Technology & Solutions - Business Management Analyst (BMA)",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Business-Management-Analyst--BMA-_R_1510120",
-      "location": "Mount Laurel, New Jersey"
-    },
-    "/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology-Solutions---Business-Systems-Analyst--BSA-_R_1510802": {
-      "title": "2027 Summer Internship Program - Global Technology Solutions - Business Systems Analyst (BSA)",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology-Solutions---Business-Systems-Analyst--BSA-_R_1510802",
-      "location": "Mount Laurel, New Jersey"
     },
     "/job/Southfield-Michigan/Principal-Data-Scientist--US-_R_1501026": {
       "title": "Principal Data Scientist (US)",
@@ -9164,16 +9114,6 @@
       "title": "Data Engineering & Platform Enablement Practice Lead (US)",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Data-Engineering---Platform-Enablement-Practice-Lead--US-_R_1501948",
       "location": "2 Locations"
-    },
-    "/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Engineer_R_1510111": {
-      "title": "2027 Spring Co-op - Global Technology & Solutions - Data Engineer",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Engineer_R_1510111",
-      "location": "Mount Laurel, New Jersey"
-    },
-    "/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797": {
-      "title": "2027 Summer Internship Program - Global Technology & Solutions - Data Engineer",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797",
-      "location": "Mount Laurel, New Jersey"
     },
     "/job/Mount-Laurel-New-Jersey/Audit-Manager-II---Internal-Controls-over-Financial-Reporting-2_R_1502801": {
       "title": "Audit Manager II - Internal Controls over Financial Reporting-2",
@@ -9493,11 +9433,6 @@
       "title": "Key Private Bank Trust Analyst",
       "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Key-Private-Bank-Trust-Analyst_R-42085",
       "location": "Brooklyn, OH"
-    },
-    "/job/Brooklyn-OH/Sr-Data-Analyst---Tableau-Developer_R-42056": {
-      "title": "Sr. Data Analyst - Tableau Developer",
-      "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Sr-Data-Analyst---Tableau-Developer_R-42056",
-      "location": "4 Locations"
     },
     "/job/Seattle-WA/Commercial-Analyst_R-39767": {
       "title": "Commercial Analyst",
@@ -10183,6 +10118,11 @@
   "Speciality": {},
   "Ross": {},
   "Cisco": {
+    "/job/RTP-North-Carolina-US/Tax-Analyst_2026020": {
+      "title": "Tax Analyst",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Tax-Analyst_2026020",
+      "location": "3 Locations"
+    },
     "/job/San-Jose-California-US/Data-Analyst-I--Full-Time----United-States_2024556-1": {
       "title": "Data Analyst I (Full Time) - United States",
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Data-Analyst-I--Full-Time----United-States_2024556-1",
