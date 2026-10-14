@@ -1914,16 +1914,16 @@
       "location": "Jersey City, NJ, United States",
       "country_code": "US"
     },
-    "210786434": {
-      "title": "Liquidity & Account Solutions- Analytics & AI Enablement - Vice President",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210786434",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
     "210790618": {
       "title": "Liquidity Risk Reporting - Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790618",
       "location": "Tempe, AZ, United States",
+      "country_code": "US"
+    },
+    "210786434": {
+      "title": "Liquidity & Account Solutions- Analytics & AI Enablement - Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210786434",
+      "location": "New York, NY, United States",
       "country_code": "US"
     },
     "210784337": {
@@ -2341,12 +2341,6 @@
     "10572575": {
       "title": "Sr. Business Intelligence Engineer, Deal Tooling Insights, AWS GDSP Other",
       "url": "https://www.amazon.jobs/en/jobs/10572575/sr-business-intelligence-engineer-deal-tooling-insights-aws-gdsp-other",
-      "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
-    "10571147": {
-      "title": "Senior Financial Analyst, AWS Infrastructure Central Finance",
-      "url": "https://www.amazon.jobs/en/jobs/10571147/senior-financial-analyst-aws-infrastructure-central-finance",
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
@@ -3236,12 +3230,6 @@
       "title": "Senior Financial Analyst, WWGS Operations Finance",
       "url": "https://www.amazon.jobs/en/jobs/10537768/senior-financial-analyst-wwgs-operations-finance",
       "location": "Austin, Texas, USA",
-      "country_code": "USA"
-    },
-    "10506349": {
-      "title": "Senior Financial Analyst, Fleet Finance",
-      "url": "https://www.amazon.jobs/en/jobs/10506349/senior-financial-analyst-fleet-finance",
-      "location": "Nashville, Tennessee, USA",
       "country_code": "USA"
     },
     "10539351": {
@@ -4579,6 +4567,11 @@
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Data-Quality-Analyst_R2603403",
       "location": "3 Locations"
     },
+    "/job/Reston-VA/Business-Analyst--Remote_R2603462-1": {
+      "title": "Business Analyst- Remote",
+      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Business-Analyst--Remote_R2603462-1",
+      "location": "Reston, VA"
+    },
     "/job/Reston-VA/Budget-Coordinator-Cost-Analyst_R2601831": {
       "title": "Budget Coordinator/Cost Analyst",
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Budget-Coordinator-Cost-Analyst_R2601831",
@@ -4693,6 +4686,11 @@
       "title": "Data Mining & Analytics Engineer, Senior (Security Clearance Required)",
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Arlington-VA-VA31/Data-Mining---Analytics-Engineer--Senior--Security-Clearance-Required-_R2602427",
       "location": "2 Locations"
+    },
+    "/job/Reston-VA/Data-Scientist---Remote-USA_R2603453": {
+      "title": "Data Scientist - Remote USA",
+      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Data-Scientist---Remote-USA_R2603453",
+      "location": "Reston, VA"
     },
     "/job/Reston-VA/Data-Engineer_R2603410": {
       "title": "Data Engineer",
@@ -5150,12 +5148,6 @@
     "13838": {
       "title": "Principal Analyst, IT Compliance",
       "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13838",
-      "location": "Miami, FL, United States",
-      "country_code": "US"
-    },
-    "13876": {
-      "title": "Senior Manager, Business Analytics",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13876",
       "location": "Miami, FL, United States",
       "country_code": "US"
     },
@@ -7509,6 +7501,11 @@
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Data-Analyst_R260027161",
       "location": "Chicago, IL, USA"
     },
+    "/job/San-Ramon-CA-USA/Product-Owner--AI---Analytics_R260028963": {
+      "title": "Product Owner, AI & Analytics",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/San-Ramon-CA-USA/Product-Owner--AI---Analytics_R260028963",
+      "location": "2 Locations"
+    },
     "/job/Chicago-IL-USA/Senior-Manager--Fraud-Analytics---Solutions-Implementation_R260028106": {
       "title": "Senior Manager, Fraud Analytics & Solutions Implementation",
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Senior-Manager--Fraud-Analytics---Solutions-Implementation_R260028106",
@@ -7549,6 +7546,22 @@
     }
   },
   "AbbVibe": {
+    "https://careers.abbvie.com/en/job/senior-manager-trial-surveillance-and-analytics-hybrid-in-florham-park-nj-jid-34370": {
+      "title": "Senior Manager, Trial Surveillance & Analytics (Hybrid)",
+      "url": "https://careers.abbvie.com/en/job/senior-manager-trial-surveillance-and-analytics-hybrid-in-florham-park-nj-jid-34370"
+    },
+    "https://careers.abbvie.com/en/job/senior-manager-trial-surveillance-and-analytics-hybrid-in-irvine-ca-jid-34369": {
+      "title": "Senior Manager, Trial Surveillance & Analytics (Hybrid)",
+      "url": "https://careers.abbvie.com/en/job/senior-manager-trial-surveillance-and-analytics-hybrid-in-irvine-ca-jid-34369"
+    },
+    "https://careers.abbvie.com/en/job/senior-manager-trial-surveillance-and-analytics-hybrid-in-san-francisco-ca-jid-34368": {
+      "title": "Senior Manager, Trial Surveillance & Analytics (Hybrid)",
+      "url": "https://careers.abbvie.com/en/job/senior-manager-trial-surveillance-and-analytics-hybrid-in-san-francisco-ca-jid-34368"
+    },
+    "https://careers.abbvie.com/en/job/senior-manager-trial-surveillance-and-analytics-hybrid-in-north-chicago-il-jid-34367": {
+      "title": "Senior Manager, Trial Surveillance & Analytics (Hybrid)",
+      "url": "https://careers.abbvie.com/en/job/senior-manager-trial-surveillance-and-analytics-hybrid-in-north-chicago-il-jid-34367"
+    },
     "https://careers.abbvie.com/en/job/finance-lead-forecasting-and-reporting-in-mettawa-il-jid-34365": {
       "title": "Finance Lead, Forecasting & Reporting",
       "url": "https://careers.abbvie.com/en/job/finance-lead-forecasting-and-reporting-in-mettawa-il-jid-34365"
@@ -7609,6 +7622,11 @@
       "title": "EMEA Demand Steering Analyst",
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bratislava-22-Bratislavsk-kraj-Slovakia/EMEA-Demand-Steering-Analyst_1211068",
       "location": "Bratislava 22, Bratislavsk\u00fd kraj, Slovakia"
+    },
+    "/job/Spring-Texas-United-States-of-America/Product-Management-Business-Analyst_1216159-3": {
+      "title": "Product Management Business Analyst",
+      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Product-Management-Business-Analyst_1216159-3",
+      "location": "4 Locations"
     },
     "/job/Bengaluru-Karntaka-India/HPE-Networking-Finance-Operations-Analyst_1210064": {
       "title": "HPE Networking Finance Operations Analyst",
@@ -7852,11 +7870,6 @@
       "title": "Business Analyst- Business Management",
       "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/Omaha-NE/Business-Analyst--Business-Management_JR5560",
       "location": "2 Locations"
-    },
-    "/job/HQ---San-Diego-CA/Sr-Technical-Business-Systems-Analyst_JR4310": {
-      "title": "Sr. Technical Business Systems Analyst",
-      "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Sr-Technical-Business-Systems-Analyst_JR4310",
-      "location": "HQ - San Diego, CA"
     },
     "/job/HQ---San-Diego-CA/Accounting-Systems---Data-Integration-Analyst_JR5097-1": {
       "title": "Accounting Systems & Data Integration Analyst",
@@ -10189,11 +10202,6 @@
   "Speciality": {},
   "Ross": {},
   "Cisco": {
-    "/job/San-Jose-California-US/Data-Analyst_2028401": {
-      "title": "Data Analyst",
-      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Data-Analyst_2028401",
-      "location": "San Jose, California, US"
-    },
     "/job/RTP-North-Carolina-US/Business-System-Analyst_2022706-1": {
       "title": "Business System Analyst",
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Business-System-Analyst_2022706-1",
@@ -11006,12 +11014,7 @@
       "country_code": "US"
     }
   },
-  "Intuit": {
-    "https://jobs.intuit.com/job/mountain-view/staff-software-data-engineer-quickbooks-capital-and-lending-team/27595/101871257760": {
-      "title": "Staff Software Data Engineer -  Quickbooks Capital And Lending TeamMountain View, California",
-      "url": "https://jobs.intuit.com/job/mountain-view/staff-software-data-engineer-quickbooks-capital-and-lending-team/27595/101871257760"
-    }
-  },
+  "Intuit": {},
   "Moodys": {
     "https://careers.moodys.com/en/job/new-york/vp-data-engineer-people-analytics/49841/99771528736": {
       "title": "VP-Data Engineer (People Analytics)",
@@ -11024,13 +11027,25 @@
   },
   "UKG": {},
   "PGE": {
+    "https://jobs.pge.com/job/oakland/principal-quantitative-analyst-asset-failure-analysis-electric-asset-strategy-flexible-location/29673/101928330528": {
+      "title": "Principal, Quantitative Analyst: Asset Failure Analysis, Electric Asset Strategy (Flexible location)",
+      "url": "https://jobs.pge.com/job/oakland/principal-quantitative-analyst-asset-failure-analysis-electric-asset-strategy-flexible-location/29673/101928330528"
+    },
+    "https://jobs.pge.com/job/oakland/senior-quantitative-analyst-asset-failure-analysis-electric-asset-strategy-flexible-location/29673/101928330352": {
+      "title": "Senior, Quantitative Analyst: Asset Failure Analysis, Electric Asset Strategy (Flexible location)",
+      "url": "https://jobs.pge.com/job/oakland/senior-quantitative-analyst-asset-failure-analysis-electric-asset-strategy-flexible-location/29673/101928330352"
+    },
+    "https://jobs.pge.com/job/san-ramon/expert-3d-cad-records-and-data-analyst/29673/99462559200": {
+      "title": "Expert 3D CAD Records and Data Analyst",
+      "url": "https://jobs.pge.com/job/san-ramon/expert-3d-cad-records-and-data-analyst/29673/99462559200"
+    },
+    "https://jobs.pge.com/job/san-ramon/senior-3d-cad-records-and-data-analyst/29673/99462559216": {
+      "title": "Senior 3D CAD Records and Data Analyst",
+      "url": "https://jobs.pge.com/job/san-ramon/senior-3d-cad-records-and-data-analyst/29673/99462559216"
+    },
     "https://jobs.pge.com/job/oakland/senior-asset-accounting-analyst/29673/101682594192": {
       "title": "Senior Asset Accounting Analyst",
       "url": "https://jobs.pge.com/job/oakland/senior-asset-accounting-analyst/29673/101682594192"
-    },
-    "https://jobs.pge.com/job/oakland/expert-regulatory-analyst-flexible-location-electrical-engineer-and-ferc-experience-preferred/29673/90963622176": {
-      "title": "Expert Regulatory Analyst - Flexible Location (Electrical Engineer and FERC experience preferred)",
-      "url": "https://jobs.pge.com/job/oakland/expert-regulatory-analyst-flexible-location-electrical-engineer-and-ferc-experience-preferred/29673/90963622176"
     }
   },
   "Raunch": {},
@@ -11045,6 +11060,31 @@
     "https://corningjobs.corning.com/job/Taichung-Finance-Analyst-407/1439378100/": {
       "title": "Finance Analyst",
       "url": "https://corningjobs.corning.com/job/Taichung-Finance-Analyst-407/1439378100/"
+    }
+  },
+  "Micron": {},
+  "Solar Turbines": {
+    "/job/San-Diego-California/XMLNAME-2027-Business-Analyst-Intern_R0000381902": {
+      "title": "2027 Business Analyst Intern",
+      "url": "https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Business-Analyst-Intern_R0000381902",
+      "location": "San Diego, California"
+    },
+    "/job/San-Diego-California/XMLNAME-2027-Entry-Level-IT-Analyst_R0000381899": {
+      "title": "2027 Entry Level IT Analyst",
+      "url": "https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-IT-Analyst_R0000381899",
+      "location": "San Diego, California"
+    }
+  },
+  "Insurify": {
+    "5647767004": {
+      "title": "Senior Data Analytics Engineer",
+      "url": "https://job-boards.greenhouse.io/insurify/jobs/5647767004",
+      "location": "Sofia, Bulgaria - Hybrid"
+    },
+    "5743828004": {
+      "title": "Technical Business Analyst",
+      "url": "https://job-boards.greenhouse.io/insurify/jobs/5743828004",
+      "location": "Cambridge, MA - Hybrid"
     }
   }
 }
