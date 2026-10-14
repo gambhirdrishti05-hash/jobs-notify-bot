@@ -250,7 +250,7 @@
   },
   {
     "name": "BNY",
-    "url": "hhttps://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers"
+    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers"
   },
   {
     "name": "Intuit",
@@ -287,5 +287,9 @@
   {
     "name": "Solar Turbines",
     "url": "https://cat.wd5.myworkdayjobs.com/SolarTurbines"
+  }, 
+  {
+    "name": "Insurify",
+    "url": "https://job-boards.greenhouse.io/insurify"
   }
 ]
