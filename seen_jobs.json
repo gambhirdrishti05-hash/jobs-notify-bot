@@ -1140,6 +1140,12 @@
       "location": "Nashville, TN, United States",
       "country_code": "US"
     },
+    "210795946": {
+      "title": "Software and Data Engineer - Software Engineer III- Agentic Pricing",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795946",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
     "210798648": {
       "title": "Quant Analytics Manager - Marketing",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798648",
@@ -1860,12 +1866,6 @@
       "location": "Jersey City, NJ, United States",
       "country_code": "US"
     },
-    "210784692": {
-      "title": "Senior Product Delivery Associate - Data & Analytics Payments",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784692",
-      "location": "Jersey City, NJ, United States",
-      "country_code": "US"
-    },
     "210790618": {
       "title": "Liquidity Risk Reporting - Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790618",
@@ -2140,6 +2140,11 @@
     "/job/New-York/Senior-Analyst-Associate---PJT-Park-Hill--Real-Estate---Project-Management-_R0003513": {
       "title": "Senior Analyst/Associate - PJT Park Hill (Real Estate - Project Management)",
       "url": "https://pjtpartners.wd1.myworkdayjobs.com/Careers/job/New-York/Senior-Analyst-Associate---PJT-Park-Hill--Real-Estate---Project-Management-_R0003513",
+      "location": "New York"
+    },
+    "/job/New-York/AVP---Finance---External-Financial-Reporting-and-Accounting-Policy_R0003569": {
+      "title": "AVP,  Finance \u2013 External Financial Reporting and Accounting Policy",
+      "url": "https://pjtpartners.wd1.myworkdayjobs.com/Careers/job/New-York/AVP---Finance---External-Financial-Reporting-and-Accounting-Policy_R0003569",
       "location": "New York"
     }
   },
@@ -5598,10 +5603,6 @@
     }
   },
   "Gainwell": {
-    "https://jobs.gainwelltechnologies.com/job/Bangalore-Data-Science-AI-Engineer%2C-Professional-1-KA-560100/1430026800/": {
-      "title": "Data Science AI Engineer, Professional 1",
-      "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Data-Science-AI-Engineer%2C-Professional-1-KA-560100/1430026800/"
-    },
     "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Bilingual-Call-Center-Quality-Assurance-Analyst-Remote-CA-CA-95605-1630/1429997500/": {
       "title": "Bilingual Call Center Quality Assurance Analyst - Remote CA",
       "url": "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Bilingual-Call-Center-Quality-Assurance-Analyst-Remote-CA-CA-95605-1630/1429997500/"
@@ -5609,6 +5610,10 @@
     "https://jobs.gainwelltechnologies.com/job/Any-city-Lead-Business-Analyst-Requirement-Validation-%28RV%29-IN-99999/1430087400/": {
       "title": "Lead Business Analyst - Requirement Validation (RV)",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Lead-Business-Analyst-Requirement-Validation-%28RV%29-IN-99999/1430087400/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Bangalore-Data-Science-AI-Engineer%2C-Professional-1-KA-560100/1430026800/": {
+      "title": "Data Science AI Engineer, Professional 1",
+      "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Data-Science-AI-Engineer%2C-Professional-1-KA-560100/1430026800/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Client-Service-Analyst-I-Remote-VA-99999/1440202600/": {
       "title": "Client Service Analyst I - Remote",
@@ -8472,6 +8477,11 @@
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15219/Mid-Office-Services-Analyst_R237398-1",
       "location": "PA - Pittsburgh (15219)"
     },
+    "/job/PA---Pittsburgh-15222/Corporate---Institutional-Banking-Development-Program-Analyst-Associate---Capital-Markets_R230888": {
+      "title": "Corporate & Institutional Banking Development Program Analyst/Associate \u2013 Capital Markets",
+      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Corporate---Institutional-Banking-Development-Program-Analyst-Associate---Capital-Markets_R230888",
+      "location": "8 Locations"
+    },
     "/job/PA---Pittsburgh-15222/Operations-Analyst-Senior---Wealth-Management_R224771-1": {
       "title": "Operations Analyst Senior - Wealth Management",
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Operations-Analyst-Senior---Wealth-Management_R224771-1",
@@ -9053,6 +9063,11 @@
       "title": "Vice President, Business Systems Analyst Specialist",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Vice-President--Business-Systems-Analyst-Specialist_R_1516607",
       "location": "New York, New York"
+    },
+    "/job/Mount-Laurel-New-Jersey/Financial-Crime-Risk-Investigative-Analyst--US-_R_1514822": {
+      "title": "Financial Crime Risk Investigative Analyst (US)",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Financial-Crime-Risk-Investigative-Analyst--US-_R_1514822",
+      "location": "10 Locations"
     },
     "/job/New-York-New-York/Analyst---Corporate-Banking---Consumer---Retail--TD-Securities_R_1516514": {
       "title": "Analyst - Corporate Banking - Consumer & Retail, TD Securities",
@@ -10926,7 +10941,12 @@
       "country_code": "US"
     }
   },
-  "Intuit": {},
+  "Intuit": {
+    "https://jobs.intuit.com/job/mountain-view/staff-financial-analyst-payroll-product-and-hcm/27595/101969195232": {
+      "title": "Staff Financial Analyst - Payroll Product & HCMMountain View, California",
+      "url": "https://jobs.intuit.com/job/mountain-view/staff-financial-analyst-payroll-product-and-hcm/27595/101969195232"
+    }
+  },
   "Moodys": {
     "https://careers.moodys.com/en/job/new-york/vp-data-engineer-people-analytics/49841/99771528736": {
       "title": "VP-Data Engineer (People Analytics)",
@@ -10935,6 +10955,10 @@
     "https://careers.moodys.com/en/job/charlotte/technical-support-analyst/49841/99693292480": {
       "title": "Technical Support Analyst",
       "url": "https://careers.moodys.com/en/job/charlotte/technical-support-analyst/49841/99693292480"
+    },
+    "https://careers.moodys.com/en/job/heredia/data-analyst/49841/100093032528": {
+      "title": "Data Analyst",
+      "url": "https://careers.moodys.com/en/job/heredia/data-analyst/49841/100093032528"
     }
   },
   "UKG": {},
