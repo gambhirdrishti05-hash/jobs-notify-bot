@@ -1,5 +1,11 @@
 {
   "JPMorgan Chase": {
+    "210799982": {
+      "title": "Digital Marketing Analytics Manager-Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799982",
+      "location": "Wilmington, DE, United States",
+      "country_code": "US"
+    },
     "210801318": {
       "title": "U.S. Private Bank \u2013 Program Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801318",
@@ -1116,6 +1122,24 @@
       "location": "Nashville, TN, United States",
       "country_code": "US"
     },
+    "210799981": {
+      "title": "Marketing Analytics-Senior Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799981",
+      "location": "Wilmington, DE, United States",
+      "country_code": "US"
+    },
+    "210800953": {
+      "title": "Software Engineer III \u2013 Market Risk Reporting & Visualization",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800953",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
+    "210800952": {
+      "title": "Lead Software Engineer \u2013 Market Risk Reporting & Visualization",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800952",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
     "210718468": {
       "title": "Market Risk Implementation & Analytics \u2013 Vice President",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210718468",
@@ -1806,18 +1830,6 @@
       "location": "Columbus, OH, United States",
       "country_code": "US"
     },
-    "210780248": {
-      "title": "Cybersecurity AI/ML Lead - Data Scientist",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780248",
-      "location": "Mc Lean, VA, United States",
-      "country_code": "US"
-    },
-    "210781451": {
-      "title": "Cybersecurity AI/ML Lead - Data Scientist",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781451",
-      "location": "Mc Lean, VA, United States",
-      "country_code": "US"
-    },
     "210786446": {
       "title": "Data Solutions & Analytics Lead - Securities Services Finance - Sr Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210786446",
@@ -1900,6 +1912,18 @@
       "title": "Agility Lead - Reference Data Engineering",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785916",
       "location": "Chicago, IL, United States",
+      "country_code": "US"
+    },
+    "210780248": {
+      "title": "Cybersecurity AI/ML Lead - Data Scientist",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780248",
+      "location": "Mc Lean, VA, United States",
+      "country_code": "US"
+    },
+    "210781451": {
+      "title": "Cybersecurity AI/ML Lead - Data Scientist",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210781451",
+      "location": "Mc Lean, VA, United States",
       "country_code": "US"
     },
     "210785714": {
@@ -5529,11 +5553,6 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Recon-Conversion-Analyst----Senior-Manager_R-797960",
       "location": "2 Locations"
     },
-    "/job/Krakow-Poland/Senior-Depositary-Analyst--Germany--Associate-2_R-798408": {
-      "title": "Senior Depositary Analyst - Associate 2",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Senior-Depositary-Analyst--Germany--Associate-2_R-798408",
-      "location": "2 Locations"
-    },
     "/job/Hyderabad-India/Recon-Conversion-Analyst----Senior-Manager_R-797962-1": {
       "title": "Recon Conversion Analyst\u200b - Senior Manager",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Recon-Conversion-Analyst----Senior-Manager_R-797962-1",
@@ -6590,11 +6609,6 @@
       "title": "Sr. Business Manager, People Analytics",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Sr-Business-Manager--People-Analytics_R999100-1",
       "location": "2 Locations"
-    },
-    "/job/McLean-VA/Sr-Analyst--Capital-Markets---Analytics_R249438-1": {
-      "title": "Sr. Analyst, Capital Markets & Analytics",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Sr-Analyst--Capital-Markets---Analytics_R249438-1",
-      "location": "McLean, VA"
     },
     "/job/Richmond-VA/Sr-Business-Analyst---Incentive-Compensation-Risk-Management_R999019-1": {
       "title": "Sr. Business Analyst - Incentive Compensation Risk Management",
@@ -8648,15 +8662,15 @@
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Quantitative-Analytics-and-Model-Expert---Asset-Liability-Management_R225876-1",
       "location": "8 Locations"
     },
-    "/job/OH---Cleveland/Asset-Liability-Management--ALM--Associate---Balance-Sheet-Analyst_R235531-1": {
-      "title": "Asset Liability Management (ALM) Associate - Balance Sheet Analytics",
-      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/OH---Cleveland/Asset-Liability-Management--ALM--Associate---Balance-Sheet-Analyst_R235531-1",
-      "location": "2 Locations"
-    },
     "/job/VA---Vienna-22182/Portfolio-Analytics---Strategy-Manager-Senior_R233308-1": {
       "title": "Portfolio Analytics & Strategy Manager Senior",
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/VA---Vienna-22182/Portfolio-Analytics---Strategy-Manager-Senior_R233308-1",
       "location": "4 Locations"
+    },
+    "/job/OH---Cleveland/Asset-Liability-Management--ALM--Associate---Balance-Sheet-Analyst_R235531-1": {
+      "title": "Asset Liability Management (ALM) Associate - Balance Sheet Analytics",
+      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/OH---Cleveland/Asset-Liability-Management--ALM--Associate---Balance-Sheet-Analyst_R235531-1",
+      "location": "2 Locations"
     },
     "/job/Two-PNC-Plaza-PA374/Senior-Data-Engineer---AMG-Tech_R220934-2": {
       "title": "Senior Data Engineer - AMG Tech",
@@ -10627,10 +10641,6 @@
     "https://jobs.pge.com/job/oakland/expert-quantitative-power-system-analyst/29673/97944063856": {
       "title": "Expert, Quantitative Power System Analyst",
       "url": "https://jobs.pge.com/job/oakland/expert-quantitative-power-system-analyst/29673/97944063856"
-    },
-    "https://jobs.pge.com/job/oakland/principal-data-engineer-reliability-data/29673/95602038576": {
-      "title": "Principal, Data Engineer - Reliability Data",
-      "url": "https://jobs.pge.com/job/oakland/principal-data-engineer-reliability-data/29673/95602038576"
     }
   },
   "Raunch": {},
