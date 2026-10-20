@@ -1,15 +1,15 @@
 {
   "JPMorgan Chase": {
+    "210801873": {
+      "title": "Corporate & Investment Bank Asset Class Controller - External Reporting Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801873",
+      "location": "Newark, DE, United States",
+      "country_code": "US"
+    },
     "210797704": {
       "title": "Solution Analyst III - ServiceNow",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797704",
       "location": "Plano, TX, United States",
-      "country_code": "US"
-    },
-    "210798981": {
-      "title": "Client Service Implementation Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798981",
-      "location": "Chicago, IL, United States",
       "country_code": "US"
     },
     "210799821": {
@@ -100,12 +100,6 @@
       "title": "Trade Support - Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799300",
       "location": "Newark, DE, United States",
-      "country_code": "US"
-    },
-    "210794447": {
-      "title": "J.P. Morgan Advisors -Funds Transfer Analyst- Wilmington, DE",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794447",
-      "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
     "210780751": {
@@ -3744,6 +3738,16 @@
   },
   "Waters Corporation": {},
   "CVS Health": {
+    "/job/Work-At-Home-Illinois/Senior-Analyst--FP-A---Network-Consolidation---Management-Process_R0993961": {
+      "title": "Senior Analyst, FP&A \u2013 Network Consolidation & Management Process",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Illinois/Senior-Analyst--FP-A---Network-Consolidation---Management-Process_R0993961",
+      "location": "49 Locations"
+    },
+    "/job/RI---Cumberland/Senior-Analyst--IT-SOX-Audit_R1079181-1": {
+      "title": "Senior Analyst, IT SOX Audit",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Cumberland/Senior-Analyst--IT-SOX-Audit_R1079181-1",
+      "location": "47 Locations"
+    },
     "/job/Work-At-Home-Illinois/Decision-Scientist--Automation---Optimization-_R1053070": {
       "title": "Decision Scientist (Automation & Optimization)",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Illinois/Decision-Scientist--Automation---Optimization-_R1053070",
@@ -3983,11 +3987,6 @@
       "title": "Resource Planning Analyst",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Resource-Planning-Analyst_R1062603",
       "location": "48 Locations"
-    },
-    "/job/Work-At-Home-Illinois/Senior-Analyst--FP-A---Network-Consolidation---Management-Process_R0993961": {
-      "title": "Senior Analyst, FP&A \u2013 Network Consolidation & Management Process",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Illinois/Senior-Analyst--FP-A---Network-Consolidation---Management-Process_R0993961",
-      "location": "49 Locations"
     },
     "/job/Field-Illinois/Case-Management-Analyst---Field-in-St-Clair-County-IL-or-surrounding-area_R1049727": {
       "title": "Case Management Analyst - Field in St. Clair County IL or surrounding area",
@@ -4373,11 +4372,6 @@
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Nationwide-Remote-Office-US99/Senior-Research-Analyst---REMOTE_R2602977",
       "location": "Nationwide Remote Office (US99)"
     },
-    "/job/Alexandria-VA/Project-Analyst---SETA-1-----Hybrid-Work-Schedule_R2603565": {
-      "title": "Project Analyst, (SETA 1)  - Hybrid Work Schedule",
-      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Alexandria-VA/Project-Analyst---SETA-1-----Hybrid-Work-Schedule_R2603565",
-      "location": "Alexandria, VA"
-    },
     "/job/Reston-VA/XMLNAME-2027-Summer-Intern--Configuration-Analyst--Reston--VA-_R2603427": {
       "title": "2027 Summer Intern, Configuration Analyst (Reston, VA)",
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Configuration-Analyst--Reston--VA-_R2603427",
@@ -4392,6 +4386,11 @@
       "title": "Application Support Analyst, AOS Application Services (HYBRID)",
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Application-Support-Analyst--AOS-Application-Services--HYBRID-_R2603351",
       "location": "Reston, VA"
+    },
+    "/job/Alexandria-VA/Project-Analyst---SETA-1-----Hybrid-Work-Schedule_R2603565": {
+      "title": "Project Analyst, (SETA 1)  - Hybrid Work Schedule",
+      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Alexandria-VA/Project-Analyst---SETA-1-----Hybrid-Work-Schedule_R2603565",
+      "location": "Alexandria, VA"
     },
     "/job/Washington-DC/Marketing-and-Communications-Data-Analyst--Top-Secret-cleared-_R2601401": {
       "title": "Marketing and Communications Data Analyst (Top Secret cleared)",
@@ -5411,9 +5410,17 @@
     }
   },
   "Gainwell": {
-    "https://jobs.gainwelltechnologies.com/job/Any-city-FWA-%28Fraud%2C-Waste%2C-and-Abuse%29-Analyst-TX-99999/1394502100/": {
-      "title": "FWA (Fraud, Waste, and Abuse) Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-FWA-%28Fraud%2C-Waste%2C-and-Abuse%29-Analyst-TX-99999/1394502100/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Technical-Analyst-Advisor-Application-Architect-TX-99999/1432056000/": {
+      "title": "Technical Analyst / Advisor Application Architect",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Technical-Analyst-Advisor-Application-Architect-TX-99999/1432056000/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Business-Analyst-Requirements-Validation-%28RV%29-TX-99999/1441702300/": {
+      "title": "Advisor Business Analyst - Requirements Validation (RV)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Business-Analyst-Requirements-Validation-%28RV%29-TX-99999/1441702300/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Litigation-Support-Analyst-%28Expert-Witness%29-Remote-West-Sacramento%2C-CA-CA-95605-1630/1441682100/": {
+      "title": "Litigation Support Analyst (Expert Witness) - Remote - West Sacramento, CA",
+      "url": "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Litigation-Support-Analyst-%28Expert-Witness%29-Remote-West-Sacramento%2C-CA-CA-95605-1630/1441682100/"
     }
   },
   "Happen Bank": {
@@ -5966,6 +5973,11 @@
     }
   },
   "Capital One": {
+    "/job/Nottingham--Eng/Financial-Planning---Analytics--FP-A--Analyst_R1004022": {
+      "title": "Financial Planning & Analytics (FP&A) Analyst",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Nottingham--Eng/Financial-Planning---Analytics--FP-A--Analyst_R1004022",
+      "location": "Nottingham,  Eng"
+    },
     "/job/McLean-VA/Principal-Associate---Market-Research---Intelligence_R1003914-1": {
       "title": "Principal Associate - Market Research & Intelligence",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal-Associate---Market-Research---Intelligence_R1003914-1",
@@ -6811,6 +6823,11 @@
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/London-Eng/Senior-Strategy-Analyst_R230168-1",
       "location": "2 Locations"
     },
+    "/job/McLean-VA/Manager--Product-Manager--Audit-Insights---Innovation--AI-and-Data-Engineering_R1000725-2": {
+      "title": "Manager, Product Manager, Audit Insights & Innovation, AI and Data Engineering",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Product-Manager--Audit-Insights---Innovation--AI-and-Data-Engineering_R1000725-2",
+      "location": "2 Locations"
+    },
     "/job/New-York-NY/Senior-Manager--Data-Science---AI-Foundations_R1004085-1": {
       "title": "Senior Manager, Data Science - AI Foundations",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Manager--Data-Science---AI-Foundations_R1004085-1",
@@ -7050,11 +7067,6 @@
       "title": "Senior Associate, Data Scientist - Recommendation & Personalization Systems",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Data-Scientist---Recommendation---Personalization-Systems_R1000958-1",
       "location": "3 Locations"
-    },
-    "/job/McLean-VA/Manager--Product-Manager--Audit-Insights---Innovation--AI-and-Data-Engineering_R1000725-2": {
-      "title": "Manager, Product Manager, Audit Insights & Innovation, AI and Data Engineering",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Product-Manager--Audit-Insights---Innovation--AI-and-Data-Engineering_R1000725-2",
-      "location": "2 Locations"
     },
     "/job/McLean-VA/Manager--Data-Scientist---Bureau-Data-Strategy_R244226-2": {
       "title": "Manager, Data Scientist - Bureau Data Strategy",
@@ -7551,6 +7563,11 @@
       "title": "Unstructured Data Sales Specialist \u2013 AI, Analytics & Cyber Resilience",
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Las-Rozas-Madrid-Spain/Unstructured-Data-Sales-Specialist---AI--Analytics---Cyber-Resilience_1215140",
       "location": "2 Locations"
+    },
+    "/job/Boeblingen-Baden-Wurttemberg-Germany/Unstructured-Data-Sales-Specialist---AI--Analytics---Cyber-Resilience--f-m-d-_1215236": {
+      "title": "Unstructured Data Sales Specialist \u2013 AI, Analytics & Cyber Resilience (f/m/d)",
+      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Boeblingen-Baden-Wurttemberg-Germany/Unstructured-Data-Sales-Specialist---AI--Analytics---Cyber-Resilience--f-m-d-_1215236",
+      "location": "5 Locations"
     },
     "/job/San-Jose-California-United-States-of-America/Data-scientist---Agentic-AI_1208011": {
       "title": "Data scientist - Agentic AI",
@@ -8094,11 +8111,6 @@
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Bloomfield-Hills-MI/Commercial-Real-Estate-Senior-Insurance-Analyst---Grandbridge-Real-Estate_R0119861",
       "location": "6 Locations"
     },
-    "/job/Charlotte-NC/Risk-Data-and-Reporting-Senior-Analyst-II--Finance-and-Risk-Data-Integrations_R0118278": {
-      "title": "Risk Data and Reporting Senior Analyst II- Finance and Risk Data Integrations",
-      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Risk-Data-and-Reporting-Senior-Analyst-II--Finance-and-Risk-Data-Integrations_R0118278",
-      "location": "4 Locations"
-    },
     "/job/Charlotte-NC/Loan-Administration-Analyst---Grandbridge-Real-Estate-Capital---Operations-Support--New-Loan-Boarding-_R0119394": {
       "title": "Loan Administration Analyst - Grandbridge Real Estate Capital - Operations Support (New Loan Boarding)",
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Loan-Administration-Analyst---Grandbridge-Real-Estate-Capital---Operations-Support--New-Loan-Boarding-_R0119394",
@@ -8108,6 +8120,11 @@
       "title": "Deposit Pricing Analytics Consultant",
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Deposit-Pricing-Analytics-Consultant_R0117716-1",
       "location": "2 Locations"
+    },
+    "/job/Charlotte-NC/Data-Reporting-Officer_R0120932": {
+      "title": "Data Reporting Officer",
+      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Data-Reporting-Officer_R0120932",
+      "location": "Charlotte, NC"
     },
     "/job/Leawood-KS/Investor-Accounting---Reporting-Associate---Grandbridge-Real-Estate_R0120416": {
       "title": "Investor Accounting & Reporting Associate - Grandbridge Real Estate",
@@ -8250,11 +8267,6 @@
       "title": "Mid Office Services Analyst",
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15219/Mid-Office-Services-Analyst_R237398-1",
       "location": "PA - Pittsburgh (15219)"
-    },
-    "/job/Strongsville-Technology-Center-OH537/Detect---Investig-Analyst-Lead_R237036-1": {
-      "title": "Detect & Investig Analyst Lead",
-      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/Strongsville-Technology-Center-OH537/Detect---Investig-Analyst-Lead_R237036-1",
-      "location": "3 Locations"
     },
     "/job/PA---Pittsburgh-15222/Operations-Analyst-Senior---Wealth-Management_R224771-1": {
       "title": "Operations Analyst Senior - Wealth Management",
@@ -8777,6 +8789,11 @@
       "title": "Operations Analyst, Equity Clearing Restricted Securities",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Lake-Mary-Florida/Operations-Analyst--Equity-Clearing-Restricted-Securities_R_1499390",
       "location": "Lake Mary, Florida"
+    },
+    "/job/Mount-Laurel-New-Jersey/Senior-Finance-Analyst---Commercial-Pricing---Profitability_R_1507674": {
+      "title": "Senior Finance Analyst - Commercial Pricing & Profitability",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Senior-Finance-Analyst---Commercial-Pricing---Profitability_R_1507674",
+      "location": "Mount Laurel, New Jersey"
     },
     "/job/New-York-New-York/Investment-Banking-Analyst--Debt-Private-Placements_R_1515753": {
       "title": "Investment Banking Analyst, Debt Private Placements",
@@ -9821,6 +9838,11 @@
   "Speciality": {},
   "Ross": {},
   "Cisco": {
+    "/job/San-Jose-California-US/Analyst-Relations-Manager--Identity-Security--US-Remote-_2020603": {
+      "title": "Analyst Relations Manager: Identity Security (US Remote)",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Analyst-Relations-Manager--Identity-Security--US-Remote-_2020603",
+      "location": "San Jose, California, US"
+    },
     "/job/Limerick-Ireland/Sales-Operations-Analyst_2028081": {
       "title": "Sales Operations Analyst",
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Limerick-Ireland/Sales-Operations-Analyst_2028081",
@@ -10213,12 +10235,7 @@
       "location": "2 Locations"
     }
   },
-  "HealthFirst": {
-    "https://careers.healthfirst.org/careersmarketplace/PipelineDetail/Sr-Healthcare-Analyst-Risk-Adjustment-Hybrid-NY/16415": {
-      "title": "Sr Healthcare Analyst, Risk Adjustment | Hybrid NY",
-      "url": "https://careers.healthfirst.org/careersmarketplace/PipelineDetail/Sr-Healthcare-Analyst-Risk-Adjustment-Hybrid-NY/16415"
-    }
-  },
+  "HealthFirst": {},
   "BNY": {
     "82489": {
       "title": "Senior Specialist, Infrastructure Services Analyst",
@@ -10601,21 +10618,33 @@
     "https://careers.moodys.com/en/job/new-york/vp-data-engineer-people-analytics/49841/99771528736": {
       "title": "VP-Data Engineer (People Analytics)",
       "url": "https://careers.moodys.com/en/job/new-york/vp-data-engineer-people-analytics/49841/99771528736"
+    },
+    "https://careers.moodys.com/en/job/bengaluru/sr-product-analyst/49841/101475308976": {
+      "title": "Sr Product Analyst",
+      "url": "https://careers.moodys.com/en/job/bengaluru/sr-product-analyst/49841/101475308976"
+    },
+    "https://careers.moodys.com/en/job/bengaluru/avp-product-analyst/49841/101475308960": {
+      "title": "AVP-Product Analyst",
+      "url": "https://careers.moodys.com/en/job/bengaluru/avp-product-analyst/49841/101475308960"
     }
   },
   "UKG": {},
   "PGE": {
-    "https://jobs.pge.com/job/oakland/business-analyst-senior/29673/102187850592": {
+    "https://jobs.pge.com/job/oakland/senior-quantitative-analyst/29673/102013681664": {
+      "title": "Senior Quantitative Analyst",
+      "url": "https://jobs.pge.com/job/oakland/senior-quantitative-analyst/29673/102013681664"
+    },
+    "https://jobs.pge.com/job/oakland/expert-quantitative-power-system-analyst/29673/97944063856": {
+      "title": "Expert, Quantitative Power System Analyst",
+      "url": "https://jobs.pge.com/job/oakland/expert-quantitative-power-system-analyst/29673/97944063856"
+    },
+    "https://jobs.pge.com/job/san-ramon/senior-3d-cad-records-and-data-analyst/29673/99462559216": {
+      "title": "Senior 3D CAD Records and Data Analyst",
+      "url": "https://jobs.pge.com/job/san-ramon/senior-3d-cad-records-and-data-analyst/29673/99462559216"
+    },
+    "https://jobs.pge.com/job/oakland/business-analyst-senior/29673/102057009056": {
       "title": "Business Analyst, Senior",
-      "url": "https://jobs.pge.com/job/oakland/business-analyst-senior/29673/102187850592"
-    },
-    "https://jobs.pge.com/job/oakland/regulatory-analyst-senior/29673/102187850496": {
-      "title": "Regulatory Analyst, Senior",
-      "url": "https://jobs.pge.com/job/oakland/regulatory-analyst-senior/29673/102187850496"
-    },
-    "https://jobs.pge.com/job/oakland/tariff-analyst-expert/29673/102183236112": {
-      "title": "Tariff Analyst, Expert",
-      "url": "https://jobs.pge.com/job/oakland/tariff-analyst-expert/29673/102183236112"
+      "url": "https://jobs.pge.com/job/oakland/business-analyst-senior/29673/102057009056"
     }
   },
   "Raunch": {},
@@ -10627,9 +10656,9 @@
     }
   },
   "Corning": {
-    "https://corningjobs.corning.com/job/Shanghai-Process-Data-Analytics-Engineer-SH-201807/1431872800/": {
-      "title": "Process Data Analytics Engineer",
-      "url": "https://corningjobs.corning.com/job/Shanghai-Process-Data-Analytics-Engineer-SH-201807/1431872800/"
+    "https://corningjobs.corning.com/job/Corning-Technology-Specialist-and-Data-Analyst-NY-14831/1432240500/": {
+      "title": "Technology Specialist and Data Analyst",
+      "url": "https://corningjobs.corning.com/job/Corning-Technology-Specialist-and-Data-Analyst-NY-14831/1432240500/"
     }
   },
   "Micron": {},
