@@ -1128,6 +1128,12 @@
       "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
+    "210801825": {
+      "title": "Marketing Technology & Decision Science - Senior Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801825",
+      "location": "Columbus, OH, United States",
+      "country_code": "US"
+    },
     "210799375": {
       "title": "Product Director \u2013 Finance Data & Insights",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210799375",
@@ -2235,12 +2241,6 @@
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
-    "10576239": {
-      "title": "Senior Financial Analyst, Rapid & Rural Logistics Finance, Sub Same Day Delivery",
-      "url": "https://www.amazon.jobs/en/jobs/10576239/senior-financial-analyst-rapid-rural-logistics-finance-sub-same-day-delivery",
-      "location": "Bellevue, Washington, USA",
-      "country_code": "USA"
-    },
     "10574627": {
       "title": "Intelligence Analyst, Global Security Intelligence ",
       "url": "https://www.amazon.jobs/en/jobs/10574627/intelligence-analyst-global-security-intelligence",
@@ -2275,6 +2275,12 @@
       "title": "Senior Financial Analyst, Global Procurement Finance",
       "url": "https://www.amazon.jobs/en/jobs/10574914/senior-financial-analyst-global-procurement-finance",
       "location": "Bellevue, Washington, USA",
+      "country_code": "USA"
+    },
+    "10583442": {
+      "title": "Sr. Financial Analyst, Customer Service Finance",
+      "url": "https://www.amazon.jobs/en/jobs/10583442/sr-financial-analyst-customer-service-finance",
+      "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
     "10575943": {
@@ -3157,12 +3163,6 @@
       "title": "Sr. International Indirect Tax Analyst, Leo",
       "url": "https://www.amazon.jobs/en/jobs/10504328/sr-international-indirect-tax-analyst-leo",
       "location": "New York, New York, USA",
-      "country_code": "USA"
-    },
-    "10500330": {
-      "title": "Financial Analyst III - AMZ10417430",
-      "url": "https://www.amazon.jobs/en/jobs/10500330/financial-analyst-iii-amz10417430",
-      "location": "Arlington, Virginia, USA",
       "country_code": "USA"
     },
     "10501195": {
@@ -5976,11 +5976,6 @@
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Data-Science---US-Card---Marketing_R1003856-1",
       "location": "3 Locations"
     },
-    "/job/McLean-VA/Sr-Business-Analyst---US-Card_R248338-1": {
-      "title": "Sr. Business Analyst - US Card",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Sr-Business-Analyst---US-Card_R248338-1",
-      "location": "4 Locations"
-    },
     "/job/Riverwoods-IL/Senior-Manager--Data-Science---Global-Payment-Network_R1000649-2": {
       "title": "Senior Manager, Data Science - Global Payment Network",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Riverwoods-IL/Senior-Manager--Data-Science---Global-Payment-Network_R1000649-2",
@@ -7360,6 +7355,10 @@
     }
   },
   "Deloitte": {
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Project-Associate-Vice-President-Security-Analytics-and-Insights/372165": {
+      "title": "Project - Associate Vice President, Security Analytics and Insights",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Project-Associate-Vice-President-Security-Analytics-and-Insights/372165"
+    },
     "https://apply.deloitte.com/en_US/careers/JobDetail/Epic-Application-Analyst-Interconnect-Senior-Consultant/372134": {
       "title": "Epic Application Analyst - Interconnect-Senior Consultant",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Epic-Application-Analyst-Interconnect-Senior-Consultant/372134"
@@ -7367,10 +7366,6 @@
     "https://apply.deloitte.com/en_US/careers/JobDetail/PMO-Support-Functional-and-Operational-Strategy-and-Transformation-x-Finance-Operate-Analyst/372102": {
       "title": "PMO Support, Functional and Operational Strategy and Transformation x Finance Operate Analyst",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/PMO-Support-Functional-and-Operational-Strategy-and-Transformation-x-Finance-Operate-Analyst/372102"
-    },
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Delivery-Analyst-Project-Management-Solutions/372096": {
-      "title": "Delivery Analyst, Project Management Solutions",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Delivery-Analyst-Project-Management-Solutions/372096"
     }
   },
   "OpenX": {
@@ -7951,6 +7946,11 @@
       "title": "Head of Strategy , Insights & Execution, EICS",
       "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Head-of-Strategy---Insights---Execution--EICS_2026-0032002",
       "location": "3 Locations"
+    },
+    "/job/Horsham-PA/Data-Analytics-Manager---Credit-Card-Analytics_2026-0028837": {
+      "title": "Data Analytics Manager - Credit Card Analytics",
+      "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Horsham-PA/Data-Analytics-Manager---Credit-Card-Analytics_2026-0028837",
+      "location": "5 Locations"
     }
   },
   "Truist": {
@@ -8788,6 +8788,11 @@
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Senior-FCRM-Testing-Analyst--US-_R_1515163",
       "location": "11 Locations"
     },
+    "/job/New-York-New-York/Business-Insights-Analyst-II--US-_R_1515720": {
+      "title": "Business Insights Analyst II (US)",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Business-Insights-Analyst-II--US-_R_1515720",
+      "location": "New York, New York"
+    },
     "/job/Lake-Mary-Florida/Operations-Analyst--Equity-Clearing-Restricted-Securities_R_1499390": {
       "title": "Operations Analyst, Equity Clearing Restricted Securities",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Lake-Mary-Florida/Operations-Analyst--Equity-Clearing-Restricted-Securities_R_1499390",
@@ -8818,6 +8823,11 @@
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Financial-Crime-Risk-Analyst---Sanctions--US-Sanctions-Escalations-_R_1515269",
       "location": "5 Locations"
     },
+    "/job/Wilmington-Delaware/Senior-Quantitative-Analyst--Stress-Testing-Model-Development----SAS-Python_R_1499215": {
+      "title": "Senior Quantitative Analyst (Stress Testing Model Development) - SAS/Python",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Wilmington-Delaware/Senior-Quantitative-Analyst--Stress-Testing-Model-Development----SAS-Python_R_1499215",
+      "location": "2 Locations"
+    },
     "/job/Mount-Laurel-New-Jersey/Senior-Group-Risk-Analyst--2A-Oversight-of-Finance--US-_R_1515046": {
       "title": "Senior Group Risk Analyst- 2A Oversight of Finance (US)",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Senior-Group-Risk-Analyst--2A-Oversight-of-Finance--US-_R_1515046",
@@ -8827,6 +8837,11 @@
       "title": "Principal Data Scientist (US)",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Southfield-Michigan/Principal-Data-Scientist--US-_R_1516964-2",
       "location": "Southfield, Michigan"
+    },
+    "/job/New-York-New-York/Manager--Analytics---Insights--US-_R_1515713": {
+      "title": "Manager, Analytics & Insights (US)",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Manager--Analytics---Insights--US-_R_1515713",
+      "location": "5 Locations"
     },
     "/job/Mount-Laurel-New-Jersey/Data-Insights---Marketing-Targeting-Manager_R_1512021": {
       "title": "Data Insights & Marketing Targeting Manager",
@@ -8847,6 +8862,11 @@
       "title": "Business Insights Specialist (US) - Decision Science- Loan Portfolio",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Business-Insights-Specialist--US----Decision-Science--Loan-Portfolio_R_1512419",
       "location": "2 Locations"
+    },
+    "/job/Remote-Dallas-TX/Business-Insights-Specialist--US-_R_1515705": {
+      "title": "Business Insights Specialist (US)",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Remote-Dallas-TX/Business-Insights-Specialist--US-_R_1515705",
+      "location": "6 Locations"
     },
     "/job/New-York-New-York/VP-Broker-Dealer-Regulatory-Reporting_R_1486167": {
       "title": "VP Broker Dealer Regulatory Reporting",
@@ -10628,10 +10648,6 @@
     "https://jobs.pge.com/job/oakland/expert-financial-analyst-capital-recovery-and-analysis/29673/101595226224": {
       "title": "Expert Financial Analyst - Capital Recovery and Analysis",
       "url": "https://jobs.pge.com/job/oakland/expert-financial-analyst-capital-recovery-and-analysis/29673/101595226224"
-    },
-    "https://jobs.pge.com/job/oakland/it-business-analyst-expert-cc-and-b/29673/97896680512": {
-      "title": "IT Business Analyst, Expert - CC&B",
-      "url": "https://jobs.pge.com/job/oakland/it-business-analyst-expert-cc-and-b/29673/97896680512"
     }
   },
   "Raunch": {},
