@@ -1140,6 +1140,12 @@
       "location": "Nashville, TN, United States",
       "country_code": "US"
     },
+    "210802263": {
+      "title": "Compensation Analytics Vice President, Global Compensation",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802263",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
     "210789714": {
       "title": "Quant Analytics Associate - Wealth Management",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789714",
@@ -3821,11 +3827,6 @@
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Pennsylvania/Outreach-Coordinator-Analyst_R1054783-1",
       "location": "51 Locations"
     },
-    "/job/TX---Work-from-home/Sr-Analyst-Business-Analysis_R1079750": {
-      "title": "Sr Analyst,Business Analysis",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Sr-Analyst-Business-Analysis_R1079750",
-      "location": "TX - Work from home"
-    },
     "/job/TX---Work-from-home/Dental-Network-Relations-Senior-Analyst_R1056855": {
       "title": "Dental Network Relations Senior Analyst",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Dental-Network-Relations-Senior-Analyst_R1056855",
@@ -5474,17 +5475,21 @@
     }
   },
   "Gainwell": {
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-RVS-AR-99999/1432715900/": {
-      "title": "Business Analyst - RVS",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-RVS-AR-99999/1432715900/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-DE-99999/1442578800/": {
+      "title": "Senior Business Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-DE-99999/1442578800/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Data-Engineer-Cloudera-&-AWS-Lakehouse-%28Irving%2C-Texas%29-TX-99999/1422454900/": {
+      "title": "Data Engineer - Cloudera & AWS Lakehouse (Irving, Texas)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Data-Engineer-Cloudera-&-AWS-Lakehouse-%28Irving%2C-Texas%29-TX-99999/1422454900/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Data-Engineer-Databricks-&-Analytics-GA-99999/1402119100/": {
       "title": "Senior Data Engineer - Databricks & Analytics",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Data-Engineer-Databricks-&-Analytics-GA-99999/1402119100/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Data-Engineer-Cloudera-&-AWS-Lakehouse-%28Irving%2C-Texas%29-TX-99999/1422454900/": {
-      "title": "Data Engineer - Cloudera & AWS Lakehouse (Irving, Texas)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Data-Engineer-Cloudera-&-AWS-Lakehouse-%28Irving%2C-Texas%29-TX-99999/1422454900/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-RVS-AR-99999/1432715900/": {
+      "title": "Business Analyst - RVS",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-RVS-AR-99999/1432715900/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Professional-Programmer-Analyst-WI-99999/1442422000/": {
       "title": "Senior Professional Programmer Analyst",
@@ -7477,10 +7482,6 @@
     "https://apply.deloitte.com/en_US/careers/JobDetail/Healthcare-Analyst/372503": {
       "title": "Healthcare Analyst",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Healthcare-Analyst/372503"
-    },
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Rural-Health-Reporting-Compliance-Senior-Consultant/372474": {
-      "title": "Rural Health Reporting & Compliance Senior Consultant",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Rural-Health-Reporting-Compliance-Senior-Consultant/372474"
     }
   },
   "OpenX": {
@@ -9592,15 +9593,15 @@
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/CIB-Asset-Backed-Securities--Analyst_Req1627289",
       "location": "Madison Ave Corp"
     },
-    "/job/Miami/USA-SCIB-Portfolio-Management-Analyst---CIB-Lending_Req1612357-2": {
-      "title": "USA SCIB Portfolio Management Analyst - CIB Lending",
-      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/USA-SCIB-Portfolio-Management-Analyst---CIB-Lending_Req1612357-2",
-      "location": "Miami"
-    },
     "/job/Madison-Ave-Corp/USA-SCIB-Markets-Analyst_Req1612903": {
       "title": "USA SCIB Product Specialist, Structuring Analyst",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/USA-SCIB-Markets-Analyst_Req1612903",
       "location": "Madison Ave Corp"
+    },
+    "/job/Miami/USA-SCIB-Portfolio-Management-Analyst---CIB-Lending_Req1612357-2": {
+      "title": "USA SCIB Portfolio Management Analyst - CIB Lending",
+      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/USA-SCIB-Portfolio-Management-Analyst---CIB-Lending_Req1612357-2",
+      "location": "Miami"
     },
     "/job/Madison-Ave-Corp/Analyst--Fixed-Income-Middle-Office--Pre---Post-Trade-Support-_Req1628357-1": {
       "title": "Analyst, Fixed Income Middle Office (Pre & Post Trade Support)",
@@ -10385,6 +10386,11 @@
     }
   },
   "CME Group": {
+    "/job/Chicago---20-S-Wacker/Cyber-Defense-Analyst-II_34921": {
+      "title": "Cyber Defense Analyst II",
+      "url": "https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/Cyber-Defense-Analyst-II_34921",
+      "location": "Chicago - 20 S. Wacker"
+    },
     "/job/Chicago---20-S-Wacker/Post-Trade-Client-Services---Risk-Analyst_34912": {
       "title": "Post-Trade Client Services & Risk Analyst",
       "url": "https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/Post-Trade-Client-Services---Risk-Analyst_34912",
