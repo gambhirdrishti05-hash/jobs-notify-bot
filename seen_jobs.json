@@ -1182,6 +1182,12 @@
       "location": "Jersey City, NJ, United States",
       "country_code": "US"
     },
+    "210764318": {
+      "title": "Lead Software Engineer - Data Engg/ Data Analytics",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764318",
+      "location": "Houston, TX, United States",
+      "country_code": "US"
+    },
     "210800614": {
       "title": "Lead Technical Program Manager - PMO & Executive Reporting",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800614",
@@ -2827,6 +2833,12 @@
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
+    "10587124": {
+      "title": "Business Analyst, Customer Experience, Amazon Air",
+      "url": "https://www.amazon.jobs/en/jobs/10587124/business-analyst-customer-experience-amazon-air",
+      "location": "Bellevue, Washington, USA",
+      "country_code": "USA"
+    },
     "10537889": {
       "title": "Protective Intel Analyst, GRIS Protective Intel",
       "url": "https://www.amazon.jobs/en/jobs/10537889/protective-intel-analyst-gris-protective-intel",
@@ -3754,6 +3766,11 @@
   },
   "Waters Corporation": {},
   "CVS Health": {
+    "/job/PA---Work-from-home/Analyst-Corp-Compliance_R1025350": {
+      "title": "Analyst,Corp Compliance",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Work-from-home/Analyst-Corp-Compliance_R1025350",
+      "location": "4 Locations"
+    },
     "/job/Work-At-Home-Connecticut/Manager--Business---Project-Analyst_R1082884": {
       "title": "Manager, Business & Project Analyst",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Connecticut/Manager--Business---Project-Analyst_R1082884",
@@ -3923,11 +3940,6 @@
       "title": "Analyst, Outreach Coordinator",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/KY---Work-from-home/Analyst--Outreach-Coordinator_R1055446",
       "location": "KY - Work from home"
-    },
-    "/job/PA---Work-from-home/FP-A-Analyst_R1055036": {
-      "title": "FP&A Analyst",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Work-from-home/FP-A-Analyst_R1055036",
-      "location": "PA - Work from home"
     },
     "/job/VA---Work-from-home/Analyst--Outreach-Coordinator_R1055427": {
       "title": "Analyst, Outreach Coordinator",
@@ -4543,11 +4555,6 @@
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Data-Engineer_R2603410",
       "location": "3 Locations"
     },
-    "/job/Arlington-VA-VA31/Senior-Data-Scientist--Security-Clearance-Required-_R2601051": {
-      "title": "Senior Data Scientist (Security Clearance Required)",
-      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Arlington-VA-VA31/Senior-Data-Scientist--Security-Clearance-Required-_R2601051",
-      "location": "2 Locations"
-    },
     "/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Engineer--Reston--VA-or-Remote-_R2603380": {
       "title": "2027 Summer Intern, Data Engineer (Reston, VA or Remote)",
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Engineer--Reston--VA-or-Remote-_R2603380",
@@ -5049,6 +5056,11 @@
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Senior-Private-Credit-Fund-Analyst_26022599",
       "location": "New York"
     },
+    "/job/College-Park/Senior-Operations-Analyst---Check-Operations_26038330": {
+      "title": "Senior Operations Analyst - Check Operations",
+      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/College-Park/Senior-Operations-Analyst---Check-Operations_26038330",
+      "location": "College Park"
+    },
     "/job/Jacksonville/Transaction-Management-Operations-Analyst_26035491-2": {
       "title": "Transaction Management Operations Analyst",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jacksonville/Transaction-Management-Operations-Analyst_26035491-2",
@@ -5487,13 +5499,17 @@
     }
   },
   "Gainwell": {
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Data-Mining-&-Payment-Integrity-Analyst-TX-99999/1357001600/": {
-      "title": "Senior Data Mining & Payment Integrity Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Data-Mining-&-Payment-Integrity-Analyst-TX-99999/1357001600/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Program-Analyst-TX-99999/1443021600/": {
+      "title": "Program Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Program-Analyst-TX-99999/1443021600/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Client-Services-Analyst-II-TX-99999/1413068600/": {
       "title": "Client Services Analyst II",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Client-Services-Analyst-II-TX-99999/1413068600/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Data-Mining-&-Payment-Integrity-Analyst-TX-99999/1357001600/": {
+      "title": "Senior Data Mining & Payment Integrity Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Data-Mining-&-Payment-Integrity-Analyst-TX-99999/1357001600/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-DE-99999/1442578800/": {
       "title": "Senior Business Analyst",
@@ -5502,10 +5518,6 @@
     "https://jobs.gainwelltechnologies.com/job/Indianapolis-TPL-Casualty-Business-Analyst-HYBRID-Indianapolis%2C-IN-IN-46204-1077/1442655700/": {
       "title": "TPL Casualty Business Analyst - HYBRID Indianapolis, IN",
       "url": "https://jobs.gainwelltechnologies.com/job/Indianapolis-TPL-Casualty-Business-Analyst-HYBRID-Indianapolis%2C-IN-IN-46204-1077/1442655700/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Data-Engineer-Cloudera-&-AWS-Lakehouse-%28Irving%2C-Texas%29-TX-99999/1422454900/": {
-      "title": "Data Engineer - Cloudera & AWS Lakehouse (Irving, Texas)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Data-Engineer-Cloudera-&-AWS-Lakehouse-%28Irving%2C-Texas%29-TX-99999/1422454900/"
     }
   },
   "Happen Bank": {
@@ -6060,11 +6072,6 @@
       "title": "Sr. Databricks Data Engineer, Vice President",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Sr-Databricks-Data-Engineer--Vice-President--Hybrid_R-789490-1",
       "location": "2 Locations"
-    },
-    "/job/Quincy-Massachusetts/Data-Engineering-and-Development-VP_R-791462": {
-      "title": "Data Engineering and Development VP",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Data-Engineering-and-Development-VP_R-791462",
-      "location": "Quincy, Massachusetts"
     },
     "/job/Boston-Massachusetts/Global-Head-of-Insight-Generation-and-AI-Adoption--MD---State-Street-Investment-Management_R-792525": {
       "title": "Global Head of Insight Generation and AI Adoption, MD - State Street Investment Management",
@@ -7541,10 +7548,6 @@
     "https://careers.abbvie.com/en/job/data-science-program-lead-i-oncology-in-irvine-ca-jid-34814": {
       "title": "Data Science Program Lead I - Oncology",
       "url": "https://careers.abbvie.com/en/job/data-science-program-lead-i-oncology-in-irvine-ca-jid-34814"
-    },
-    "https://careers.abbvie.com/en/job/data-science-program-lead-i-oncology-in-chicago-il-jid-34813": {
-      "title": "Data Science Program Lead I - Oncology",
-      "url": "https://careers.abbvie.com/en/job/data-science-program-lead-i-oncology-in-chicago-il-jid-34813"
     }
   },
   "HPE": {
@@ -7597,11 +7600,6 @@
       "title": "Spend Senior Financial Analyst",
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Heredia-Heredia-Costa-Rica/Spend-Senior-Financial-Analyst_1215246-1",
       "location": "2 Locations"
-    },
-    "/job/Bratislava-22-Bratislavsk-kraj-Slovakia/EMEA-Demand-Steering-Analyst_1211068": {
-      "title": "EMEA Demand Steering Analyst",
-      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bratislava-22-Bratislavsk-kraj-Slovakia/EMEA-Demand-Steering-Analyst_1211068",
-      "location": "Bratislava 22, Bratislavsk\u00fd kraj, Slovakia"
     },
     "/job/Spring-Texas-United-States-of-America/Product-Management-Business-Analyst_1216159-3": {
       "title": "Product Management Business Analyst",
@@ -7923,6 +7921,11 @@
       "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Milwaukee-WI/Business-Technology-Analyst_2026-0014356",
       "location": "2 Locations"
     },
+    "/job/Minneapolis-MN/Business-Intelligence-Analyst_2026-0019717": {
+      "title": "Business Intelligence Analyst",
+      "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Business-Intelligence-Analyst_2026-0019717",
+      "location": "Minneapolis, MN"
+    },
     "/job/Atlanta-GA/Data-Science-Analyst_2026-0027217": {
       "title": "Data Science Analyst",
       "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Atlanta-GA/Data-Science-Analyst_2026-0027217",
@@ -8122,6 +8125,11 @@
       "title": "Head of Strategy , Insights & Execution, EICS",
       "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Head-of-Strategy---Insights---Execution--EICS_2026-0032002",
       "location": "3 Locations"
+    },
+    "/job/Horsham-PA/VP-Merchant-Acquisition-Credit---Loss-Prevention-Analytics_2026-0032083": {
+      "title": "VP Merchant Acquisition Credit & Loss Prevention Analytics",
+      "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Horsham-PA/VP-Merchant-Acquisition-Credit---Loss-Prevention-Analytics_2026-0032083",
+      "location": "Horsham, PA"
     },
     "/job/Horsham-PA/Data-Analytics-Manager---Credit-Card-Analytics_2026-0028837": {
       "title": "Data Analytics Manager - Credit Card Analytics",
@@ -9727,11 +9735,6 @@
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/CIB-Asset-Backed-Securities--Analyst_Req1627289",
       "location": "Madison Ave Corp"
     },
-    "/job/Miami/USA-SCIB-Portfolio-Management-Analyst---CIB-Lending_Req1612357-2": {
-      "title": "USA SCIB Portfolio Management Analyst - CIB Lending",
-      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/USA-SCIB-Portfolio-Management-Analyst---CIB-Lending_Req1612357-2",
-      "location": "Miami"
-    },
     "/job/Madison-Ave-Corp/USA-SCIB-Markets-Analyst_Req1612903": {
       "title": "USA SCIB Product Specialist, Structuring Analyst",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/USA-SCIB-Markets-Analyst_Req1612903",
@@ -9741,6 +9744,11 @@
       "title": "2027 Commercial Summer Analyst Program - Boston",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boston/XMLNAME-2027-Commercial-Summer-Analyst-Program---Boston_Req1628583",
       "location": "Boston"
+    },
+    "/job/Miami/USA-SCIB-Portfolio-Management-Analyst---CIB-Lending_Req1612357-2": {
+      "title": "USA SCIB Portfolio Management Analyst - CIB Lending",
+      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Miami/USA-SCIB-Portfolio-Management-Analyst---CIB-Lending_Req1612357-2",
+      "location": "Miami"
     },
     "/job/Madison-Ave-Corp/XMLNAME-2027-Commercial-Full-Time-Rotational-Analyst-Program---New-York_Req1628593": {
       "title": "2027 Commercial Full-Time Rotational Analyst Program - New York",
@@ -10938,13 +10946,13 @@
     }
   },
   "Intuit": {
-    "https://jobs.intuit.com/job/san-diego/summer-2027-intelligent-automation-business-systems-analyst-intern/27595/101313096144": {
-      "title": "Summer 2027: Intelligent Automation Business Systems Analyst InternSan Diego, California",
-      "url": "https://jobs.intuit.com/job/san-diego/summer-2027-intelligent-automation-business-systems-analyst-intern/27595/101313096144"
+    "https://jobs.intuit.com/job/mountain-view/principal-data-scientist-capabilities-and-acceleration/27595/102309320384": {
+      "title": "Principal Data Scientist, Capabilities & AccelerationMultiple Locations",
+      "url": "https://jobs.intuit.com/job/mountain-view/principal-data-scientist-capabilities-and-acceleration/27595/102309320384"
     },
-    "https://jobs.intuit.com/job/san-diego/staff-data-scientist-ck-intelligence/27595/101115235200": {
-      "title": "Staff Data Scientist | CK IntelligenceMultiple Locations",
-      "url": "https://jobs.intuit.com/job/san-diego/staff-data-scientist-ck-intelligence/27595/101115235200"
+    "https://jobs.intuit.com/job/mountain-view/senior-software-data-engineer-quickbooks-capital-and-lending/27595/102309320192": {
+      "title": "Senior Software Data Engineer - Quickbooks Capital and LendingMountain View, California",
+      "url": "https://jobs.intuit.com/job/mountain-view/senior-software-data-engineer-quickbooks-capital-and-lending/27595/102309320192"
     }
   },
   "Moodys": {
@@ -10952,13 +10960,13 @@
       "title": "VP-Data Engineer (People Analytics)",
       "url": "https://careers.moodys.com/en/job/new-york/vp-data-engineer-people-analytics/49841/99771528736"
     },
-    "https://careers.moodys.com/en/job/bengaluru/analytics-and-modeling-analyst/49841/102150408432": {
-      "title": "Analytics & Modeling Analyst",
-      "url": "https://careers.moodys.com/en/job/bengaluru/analytics-and-modeling-analyst/49841/102150408432"
+    "https://careers.moodys.com/en/job/new-york/director-analytics-and-modeling/49841/101421059024": {
+      "title": "Director - Analytics & Modeling",
+      "url": "https://careers.moodys.com/en/job/new-york/director-analytics-and-modeling/49841/101421059024"
     },
-    "https://careers.moodys.com/en/job/new-york/assistant-director-product-manager-business-intelligence/49841/102294595648": {
-      "title": "Assistant Director - Product Manager (Business Intelligence)",
-      "url": "https://careers.moodys.com/en/job/new-york/assistant-director-product-manager-business-intelligence/49841/102294595648"
+    "https://careers.moodys.com/en/job/heredia/software-engineer-data-engineering/49841/97934207472": {
+      "title": "Software Engineer - Data Engineering",
+      "url": "https://careers.moodys.com/en/job/heredia/software-engineer-data-engineering/49841/97934207472"
     }
   },
   "UKG": {},
@@ -10966,10 +10974,6 @@
     "https://jobs.pge.com/job/oakland/egi-business-analyst-senior/29673/102305681360": {
       "title": "EGI Business Analyst, Senior",
       "url": "https://jobs.pge.com/job/oakland/egi-business-analyst-senior/29673/102305681360"
-    },
-    "https://jobs.pge.com/job/oakland/expert-regulatory-analyst-flexible-location-electrical-engineer-and-ferc-experience-preferred/29673/90963622176": {
-      "title": "Expert Regulatory Analyst - Flexible Location (Electrical Engineer and FERC experience preferred)",
-      "url": "https://jobs.pge.com/job/oakland/expert-regulatory-analyst-flexible-location-electrical-engineer-and-ferc-experience-preferred/29673/90963622176"
     }
   },
   "Raunch": {},
