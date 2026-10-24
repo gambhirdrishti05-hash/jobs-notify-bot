@@ -162,16 +162,16 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
-    "210784213": {
-      "title": "Investment Banking - Financial Institutions Group, Banks - Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784213",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
     "210800350": {
       "title": "Credit Ops Analyst I - Commercial Credit Card Lending",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800350",
       "location": "Tempe, AZ, United States",
+      "country_code": "US"
+    },
+    "210784213": {
+      "title": "Investment Banking - Financial Institutions Group, Banks - Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784213",
+      "location": "New York, NY, United States",
       "country_code": "US"
     },
     "210784159": {
@@ -3097,12 +3097,6 @@
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
-    "10522977": {
-      "title": "Sr. Financial Analyst, IMDb, IMDb",
-      "url": "https://www.amazon.jobs/en/jobs/10522977/sr-financial-analyst-imdb-imdb",
-      "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
     "10529294": {
       "title": "Senior Finance Analyst, NA Amazon Logistics Field Finance UTR Execution",
       "url": "https://www.amazon.jobs/en/jobs/10529294/senior-finance-analyst-na-amazon-logistics-field-finance-utr-execution",
@@ -5489,13 +5483,13 @@
       "title": "Advisor Batch Programmer Analyst (UNIX/LINUX/C/Medicaid Claims/EDI Processing)",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Batch-Programmer-Analyst-%28UNIXLINUXCMedicaid-ClaimsEDI-Processing%29-TX-99999/1433407900/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Application-Business-Analyst-ME-99999/1433577900/": {
-      "title": "Application Business Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Application-Business-Analyst-ME-99999/1433577900/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-State-Hearing-Analyst-Roseville%2C-CA-Hybrid-CA-99999/1433600600/": {
       "title": "State Hearing Analyst - Roseville, CA - Hybrid",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-State-Hearing-Analyst-Roseville%2C-CA-Hybrid-CA-99999/1433600600/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Application-Business-Analyst-ME-99999/1433577900/": {
+      "title": "Application Business Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Application-Business-Analyst-ME-99999/1433577900/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Medicaid-Fraud%2C-Waste-&-Abuse-%28FWA%29-Analyst-NV-99999/1443261900/": {
       "title": "Medicaid Fraud, Waste & Abuse (FWA) Analyst",
@@ -7746,11 +7740,6 @@
       "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Salesforce-Business-Analyst_JR4495",
       "location": "HQ - San Diego, CA"
     },
-    "/job/Las-Vegas-NV/Credit-Operations-Analyst_JR4643": {
-      "title": "Credit Operations Analyst",
-      "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/Las-Vegas-NV/Credit-Operations-Analyst_JR4643",
-      "location": "Las Vegas, NV"
-    },
     "/job/HQ---San-Diego-CA/Portfolio-Analyst-II_JR4789": {
       "title": "Portfolio Analyst II",
       "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Portfolio-Analyst-II_JR4789",
@@ -9029,6 +9018,11 @@
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Lewiston-Maine/Business-Mgmt-Analyst-III---ATM-Cash-Services-Delivery_R_1513136",
       "location": "2 Locations"
     },
+    "/job/New-York-New-York/Analyst---Product-Development---Transaction-Banking-Product--TD-Securities_R_1518812": {
+      "title": "Analyst - Product Development - Transaction Banking Product, TD Securities",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Analyst---Product-Development---Transaction-Banking-Product--TD-Securities_R_1518812",
+      "location": "2 Locations"
+    },
     "/job/Mount-Laurel-New-Jersey/Senior-Group-Risk-Analyst--2A-Oversight-of-Finance--US-_R_1515046": {
       "title": "Senior Group Risk Analyst- 2A Oversight of Finance (US)",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Senior-Group-Risk-Analyst--2A-Oversight-of-Finance--US-_R_1515046",
@@ -9048,6 +9042,11 @@
       "title": "Senior Financial Crime Risk Management Analyst, KYC High Risk Reviews (US)",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Senior-Financial-Crime-Risk-Management-Analyst--KYC-High-Risk-Reviews--US-_R_1517260",
       "location": "4 Locations"
+    },
+    "/job/Charlotte-North-Carolina/Analyst-Associate---Commercial-Card-Product-Manager---Transaction-Banking-Product--TD-Securities_R_1518814": {
+      "title": "Analyst/Associate - Commercial Card Product Manager - Transaction Banking Product, TD Securities",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Charlotte-North-Carolina/Analyst-Associate---Commercial-Card-Product-Manager---Transaction-Banking-Product--TD-Securities_R_1518814",
+      "location": "Charlotte, North Carolina"
     },
     "/job/Southfield-Michigan/Principal-Data-Scientist--US-_R_1516964-2": {
       "title": "Principal Data Scientist (US)",
@@ -9648,6 +9647,21 @@
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/Investment-Banking-Analyst_Req1555604",
       "location": "Madison Ave Corp"
     },
+    "/job/NY-LI-Jericho/Specialist--Portfolio-Management_Req1614340": {
+      "title": "Analyst, Portfolio Administration",
+      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/NY-LI-Jericho/Specialist--Portfolio-Management_Req1614340",
+      "location": "NY LI Jericho"
+    },
+    "/job/Dallas/Whole-Loans-Operations--Analyst_Req1600347": {
+      "title": "Whole Loans Operations, Analyst",
+      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Dallas/Whole-Loans-Operations--Analyst_Req1600347",
+      "location": "Dallas"
+    },
+    "/job/Madison-Ave-Corp/CIB-Asset-Backed-Securities--Analyst_Req1627289": {
+      "title": "CIB Asset Backed Securities, Analyst",
+      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/CIB-Asset-Backed-Securities--Analyst_Req1627289",
+      "location": "Madison Ave Corp"
+    },
     "/job/Madison-Ave-Corp/USA-SCIB-Markets-Analyst_Req1612903": {
       "title": "USA SCIB Product Specialist, Structuring Analyst",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/USA-SCIB-Markets-Analyst_Req1612903",
@@ -9697,6 +9711,16 @@
       "title": "Analyst, Fixed Income Middle Office (Pre & Post Trade Support)",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/Analyst--Fixed-Income-Middle-Office--Pre---Post-Trade-Support-_Req1628357-1",
       "location": "2 Locations"
+    },
+    "/job/Madison-Ave-Corp/Vice-President---Front-Office-Quantitative-Analytics--Latin-America-Rates---FX-_Req1593978-1": {
+      "title": "Front Office Quantitative Analytics (Latin America Rates & FX) - Associate / Vice President",
+      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Madison-Ave-Corp/Vice-President---Front-Office-Quantitative-Analytics--Latin-America-Rates---FX-_Req1593978-1",
+      "location": "Madison Ave Corp"
+    },
+    "/job/CT-Southington/Manager--Segment-Profitability-Accounting-and-Reporting_Req1614353": {
+      "title": "Manager, Segment Profitability Accounting and Reporting",
+      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/CT-Southington/Manager--Segment-Profitability-Accounting-and-Reporting_Req1614353",
+      "location": "CT Southington"
     }
   },
   "MUFG": {
@@ -10809,6 +10833,10 @@
     }
   },
   "Intuit": {
+    "https://jobs.intuit.com/job/charlotte/lead-partner-decision-scientist-credit-karma/27595/98769216048": {
+      "title": "Lead Partner Decision Scientist - Credit KarmaMultiple Locations",
+      "url": "https://jobs.intuit.com/job/charlotte/lead-partner-decision-scientist-credit-karma/27595/98769216048"
+    },
     "https://jobs.intuit.com/job/mountain-view/senior-data-scientist-customer-success/27595/102340338960": {
       "title": "Senior Data Scientist - Customer SuccessMultiple Locations",
       "url": "https://jobs.intuit.com/job/mountain-view/senior-data-scientist-customer-success/27595/102340338960"
@@ -10825,10 +10853,6 @@
     "https://jobs.pge.com/job/rocklin/business-analyst-expert/29673/102349770944": {
       "title": "Business Analyst, Expert",
       "url": "https://jobs.pge.com/job/rocklin/business-analyst-expert/29673/102349770944"
-    },
-    "https://jobs.pge.com/job/oakland/regulatory-analyst-senior/29673/102187850496": {
-      "title": "Regulatory Analyst, Senior",
-      "url": "https://jobs.pge.com/job/oakland/regulatory-analyst-senior/29673/102187850496"
     }
   },
   "Raunch": {},
