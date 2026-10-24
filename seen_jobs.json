@@ -5456,13 +5456,13 @@
       "title": "Application Business Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Application-Business-Analyst-ME-99999/1433577900/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-State-Hearing-Analyst-Roseville%2C-CA-Hybrid-CA-99999/1433600600/": {
-      "title": "State Hearing Analyst - Roseville, CA - Hybrid",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-State-Hearing-Analyst-Roseville%2C-CA-Hybrid-CA-99999/1433600600/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Batch-Programmer-Analyst-%28UNIXLINUXCMedicaid-ClaimsEDI-Processing%29-TX-99999/1433407900/": {
       "title": "Advisor Batch Programmer Analyst (UNIX/LINUX/C/Medicaid Claims/EDI Processing)",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Batch-Programmer-Analyst-%28UNIXLINUXCMedicaid-ClaimsEDI-Processing%29-TX-99999/1433407900/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-State-Hearing-Analyst-Roseville%2C-CA-Hybrid-CA-99999/1433600600/": {
+      "title": "State Hearing Analyst - Roseville, CA - Hybrid",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-State-Hearing-Analyst-Roseville%2C-CA-Hybrid-CA-99999/1433600600/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Medicaid-Fraud%2C-Waste-&-Abuse-%28FWA%29-Analyst-NV-99999/1443261900/": {
       "title": "Medicaid Fraud, Waste & Abuse (FWA) Analyst",
@@ -10754,9 +10754,21 @@
   },
   "UKG": {},
   "PGE": {
-    "https://jobs.pge.com/job/rocklin/business-analyst-expert/29673/102349770944": {
+    "https://jobs.pge.com/job/oakland/operations-data-analyst-expert/29673/102263094352": {
+      "title": "Operations Data Analyst, Expert",
+      "url": "https://jobs.pge.com/job/oakland/operations-data-analyst-expert/29673/102263094352"
+    },
+    "https://jobs.pge.com/job/oakland/regulatory-analyst-senior/29673/102187850496": {
+      "title": "Regulatory Analyst, Senior",
+      "url": "https://jobs.pge.com/job/oakland/regulatory-analyst-senior/29673/102187850496"
+    },
+    "https://jobs.pge.com/job/oakland/business-analyst-expert/29673/102057008864": {
       "title": "Business Analyst, Expert",
-      "url": "https://jobs.pge.com/job/rocklin/business-analyst-expert/29673/102349770944"
+      "url": "https://jobs.pge.com/job/oakland/business-analyst-expert/29673/102057008864"
+    },
+    "https://jobs.pge.com/job/oakland/operations-data-analyst-principal/29673/94610480032": {
+      "title": "Operations Data Analyst, Principal",
+      "url": "https://jobs.pge.com/job/oakland/operations-data-analyst-principal/29673/94610480032"
     }
   },
   "Raunch": {},
