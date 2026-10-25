@@ -5456,13 +5456,13 @@
       "title": "Application Business Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Application-Business-Analyst-ME-99999/1433577900/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Batch-Programmer-Analyst-%28UNIXLINUXCMedicaid-ClaimsEDI-Processing%29-TX-99999/1433407900/": {
-      "title": "Advisor Batch Programmer Analyst (UNIX/LINUX/C/Medicaid Claims/EDI Processing)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Batch-Programmer-Analyst-%28UNIXLINUXCMedicaid-ClaimsEDI-Processing%29-TX-99999/1433407900/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-State-Hearing-Analyst-Roseville%2C-CA-Hybrid-CA-99999/1433600600/": {
       "title": "State Hearing Analyst - Roseville, CA - Hybrid",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-State-Hearing-Analyst-Roseville%2C-CA-Hybrid-CA-99999/1433600600/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Batch-Programmer-Analyst-%28UNIXLINUXCMedicaid-ClaimsEDI-Processing%29-TX-99999/1433407900/": {
+      "title": "Advisor Batch Programmer Analyst (UNIX/LINUX/C/Medicaid Claims/EDI Processing)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Batch-Programmer-Analyst-%28UNIXLINUXCMedicaid-ClaimsEDI-Processing%29-TX-99999/1433407900/"
     }
   },
   "Happen Bank": {
@@ -7491,12 +7491,7 @@
       "location": "Los Angeles, CA"
     }
   },
-  "AbbVibe": {
-    "https://careers.abbvie.com/en/job/manager-analytics-and-market-research-in-mettawa-il-jid-34579": {
-      "title": "Manager, Analytics and Market Research",
-      "url": "https://careers.abbvie.com/en/job/manager-analytics-and-market-research-in-mettawa-il-jid-34579"
-    }
-  },
+  "AbbVibe": {},
   "HPE": {
     "/job/Wroclaw-Lower-Silesian-Poland/Tax-Analyst_1213951": {
       "title": "Tax Analyst",
@@ -8270,14 +8265,14 @@
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC---2320-Cascade-Pointe-Boulevard/Senior-Software-Engineer---Problem-Management-Automation-and-Analytics--On-site-_R0120589",
       "location": "5 Locations"
     },
-    "/job/Charlotte-NC/Internal-Auditor-II---Finance---Reg-Reporting_R0117615": {
-      "title": "Internal Auditor II - Finance & Reg Reporting",
-      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Internal-Auditor-II---Finance---Reg-Reporting_R0117615",
-      "location": "4 Locations"
-    },
     "/job/Leawood-KS/Investor-Accounting---Reporting-Associate---Grandbridge-Real-Estate_R0120416": {
       "title": "Investor Accounting & Reporting Associate - Grandbridge Real Estate",
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Leawood-KS/Investor-Accounting---Reporting-Associate---Grandbridge-Real-Estate_R0120416",
+      "location": "4 Locations"
+    },
+    "/job/Charlotte-NC/Internal-Auditor-II---Finance---Reg-Reporting_R0117615": {
+      "title": "Internal Auditor II - Finance & Reg Reporting",
+      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Internal-Auditor-II---Finance---Reg-Reporting_R0117615",
       "location": "4 Locations"
     },
     "/job/Richmond-VA/Sr-Internal-Auditor---Finance-and-Regulatory-Reporting_R0118280": {
