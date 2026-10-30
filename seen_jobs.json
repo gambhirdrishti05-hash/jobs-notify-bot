@@ -1,5 +1,11 @@
 {
   "JPMorgan Chase": {
+    "210794406": {
+      "title": "U.S. Private Bank - AWM Program Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794406",
+      "location": "Fort Lauderdale, FL, United States",
+      "country_code": "US"
+    },
     "210793619": {
       "title": "Portfolio & Performance Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793619",
@@ -96,16 +102,16 @@
       "location": "Charlotte, NC, United States",
       "country_code": "US"
     },
-    "210802598": {
-      "title": "Global Corporate Banking \u2013 Consumer, Retail and Business Services \u2013 Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802598",
-      "location": "Chicago, IL, United States",
-      "country_code": "US"
-    },
     "210690282": {
       "title": "2027 Markets Summer Analyst Program - Research",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210690282",
       "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210802598": {
+      "title": "Global Corporate Banking \u2013 Consumer, Retail and Business Services \u2013 Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802598",
+      "location": "Chicago, IL, United States",
       "country_code": "US"
     },
     "210804910": {
@@ -118,12 +124,6 @@
       "title": "Client Onboarding Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794884",
       "location": "Charlotte, NC, United States",
-      "country_code": "US"
-    },
-    "210800077": {
-      "title": "Trade Lifecycle Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800077",
-      "location": "Jersey City, NJ, United States",
       "country_code": "US"
     },
     "210791039": {
@@ -141,12 +141,6 @@
     "210804388": {
       "title": "Customer Insights - Payments Data & Analytics - Senior Product Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804388",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
-    "210800508": {
-      "title": "Senior Analytics Engineer, Senior Associate of Morgan Health",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800508",
       "location": "New York, NY, United States",
       "country_code": "US"
     },
@@ -556,12 +550,6 @@
       "title": "Lead Solutions Analyst - Production Support / Release Management",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790053",
       "location": "Jersey City, NJ, United States",
-      "country_code": "US"
-    },
-    "210784298": {
-      "title": "1972234: Collections Litigations Vendor Management Analyst I (OPVM08)",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210784298",
-      "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
     "210797572": {
@@ -1218,6 +1206,12 @@
       "location": "Nashville, TN, United States",
       "country_code": "US"
     },
+    "210804930": {
+      "title": "Data Scientist Lead - Business Banking Lending - Vice President",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804930",
+      "location": "Columbus, OH, United States",
+      "country_code": "US"
+    },
     "210798184": {
       "title": "Quant Analytics Senior Associate \u2013 Business Intelligence",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798184",
@@ -1518,16 +1512,16 @@
       "location": "Brooklyn, NY, United States",
       "country_code": "US"
     },
-    "210798973": {
-      "title": "Global Workforce Screening Associate - Business Analysis & Reporting Specialist",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798973",
-      "location": "Plano, TX, United States",
-      "country_code": "US"
-    },
     "210785708": {
       "title": "Quant Analytics Associate I - Regulatory Operations",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785708",
       "location": "Columbus, OH, United States",
+      "country_code": "US"
+    },
+    "210798973": {
+      "title": "Global Workforce Screening Associate - Business Analysis & Reporting Specialist",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798973",
+      "location": "Plano, TX, United States",
       "country_code": "US"
     },
     "210798582": {
@@ -1824,12 +1818,6 @@
       "location": "New York, NY, United States",
       "country_code": "US"
     },
-    "210788380": {
-      "title": "Collections Strategy & Analytics Senior Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788380",
-      "location": "Wilmington, DE, United States",
-      "country_code": "US"
-    },
     "210757581": {
       "title": "Analytics Solutions Senior Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210757581",
@@ -2020,12 +2008,6 @@
       "title": "Business Bank Lending Risk Analytics - Consumer & Community Banking -Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775481",
       "location": "Wilmington, DE, United States",
-      "country_code": "US"
-    },
-    "210764789": {
-      "title": "Voice Product Analytics\u00a0- Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764789",
-      "location": "Columbus, OH, United States",
       "country_code": "US"
     },
     "210765627": {
@@ -2689,12 +2671,6 @@
       "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
-    "10565568": {
-      "title": "Operations Analyst, Funding Operations",
-      "url": "https://www.amazon.jobs/en/jobs/10565568/operations-analyst-funding-operations",
-      "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
     "10590314": {
       "title": "Segmentation Analyst, SMGS Ops - Sales Planning and Compensation",
       "url": "https://www.amazon.jobs/en/jobs/10590314/segmentation-analyst-smgs-ops-sales-planning-and-compensation",
@@ -3209,12 +3185,6 @@
       "title": "Senior Financial Analyst, US Inbound Transportation",
       "url": "https://www.amazon.jobs/en/jobs/10519885/senior-financial-analyst-us-inbound-transportation",
       "location": "Arlington, Virginia, USA",
-      "country_code": "USA"
-    },
-    "10512743": {
-      "title": "Financial Analyst III - AMZ21725.3",
-      "url": "https://www.amazon.jobs/en/jobs/10512743/financial-analyst-iii-amz21725-3",
-      "location": "New York, New York, USA",
       "country_code": "USA"
     },
     "10519691": {
@@ -3760,6 +3730,21 @@
   },
   "Waters Corporation": {},
   "CVS Health": {
+    "/job/VA---Arlington/Case-Management-Analyst---Field-in-Northern-Virginia--Arlington-or-Surrounding-Areas_R1077940": {
+      "title": "Case Management Analyst - Field in Northern Virginia, Arlington or Surrounding Areas",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/VA---Arlington/Case-Management-Analyst---Field-in-Northern-Virginia--Arlington-or-Surrounding-Areas_R1077940",
+      "location": "6 Locations"
+    },
+    "/job/PA---Work-from-home/Pharmacy-Eligibility-Claims-Business-Analyst_R1076445-1": {
+      "title": "Pharmacy Eligibility/Claims Business Analyst",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Work-from-home/Pharmacy-Eligibility-Claims-Business-Analyst_R1076445-1",
+      "location": "18 Locations"
+    },
+    "/job/IL---Work-from-home/Underwriting-Analytics-Senior-Analyst_R0939965": {
+      "title": "Underwriting Analytics Senior Analyst",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Underwriting-Analytics-Senior-Analyst_R0939965",
+      "location": "IL - Work from home"
+    },
     "/job/OH---Cincinnati/Community-Relationship-Analyst_R1089141-1": {
       "title": "Community Relationship Analyst",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/OH---Cincinnati/Community-Relationship-Analyst_R1089141-1",
@@ -4404,6 +4389,11 @@
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Senior-Business-Analyst--IT_R2603625",
       "location": "Reston, VA"
     },
+    "/job/Nationwide-Remote-Office-US99/Public-Health-Data-Analyst_R2603699": {
+      "title": "Public Health Data Analyst",
+      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Nationwide-Remote-Office-US99/Public-Health-Data-Analyst_R2603699",
+      "location": "Nationwide Remote Office (US99)"
+    },
     "/job/Reston-VA/Lead-Business-Analyst--Remote---US-_R2603588": {
       "title": "Lead Business Analyst (Remote - US)",
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Lead-Business-Analyst--Remote---US-_R2603588",
@@ -4705,14 +4695,6 @@
     "7117": {
       "title": "Business Analyst, Business Systems",
       "url": "https://americas-aptean.icims.com/jobs/7117/business-analyst%2c-business-systems/job"
-    },
-    "6967": {
-      "title": "Senior Data Scientist",
-      "url": "https://americas-aptean.icims.com/jobs/6967/senior-data-scientist/job"
-    },
-    "6860": {
-      "title": "Data Engineer",
-      "url": "https://americas-aptean.icims.com/jobs/6860/data-engineer/job"
     }
   },
   "Garver": {
@@ -4865,6 +4847,12 @@
   "UBS": {},
   "CBRE": {},
   "Carnival Corporation": {
+    "14266": {
+      "title": "Analyst, Loyalty Financial & Commercial Modeling",
+      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14266",
+      "location": "Miami, FL, United States",
+      "country_code": "US"
+    },
     "14236": {
       "title": "Maritime HR Operations Analyst",
       "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14236",
@@ -4984,6 +4972,11 @@
       "title": "Fraud Analytics and Innovation Leader \u2013 Digital Fraud Strategy",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Newark/Fraud-Analytics-and-Innovation-Leader---Digital-Fraud-Strategy_26020274-2",
       "location": "9 Locations"
+    },
+    "/job/Fort-Worth/Quality-Analyst---Enterprise-Transaction-Services_26037649": {
+      "title": "Quality Analyst - Enterprise Transaction Services",
+      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Fort-Worth/Quality-Analyst---Enterprise-Transaction-Services_26037649",
+      "location": "4 Locations"
     },
     "/job/Atlanta/Operations-Analyst_26040187": {
       "title": "Operations Analyst",
@@ -5199,11 +5192,6 @@
       "title": "Litigation Operations Support Analyst - Attachments",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Chandler/Litigation-Operations-Support-Analyst---Attachments_26037714",
       "location": "2 Locations"
-    },
-    "/job/Fort-Worth/Quality-Analyst---Enterprise-Transaction-Services_26037649": {
-      "title": "Quality Analyst - Enterprise Transaction Services",
-      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Fort-Worth/Quality-Analyst---Enterprise-Transaction-Services_26037649",
-      "location": "3 Locations"
     },
     "/job/Charlotte/Transaction-Management-Ops-Analyst_26037723": {
       "title": "Transaction Management Ops Analyst",
@@ -5435,11 +5423,6 @@
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Regulatory-Reporting-Controller-II---Registered_26034873-2",
       "location": "2 Locations"
     },
-    "/job/Charlotte/Data-Scientist-I_26039656": {
-      "title": "Data Scientist I",
-      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Data-Scientist-I_26039656",
-      "location": "2 Locations"
-    },
     "/job/Charlotte/Senior-Data-Engineer_26038193": {
       "title": "Senior Data Engineer",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Senior-Data-Engineer_26038193",
@@ -5486,6 +5469,10 @@
     }
   },
   "Gainwell": {
+    "https://jobs.gainwelltechnologies.com/job/Jackson-Provider-Enrollment-Quality-Analyst-Jackson%2C-MS-%28Onsite%29-MS-39201/1435741800/": {
+      "title": "Provider Enrollment Quality Analyst - Jackson, MS (Onsite)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Jackson-Provider-Enrollment-Quality-Analyst-Jackson%2C-MS-%28Onsite%29-MS-39201/1435741800/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Medicaid-AL-99999/1436018100/": {
       "title": "Senior Business Analyst - Medicaid",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Medicaid-AL-99999/1436018100/"
@@ -5494,13 +5481,9 @@
       "title": "Bilingual Contact Center Business Analyst - Hybrid Gold River, CA",
       "url": "https://jobs.gainwelltechnologies.com/job/Gold-River-Bilingual-Contact-Center-Business-Analyst-Hybrid-Gold-River%2C-CA-CA-95670/1436028000/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Jackson-Provider-Enrollment-Quality-Analyst-Jackson%2C-MS-%28Onsite%29-MS-39201/1435741800/": {
-      "title": "Provider Enrollment Quality Analyst - Jackson, MS (Onsite)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Jackson-Provider-Enrollment-Quality-Analyst-Jackson%2C-MS-%28Onsite%29-MS-39201/1435741800/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-TX-99999/1435501900/": {
-      "title": "Senior Business Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-TX-99999/1435501900/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Lead-Business-Analyst-BPM-Trainer-eLearning-PA-99999/1425563600/": {
+      "title": "Lead Business Analyst - BPM Trainer / eLearning",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Lead-Business-Analyst-BPM-Trainer-eLearning-PA-99999/1425563600/"
     }
   },
   "Happen Bank": {
@@ -5640,11 +5623,6 @@
       "title": "Recon Conversion Analyst\u200b - Senior Manager",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Recon-Conversion-Analyst----Senior-Manager_R-797960",
       "location": "2 Locations"
-    },
-    "/job/Boston-Massachusetts/Asset---Liability-Management-Analyst-Officer_R-797926-2": {
-      "title": "Asset & Liability Management Analyst-Officer",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Asset---Liability-Management-Analyst-Officer_R-797926-2",
-      "location": "Boston, Massachusetts"
     },
     "/job/Krakow-Poland/Senior-Depositary-Analyst--Germany--Associate-2_R-798408": {
       "title": "Senior Depositary Analyst - Associate 2",
@@ -5886,9 +5864,9 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Business-Analyst---Fixed-Income-Workflow-Lead--VP---State-Street-Investment-Management_R-798875",
       "location": "2 Locations"
     },
-    "/job/Stamford-Connecticut/Technical-Business-Analyst---Alternative-Investment-Technology--Officer---State-Street-Investment-Management_R-798876-1": {
-      "title": "Technical Business Analyst \u2013 Alternative Investment Technology, Officer - State Street Investment Management",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Stamford-Connecticut/Technical-Business-Analyst---Alternative-Investment-Technology--Officer---State-Street-Investment-Management_R-798876-1",
+    "/job/Bangalore-India/Product-Development-Data-Analyst-and-Client-Reporting-Specialist--Assistant-Vice-President_R-800570-1": {
+      "title": "Product Development Data Analyst and Client Reporting Specialist, Assistant Vice President",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Product-Development-Data-Analyst-and-Client-Reporting-Specialist--Assistant-Vice-President_R-800570-1",
       "location": "2 Locations"
     },
     "/job/Boston-Massachusetts/Front-Office-Market-Risk-Analyst--Prime-Services-and-Broker-Dealer---Vice-President_R-793857": {
@@ -5920,11 +5898,6 @@
       "title": "Structured Trust and Analytics, Officer",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Structured-Trust-and-Analytics--Officer_R-796525-1",
       "location": "Quincy, Massachusetts"
-    },
-    "/job/Cambridge-Massachusetts/AI-and-Trading-Analytics-Researcher--Officer--Onsite_R-800239": {
-      "title": "AI and Trading Analytics Researcher, Officer, Onsite",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Cambridge-Massachusetts/AI-and-Trading-Analytics-Researcher--Officer--Onsite_R-800239",
-      "location": "2 Locations"
     },
     "/job/Boston-Massachusetts/Software-Engineering-Lead---Financial-Data-Engineering--VP---State-Street-Investment-Management_R-788709": {
       "title": "Lead Software Engineer \u2013 Investment Analytics, VP - State Street Investment Management",
@@ -6003,6 +5976,31 @@
     }
   },
   "Capital One": {
+    "/job/New-York-NY/Senior-Associate--Data-Scientist----Business-Cards-Marketing-Data-Science_R248511-1": {
+      "title": "Senior Associate, Data Scientist -  Business Cards Marketing Data Science",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Associate--Data-Scientist----Business-Cards-Marketing-Data-Science_R248511-1",
+      "location": "New York, NY"
+    },
+    "/job/McLean-VA/Senior-Business-Manager--Retail-Bank-Operations-Strategy---Analytics_R1002640-2": {
+      "title": "Senior Business Manager, Retail Bank Operations Strategy & Analytics",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Business-Manager--Retail-Bank-Operations-Strategy---Analytics_R1002640-2",
+      "location": "3 Locations"
+    },
+    "/job/McLean-VA/Sr-Business-Analyst---US-Card_R248338-1": {
+      "title": "Sr. Business Analyst - US Card",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Sr-Business-Analyst---US-Card_R248338-1",
+      "location": "4 Locations"
+    },
+    "/job/McLean-VA/Principal-Data-Analyst_R1004772-2": {
+      "title": "Principal Data Analyst",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Principal-Data-Analyst_R1004772-2",
+      "location": "3 Locations"
+    },
+    "/job/New-York-NY/Senior-Business-Manager--Marketing---Analytics---Capital-One-Business-Travel_R247414-1": {
+      "title": "Senior Business Manager, Marketing & Analytics | Capital One Business Travel",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Business-Manager--Marketing---Analytics---Capital-One-Business-Travel_R247414-1",
+      "location": "New York, NY"
+    },
     "/job/McLean-VA/Data-Engineer-4--Manager--IC-_R1002276-2": {
       "title": "Data Engineer 4 (Manager, IC)",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Data-Engineer-4--Manager--IC-_R1002276-2",
@@ -6333,11 +6331,6 @@
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Data-Engineer-4--Python--AWS-_R1001519-1",
       "location": "2 Locations"
     },
-    "/job/New-York-NY/Senior-Business-Manager--Marketing---Analytics---Capital-One-Business-Travel_R247414-1": {
-      "title": "Senior Business Manager, Marketing & Analytics | Capital One Business Travel",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Business-Manager--Marketing---Analytics---Capital-One-Business-Travel_R247414-1",
-      "location": "New York, NY"
-    },
     "/job/Houston-TX/Senior-Business-Manager--Pricing-and-Analytics_R1003609-1": {
       "title": "Senior Business Manager ,Pricing and Analytics",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Houston-TX/Senior-Business-Manager--Pricing-and-Analytics_R1003609-1",
@@ -6568,20 +6561,10 @@
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Manager--Data-Scientist---US-Card_R999629-2",
       "location": "2 Locations"
     },
-    "/job/Chicago-IL/Senior-Manager-Data-Engineer--Databricks--Pyspark--Snowflake-_R1001675": {
-      "title": "Senior Manager Data Engineer (Databricks, Pyspark, Snowflake)",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Senior-Manager-Data-Engineer--Databricks--Pyspark--Snowflake-_R1001675",
-      "location": "Chicago, IL"
-    },
     "/job/Richmond-VA/Data-Engineer-4--Manager--IC-_R1001801-1": {
       "title": "Data Engineer 4 (Manager, IC)",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Data-Engineer-4--Manager--IC-_R1001801-1",
       "location": "3 Locations"
-    },
-    "/job/Richmond-VA/Data-Engineer-4--Manager--IC-_R1000827-2": {
-      "title": "Data Engineer 4 (Manager, IC)",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Data-Engineer-4--Manager--IC-_R1000827-2",
-      "location": "Richmond, VA"
     },
     "/job/Plano-TX/Data-Engineer-4_R1001699-1": {
       "title": "Data Engineer 4",
@@ -6687,11 +6670,6 @@
       "title": "Sr Business Analyst, Commercial Corporate Bank",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Sr-Business-Analyst--Commercial-Corporate-Bank_R1000610-2",
       "location": "New York, NY"
-    },
-    "/job/McLean-VA/Sr-Business-Manager---Strategy---Analytics-for-Bank-Modernization_R999950-1": {
-      "title": "Sr Business Manager - Strategy & Analytics for Bank Modernization",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Sr-Business-Manager---Strategy---Analytics-for-Bank-Modernization_R999950-1",
-      "location": "3 Locations"
     },
     "/job/New-York-NY/Manager--Data-Scientist--Capital-One-Data-Insights-and-Analytics_R1000334-1": {
       "title": "Manager, Data Scientist- Capital One Data Insights and Analytics",
@@ -7268,11 +7246,6 @@
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Data-Science_R243884-1",
       "location": "2 Locations"
     },
-    "/job/McLean-VA/Senior-Associate--Data-Science_R243885-1": {
-      "title": "Senior Associate, Data Science",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Associate--Data-Science_R243885-1",
-      "location": "2 Locations"
-    },
     "/job/Riverwoods-IL/Data-Analytics-Manager---Global-Network-Analytics_R247794-1": {
       "title": "Data Analytics Manager - Global Network Analytics - Payments",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Riverwoods-IL/Data-Analytics-Manager---Global-Network-Analytics_R247794-1",
@@ -7540,10 +7513,6 @@
     "https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Tax-Analyst-US-Indirect-Tax-Deloitte-Global-Finance/373568": {
       "title": "Senior Tax Analyst - US Indirect Tax, Deloitte Global Finance",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Tax-Analyst-US-Indirect-Tax-Deloitte-Global-Finance/373568"
-    },
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Accounts-Receivable-Analyst/373564": {
-      "title": "Accounts Receivable Analyst",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Accounts-Receivable-Analyst/373564"
     }
   },
   "OpenX": {
@@ -8065,6 +8034,11 @@
       "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Gresham-OR/End-of-Lease-Analyst---Equipment-Finance_2026-0029647",
       "location": "3 Locations"
     },
+    "/job/Chicago-IL/Macro-Derivatives-Middle-Office-Analyst---Operations_2026-0029331": {
+      "title": "Macro Derivatives Middle Office Analyst - Operations",
+      "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/Macro-Derivatives-Middle-Office-Analyst---Operations_2026-0029331",
+      "location": "2 Locations"
+    },
     "/job/Charlotte-NC/Quantitative-Model-Analyst-2---Loans-Modeling_2026-0031273": {
       "title": "Quantitative Model Analyst 2 - Loans Modeling",
       "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/Quantitative-Model-Analyst-2---Loans-Modeling_2026-0031273",
@@ -8406,6 +8380,11 @@
       "title": "Financial Crimes Model Analytics Officer II",
       "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Financial-Crimes-Model-Analytics-Officer-II_R0118897",
       "location": "8 Locations"
+    },
+    "/job/Atlanta-GA/Data-Scientist-II_R0117817": {
+      "title": "Data Scientist II",
+      "url": "https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Data-Scientist-II_R0117817",
+      "location": "Atlanta, GA"
     },
     "/job/Charlotte-NC/Job-Posting-Title-Sr-Cybersecurity-Engineer---Cisco-Secure-Network-Analytics_R0115997": {
       "title": "Job Posting Title Sr. Cybersecurity Engineer - Cisco Secure Network Analytics",
@@ -8774,6 +8753,11 @@
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/OH---Brecksville/LOB-Consumer-Credit-Risk-Advisor---Data--Modeling---Analytics_R223442-1",
       "location": "7 Locations"
     },
+    "/job/PA---Pittsburgh-15222/Business-Analytics-Manager-Senior---Consumer-Data-Solutions---Analytics_R233423-1": {
+      "title": "Business Analytics Manager Senior - Consumer Data Solutions & Analytics",
+      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Analytics-Manager-Senior---Consumer-Data-Solutions---Analytics_R233423-1",
+      "location": "5 Locations"
+    },
     "/job/PA---Pittsburgh/Data-Scientist-Lead---Data---Automation---Evaluation---Certification--Validation-_R237095-1": {
       "title": "Data Scientist Lead - Data & Automation - Evaluation & Certification (Validation)",
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh/Data-Scientist-Lead---Data---Automation---Evaluation---Certification--Validation-_R237095-1",
@@ -8798,11 +8782,6 @@
       "title": "Business Analytics Lead - Digital Marketing Analytics",
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Analytics-Lead---Marketing---Customer-Analytics_R223455-1",
       "location": "4 Locations"
-    },
-    "/job/PA---Pittsburgh-15222/Business-Analytics-Consultant-Senior_R231403-1": {
-      "title": "Business Analytics Consultant Senior",
-      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Analytics-Consultant-Senior_R231403-1",
-      "location": "3 Locations"
     },
     "/job/PA---Pittsburgh-15222/Business-Analytics-Lead---Data--Modeling---Analytics_R238200-1": {
       "title": "Business Analytics Lead - Data, Modeling & Analytics",
@@ -8834,14 +8813,14 @@
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PNC-Center---Cleveland-OH001/Business-Analytics-Consultant-Senior---PNC-Wealth-Management_R226213-1",
       "location": "PNC Center - Cleveland (OH001)"
     },
-    "/job/PA---Pittsburgh-15222/Business-Analytics-Consultant-Senior_R236924-1": {
-      "title": "Business Analytics Consultant Senior",
-      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Analytics-Consultant-Senior_R236924-1",
-      "location": "3 Locations"
-    },
     "/job/PA---Pittsburgh-15222/Business-Analytics-Consultant-Senior--Regulatory-Reporting_R239575-1": {
       "title": "Business Analytics Consultant Senior- Regulatory Reporting",
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Analytics-Consultant-Senior--Regulatory-Reporting_R239575-1",
+      "location": "3 Locations"
+    },
+    "/job/PA---Pittsburgh-15222/Business-Analytics-Consultant-Senior---Regulatory-Reporting_R234918-1": {
+      "title": "Business Analytics Consultant Senior - Regulatory Reporting",
+      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Analytics-Consultant-Senior---Regulatory-Reporting_R234918-1",
       "location": "3 Locations"
     },
     "/job/DC---Washington-20006/Treasury-Management-Business-Analytics-Consultant-Sr_R232457-1": {
@@ -8936,6 +8915,11 @@
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Investment-Banking-Analyst---Consumer_R_1501279",
       "location": "New York, New York"
     },
+    "/job/New-York-New-York/Senior-Finance-Analyst--TDS_R_1503920": {
+      "title": "Senior Finance Analyst, TDS",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Senior-Finance-Analyst--TDS_R_1503920",
+      "location": "New York, New York"
+    },
     "/job/Mount-Laurel-New-Jersey/Senior-Quantitative-Analyst--US-_R_1504854-1": {
       "title": "Senior Quantitative Analyst (US)",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Senior-Quantitative-Analyst--US-_R_1504854-1",
@@ -8950,6 +8934,11 @@
       "title": "Senior Business Management Analyst",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Portland-Maine/Senior-Business-Management-Analyst_R_1519292",
       "location": "Portland, Maine"
+    },
+    "/job/Charlotte-North-Carolina/Principal-Review-Analyst---Charlotte--NC_R_1514128": {
+      "title": "Principal Review Analyst - Charlotte, NC",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Charlotte-North-Carolina/Principal-Review-Analyst---Charlotte--NC_R_1514128",
+      "location": "16 Locations"
     },
     "/job/13024-Ballantyne-Corporate-Place-Charlotte-North-Carolina/Senior-Compliance-Testing-Analyst--US-_R_1515039": {
       "title": "Senior Compliance Testing Analyst (US)",
@@ -9056,9 +9045,9 @@
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/104-South-Main-Street-Greenville-South-Carolina/Business-Insights-Specialist--US--Retail-and-Non-Retail-Portfolios_R_1517856",
       "location": "5 Locations"
     },
-    "/job/Mount-Laurel-New-Jersey/Audit-Manager-II---Internal-Controls-over-Financial-Reporting-2_R_1502801": {
+    "/job/Mount-Laurel-New-Jersey/Audit-Manager-II---Internal-Controls-over-Financial-Reporting-2_R_1519910": {
       "title": "Audit Manager II - Internal Controls over Financial Reporting-2",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Audit-Manager-II---Internal-Controls-over-Financial-Reporting-2_R_1502801",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Audit-Manager-II---Internal-Controls-over-Financial-Reporting-2_R_1519910",
       "location": "7 Locations"
     },
     "/job/Mount-Laurel-New-Jersey/Manager--TD-Premier---Performance-Insights-and-Strategic-Planning_R_1509486": {
@@ -9182,9 +9171,24 @@
       "title": "Fraud Analyst I - Communications- Mon-Fri 11:00am to 8:00pm, Sat 9:00am to 3:00pm",
       "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Fraud-Analyst-I---Communications_R69489-1",
       "location": "Cincinnati, OH"
+    },
+    "/job/Cincinnati-OH/Senior-Data-Engineer_R73824-1": {
+      "title": "Senior Data Engineer",
+      "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Senior-Data-Engineer_R73824-1",
+      "location": "Cincinnati, OH"
     }
   },
   "Key Bank": {
+    "/job/Overland-Park-KS/CMBS-Securitization-Analyst_R-42249": {
+      "title": "CMBS Securitization Analyst",
+      "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Overland-Park-KS/CMBS-Securitization-Analyst_R-42249",
+      "location": "Overland Park, KS"
+    },
+    "/job/Amherst-NY/Consumer-Credit-Risk-Analyst_R-42397": {
+      "title": "Consumer Credit Risk Analyst III",
+      "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Amherst-NY/Consumer-Credit-Risk-Analyst_R-42397",
+      "location": "2 Locations"
+    },
     "/job/Cleveland-OH/XMLNAME-2027-Commercial-Bank-Rotational-Analyst-Program---Product--Risk---Operations-Track_R-41401": {
       "title": "2027 Commercial Bank Rotational Analyst Program \u2013 Product, Risk & Operations Track",
       "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Commercial-Bank-Rotational-Analyst-Program---Product--Risk---Operations-Track_R-41401",
@@ -9344,11 +9348,6 @@
       "title": "Real Estate Analyst - Special Servicing",
       "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Overland-Park-KS/Real-Estate-Analyst---Special-Servicing_R-42494",
       "location": "Overland Park, KS"
-    },
-    "/job/Amherst-NY/Consumer-Credit-Risk-Analyst_R-42397": {
-      "title": "Consumer Credit Risk Analyst III",
-      "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Amherst-NY/Consumer-Credit-Risk-Analyst_R-42397",
-      "location": "Amherst, NY"
     },
     "/job/Brooklyn-OH/Trading---Advisory-Ops-Analyst_R-42435": {
       "title": "Trading & Advisory Ops Analyst",
@@ -9812,11 +9811,6 @@
       "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-York-NY/Front-Office-Support-Analyst---Equities---Fixed-Income--AVP_10079654-WD",
       "location": "New York, NY"
     },
-    "/job/Jersey-City-NJ/Senior-Payments-IT-Business-Analyst--AI---Data-Focus-_10077438-WD": {
-      "title": "Senior Payments IT Business Analyst (AI & Data Focus), VP",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Senior-Payments-IT-Business-Analyst--AI---Data-Focus-_10077438-WD",
-      "location": "Jersey City, NJ"
-    },
     "/job/New-York-NY/Analyst--Underwriting-and-Portfolio-Management---Sponsor--Growth---Middle-Market-Healthcare_10080161-WD": {
       "title": "Analyst, Underwriting and Portfolio Management - Sponsor, Growth & Middle Market Healthcare",
       "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-York-NY/Analyst--Underwriting-and-Portfolio-Management---Sponsor--Growth---Middle-Market-Healthcare_10080161-WD",
@@ -10014,15 +10008,25 @@
   "Speciality": {},
   "Ross": {},
   "Cisco": {
+    "/job/Seattle-Washington-US/Incident-Response-Analyst---Agentic-SOC_2029028": {
+      "title": "Incident Response Analyst - Agentic SOC",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Seattle-Washington-US/Incident-Response-Analyst---Agentic-SOC_2029028",
+      "location": "3 Locations"
+    },
+    "/job/San-Jose-California-US/Business-Analyst-I--Intern--United-States_2024552-1": {
+      "title": "Business Analyst I (Intern) United States",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Business-Analyst-I--Intern--United-States_2024552-1",
+      "location": "3 Locations"
+    },
+    "/job/San-Jose-California-US/Data-Analyst-I--Intern----United-States_2024561-1": {
+      "title": "Data Analyst I (Intern) - United States",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Data-Analyst-I--Intern----United-States_2024561-1",
+      "location": "3 Locations"
+    },
     "/job/San-Jose-California-US/Sustainability-Analyst-I--Intern----United-States-GSC-GSM-ETR_2027214-1": {
       "title": "Sustainability Analyst I (Intern) - United States GSC/GSM ETR",
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Sustainability-Analyst-I--Intern----United-States-GSC-GSM-ETR_2027214-1",
       "location": "San Jose, California, US"
-    },
-    "/job/Portland-Oregon-US/Sr-Business-Systems-Analyst_2027861-1": {
-      "title": "Sr. Business Systems Analyst",
-      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Portland-Oregon-US/Sr-Business-Systems-Analyst_2027861-1",
-      "location": "9 Locations"
     },
     "/job/RTP-North-Carolina-US/Finance-Analyst_2025010": {
       "title": "Finance Analyst",
@@ -10095,11 +10099,6 @@
       "title": "Actuarial Analyst III",
       "url": "https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Actuarial-Analyst-III_JR211521",
       "location": "5 Locations"
-    },
-    "/job/VA-NORFOLK-5800-NORTHAMPTON-BLVD/Business-Information-Analyst-Senior_JR210662": {
-      "title": "Business Information Analyst Senior",
-      "url": "https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/VA-NORFOLK-5800-NORTHAMPTON-BLVD/Business-Information-Analyst-Senior_JR210662",
-      "location": "8 Locations"
     },
     "/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Financial-Accounting-Analyst-Sr_JR210582": {
       "title": "Financial Accounting Analyst Sr",
@@ -10209,14 +10208,19 @@
     }
   },
   "The Ohio State University": {
-    "/job/College-of-MedicineOffice-of-Health-Sciences/Biostatistics-Senior-Analyst---PREVENT-Institute_R161546-1": {
-      "title": "Biostatistics Senior Analyst - PREVENT Institute",
-      "url": "https://osu.wd1.myworkdayjobs.com/osucareers/job/College-of-MedicineOffice-of-Health-Sciences/Biostatistics-Senior-Analyst---PREVENT-Institute_R161546-1",
-      "location": "College of Medicine/Office of Health Sciences"
-    },
     "/job/College-of-MedicineOffice-of-Health-Sciences/Business-Operations-Analyst---Cancer-Prevention-and-Survivorship_R161538-1": {
       "title": "Business Operations Analyst - Cancer Prevention and Survivorship",
       "url": "https://osu.wd1.myworkdayjobs.com/osucareers/job/College-of-MedicineOffice-of-Health-Sciences/Business-Operations-Analyst---Cancer-Prevention-and-Survivorship_R161538-1",
+      "location": "College of Medicine/Office of Health Sciences"
+    },
+    "/job/Health-System-Shared-Services/Willow-Inventory-Senior-Analyst_R161093-1": {
+      "title": "Willow Inventory Senior Analyst",
+      "url": "https://osu.wd1.myworkdayjobs.com/osucareers/job/Health-System-Shared-Services/Willow-Inventory-Senior-Analyst_R161093-1",
+      "location": "Health System Shared Services"
+    },
+    "/job/College-of-MedicineOffice-of-Health-Sciences/Biostatistics-Senior-Analyst---PREVENT-Institute_R161546-1": {
+      "title": "Biostatistics Senior Analyst - PREVENT Institute",
+      "url": "https://osu.wd1.myworkdayjobs.com/osucareers/job/College-of-MedicineOffice-of-Health-Sciences/Biostatistics-Senior-Analyst---PREVENT-Institute_R161546-1",
       "location": "College of Medicine/Office of Health Sciences"
     },
     "/job/Health-System-Shared-Services/Sourcing-Analyst-2_R161189-1": {
@@ -10707,16 +10711,16 @@
       "location": "Jersey City, NJ, United States",
       "country_code": "US"
     },
-    "77667": {
-      "title": "Director, AI / Machine Learning Data Engineer",
-      "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY/job/77667",
-      "location": "Lake Mary, FL, United States",
-      "country_code": "US"
-    },
     "77674": {
       "title": "Vice President, AI / Machine Learning Data Engineering",
       "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY/job/77674",
       "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "77667": {
+      "title": "Director, AI / Machine Learning Data Engineer",
+      "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY/job/77667",
+      "location": "Lake Mary, FL, United States",
       "country_code": "US"
     }
   },
@@ -10728,16 +10732,16 @@
     "https://jobs.intuit.com/job/san-diego/staff-data-scientist-intuit-customer-success/27595/102615372544": {
       "title": "Staff Data Scientist, Intuit Customer SuccessMultiple Locations",
       "url": "https://jobs.intuit.com/job/san-diego/staff-data-scientist-intuit-customer-success/27595/102615372544"
-    },
-    "https://jobs.intuit.com/job/mountain-view/sr-sw-quality-analyst-idx-tax-operations/27595/102595491008": {
-      "title": "Sr SW Quality Analyst: IDX Tax OperationsMountain View, California",
-      "url": "https://jobs.intuit.com/job/mountain-view/sr-sw-quality-analyst-idx-tax-operations/27595/102595491008"
     }
   },
   "Moodys": {
     "https://careers.moodys.com/en/job/new-york/vp-data-engineer-people-analytics/49841/99771528736": {
       "title": "VP-Data Engineer (People Analytics)",
       "url": "https://careers.moodys.com/en/job/new-york/vp-data-engineer-people-analytics/49841/99771528736"
+    },
+    "https://careers.moodys.com/en/job/gurugram/controls-analyst/49841/100111123120": {
+      "title": "Controls Analyst",
+      "url": "https://careers.moodys.com/en/job/gurugram/controls-analyst/49841/100111123120"
     }
   },
   "UKG": {},
