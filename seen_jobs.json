@@ -1458,16 +1458,16 @@
       "location": "Brooklyn, NY, United States",
       "country_code": "US"
     },
-    "210785708": {
-      "title": "Quant Analytics Associate I - Regulatory Operations",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785708",
-      "location": "Columbus, OH, United States",
-      "country_code": "US"
-    },
     "210798973": {
       "title": "Global Workforce Screening Associate - Business Analysis & Reporting Specialist",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798973",
       "location": "Plano, TX, United States",
+      "country_code": "US"
+    },
+    "210785708": {
+      "title": "Quant Analytics Associate I - Regulatory Operations",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785708",
+      "location": "Columbus, OH, United States",
       "country_code": "US"
     },
     "210798582": {
@@ -2147,6 +2147,12 @@
       "title": "Vulnerability Management Analyst, US ADC Security",
       "url": "https://www.amazon.jobs/en/jobs/10589889/vulnerability-management-analyst-us-adc-security",
       "location": "Herndon, Virginia, USA",
+      "country_code": "USA"
+    },
+    "10593982": {
+      "title": "SCIF Accreditation Analyst, US Amazon Dedicated Cloud Security",
+      "url": "https://www.amazon.jobs/en/jobs/10593982/scif-accreditation-analyst-us-amazon-dedicated-cloud-security",
+      "location": "San Antonio, Texas, USA",
       "country_code": "USA"
     },
     "10587698": {
@@ -5375,6 +5381,10 @@
     "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Medicaid-AL-99999/1436018100/": {
       "title": "Senior Business Analyst - Medicaid",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Medicaid-AL-99999/1436018100/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Gold-River-Bilingual-Contact-Center-Business-Analyst-Hybrid-Gold-River%2C-CA-CA-95670/1436028000/": {
+      "title": "Bilingual Contact Center Business Analyst - Hybrid Gold River, CA",
+      "url": "https://jobs.gainwelltechnologies.com/job/Gold-River-Bilingual-Contact-Center-Business-Analyst-Hybrid-Gold-River%2C-CA-CA-95670/1436028000/"
     }
   },
   "Happen Bank": {
