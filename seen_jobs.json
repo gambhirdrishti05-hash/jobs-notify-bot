@@ -1458,16 +1458,16 @@
       "location": "Brooklyn, NY, United States",
       "country_code": "US"
     },
-    "210798973": {
-      "title": "Global Workforce Screening Associate - Business Analysis & Reporting Specialist",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798973",
-      "location": "Plano, TX, United States",
-      "country_code": "US"
-    },
     "210785708": {
       "title": "Quant Analytics Associate I - Regulatory Operations",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785708",
       "location": "Columbus, OH, United States",
+      "country_code": "US"
+    },
+    "210798973": {
+      "title": "Global Workforce Screening Associate - Business Analysis & Reporting Specialist",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210798973",
+      "location": "Plano, TX, United States",
       "country_code": "US"
     },
     "210798582": {
@@ -5364,13 +5364,13 @@
       "title": "Claims and Financial Analyst - Hybrid - Farmington, CT",
       "url": "https://jobs.gainwelltechnologies.com/job/Farmington-Claims-and-Financial-Analyst-Hybrid-Farmington%2C-CT-CT-06032/1426599800/"
     },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Analyst-Remote-CA-CA-99999/1446606200/": {
+      "title": "Provider Enrollment Analyst - Remote CA",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Analyst-Remote-CA-CA-99999/1446606200/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Jackson-Provider-Enrollment-Quality-Analyst-Jackson%2C-MS-%28Onsite%29-MS-39201/1435741800/": {
       "title": "Provider Enrollment Quality Analyst - Jackson, MS (Onsite)",
       "url": "https://jobs.gainwelltechnologies.com/job/Jackson-Provider-Enrollment-Quality-Analyst-Jackson%2C-MS-%28Onsite%29-MS-39201/1435741800/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Gold-River-Bilingual-Contact-Center-Business-Analyst-Hybrid-Gold-River%2C-CA-CA-95670/1436028000/": {
-      "title": "Bilingual Contact Center Business Analyst - Hybrid Gold River, CA",
-      "url": "https://jobs.gainwelltechnologies.com/job/Gold-River-Bilingual-Contact-Center-Business-Analyst-Hybrid-Gold-River%2C-CA-CA-95670/1436028000/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Analyst-Medicaid-AL-99999/1436018100/": {
       "title": "Senior Business Analyst - Medicaid",
@@ -5827,6 +5827,11 @@
     }
   },
   "Capital One": {
+    "/job/McLean-VA/Sr-Business-Analyst---Operational-Risk-Capital_R244897-1": {
+      "title": "Sr. Business Analyst - Operational Risk Capital",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Sr-Business-Analyst---Operational-Risk-Capital_R244897-1",
+      "location": "2 Locations"
+    },
     "/job/McLean-VA/Sr-Business-Analyst--Capital-One-Shopping--Remote-Eligible-_R1004101-1": {
       "title": "Sr. Business Analyst, Capital One Shopping (Remote-Eligible)",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Sr-Business-Analyst--Capital-One-Shopping--Remote-Eligible-_R1004101-1",
@@ -10539,17 +10544,9 @@
   },
   "UKG": {},
   "PGE": {
-    "https://jobs.pge.com/job/oakland/it-erp-functional-analyst-expert/29673/102487309024": {
-      "title": "IT ERP Functional Analyst, Expert",
-      "url": "https://jobs.pge.com/job/oakland/it-erp-functional-analyst-expert/29673/102487309024"
-    },
-    "https://jobs.pge.com/job/oakland/tariff-analyst-senior/29673/100151996608": {
-      "title": "Tariff Analyst, Senior",
-      "url": "https://jobs.pge.com/job/oakland/tariff-analyst-senior/29673/100151996608"
-    },
-    "https://jobs.pge.com/job/oakland/erp-functional-analyst-expert-finance/29673/89562695072": {
-      "title": "ERP Functional Analyst, Expert - Finance",
-      "url": "https://jobs.pge.com/job/oakland/erp-functional-analyst-expert-finance/29673/89562695072"
+    "https://jobs.pge.com/job/fresno/business-analyst-flexible-location/29673/102535264880": {
+      "title": "Business Analyst - Flexible Location",
+      "url": "https://jobs.pge.com/job/fresno/business-analyst-flexible-location/29673/102535264880"
     }
   },
   "Raunch": {},
