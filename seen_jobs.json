@@ -2016,6 +2016,12 @@
       "location": "San Francisco, California, USA",
       "country_code": "USA"
     },
+    "10597409": {
+      "title": "Senior Business Intelligence Engineer, Amazon Leo",
+      "url": "https://www.amazon.jobs/en/jobs/10597409/senior-business-intelligence-engineer-amazon-leo",
+      "location": "Bellevue, Washington, USA",
+      "country_code": "USA"
+    },
     "10596185": {
       "title": "Sr. Accounting Transformation Program Analyst, Financial Business & Integration (FBI), Devices & Services ",
       "url": "https://www.amazon.jobs/en/jobs/10596185/sr-accounting-transformation-program-analyst-financial-business-integration-fbi-devices-services",
@@ -2050,6 +2056,12 @@
       "title": "Financial Analyst III - AMZ25382.7",
       "url": "https://www.amazon.jobs/en/jobs/10592727/financial-analyst-iii-amz25382-7",
       "location": "Chicago, Illinois, USA",
+      "country_code": "USA"
+    },
+    "10597381": {
+      "title": "Supply Chain Analyst, GPCS - AMER",
+      "url": "https://www.amazon.jobs/en/jobs/10597381/supply-chain-analyst-gpcs-amer",
+      "location": "Tempe, Arizona, USA",
       "country_code": "USA"
     },
     "10595785": {
@@ -2158,12 +2170,6 @@
       "title": "AWS Assurance Analyst, AWS Security Assurance",
       "url": "https://www.amazon.jobs/en/jobs/10590601/aws-assurance-analyst-aws-security-assurance",
       "location": "Herndon, Virginia, USA",
-      "country_code": "USA"
-    },
-    "10588298": {
-      "title": "Safety Monitoring Compliance Analyst, NAST Compliance",
-      "url": "https://www.amazon.jobs/en/jobs/10588298/safety-monitoring-compliance-analyst-nast-compliance",
-      "location": "Nashville, Tennessee, USA",
       "country_code": "USA"
     },
     "10592613": {
@@ -3632,11 +3638,6 @@
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Work-from-home/Senior-Manager--Salesforce-Business-Intelligence-Developer-Commercial_R1051842",
       "location": "49 Locations"
     },
-    "/job/TX---Work-from-home/Senior-Access---Availability-Analyst_R1063347": {
-      "title": "Senior Access & Availability Analyst",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Senior-Access---Availability-Analyst_R1063347",
-      "location": "TX - Work from home"
-    },
     "/job/NC---Work-from-home/Senior-Analyst---Security-Risk-Management_R1089323": {
       "title": "Senior Analyst - Security Risk Management",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NC---Work-from-home/Senior-Analyst---Security-Risk-Management_R1089323",
@@ -3687,21 +3688,6 @@
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Field-Illinois/Case-Management-Analyst---Field-in-the-West-Side-of-Chicago--IL_R0982623",
       "location": "Field-Illinois"
     },
-    "/job/CT---Hartford/Senior-Analyst--Actuary_R1037068": {
-      "title": "Senior Analyst, Actuary",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Senior-Analyst--Actuary_R1037068",
-      "location": "CT - Hartford"
-    },
-    "/job/TX---Work-from-home/Sr-Analyst--Actuarial--ADP-_R1031559": {
-      "title": "Senior Analyst, Actuarial (ADP)",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Sr-Analyst--Actuarial--ADP-_R1031559",
-      "location": "TX - Work from home"
-    },
-    "/job/Work-At-Home-Connecticut/Sr-Analyst--Actuarial_R1017813": {
-      "title": "Senior Analyst, Actuarial",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Connecticut/Sr-Analyst--Actuarial_R1017813",
-      "location": "4 Locations"
-    },
     "/job/PA---Work-from-home/Pharmacy-Eligibility-Claims-Business-Analyst_R1076445-1": {
       "title": "Pharmacy Eligibility/Claims Business Analyst",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Work-from-home/Pharmacy-Eligibility-Claims-Business-Analyst_R1076445-1",
@@ -3726,11 +3712,6 @@
       "title": "Senior Analyst, Provider Compliance",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Senior-Analyst--Provider-Compliance_R1083629",
       "location": "47 Locations"
-    },
-    "/job/RI---Woonsocket/Senior-Analyst---Centers-of-Excellence--Strategic-Integration_R1047131-1": {
-      "title": "Senior Analyst - Centers of Excellence, Strategic Integration",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Senior-Analyst---Centers-of-Excellence--Strategic-Integration_R1047131-1",
-      "location": "2 Locations"
     },
     "/job/TX---Work-from-home/Senior-Analyst--Business-Consultant_R1066220": {
       "title": "Senior Analyst, Business Consultant",
@@ -3956,11 +3937,6 @@
       "title": "Senior Analyst, Corp Compliance",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Work-from-home/Senior-Analyst--Corp-Compliance_R1064432",
       "location": "4 Locations"
-    },
-    "/job/Woonsocket-1-CVS-Drive/Senior-Analyst--Security-Risk-Management---Data-Protection_R1054567": {
-      "title": "Senior Analyst, IT Compliance & Risk - Data Protection",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Woonsocket-1-CVS-Drive/Senior-Analyst--Security-Risk-Management---Data-Protection_R1054567",
-      "location": "2 Locations"
     },
     "/job/FL---Work-from-home/Special-Investigation-Unit-Lead-Review-Analyst-II--Aetna-SIU-_R1063972": {
       "title": "Special Investigation Unit Lead Review Analyst II (Aetna SIU)",
@@ -5020,11 +4996,6 @@
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jacksonville/Transaction-Management-Ops-Analyst_26037922",
       "location": "3 Locations"
     },
-    "/job/Jersey-City/Assistant-Vice-President--Quantitative-Finance-Analyst_26038538": {
-      "title": "Assistant Vice President; Quantitative Finance Analyst",
-      "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jersey-City/Assistant-Vice-President--Quantitative-Finance-Analyst_26038538",
-      "location": "Jersey City"
-    },
     "/job/Charlotte/Financial-Crimes-Sr-Product-Owner---Sr-Business-Analyst_26037700-2": {
       "title": "Financial Crimes Sr. Product Owner / Sr. Business Analyst",
       "url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Financial-Crimes-Sr-Product-Owner---Sr-Business-Analyst_26037700-2",
@@ -5281,41 +5252,37 @@
     }
   },
   "Gainwell": {
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Professional-Business-Analyst-RI-99999/1414357100/": {
+      "title": "Professional Business Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Professional-Business-Analyst-RI-99999/1414357100/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Williston-Reference-Analyst-Hybrid-Williston%2C-VT-VT-05495-2086/1435530600/": {
+      "title": "Reference Analyst- Hybrid Williston, VT",
+      "url": "https://jobs.gainwelltechnologies.com/job/Williston-Reference-Analyst-Hybrid-Williston%2C-VT-VT-05495-2086/1435530600/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-Medicaid-Claims-TX-99999/1437564900/": {
       "title": "Business Analyst - Medicaid Claims",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-Medicaid-Claims-TX-99999/1437564900/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Medicaid-Business-Analyst-%28Configuration-&-Policy%29-TX-99999/1437308200/": {
-      "title": "Senior Medicaid Business Analyst (Configuration & Policy)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Medicaid-Business-Analyst-%28Configuration-&-Policy%29-TX-99999/1437308200/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Medical-Claims-Resolution-Analyst-Remote-US-MT-99999/1399526100/": {
       "title": "Medical Claims Resolution Analyst - Remote US",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Medical-Claims-Resolution-Analyst-Remote-US-MT-99999/1399526100/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Process-Analyst-TX-99999/1447847800/": {
-      "title": "Business Process Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Process-Analyst-TX-99999/1447847800/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Quality-Assurance-Analyst-AR-%28Remote%29-AR-99999/1447747100/": {
-      "title": "Provider Enrollment Quality Assurance Analyst - AR (Remote)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Quality-Assurance-Analyst-AR-%28Remote%29-AR-99999/1447747100/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Medicaid-Business-Analyst-%28Configuration-&-Policy%29-TX-99999/1437308200/": {
+      "title": "Senior Medicaid Business Analyst (Configuration & Policy)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Medicaid-Business-Analyst-%28Configuration-&-Policy%29-TX-99999/1437308200/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Process-Analyst-TX-99999/1447846600/": {
       "title": "Business Process Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Process-Analyst-TX-99999/1447846600/"
     },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Quality-Assurance-Analyst-AR-%28Remote%29-AR-99999/1447747100/": {
+      "title": "Provider Enrollment Quality Assurance Analyst - AR (Remote)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Provider-Enrollment-Quality-Assurance-Analyst-AR-%28Remote%29-AR-99999/1447747100/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Professional-Data-Analyst-%28Hybrid-Columbus%2C-OH%29-OH-99999/1447809500/": {
       "title": "Senior Professional Data Analyst - (Hybrid - Columbus, OH)",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Professional-Data-Analyst-%28Hybrid-Columbus%2C-OH%29-OH-99999/1447809500/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Process-Analyst-TX-99999/1447847300/": {
-      "title": "Business Process Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Process-Analyst-TX-99999/1447847300/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Operations-Analyst-CEVMedicaidSNAP-TX-99999/1437083900/": {
-      "title": "Senior Business Operations Analyst - CEV/Medicaid/SNAP",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Senior-Business-Operations-Analyst-CEVMedicaidSNAP-TX-99999/1437083900/"
     }
   },
   "Happen Bank": {
@@ -5465,11 +5432,6 @@
       "title": "Penetration Testing Analyst, Vice President",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Senior-AI-Security-Automation-Engineer_R-794578",
       "location": "6 Locations"
-    },
-    "/job/Bangalore-India/Corporate-Audit-Integrated-Data-Analyst--Officer_R-786717": {
-      "title": "Corporate Audit Integrated Data Analyst, Officer",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Corporate-Audit-Integrated-Data-Analyst--Officer_R-786717",
-      "location": "2 Locations"
     },
     "/job/Boston-Massachusetts/People-Analytics-Analyst--Assistant-Vice-President_R-789294-3": {
       "title": "People Analytics Analyst, Assistant Vice President",
@@ -5696,6 +5658,11 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Business-Management-Office---Project-Delivery-Analyst--Assistant-Vice-President--State-Street-Investment-Management_R-799584-1",
       "location": "Boston, Massachusetts"
     },
+    "/job/Bangalore-India/Software-Engineering-and-Infrastructure-Development---Team-Lead_R-796677-1": {
+      "title": "Client Reporting - Team Lead",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Software-Engineering-and-Infrastructure-Development---Team-Lead_R-796677-1",
+      "location": "2 Locations"
+    },
     "/job/Quincy-Massachusetts/GCS--Data-Scientist--AVP_R-794433": {
       "title": "GCS, Data Scientist, AVP",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/GCS--Data-Scientist--AVP_R-794433",
@@ -5892,11 +5859,6 @@
       "title": "Triple Tree - Investment Banking Analyst (Experienced Hire)",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bloomington-MN/Triple-Tree---Investment-Banking-Analyst_R1003989-1",
       "location": "Bloomington, MN"
-    },
-    "/job/McLean-VA/Sr-Business-Analyst---Retail-and-Small-Business-Bank-Orgs_R1000662-1": {
-      "title": "Sr. Business Analyst - Retail and Small Business Bank Orgs",
-      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Sr-Business-Analyst---Retail-and-Small-Business-Bank-Orgs_R1000662-1",
-      "location": "2 Locations"
     },
     "/job/Richmond-VA/Data-Engineer-4--Manager-IC----Modeling---Architecture_R1004720-1": {
       "title": "Data Engineer 4 (Manager IC) - Modeling & Architecture",
@@ -7388,13 +7350,9 @@
     }
   },
   "AbbVibe": {
-    "https://careers.abbvie.com/en/job/principal-research-scientist-i-biologics-analytical-research-and-development-cmc-biologics-developme-in-north-chicago-il-jid-35447": {
-      "title": "Principal Research Scientist I, Biologics Analytical Research and Development, CMC Biologics Development",
-      "url": "https://careers.abbvie.com/en/job/principal-research-scientist-i-biologics-analytical-research-and-development-cmc-biologics-developme-in-north-chicago-il-jid-35447"
-    },
-    "https://careers.abbvie.com/en/job/associate-director-business-analytics-trade-in-mettawa-il-jid-32028": {
-      "title": "Associate Director, Business Analytics - Trade",
-      "url": "https://careers.abbvie.com/en/job/associate-director-business-analytics-trade-in-mettawa-il-jid-32028"
+    "https://careers.abbvie.com/en/job/manager-analytics-and-data-integrity-in-worcester-ma-jid-35456": {
+      "title": "Manager Analytics and Data Integrity",
+      "url": "https://careers.abbvie.com/en/job/manager-analytics-and-data-integrity-in-worcester-ma-jid-35456"
     }
   },
   "HPE": {
@@ -7740,11 +7698,6 @@
       "title": "Consumer Customer Operations Analyst - Tier 2",
       "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/San-Diego-CA/Consumer-Customer-Operations-Analyst---Tier-2_JR5717",
       "location": "San Diego, CA"
-    },
-    "/job/HQ---San-Diego-CA/Data-Analyst---Business-Performance-Management_JR5641": {
-      "title": "Data Analyst - Business Performance Management",
-      "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Data-Analyst---Business-Performance-Management_JR5641",
-      "location": "HQ - San Diego, CA"
     },
     "/job/HQ---San-Diego-CA/AVP--Data-Analytics---Regulatory-Reporting_JR5131": {
       "title": "AVP, Data Analytics - Regulatory Reporting",
@@ -8849,11 +8802,6 @@
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/13024-Ballantyne-Corporate-Place-Charlotte-North-Carolina/Senior-Compliance-Testing-Analyst--US-_R_1520119",
       "location": "4 Locations"
     },
-    "/job/Mount-Laurel-New-Jersey/Business-Mgmt-Analyst-I--US-_R_1510739-1": {
-      "title": "Business Mgmt Analyst I (US)",
-      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Business-Mgmt-Analyst-I--US-_R_1510739-1",
-      "location": "5 Locations"
-    },
     "/job/New-York-New-York/Experienced-Analyst--Investment-Banking---Communications---Media_R_1508813": {
       "title": "Experienced Analyst, Investment Banking - Communications & Media",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Experienced-Analyst--Investment-Banking---Communications---Media_R_1508813",
@@ -9025,11 +8973,6 @@
       "title": "Fraud Analyst I-M-F 9;00 AM-6:00 PM",
       "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Fraud-Analyst-I-M-F-9-00-AM-6-00-PM_R74204",
       "location": "2 Locations"
-    },
-    "/job/Cincinnati-OH/Fraud-Analyst-I---Communications_R69489-1": {
-      "title": "Fraud Analyst I - Communications- Mon-Fri 11:00am to 8:00pm, Sat 9:00am to 3:00pm",
-      "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Fraud-Analyst-I---Communications_R69489-1",
-      "location": "Cincinnati, OH"
     },
     "/job/Cincinnati-OH/Fraud-Analyst-I---Communications-Mon-Fri-11-00-am-to-8-00-pm-Sat-9-00am--3-00-pm_R71931": {
       "title": "Fraud Analyst I - Communications Mon-Fri 11:00 am to 8:00 pm Sat 9:00am- 3:00 pm",
@@ -9685,11 +9628,6 @@
       "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Jersey-City-NJ/Global-Red-Team-AI-Engineer--Analyst_10080289-WD-1",
       "location": "Jersey City, NJ"
     },
-    "/job/Singapore-Office-OCC/Vice-President--Senior-Business-Analyst--Cash-Management-_10073206-WD": {
-      "title": "Vice President, Senior Business Analyst (Cash Management)",
-      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Singapore-Office-OCC/Vice-President--Senior-Business-Analyst--Cash-Management-_10073206-WD",
-      "location": "2 Locations"
-    },
     "/job/New-York-NY/GCIB---Credit-Portfolio-Management---Enterprise-Valuation-Analyst_10077664-WD": {
       "title": "GCIB - Credit Portfolio Management - Enterprise Valuation Analyst",
       "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-York-NY/GCIB---Credit-Portfolio-Management---Enterprise-Valuation-Analyst_10077664-WD",
@@ -9744,6 +9682,11 @@
       "title": "Bilingual Marketing Officer, Analyst for Japanese Corporate Banking",
       "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/New-York-NY/Bilingual-Marketing-Officer--Analyst-for-Japanese-Corporate-Banking_10080240-WD",
       "location": "New York, NY"
+    },
+    "/job/Singapore-Office-OCC/Vice-President--Senior-IT-Business-Analyst--Cash-Management-_10080555-WD": {
+      "title": "Vice President, Senior IT Business Analyst (Cash Management)",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Singapore-Office-OCC/Vice-President--Senior-IT-Business-Analyst--Cash-Management-_10080555-WD",
+      "location": "2 Locations"
     },
     "/job/New-York-NY/Analyst--Underwriting-and-Portfolio-Management---Sponsor--Growth---Middle-Market-Healthcare_10080161-WD": {
       "title": "Analyst, Underwriting and Portfolio Management - Sponsor, Growth & Middle Market Healthcare",
@@ -9942,6 +9885,11 @@
   "Speciality": {},
   "Ross": {},
   "Cisco": {
+    "/job/RTP-North-Carolina-US/Financial-Controls---Compliance-Analyst_2021985": {
+      "title": "Financial Controls & Compliance Analyst",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Financial-Controls---Compliance-Analyst_2021985",
+      "location": "RTP, North Carolina, US"
+    },
     "/job/RTP-North-Carolina-US/Media-Reporting---Insights-Analyst_2029772": {
       "title": "Media Reporting & Insights Analyst",
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Media-Reporting---Insights-Analyst_2029772",
@@ -9976,16 +9924,6 @@
       "title": "Leader, Business Intelligence",
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Leader--Business-Intelligence_2025816",
       "location": "4 Locations"
-    },
-    "/job/Bayan-Lepas-Malaysia/Procurement-Analyst--Supply-Chain-Operations--Malaysia_2025388": {
-      "title": "Procurement Analyst, Supply Chain Operations, Malaysia",
-      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bayan-Lepas-Malaysia/Procurement-Analyst--Supply-Chain-Operations--Malaysia_2025388",
-      "location": "2 Locations"
-    },
-    "/job/Bayan-Lepas-Malaysia/Supply-Chain-Inventory-Analyst_2022665": {
-      "title": "Supply Chain Inventory Analyst",
-      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bayan-Lepas-Malaysia/Supply-Chain-Inventory-Analyst_2022665",
-      "location": "2 Locations"
     },
     "/job/San-Jose-California-US/Data-Engineering-Technical-Leader---CX-AI_2030081": {
       "title": "Data Engineering Technical Leader - CX AI",
@@ -10366,6 +10304,10 @@
     "https://careers.healthfirst.org/careersmarketplace/PipelineDetail/Senior-Healthcare-Analyst-Risk-Adjustment/16415": {
       "title": "Senior Healthcare Analyst, Risk Adjustment",
       "url": "https://careers.healthfirst.org/careersmarketplace/PipelineDetail/Senior-Healthcare-Analyst-Risk-Adjustment/16415"
+    },
+    "https://careers.healthfirst.org/careersmarketplace/PipelineDetail/Claims-Configuration-and-Quality-Audit-Analyst-Hybrid-NY/16228": {
+      "title": "Claims Configuration and Quality Audit Analyst | Hybrid NY",
+      "url": "https://careers.healthfirst.org/careersmarketplace/PipelineDetail/Claims-Configuration-and-Quality-Audit-Analyst-Hybrid-NY/16228"
     }
   },
   "BNY": {
@@ -10697,13 +10639,25 @@
       "title": "VP-Data Engineer (People Analytics)",
       "url": "https://careers.moodys.com/en/job/new-york/vp-data-engineer-people-analytics/49841/99771528736"
     },
-    "https://careers.moodys.com/en/job/new-york/sr-modeling-services-analyst/49841/102858762192": {
-      "title": "Sr Modeling Services Analyst",
-      "url": "https://careers.moodys.com/en/job/new-york/sr-modeling-services-analyst/49841/102858762192"
+    "https://careers.moodys.com/en/job/gurugram/analyst-bi-and-analytics/49841/101609869472": {
+      "title": "Analyst-BI & Analytics",
+      "url": "https://careers.moodys.com/en/job/gurugram/analyst-bi-and-analytics/49841/101609869472"
     }
   },
   "UKG": {},
   "PGE": {
+    "https://jobs.pge.com/job/rocklin/business-analyst-expert/29673/102880126320": {
+      "title": "Business Analyst, Expert",
+      "url": "https://jobs.pge.com/job/rocklin/business-analyst-expert/29673/102880126320"
+    },
+    "https://jobs.pge.com/job/oakland/expert-project-controls-analyst/29673/102875248416": {
+      "title": "Expert Project Controls Analyst",
+      "url": "https://jobs.pge.com/job/oakland/expert-project-controls-analyst/29673/102875248416"
+    },
+    "https://jobs.pge.com/job/oakland/associate-ap-systems-and-support-analyst/29673/102875248288": {
+      "title": "Associate AP Systems & Support Analyst",
+      "url": "https://jobs.pge.com/job/oakland/associate-ap-systems-and-support-analyst/29673/102875248288"
+    },
     "https://jobs.pge.com/job/oakland/senior-risk-and-compliance-consultant-risk-and-reliability-insights-location-flexible/29673/100100911216": {
       "title": "Senior Risk & Compliance Consultant - Risk and Reliability Insights - Location Flexible",
       "url": "https://jobs.pge.com/job/oakland/senior-risk-and-compliance-consultant-risk-and-reliability-insights-location-flexible/29673/100100911216"
