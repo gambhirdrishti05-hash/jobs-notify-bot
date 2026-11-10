@@ -294,7 +294,7 @@ def get_workday_parts(url):
 def get_oracle_cloud_parts(url):
     """Oracle Cloud (Fusion HCM): *.oraclecloud.com with /sites/{SITE}/"""
     m = re.search(r'https?://([a-zA-Z0-9\-]+)\.fa\.(?:[a-zA-Z0-9]+\.)?oraclecloud\.com', url)
-    site_m = re.search(r'sites/([A-Za-z0-9_]+)', url)
+    site_m = re.search(r'sites/([A-Za-z0-9_\-]+)', url)
     if not m or not site_m:
         return None
     host = re.search(r'https?://([a-zA-Z0-9\-\.]+\.oraclecloud\.com)', url).group(1)
