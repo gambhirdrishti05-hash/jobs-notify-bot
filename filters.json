@@ -18,11 +18,7 @@
       "business intelligence",
       "market research",
       "insight",
-      "data scien",
-      "decision scien",
-      "statistic",
       "reporting",
-      "data engineer"
     ],
     "_exclude": "Titles matching any of these are dropped even if they matched above. Use this to cut role families you don't want.",
     "exclude": [
