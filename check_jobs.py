@@ -26,7 +26,8 @@ import json
 import os
 import re
 import sys
-from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
+from urllib.parse import (urlparse, parse_qs, urlencode, urlunparse,
+                          quote, unquote)
 
 import requests
 from bs4 import BeautifulSoup
@@ -320,6 +321,23 @@ def get_ashby_slug(url):
     return m.group(1) if m else None
 
 
+def get_avature_parts(url):
+    """
+    Avature career portals. Two layouts in the wild:
+      https://careers.{co}.com/{locale}/careers/SearchJobs/{keyword}?...
+      https://careers.{co}.org/careersmarketplace/AllJobs/?...
+    Returns (prefix, keyword, query, style) or None.
+    """
+    m = re.match(r'^(https?://[^/]+(?:/[a-z]{2}_[A-Z]{2})?/careers/SearchJobs)'
+                 r'(?:/([^/?#]+))?/?(?:\?(.*))?$', url)
+    if m:
+        return m.group(1), m.group(2), m.group(3) or "", "searchjobs"
+    m = re.match(r'^(https?://[^/]+/careersmarketplace/[A-Za-z]+)/?(?:\?(.*))?$', url)
+    if m:
+        return m.group(1), None, m.group(2) or "", "marketplace"
+    return None
+
+
 def is_amazon(url):
     """Amazon runs its own job board with a public search.json endpoint."""
     return bool(re.search(r'(^|\.)amazon\.jobs', urlparse(url).netloc))
@@ -609,6 +627,77 @@ def fetch_ashby(slug):
     return jobs
 
 
+def fetch_avature(url, filters=None, max_pages=40):
+    """
+    Avature portals render their results list server-side, so this
+    scrapes the search page rather than calling an API — same shape as
+    the iCIMS fetcher. Job links are /careers/JobDetail/{slug}/{id},
+    specific enough to filter on structure instead of link text.
+
+    Query params already on the companies.json URL are preserved, so any
+    location or category facet set in the browser keeps filtering
+    server-side.
+    """
+    filters = filters or {}
+    parts = get_avature_parts(url)
+    if not parts:
+        return {}
+    prefix, url_keyword, query, style = parts
+    host = re.match(r'(https?://[^/]+)', url).group(1)
+
+    if style == "marketplace":
+        per_page, offset_key = "pipelineRecordsPerPage", "pipelineOffset"
+        searches = [None]
+    else:
+        per_page, offset_key = "jobRecordsPerPage", "jobOffset"
+        # A keyword already in the URL path wins; otherwise one search
+        # per configured keyword, same as Workday and Oracle.
+        searches = ([url_keyword] if url_keyword
+                    else (filters.get("search_keywords") or [None]))
+
+    page_size = 100
+    jobs = {}
+    for keyword in searches:
+        target = f"{prefix}/{quote(keyword)}" if keyword else prefix
+        base = f"{target}?{query}" if query else target
+        seen_ids = set()
+        for page in range(max_pages):
+            page_url = with_params(base, listFilterMode=1,
+                                   **{per_page: page_size,
+                                      offset_key: page * page_size})
+            r = requests.get(page_url, headers=HEADERS, timeout=30)
+            r.raise_for_status()
+            soup = BeautifulSoup(r.text, "html.parser")
+
+            page_ids = set()
+            for a in soup.find_all("a", href=True):
+                m = re.search(
+                    r'/(?:careers|careersmarketplace)/JobDetail/([^/?#]+)/(\d+)',
+                    a["href"])
+                if not m:
+                    continue
+                slug, job_id = m.group(1), m.group(2)
+                page_ids.add(job_id)
+                if job_id in jobs:   # first link text for this ID wins
+                    continue
+                text = a.get_text(" ", strip=True)
+                jobs[job_id] = {
+                    "title": text if len(text) > 3 else unquote(slug).replace("-", " "),
+                    "url": (a["href"] if a["href"].startswith("http")
+                            else requests.compat.urljoin(host, a["href"])),
+                }
+
+            # Empty page = past the end. No new IDs = the portal ignored
+            # our offset and re-served an earlier page; stop either way.
+            if not page_ids - seen_ids:
+                break
+            seen_ids |= page_ids
+        else:
+            print(f"  [WARN] Avature: stopped at max_pages={max_pages} for "
+                  f"keyword {keyword!r} — listing may be truncated", file=sys.stderr)
+    return jobs
+
+
 def fetch_amazon(url, filters=None, max_jobs=2000):
     """
     amazon.jobs backs its search page with a public JSON endpoint at
@@ -787,6 +876,7 @@ def fetch_company_jobs(company, filters=None):
     oc_parts = get_oracle_cloud_parts(url)
     icims_base = get_icims_parts(url)
     ashby_slug = get_ashby_slug(url)
+    av_parts = get_avature_parts(url)
 
     try:
         # Explicit override in companies.json wins over URL sniffing
@@ -821,6 +911,10 @@ def fetch_company_jobs(company, filters=None):
         elif ashby_slug:
             print(f"  [Ashby] {name} (slug={ashby_slug})")
             return fetch_ashby(ashby_slug)
+        elif av_parts:
+            print(f"  [Avature] {name} (style={av_parts[3]}, "
+                  f"keyword={av_parts[1]})")
+            return fetch_avature(url, filters)
         else:
             # Safety net warnings for near-misses
             if "myworkdayjobs.com" in url or "myworkdaysite.com" in url:
