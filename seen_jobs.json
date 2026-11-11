@@ -1,11 +1,5 @@
 {
   "JPMorgan Chase": {
-    "210807310": {
-      "title": "Business Analyst-Business Banking Marketing",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807310",
-      "location": "NY, United States",
-      "country_code": "US"
-    },
     "210808022": {
       "title": "Recruiting and Sourcing Analyst - International Private Bank",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808022",
@@ -412,12 +406,6 @@
       "title": "U.S. Private Bank - AWM Program Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801277",
       "location": "Houston, TX, United States",
-      "country_code": "US"
-    },
-    "210801114": {
-      "title": "International Private Bank - Digital Product Analyst - GFG & LATAM",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801114",
-      "location": "New York, NY, United States",
       "country_code": "US"
     },
     "210799300": {
@@ -828,12 +816,6 @@
       "location": "Wilmington, DE, United States",
       "country_code": "US"
     },
-    "210806312": {
-      "title": "ChaseNet Data Scientist",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806312",
-      "location": "Plano, TX, United States",
-      "country_code": "US"
-    },
     "210800729": {
       "title": "Software Engineer III - Data Engineering | Infrastructure Platforms",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210800729",
@@ -1088,12 +1070,6 @@
     "10601022": {
       "title": "Supply Chain Analyst, GPCS - AMER",
       "url": "https://www.amazon.jobs/en/jobs/10601022/supply-chain-analyst-gpcs-amer",
-      "location": "Tempe, Arizona, USA",
-      "country_code": "USA"
-    },
-    "10601021": {
-      "title": "Supply Chain Analyst, GPCS - AMER",
-      "url": "https://www.amazon.jobs/en/jobs/10601021/supply-chain-analyst-gpcs-amer",
       "location": "Tempe, Arizona, USA",
       "country_code": "USA"
     },
@@ -1622,6 +1598,16 @@
   },
   "Waters Corporation": {},
   "CVS Health": {
+    "/job/VA---Roanoke/Case-Management-Analyst---Field-in-Roanoke--Cloverdale---Surrounding-Areas_R1093116": {
+      "title": "Case Management Analyst - Field in Roanoke, Cloverdale & Surrounding Areas",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/VA---Roanoke/Case-Management-Analyst---Field-in-Roanoke--Cloverdale---Surrounding-Areas_R1093116",
+      "location": "9 Locations"
+    },
+    "/job/MN---Work-from-home/Workforce-Management-Analyst--Claims-Operations---Meritain-TPA_R1082875": {
+      "title": "Workforce Management Analyst, Claims Operations - Meritain TPA",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MN---Work-from-home/Workforce-Management-Analyst--Claims-Operations---Meritain-TPA_R1082875",
+      "location": "49 Locations"
+    },
     "/job/Field-Illinois/Case-Management-Analyst---Field-in-Will-and-DuPage-Counties--IL_R0982611": {
       "title": "Case Management Analyst - Field in Will and DuPage Counties, IL - New Hire Bonus Available",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Field-Illinois/Case-Management-Analyst---Field-in-Will-and-DuPage-Counties--IL_R0982611",
@@ -1651,11 +1637,6 @@
       "title": "Analyst, Financial Operations",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Delaware/Analyst--Financial-Operations_R1058500",
       "location": "Work At Home-Delaware"
-    },
-    "/job/Field-Florida/analyst-case-MGT-Field_R1089857": {
-      "title": "analyst,case MGT-Field",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Field-Florida/analyst-case-MGT-Field_R1089857",
-      "location": "Field-Florida"
     },
     "/job/Bilingual-Analyst-Case-Management---Field---Must-reside-in-North-Miami-Florida-Area_R1081676": {
       "title": "Bilingual Analyst Case Management \u2013 Field \u2013 Must reside in North Miami Florida Area",
@@ -1966,6 +1947,11 @@
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Dahlgren-VA/Critical-Infrastructure--Fuels--Transportation--and-Water--Analyst--SME--High-Level-Clearance-Required-_R2602917",
       "location": "Dahlgren, VA"
     },
+    "/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1": {
+      "title": "2027 Summer Intern, Data Analytics (Reston, VA or Remote)",
+      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1",
+      "location": "Reston, VA"
+    },
     "/job/Reston-VA/Data-Engineer_R2603342": {
       "title": "Data Engineer",
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Data-Engineer_R2603342",
@@ -1980,11 +1966,6 @@
       "title": "Data Mining & Analytics Engineer, Journeyman (Security Clearance Required)",
       "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Arlington-VA-VA31/Data-Mining---Analytics-Engineer--Journeyman--Security-Clearance-Required-_R2602428",
       "location": "2 Locations"
-    },
-    "/job/Reston-VA/Data-Scientist---Remote-USA_R2603453": {
-      "title": "Data Scientist - Remote USA",
-      "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Data-Scientist---Remote-USA_R2603453",
-      "location": "Reston, VA"
     },
     "/job/Reston-VA/Data-Engineer_R2603410": {
       "title": "Data Engineer",
@@ -2161,11 +2142,6 @@
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Document-Imaging-Analyst_RQ4084285",
       "location": "Somerville-MA"
     },
-    "/job/Salem-MA/Trauma-data-Analyst_RQ4075240": {
-      "title": "Trauma data Analyst",
-      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Salem-MA/Trauma-data-Analyst_RQ4075240",
-      "location": "Salem-MA"
-    },
     "/job/Somerville-MA/Finance-Operations-Lead_RQ4083678-1": {
       "title": "Lead Finance Operations Analyst",
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Finance-Operations-Lead_RQ4083678-1",
@@ -2261,12 +2237,6 @@
     "14085": {
       "title": "Analyst, Shipboard Finance",
       "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/14085",
-      "location": "Miami, FL, United States",
-      "country_code": "US"
-    },
-    "13831": {
-      "title": "Analyst, Revenue",
-      "url": "https://eicl.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CORP/job/13831",
       "location": "Miami, FL, United States",
       "country_code": "US"
     },
@@ -2600,6 +2570,10 @@
     }
   },
   "Qualus": {
+    "5876": {
+      "title": "Cost Analyst - Material Cost Coordinator",
+      "url": "https://careers-qualus.icims.com/jobs/5876/cost-analyst---material-cost-coordinator/job"
+    },
     "5532": {
       "title": "Cost Analyst",
       "url": "https://careers-qualus.icims.com/jobs/5532/cost-analyst/job"
@@ -2614,9 +2588,13 @@
     }
   },
   "Gainwell": {
-    "https://jobs.gainwelltechnologies.com/job/Roseville-Data-Analytics-and-Reporting-Lead-Subject-Matter-Expert-%28SME%29-CA-95747-6645/1449665800/": {
-      "title": "Data Analytics and Reporting Lead Subject Matter Expert (SME)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Roseville-Data-Analytics-and-Reporting-Lead-Subject-Matter-Expert-%28SME%29-CA-95747-6645/1449665800/"
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Healthcare-Systems-Analyst-NH-99999/1439769900/": {
+      "title": "Healthcare Systems Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Healthcare-Systems-Analyst-NH-99999/1439769900/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Data-Science-AI-Engineer%2C-Advisor-WA-99999/1449871400/": {
+      "title": "Data Science AI Engineer, Advisor",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Data-Science-AI-Engineer%2C-Advisor-WA-99999/1449871400/"
     }
   },
   "Happen Bank": {},
@@ -2741,6 +2719,11 @@
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/OSLZAF/Sales---Relationship-Analyst--Sub-Saharan-Africa--Officer---State-Street-Investment-Management_R-798270",
       "location": "OSL/ZAF"
     },
+    "/job/Bangalore-India/Investment-Performance-Analytics--Associate-2_R-800868": {
+      "title": "Investment Performance Analytics, Associate 2",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Investment-Performance-Analytics--Associate-2_R-800868",
+      "location": "2 Locations"
+    },
     "/job/Bangalore-India/Software-Engineering-and-Infrastructure-Development---Team-Lead_R-796677-1": {
       "title": "Client Reporting - Team Lead",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Software-Engineering-and-Infrastructure-Development---Team-Lead_R-796677-1",
@@ -2755,11 +2738,6 @@
       "title": "Data Analytics & Management - Officer",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Data-Analytics---Management---Officer_R-794991",
       "location": "Boston, Massachusetts"
-    },
-    "/job/London-England/Data-Scientist---Automation-Lead---Vulnerabilities-remediation-Governance_R-796679": {
-      "title": "Data Scientist & Automation Lead - Vulnerabilities remediation Governance",
-      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Data-Scientist---Automation-Lead---Vulnerabilities-remediation-Governance_R-796679",
-      "location": "3 Locations"
     },
     "/job/Boston-Massachusetts/Financial-Reporting--Officer_R-800836-1": {
       "title": "Financial Reporting, Officer",
@@ -3072,9 +3050,13 @@
     }
   },
   "Deloitte": {
-    "https://apply.deloitte.com/en_US/careers/JobDetail/Lead-AI-and-Data-Science-Engineer-II/374976": {
-      "title": "Lead AI and Data Science Engineer II",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Lead-AI-and-Data-Science-Engineer-II/374976"
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Business-Analyst/375045": {
+      "title": "Business Analyst",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Business-Analyst/375045"
+    },
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Delivery-Consultant-Data-Engineering-and-Conversion-Solutions/375031": {
+      "title": "Delivery Consultant, Data Engineering and Conversion Solutions",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Delivery-Consultant-Data-Engineering-and-Conversion-Solutions/375031"
     }
   },
   "OpenX": {
@@ -3529,11 +3511,6 @@
     "/job/Hopkins-MN/Quantitative-Model-Analyst-2_2026-0033368": {
       "title": "Quantitative Model Analyst - Mortgage Modeling",
       "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Quantitative-Model-Analyst-2_2026-0033368",
-      "location": "4 Locations"
-    },
-    "/job/New-York-NY/Quantitative-Model-Analyst---Wholesale-Modeling_2026-0033911": {
-      "title": "Quantitative Model Analyst - Wholesale Modeling",
-      "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/New-York-NY/Quantitative-Model-Analyst---Wholesale-Modeling_2026-0033911",
       "location": "4 Locations"
     },
     "/job/Glendale-CA/Business-Banking-Relationship-Analyst-2_2026-0034394": {
@@ -4112,11 +4089,6 @@
     "/job/Cincinnati-OH/Lead-Business-Analyst--Customer-Personalization_R73965": {
       "title": "Lead Business Analyst, Customer Personalization",
       "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Lead-Business-Analyst--Customer-Personalization_R73965",
-      "location": "Cincinnati, OH"
-    },
-    "/job/Cincinnati-OH/Dispute-Intake-Analyst---Varying-Shifts_R75043": {
-      "title": "Dispute Intake Analyst - Varying Shifts",
-      "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Dispute-Intake-Analyst---Varying-Shifts_R75043",
       "location": "Cincinnati, OH"
     },
     "/job/Grand-Rapids-MI/Enterprise-Valuation-Analyst-II-Remote-Hybrid_R74752": {
@@ -5189,24 +5161,10 @@
   "Intuit": {},
   "Moodys": {},
   "UKG": {},
-  "PGE": {
-    "https://jobs.pge.com/job/oakland/expert-operations-data-analyst/29673/103143610176": {
-      "title": "Expert Operations Data Analyst",
-      "url": "https://jobs.pge.com/job/oakland/expert-operations-data-analyst/29673/103143610176"
-    },
-    "https://jobs.pge.com/job/oakland/operations-data-analyst/29673/103139082048": {
-      "title": "Operations Data Analyst",
-      "url": "https://jobs.pge.com/job/oakland/operations-data-analyst/29673/103139082048"
-    }
-  },
+  "PGE": {},
   "Raunch": {},
   "Check": {},
-  "Corning": {
-    "https://corningjobs.corning.com/job/Reynosa-IE-Data-Analytics-Technician-TAM-88730/1439346800/": {
-      "title": "IE Data Analytics Technician",
-      "url": "https://corningjobs.corning.com/job/Reynosa-IE-Data-Analytics-Technician-TAM-88730/1439346800/"
-    }
-  },
+  "Corning": {},
   "Micron": {},
   "Solar Turbines": {
     "/job/San-Diego-California/Info-Technology-Analyst_R0000403504": {
