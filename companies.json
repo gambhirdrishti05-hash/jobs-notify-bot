@@ -291,5 +291,85 @@
   {
     "name": "Insurify",
     "url": "https://job-boards.greenhouse.io/insurify"
+  }, 
+  {
+    "name": "Georgetown University",
+    "url": "https://georgetown.wd1.myworkdayjobs.com/Georgetown_Admin_Careers"
+  },
+  {
+    "name": "OneMain Financial",
+    "url": "https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers"
+  },
+  {
+    "name": "Sallie Mae",
+    "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers"
+  },
+  {
+    "name": "Centene",
+    "url": "https://centene.wd5.myworkdayjobs.com/Centene_External"
+  },
+  {
+    "name": "Sentara Health",
+    "url": "https://sentara.wd1.myworkdayjobs.com/SCS"
+  },
+  {
+    "name": "UMass Memorial",
+    "url": "https://ummh.wd1.myworkdayjobs.com/Careers"
+  },
+  {
+    "name": "Midland Credit Management",
+    "url": "https://encore.wd1.myworkdayjobs.com/externalnew"
+  },
+  {
+    "name": "Berkadia",
+    "url": "https://berkadia.wd1.myworkdayjobs.com/Berkadia"
+  },
+  {
+    "name": "Ryan Specialty",
+    "url": "https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site"
+  },
+  {
+    "name": "AIG",
+    "url": "https://aig.wd1.myworkdayjobs.com/aig"
+  },
+  {
+    "name": "CIBC Bank USA",
+    "url": "https://cibc.wd3.myworkdayjobs.com/search"
+  },
+  {
+    "name": "Premier Bankcard",
+    "url": "https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers"
+  },
+  {
+    "name": "Raymond James",
+    "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers"
+  },
+  {
+    "name": "Cotiviti",
+    "url": "https://careers-cotiviti.icims.com/jobs/search?ss=1"
+  },
+  {
+    "name": "East West Bank",
+    "url": "https://careers-eastwestbank.icims.com/jobs/search?ss=1"
+  },
+  {
+    "name": "Arthur D Little",
+    "url": "https://careers-adlittle.icims.com/jobs/search?ss=1"
+  },
+  {
+    "name": "SoFi",
+    "url": "https://job-boards.greenhouse.io/sofitechsolutions"
+  },
+  {
+    "name": "Wealthfront",
+    "url": "https://jobs.lever.co/wealthfront"
+  },
+  {
+    "name": "Siemens",
+    "url": "https://jobs.siemens.com/en_US/externaljobs/SearchJobs?listFilterMode=1&folderRecordsPerPage=6"
+  },
+  {
+    "name": "Cummins",
+    "url": "https://cummins.jobs/locations/usa/jobs/"
   }
 ]
