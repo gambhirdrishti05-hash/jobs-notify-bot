@@ -328,7 +328,7 @@ def get_avature_parts(url):
       https://careers.{co}.org/careersmarketplace/AllJobs/?...
     Returns (prefix, keyword, query, style) or None.
     """
-    m = re.match(r'^(https?://[^/]+(?:/[a-z]{2}_[A-Z]{2})?/careers/SearchJobs)'
+    m = re.match(r'^(https?://[^/]+(?:/[a-z]{2}_[A-Z]{2})?/[A-Za-z]+/SearchJobs)'
                  r'(?:/([^/?#]+))?/?(?:\?(.*))?$', url)
     if m:
         return m.group(1), m.group(2), m.group(3) or "", "searchjobs"
@@ -645,6 +645,10 @@ def fetch_avature(url, filters=None, max_pages=60):
     prefix, url_keyword, query, style = parts
     host = re.match(r'(https?://[^/]+)', url).group(1)
 
+    # Avature names its paging params per tenant: jobRecordsPerPage,
+    # folderRecordsPerPage, pipelineRecordsPerPage. Read the prefix out of
+    # the URL in companies.json rather than guessing it.
+    named = re.search(r'([A-Za-z]+)RecordsPerPage', query)
     if style == "marketplace":
         per_page, offset_key = "pipelineRecordsPerPage", "pipelineOffset"
         searches = [None]
@@ -654,6 +658,9 @@ def fetch_avature(url, filters=None, max_pages=60):
         # per configured keyword, same as Workday and Oracle.
         searches = ([url_keyword] if url_keyword
                     else (filters.get("search_keywords") or [None]))
+    if named:
+        per_page = f"{named.group(1)}RecordsPerPage"
+        offset_key = f"{named.group(1)}Offset"
 
     # Avature caps records-per-page per tenant; CBRE returns an empty
     # result set when asked for more than it allows, and a tenant that
@@ -683,7 +690,7 @@ def fetch_avature(url, filters=None, max_pages=60):
                 # intent URLs) cannot match the job they point at.
                 m = re.match(
                     r'^(?:https?://[^/]+)?/(?:[a-z]{2}_[A-Z]{2}/)?'
-                    r'careers(?:marketplace)?/JobDetail/([^/?#]+)/(\d+)',
+                    r'[A-Za-z]+/JobDetail/([^/?#]+)/(\d+)',
                     a["href"])
                 if not m:
                     continue
