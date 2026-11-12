@@ -661,6 +661,7 @@ def fetch_avature(url, filters=None, max_pages=60):
     # step did not match. 25 is the value observed working in a browser.
     page_size = 25
     jobs = {}
+    probe = None          # first response, kept for diagnostics
     for keyword in searches:
         target = f"{prefix}/{quote(keyword)}" if keyword else prefix
         base = f"{target}?{query}" if query else target
@@ -671,6 +672,8 @@ def fetch_avature(url, filters=None, max_pages=60):
                                       offset_key: page * page_size})
             r = requests.get(page_url, headers=HEADERS, timeout=30)
             r.raise_for_status()
+            if probe is None:
+                probe = (page_url, r.status_code, r.text)
             soup = BeautifulSoup(r.text, "html.parser")
 
             page_ids = set()
@@ -703,6 +706,23 @@ def fetch_avature(url, filters=None, max_pages=60):
         else:
             print(f"  [WARN] Avature: stopped at max_pages={max_pages} for "
                   f"keyword {keyword!r} — listing may be truncated", file=sys.stderr)
+
+    # Nothing found. Say what the server actually sent, so the next step
+    # is a measurement rather than a guess: a tiny body means a block or
+    # challenge page, a large body with no JobDetail means a different
+    # page was served, and JobDetail present means the link regex is wrong.
+    if not jobs and probe is not None:
+        purl, status, body = probe
+        low = body.lower()
+        print(f"  [Avature] DIAG HTTP {status}, {len(body)} bytes, "
+              f"JobDetail x{body.count('JobDetail')}, "
+              f"captcha x{low.count('captcha')}, "
+              f"cloudflare x{low.count('cloudflare')}, "
+              f"'no results' x{low.count('no results')}", file=sys.stderr)
+        t = re.search(r'<title[^>]*>(.*?)</title>', body, re.S | re.I)
+        print(f"  [Avature] DIAG title: "
+              f"{t.group(1).strip()[:110] if t else '(none)'}", file=sys.stderr)
+        print(f"  [Avature] DIAG url: {purl}", file=sys.stderr)
     return jobs
 
 
