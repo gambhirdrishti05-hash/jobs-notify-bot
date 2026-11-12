@@ -66,7 +66,7 @@
   },
   {
     "name": "UBS",
-    "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=348105&jr_id=6a8359d6b5a0ac0e84a253bb#keyWordSearch=&locationSearch=United%20States"
+    "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012"
   },
   { 
    "name": "CBRE",
@@ -226,7 +226,7 @@
   },
   {
    "name": "HP",
-   "url": "https://apply.hp.com/careers?start=0&location=United+States&pid=44061323&sort_by=distance&filter_include_remote=1&filter_include_relocation=0"
+   "url": "https://apply.hp.com/careers?start=0&location=United+States"
   },
   {
     "name": "Southwest Gas",
@@ -262,7 +262,7 @@
   },
   {
     "name": "UKG",
-     "url": "https://apply.ukg.com/careers?_gl=1*7udjnz*_gcl_au*MTc4OTk1NDg3Ni4xNzkwMTI2OTA3Li0uLS4xNzkwMTI2OTA3LjEwMTEzMTk4MjguMTc5MDEyNjkwNy4xNzkwMTI2OTA3*_ga*MTkyMTEyMzE4My4xNzkwMTI2OTA4*_ga_C83ZMN90VV*czE3OTAxMjY5MDckbzEkZzAkdDE3OTAxMjY5MDgkajU5JGwwJGgxMTM2MTU3Njc2&start=0&pid=893397573439&sort_by=timestamp"
+     "url": "https://apply.ukg.com/careers?start=0"
   },
   {
      "name": "PGE",
@@ -282,7 +282,7 @@
   },
   {
     "name": "Micron",
-    "url": "https://careers.micron.com/careers?start=0&location=United+States&pid=44832720&sort_by=match&filter_include_remote=1&filter_include_relocation=0"
+    "url": "https://careers.micron.com/careers?start=0&location=United+States"
   },
   {
     "name": "Solar Turbines",
