@@ -627,7 +627,7 @@ def fetch_ashby(slug):
     return jobs
 
 
-def fetch_avature(url, filters=None, max_pages=40):
+def fetch_avature(url, filters=None, max_pages=60):
     """
     Avature portals render their results list server-side, so this
     scrapes the search page rather than calling an API — same shape as
@@ -655,7 +655,11 @@ def fetch_avature(url, filters=None, max_pages=40):
         searches = ([url_keyword] if url_keyword
                     else (filters.get("search_keywords") or [None]))
 
-    page_size = 100
+    # Avature caps records-per-page per tenant; CBRE returns an empty
+    # result set when asked for more than it allows, and a tenant that
+    # silently caps would be sampled rather than paged if the offset
+    # step did not match. 25 is the value observed working in a browser.
+    page_size = 25
     jobs = {}
     for keyword in searches:
         target = f"{prefix}/{quote(keyword)}" if keyword else prefix
@@ -671,8 +675,12 @@ def fetch_avature(url, filters=None, max_pages=40):
 
             page_ids = set()
             for a in soup.find_all("a", href=True):
-                m = re.search(
-                    r'/(?:careers|careersmarketplace)/JobDetail/([^/?#]+)/(\d+)',
+                # Anchored at the start of the href so the social-share
+                # links in each result row (mailto:?body=..., twitter
+                # intent URLs) cannot match the job they point at.
+                m = re.match(
+                    r'^(?:https?://[^/]+)?/(?:[a-z]{2}_[A-Z]{2}/)?'
+                    r'careers(?:marketplace)?/JobDetail/([^/?#]+)/(\d+)',
                     a["href"])
                 if not m:
                     continue
@@ -914,7 +922,16 @@ def fetch_company_jobs(company, filters=None):
         elif av_parts:
             print(f"  [Avature] {name} (style={av_parts[3]}, "
                   f"keyword={av_parts[1]})")
-            return fetch_avature(url, filters)
+            jobs = fetch_avature(url, filters)
+            # Some Avature tenants only return results when their own
+            # facet params are present, and the careersmarketplace
+            # layout uses a different job-link shape. Rather than
+            # regress to zero, hand those back to the old scraper.
+            if not jobs:
+                print(f"  [Avature] {name}: 0 links — falling back to "
+                      f"generic scraper")
+                return fetch_generic(url)
+            return jobs
         else:
             # Safety net warnings for near-misses
             if "myworkdayjobs.com" in url or "myworkdaysite.com" in url:
@@ -933,7 +950,11 @@ def fetch_company_jobs(company, filters=None):
 def send_telegram(message):
     token = os.environ.get("TELEGRAM_BOT_TOKEN")
     chat_ids_raw = os.environ.get("TELEGRAM_CHAT_ID", "")
-    chat_ids = [c.strip() for c in chat_ids_raw.split(",") if c.strip()]
+    # dict.fromkeys de-duplicates while keeping order: if the same chat
+    # id ends up in the secret twice, the recipient would otherwise get
+    # every alert twice.
+    chat_ids = list(dict.fromkeys(
+        c.strip() for c in chat_ids_raw.split(",") if c.strip()))
 
     if not token or not chat_ids:
         print("[WARN] Telegram credentials not set — printing instead:")
