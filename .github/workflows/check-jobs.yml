@@ -2,8 +2,15 @@ name: Check job postings
 
 on:
   schedule:
-    - cron: "0 */2 * * *"   # every 2 hours
+    - cron: "23 */2 * * *"   # every 2 hours, 23 past, off the busy on-the-hour mark
   workflow_dispatch: {}       # lets you also trigger it manually from GitHub
+
+# Queue a second run behind the first instead of letting two race.
+# Overlapping runs read the same seen_jobs.json, send you the same
+# alerts twice, and then one of them fails to push its state.
+concurrency:
+  group: job-bot-state
+  cancel-in-progress: false
 
 jobs:
   check:
@@ -30,4 +37,14 @@ jobs:
           git config user.email "actions@github.com"
           git add seen_jobs.json
           git diff --quiet --cached || git commit -m "Update seen jobs"
-          git push
+          # Rebase onto anything pushed since checkout — including edits
+          # you made in the browser while the run was in flight — then
+          # push. Without this the run loses its state file and you get
+          # the same alerts again next time.
+          for i in 1 2 3; do
+            git pull --rebase --autostash && git push && exit 0
+            echo "push attempt $i failed, retrying in 5s"
+            sleep 5
+          done
+          echo "could not push state after 3 attempts" >&2
+          exit 1
