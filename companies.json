@@ -371,5 +371,61 @@
   {
     "name": "Cummins",
     "url": "https://cummins.jobs/locations/usa/jobs/"
+  },
+  {
+    "name": "Adobe",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced"
+  },
+  {
+    "name": "AmerisourceBergen",
+    "url": "https://myhrabc.wd5.myworkdayjobs.com/Global"
+  },
+  {
+    "name": "Maersk",
+    "url": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers"
+  },
+  {
+    "name": "C.H. Robinson",
+    "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson"
+  },
+  {
+    "name": "University of Miami",
+    "url": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff"
+  },
+  {
+    "name": "Tulane University",
+    "url": "https://tulane-ibqejb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs?mode=location"
+  },
+  {
+    "name": "Thomas Jefferson University",
+    "url": "https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal"
+  },
+  {
+    "name": "Texas A&M Corpus Christi",
+    "url": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External"
+  },
+  {
+    "name": "University of Maryland College Park",
+    "url": "https://umd.wd1.myworkdayjobs.com/UMCP"
+  },
+  {
+    "name": "St. Jude Children's Research Hospital",
+    "url": "https://talent.stjude.org/careers/SearchJobs/?listFilterMode=1&jobRecordsPerPage=20&"
+  },
+  {
+    "name": "Moffitt Cancer Center",
+    "url": "https://moffitt.wd108.myworkdayjobs.com/Moffitt"
+  },
+  {
+    "name": "Montefiore Medical Center",
+    "url": "https://montefiore.wd12.myworkdayjobs.com/MMC"
+  },
+  {
+    "name": "Houlihan Lokey",
+    "url": "https://hl.wd1.myworkdayjobs.com/Campus"
+  },
+  {
+    "name": "Intel",
+    "url": "https://intel.wd1.myworkdayjobs.com/External"
   }
 ]
