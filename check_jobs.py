@@ -26,6 +26,7 @@ import json
 import os
 import re
 import sys
+import time
 from urllib.parse import (urlparse, parse_qs, urlencode, urlunparse,
                           quote, unquote)
 
@@ -45,11 +46,19 @@ FILTERS_FILE = "filters.json"
 MAX_ALERTS_PER_RUN = 50
 
 # A company that suddenly shows dozens of "new" postings has almost always
-# just started working — URL corrected, fetcher unblocked, truncation
-# lifted — rather than having posted that many jobs since the last run.
-# Past this many at once we record the board silently, exactly as a
-# brand-new company is baselined, and send one summary instead.
+# just started working rather than having posted that many jobs since the
+# last run. Past this many at once we record the board silently and send
+# one summary instead.
 RE_BASELINE_THRESHOLD = 30
+
+# Workday and Oracle rate-limit by IP, and this bot now checks over a
+# hundred boards per run. Without pacing, a burst earns a 429 and whole
+# companies come back empty for the rest of the run.
+REQUEST_GAP = 0.3            # minimum seconds between any two requests
+RETRY_STATUSES = (429, 502, 503)
+MAX_RETRIES = 3
+RETRY_BACKOFF = 5            # seconds, doubled each attempt
+_last_request = [0.0]
 HEADERS = {
     # Keep this reasonably current. iCIMS (and likely others) reject
     # noticeably stale User-Agents with a bare 405 Method Not Allowed,
@@ -84,6 +93,39 @@ JUNK_TITLES = {
     "university & early career", "experienced professionals",
     "our satellite locations", "working at",
 }
+
+
+def _request(method, url, **kwargs):
+    """
+    One outbound request, paced and retried.
+
+    Every fetcher goes through here so the whole run shares a single
+    request budget. On a rate-limit response we wait and try again rather
+    than losing the company for the run.
+    """
+    r = None
+    for attempt in range(MAX_RETRIES + 1):
+        gap = REQUEST_GAP - (time.monotonic() - _last_request[0])
+        if gap > 0:
+            time.sleep(gap)
+        _last_request[0] = time.monotonic()
+        r = requests.request(method, url, **kwargs)
+        if r.status_code not in RETRY_STATUSES or attempt == MAX_RETRIES:
+            return r
+        wait = RETRY_BACKOFF * (2 ** attempt)
+        print(f"  [RATE LIMIT] {r.status_code} from {urlparse(url).netloc}, "
+              f"waiting {wait}s (attempt {attempt + 1}/{MAX_RETRIES})",
+              file=sys.stderr)
+        time.sleep(wait)
+    return r
+
+
+def http_get(url, **kwargs):
+    return _request("GET", url, **kwargs)
+
+
+def http_post(url, **kwargs):
+    return _request("POST", url, **kwargs)
 
 
 def load_json(path, default):
@@ -323,10 +365,9 @@ def get_ashby_slug(url):
 
 def get_avature_parts(url):
     """
-    Avature career portals. Two layouts in the wild:
-      https://careers.{co}.com/{locale}/careers/SearchJobs/{keyword}?...
-      https://careers.{co}.org/careersmarketplace/AllJobs/?...
-    Returns (prefix, keyword, query, style) or None.
+    Avature career portals. Tenants name the middle path segment
+    differently (careers, externaljobs, careersmarketplace), so only
+    /SearchJobs or /AllJobs is treated as fixed.
     """
     m = re.match(r'^(https?://[^/]+(?:/[a-z]{2}_[A-Z]{2})?/[A-Za-z]+/SearchJobs)'
                  r'(?:/([^/?#]+))?/?(?:\?(.*))?$', url)
@@ -336,6 +377,20 @@ def get_avature_parts(url):
     if m:
         return m.group(1), None, m.group(2) or "", "marketplace"
     return None
+
+
+def get_phenom_base(url):
+    """
+    Phenom People sites render their job list with JavaScript, so scraping
+    the HTML returns nothing. The page itself fetches the list from a
+    public JSON endpoint at /widgets on the same host, which we call
+    directly. Override with "type": "phenom" for one this misses.
+    """
+    if not re.search(r'/job-search-results|/us/en/search-results'
+                     r'|/search-jobs|[?&]pid=\d+', url):
+        return None
+    m = re.match(r'(https?://[^/]+)', url)
+    return m.group(1) if m else None
 
 
 def is_amazon(url):
@@ -349,7 +404,7 @@ def is_amazon(url):
 
 def fetch_greenhouse(slug):
     api = f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs"
-    r = requests.get(api, headers=HEADERS, timeout=20)
+    r = http_get(api, headers=HEADERS, timeout=20)
     r.raise_for_status()
     jobs = r.json().get("jobs", [])
     return {str(j["id"]): {"title": j["title"], "url": j["absolute_url"],
@@ -359,7 +414,7 @@ def fetch_greenhouse(slug):
 
 def fetch_lever(slug):
     api = f"https://api.lever.co/v0/postings/{slug}?mode=json"
-    r = requests.get(api, headers=HEADERS, timeout=20)
+    r = http_get(api, headers=HEADERS, timeout=20)
     r.raise_for_status()
     jobs = r.json()
     return {j["id"]: {"title": j["text"], "url": j["hostedUrl"],
@@ -375,7 +430,7 @@ def workday_us_facet(api, country_names):
     don't) — returns None there and we fall back to filtering on the
     location text.
     """
-    r = requests.post(
+    r = http_post(
         api,
         json={"appliedFacets": {}, "limit": 1, "offset": 0, "searchText": ""},
         headers={**HEADERS, "Content-Type": "application/json"},
@@ -395,7 +450,7 @@ def workday_us_facet(api, country_names):
 
 
 def _workday_page(api, facets, search_text, offset, limit):
-    r = requests.post(
+    r = http_post(
         api,
         json={"appliedFacets": facets, "limit": limit, "offset": offset,
               "searchText": search_text},
@@ -493,7 +548,7 @@ def fetch_oracle_cloud(host, site_number, filters=None, max_jobs=4000):
                 "expand": "requisitionList.secondaryLocations,flexFieldsFacet.values",
                 "finder": finder,
             }
-            r = requests.get(api, params=params, headers=HEADERS, timeout=30)
+            r = http_get(api, params=params, headers=HEADERS, timeout=30)
             r.raise_for_status()
             items = r.json().get("items", [])
             if not items:
@@ -574,7 +629,7 @@ def fetch_icims(base_url, original_url, max_pages=40):
     seen_ids = set()
     for page in range(max_pages):
         url = with_params(original_url, ss=1, in_iframe=1, pr=page)
-        r = requests.get(url, headers=HEADERS, timeout=20)
+        r = http_get(url, headers=HEADERS, timeout=20)
         r.raise_for_status()
         soup = BeautifulSoup(r.text, "html.parser")
 
@@ -614,7 +669,7 @@ def fetch_icims(base_url, original_url, max_pages=40):
 def fetch_ashby(slug):
     """Ashby has a proper public JSON API, same category as Greenhouse/Lever."""
     api = f"https://api.ashbyhq.com/posting-api/job-board/{slug}"
-    r = requests.get(api, headers=HEADERS, timeout=20)
+    r = http_get(api, headers=HEADERS, timeout=20)
     r.raise_for_status()
     data = r.json()
     jobs = {}
@@ -629,14 +684,10 @@ def fetch_ashby(slug):
 
 def fetch_avature(url, filters=None, max_pages=60):
     """
-    Avature portals render their results list server-side, so this
-    scrapes the search page rather than calling an API — same shape as
-    the iCIMS fetcher. Job links are /careers/JobDetail/{slug}/{id},
-    specific enough to filter on structure instead of link text.
-
-    Query params already on the companies.json URL are preserved, so any
-    location or category facet set in the browser keeps filtering
-    server-side.
+    Avature renders its results server-side, so this scrapes the search
+    page rather than calling an API. Query params already on the
+    companies.json URL are kept, so any location facet set in the browser
+    keeps filtering server-side.
     """
     filters = filters or {}
     parts = get_avature_parts(url)
@@ -645,30 +696,27 @@ def fetch_avature(url, filters=None, max_pages=60):
     prefix, url_keyword, query, style = parts
     host = re.match(r'(https?://[^/]+)', url).group(1)
 
-    # Avature names its paging params per tenant: jobRecordsPerPage,
+    # Tenants name the paging params differently: jobRecordsPerPage,
     # folderRecordsPerPage, pipelineRecordsPerPage. Read the prefix out of
-    # the URL in companies.json rather than guessing it.
+    # the URL rather than guessing it.
     named = re.search(r'([A-Za-z]+)RecordsPerPage', query)
     if style == "marketplace":
         per_page, offset_key = "pipelineRecordsPerPage", "pipelineOffset"
         searches = [None]
     else:
         per_page, offset_key = "jobRecordsPerPage", "jobOffset"
-        # A keyword already in the URL path wins; otherwise one search
-        # per configured keyword, same as Workday and Oracle.
         searches = ([url_keyword] if url_keyword
                     else (filters.get("search_keywords") or [None]))
     if named:
         per_page = f"{named.group(1)}RecordsPerPage"
         offset_key = f"{named.group(1)}Offset"
 
-    # Avature caps records-per-page per tenant; CBRE returns an empty
-    # result set when asked for more than it allows, and a tenant that
-    # silently caps would be sampled rather than paged if the offset
-    # step did not match. 25 is the value observed working in a browser.
+    # Tenants cap records-per-page and return nothing when asked for more.
+    # A silent cap would sample rather than page if the offset step did not
+    # match, so keep the two equal. 25 is the value seen working live.
     page_size = 25
     jobs = {}
-    probe = None          # first response, kept for diagnostics
+    probe = None
     for keyword in searches:
         target = f"{prefix}/{quote(keyword)}" if keyword else prefix
         base = f"{target}?{query}" if query else target
@@ -677,7 +725,7 @@ def fetch_avature(url, filters=None, max_pages=60):
             page_url = with_params(base, listFilterMode=1,
                                    **{per_page: page_size,
                                       offset_key: page * page_size})
-            r = requests.get(page_url, headers=HEADERS, timeout=30)
+            r = http_get(page_url, headers=HEADERS, timeout=30)
             r.raise_for_status()
             if probe is None:
                 probe = (page_url, r.status_code, r.text)
@@ -685,22 +733,28 @@ def fetch_avature(url, filters=None, max_pages=60):
 
             page_ids = set()
             for a in soup.find_all("a", href=True):
-                # Anchored at the start of the href so the social-share
-                # links in each result row (mailto:?body=..., twitter
-                # intent URLs) cannot match the job they point at.
+                # Anchored so the social-share links in each row cannot
+                # match the job they point at. The title slug is optional:
+                # CBRE uses /JobDetail/{slug}/{id}, Siemens /JobDetail/{id}.
                 m = re.match(
                     r'^(?:https?://[^/]+)?/(?:[a-z]{2}_[A-Z]{2}/)?'
-                    r'[A-Za-z]+/JobDetail/([^/?#]+)/(\d+)',
+                    r'[A-Za-z]+/JobDetail/(?:([^/?#]+)/)?(\d+)',
                     a["href"])
                 if not m:
                     continue
                 slug, job_id = m.group(1), m.group(2)
                 page_ids.add(job_id)
-                if job_id in jobs:   # first link text for this ID wins
+                if job_id in jobs:
                     continue
                 text = a.get_text(" ", strip=True)
+                if len(text) > 3:
+                    title = text
+                elif slug:
+                    title = unquote(slug).replace("-", " ")
+                else:
+                    title = f"Job {job_id}"
                 jobs[job_id] = {
-                    "title": text if len(text) > 3 else unquote(slug).replace("-", " "),
+                    "title": title,
                     "url": (a["href"] if a["href"].startswith("http")
                             else requests.compat.urljoin(host, a["href"])),
                 }
@@ -712,24 +766,74 @@ def fetch_avature(url, filters=None, max_pages=60):
             seen_ids |= page_ids
         else:
             print(f"  [WARN] Avature: stopped at max_pages={max_pages} for "
-                  f"keyword {keyword!r} — listing may be truncated", file=sys.stderr)
+                  f"keyword {keyword!r} — may be truncated", file=sys.stderr)
 
-    # Nothing found. Say what the server actually sent, so the next step
-    # is a measurement rather than a guess: a tiny body means a block or
-    # challenge page, a large body with no JobDetail means a different
-    # page was served, and JobDetail present means the link regex is wrong.
     if not jobs and probe is not None:
         purl, status, body = probe
         low = body.lower()
         print(f"  [Avature] DIAG HTTP {status}, {len(body)} bytes, "
               f"JobDetail x{body.count('JobDetail')}, "
               f"captcha x{low.count('captcha')}, "
-              f"cloudflare x{low.count('cloudflare')}, "
-              f"'no results' x{low.count('no results')}", file=sys.stderr)
+              f"cloudflare x{low.count('cloudflare')}", file=sys.stderr)
         t = re.search(r'<title[^>]*>(.*?)</title>', body, re.S | re.I)
         print(f"  [Avature] DIAG title: "
               f"{t.group(1).strip()[:110] if t else '(none)'}", file=sys.stderr)
         print(f"  [Avature] DIAG url: {purl}", file=sys.stderr)
+    return jobs
+
+
+def fetch_phenom(base, filters=None, max_jobs=3000):
+    """
+    Phenom's own front-end calls this endpoint, so we call it the same way:
+    one POST per page to {host}/widgets, no key and no login. Without
+    jobs=true the response carries totalHits but no records. Sorting on
+    dateCreated puts the newest first, so a truncated run still sees
+    everything recent.
+    """
+    api = f"{base}/widgets"
+    page_size = 100
+    jobs = {}
+    reported = False
+    for offset in range(0, max_jobs, page_size):
+        payload = {"ddoKey": "refineSearch", "jobs": True,
+                   "from": offset, "size": page_size,
+                   "sort": {"order": "desc", "field": "dateCreated"}}
+        r = http_post(api, json=payload,
+                      headers={**HEADERS, "Content-Type": "application/json"},
+                      timeout=30)
+        r.raise_for_status()
+        data = (r.json().get("refineSearch") or {}).get("data") or {}
+        batch = data.get("jobs") or []
+        if not batch:
+            break
+        if not reported:
+            # Tenants vary in what they call these fields; print the real
+            # key names once so they can be pinned down from the log.
+            print(f"  [Phenom] first record fields: {sorted(batch[0].keys())}",
+                  file=sys.stderr)
+            reported = True
+        for j in batch:
+            job_id = str(j.get("jobSeqNo") or j.get("jobId")
+                         or j.get("reqId") or j.get("id") or "")
+            if not job_id:
+                continue
+            loc = (j.get("cityStateCountry") or j.get("location")
+                   or ", ".join(x for x in (j.get("city"), j.get("state")) if x)
+                   or None)
+            href = (j.get("applyUrl") or j.get("jobUrl") or j.get("url")
+                    or f"/job/{job_id}")
+            jobs[job_id] = {
+                "title": j.get("title") or j.get("jobTitle") or "Untitled",
+                "url": (href if href.startswith("http")
+                        else requests.compat.urljoin(base, href)),
+                "location": loc,
+                "country_code": j.get("country") or j.get("countryCode"),
+            }
+        if len(batch) < page_size:
+            break
+    else:
+        print(f"  [WARN] Phenom: stopped at {max_jobs} — may be truncated",
+              file=sys.stderr)
     return jobs
 
 
@@ -755,7 +859,7 @@ def fetch_amazon(url, filters=None, max_jobs=2000):
         while True:
             params = {**user_params, "base_query": keyword,
                       "result_limit": limit, "offset": offset, "sort": "recent"}
-            r = requests.get(api, params=params, headers=HEADERS, timeout=30)
+            r = http_get(api, params=params, headers=HEADERS, timeout=30)
             r.raise_for_status()
             data = r.json()
             batch = data.get("jobs") or []
@@ -794,7 +898,7 @@ def fetch_sitemap(url):
     since a sitemap carries no title field.
     """
     def read(target):
-        resp = requests.get(target, headers=HEADERS, timeout=20)
+        resp = http_get(target, headers=HEADERS, timeout=20)
         resp.raise_for_status()
         return BeautifulSoup(resp.text, "xml")
 
@@ -862,7 +966,7 @@ def fetch_generic(url):
     Best-effort fallback for unrecognized career sites.
     Now with much stricter filtering to reduce junk alerts.
     """
-    r = requests.get(url, headers=HEADERS, timeout=20)
+    r = http_get(url, headers=HEADERS, timeout=20)
     r.raise_for_status()
     soup = BeautifulSoup(r.text, "html.parser")
     jobs = {}
@@ -912,6 +1016,7 @@ def fetch_company_jobs(company, filters=None):
     icims_base = get_icims_parts(url)
     ashby_slug = get_ashby_slug(url)
     av_parts = get_avature_parts(url)
+    ph_base = get_phenom_base(url)
 
     try:
         # Explicit override in companies.json wins over URL sniffing
@@ -919,6 +1024,10 @@ def fetch_company_jobs(company, filters=None):
         if forced == "sitemap":
             print(f"  [Sitemap] {name}")
             return fetch_sitemap(url)
+        elif forced == "phenom":
+            host = re.match(r'(https?://[^/]+)', url).group(1)
+            print(f"  [Phenom] {name} (forced, host={host})")
+            return fetch_phenom(host, filters)
         elif forced:
             print(f"  [WARN] {name}: unknown type '{forced}' — falling through to "
                   f"auto-detection", file=sys.stderr)
@@ -950,12 +1059,19 @@ def fetch_company_jobs(company, filters=None):
             print(f"  [Avature] {name} (style={av_parts[3]}, "
                   f"keyword={av_parts[1]})")
             jobs = fetch_avature(url, filters)
-            # Some Avature tenants only return results when their own
-            # facet params are present, and the careersmarketplace
-            # layout uses a different job-link shape. Rather than
-            # regress to zero, hand those back to the old scraper.
+            # Some tenants only answer with their own facet params present,
+            # and careersmarketplace uses a different job-link shape. Rather
+            # than regress to zero, hand those to the old scraper.
             if not jobs:
                 print(f"  [Avature] {name}: 0 links — falling back to "
+                      f"generic scraper")
+                return fetch_generic(url)
+            return jobs
+        elif ph_base:
+            print(f"  [Phenom] {name} (host={ph_base})")
+            jobs = fetch_phenom(ph_base, filters)
+            if not jobs:
+                print(f"  [Phenom] {name}: 0 jobs — falling back to "
                       f"generic scraper")
                 return fetch_generic(url)
             return jobs
@@ -977,9 +1093,8 @@ def fetch_company_jobs(company, filters=None):
 def send_telegram(message):
     token = os.environ.get("TELEGRAM_BOT_TOKEN")
     chat_ids_raw = os.environ.get("TELEGRAM_CHAT_ID", "")
-    # dict.fromkeys de-duplicates while keeping order: if the same chat
-    # id ends up in the secret twice, the recipient would otherwise get
-    # every alert twice.
+    # dict.fromkeys de-duplicates while keeping order: the same id twice in
+    # the secret would otherwise send every alert twice.
     chat_ids = list(dict.fromkeys(
         c.strip() for c in chat_ids_raw.split(",") if c.strip()))
 
@@ -991,7 +1106,7 @@ def send_telegram(message):
     api = f"https://api.telegram.org/bot{token}/sendMessage"
     for chat_id in chat_ids:
         try:
-            requests.post(api, data={
+            http_post(api, data={
                 "chat_id": chat_id,
                 "text": message,
                 "parse_mode": "HTML",
@@ -1003,12 +1118,9 @@ def send_telegram(message):
 
 def interleave_by_company(pending):
     """
-    Reorder (name, job_id, job) entries round-robin across companies.
-
-    pending arrives in companies.json order, so a single employer with
-    hundreds of new postings would fill the alert budget and bury every
-    company listed after it. Taking one per company per pass gives each
-    employer a fair share of whatever budget there is.
+    Reorder (name, job_id, job) entries round-robin across companies, so
+    one employer with hundreds of new postings cannot fill the alert
+    budget and bury everyone listed after it.
     """
     buckets = {}
     for item in pending:
@@ -1036,6 +1148,7 @@ def main():
 
     pending = []
     rebaselined = []
+    failed = []
 
     for company in companies:
         name = company["name"]
@@ -1043,6 +1156,7 @@ def main():
         current_jobs = fetch_company_jobs(company, filters)
 
         if current_jobs is None:
+            failed.append(name)
             continue
 
         fetched = len(current_jobs)
@@ -1062,11 +1176,8 @@ def main():
             continue
 
         if len(new_ids) > RE_BASELINE_THRESHOLD:
-            # Not 187 jobs posted since the last run; 187 jobs this bot is
-            # seeing for the first time. Alerting on them buries the two or
-            # three genuinely new postings from everywhere else.
-            print(f"  [RE-BASELINE] {len(new_ids)} new at once — recording silently, "
-                  f"not alerting. Browse this board by hand if you want them.")
+            print(f"  [RE-BASELINE] {len(new_ids)} new at once — recording "
+                  f"silently, not alerting.")
             rebaselined.append((name, len(new_ids)))
             seen[name] = current_jobs
             continue
@@ -1079,22 +1190,18 @@ def main():
         seen[name] = current_jobs
 
     # One employer with 200 new postings must not eat the whole alert
-    # budget and push every other company's postings into the deferred
-    # pile, so take them a company at a time instead of in file order.
+    # budget, so deal them out a company at a time, not in file order.
     pending = interleave_by_company(pending)
 
     to_send = pending[:MAX_ALERTS_PER_RUN]
     deferred = pending[MAX_ALERTS_PER_RUN:]
 
-    # Un-see anything we are not sending this run. Without this the save
-    # below marks it as already-alerted while Telegram never shows it,
-    # so a flood permanently swallows real postings. Deferred ones look
-    # new again next run and go out then, MAX_ALERTS_PER_RUN at a time.
+    # Un-see anything not sent this run. Without this the save below marks
+    # it already-alerted while Telegram never shows it, so a flood
+    # permanently swallows real postings.
     for name, job_id, _job in deferred:
         seen.get(name, {}).pop(job_id, None)
 
-    # Save before notifying: if Telegram is down or rate-limits us, we'd
-    # rather drop the sent batch once than re-send it every 2 hours.
     save_json(SEEN_FILE, seen)
 
     for name, _job_id, job in to_send:
@@ -1111,25 +1218,31 @@ def main():
             f"through on the next runs, {MAX_ALERTS_PER_RUN} at a time. Nothing "
             f"is lost.\n\n{breakdown}"
         )
-        print(f"\n[INFO] {len(deferred)} alert(s) deferred to the next run "
-              f"(cap is {MAX_ALERTS_PER_RUN}). They remain unseen and will resend.",
-              file=sys.stderr)
 
     if rebaselined:
         lines = "\n".join(f"• {n}: {c}" for n, c in sorted(rebaselined))
         total = sum(c for _, c in rebaselined)
         send_telegram(
             f"🔄 <b>{len(rebaselined)} company board(s) started working</b> and were "
-            f"recorded without alerting ({total} postings). This is a first look at "
-            f"those boards, not new jobs. Open them by hand if you want to go "
-            f"through them.\n\n{lines}"
+            f"recorded without alerting ({total} postings). A first look at those "
+            f"boards, not new jobs.\n\n{lines}"
         )
-        print(f"\n[INFO] Re-baselined {len(rebaselined)} company(s), "
-              f"{total} postings recorded silently.", file=sys.stderr)
+
+    # A handful of failures is normal. A large share means something
+    # systemic, usually rate limiting, and the run should say so loudly
+    # rather than looking quiet.
+    if failed and len(failed) >= max(5, len(companies) // 10):
+        send_telegram(
+            f"⚠️ <b>{len(failed)} of {len(companies)} companies failed to "
+            f"fetch this run.</b> Those boards were not checked, so postings "
+            f"from them are not missing, just delayed. Check the Actions log "
+            f"for the reason."
+        )
 
     print(f"\nDone. {len(pending)} new posting(s) found, "
           f"{len(to_send)} sent, {len(deferred)} queued, "
-          f"{len(rebaselined)} board(s) re-baselined.")
+          f"{len(rebaselined)} board(s) re-baselined, "
+          f"{len(failed)} company(s) failed.")
 
 
 if __name__ == "__main__":
