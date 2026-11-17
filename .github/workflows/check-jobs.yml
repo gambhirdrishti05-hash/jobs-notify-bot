@@ -2,7 +2,7 @@ name: Check job postings
 
 on:
   schedule:
-    - cron: "23 */2 * * *"   # every 2 hours, 23 past, off the busy on-the-hour mark
+    - cron: "23 * * * *"   # every 2 hours, 23 past, off the busy on-the-hour mark
   workflow_dispatch: {}       # lets you also trigger it manually from GitHub
 
 # Queue a second run behind the first instead of letting two race.
