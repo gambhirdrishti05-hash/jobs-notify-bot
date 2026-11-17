@@ -22,6 +22,8 @@ non-job links. The Actions log prints which method was used for
 each company so you can tell at a glance what's reliable vs not.
 """
 
+import datetime
+import hashlib
 import json
 import os
 import re
@@ -59,6 +61,25 @@ RETRY_STATUSES = (429, 502, 503)
 MAX_RETRIES = 3
 RETRY_BACKOFF = 5            # seconds, doubled each attempt
 _last_request = [0.0]
+
+# Workday puts every tenant on its own subdomain (tenant.wd5.myworkdayjobs.com),
+# but the 429s come from Workday's shared hosting, not the individual tenant —
+# a block seen on one company's host says nothing about that one company, it
+# says this run's source IP is being throttled by the provider as a whole.
+# Once that's clear, retrying every other company on the same provider three
+# times each just burns the run's time on a wall that isn't opening again
+# this run. Give up on retries for that provider once, and go back to
+# retrying it fresh next run.
+_SHARED_PROVIDERS = ("myworkdayjobs.com", "myworkdaysite.com")
+RATE_LIMITED_PROVIDERS = set()
+
+
+def _provider_of(url):
+    host = urlparse(url).netloc
+    for suffix in _SHARED_PROVIDERS:
+        if host.endswith(suffix):
+            return suffix
+    return host
 HEADERS = {
     # Keep this reasonably current. iCIMS (and likely others) reject
     # noticeably stale User-Agents with a bare 405 Method Not Allowed,
@@ -101,20 +122,32 @@ def _request(method, url, **kwargs):
 
     Every fetcher goes through here so the whole run shares a single
     request budget. On a rate-limit response we wait and try again rather
-    than losing the company for the run.
+    than losing the company for the run — unless this provider has already
+    used up a full retry cycle this run and lost, in which case we take
+    the one-shot answer instead of waiting on a wall that isn't opening
+    again this run.
     """
+    provider = _provider_of(url)
+    skip_retries = provider in RATE_LIMITED_PROVIDERS
+    retries = 0 if skip_retries else MAX_RETRIES
     r = None
-    for attempt in range(MAX_RETRIES + 1):
+    for attempt in range(retries + 1):
         gap = REQUEST_GAP - (time.monotonic() - _last_request[0])
         if gap > 0:
             time.sleep(gap)
         _last_request[0] = time.monotonic()
         r = requests.request(method, url, **kwargs)
-        if r.status_code not in RETRY_STATUSES or attempt == MAX_RETRIES:
+        if r.status_code not in RETRY_STATUSES or attempt == retries:
+            if r.status_code in RETRY_STATUSES:
+                if not skip_retries:
+                    print(f"  [RATE LIMIT] {provider} is throttling this "
+                          f"run — giving up on retries for it for the "
+                          f"rest of this run", file=sys.stderr)
+                RATE_LIMITED_PROVIDERS.add(provider)
             return r
         wait = RETRY_BACKOFF * (2 ** attempt)
         print(f"  [RATE LIMIT] {r.status_code} from {urlparse(url).netloc}, "
-              f"waiting {wait}s (attempt {attempt + 1}/{MAX_RETRIES})",
+              f"waiting {wait}s (attempt {attempt + 1}/{retries})",
               file=sys.stderr)
         time.sleep(wait)
     return r
@@ -1069,7 +1102,13 @@ def fetch_company_jobs(company, filters=None):
             return jobs
         elif ph_base:
             print(f"  [Phenom] {name} (host={ph_base})")
-            jobs = fetch_phenom(ph_base, filters)
+            try:
+                jobs = fetch_phenom(ph_base, filters)
+            except Exception as e:
+                print(f"  [Phenom] {name}: {e} — not a real Phenom "
+                      f"endpoint, falling back to generic scraper",
+                      file=sys.stderr)
+                return fetch_generic(url)
             if not jobs:
                 print(f"  [Phenom] {name}: 0 jobs — falling back to "
                       f"generic scraper")
@@ -1116,6 +1155,15 @@ def send_telegram(message):
             print(f"  [ERROR] Failed to send to chat_id {chat_id}: {e}")
 
 
+def company_half(name):
+    """
+    Deterministic 0/1 split by company name, not list position — so
+    adding or removing a company elsewhere in companies.json doesn't
+    reshuffle which half an existing company lands in.
+    """
+    return int(hashlib.md5(name.encode()).hexdigest(), 16) % 2
+
+
 def interleave_by_company(pending):
     """
     Reorder (name, job_id, job) entries round-robin across companies, so
@@ -1138,6 +1186,17 @@ def main():
     companies = load_json(COMPANIES_FILE, [])
     seen = load_json(SEEN_FILE, {})
     filters = load_filters()
+
+    # The list has grown past what Workday's shared hosting will answer
+    # for one run without throttling. Splitting into two halves and
+    # running hourly instead of every 2 hours keeps every company on the
+    # same every-2-hours cadence it had before, just at half the
+    # simultaneous load per run.
+    current_half = datetime.datetime.utcnow().hour % 2
+    all_count = len(companies)
+    companies = [c for c in companies if company_half(c["name"]) == current_half]
+    print(f"Half {current_half} of 2 this run: checking {len(companies)} "
+          f"of {all_count} companies\n")
 
     active = []
     if filters["roles_enabled"]:
