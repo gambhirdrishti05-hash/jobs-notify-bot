@@ -720,6 +720,12 @@
       "location": "Nashville, TN, United States",
       "country_code": "US"
     },
+    "210790035": {
+      "title": "Wealth Management Quant Analytics Associate",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790035",
+      "location": "Jersey City, NJ, United States",
+      "country_code": "US"
+    },
     "210776467": {
       "title": "Card Risk Analytics - Consumer & Community Banking - Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776467",
@@ -1067,12 +1073,6 @@
       "location": "Redmond, Washington, USA",
       "country_code": "USA"
     },
-    "10593104": {
-      "title": "Business Analyst II, Global Logistics - Exports PMO",
-      "url": "https://www.amazon.jobs/en/jobs/10593104/business-analyst-ii-global-logistics-exports-pmo",
-      "location": "Bellevue, Washington, USA",
-      "country_code": "USA"
-    },
     "10599272": {
       "title": "Business Analyst, Customer Experience, Amazon Air, Amazon Air - Customer Experience",
       "url": "https://www.amazon.jobs/en/jobs/10599272/business-analyst-customer-experience-amazon-air-amazon-air-customer-experience",
@@ -1413,12 +1413,6 @@
       "title": "Operations Analyst, RI Operations",
       "url": "https://www.amazon.jobs/en/jobs/10522793/operations-analyst-ri-operations",
       "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
-    "10517210": {
-      "title": "Business Analyst, Relay Trust",
-      "url": "https://www.amazon.jobs/en/jobs/10517210/business-analyst-relay-trust",
-      "location": "Bellevue, Washington, USA",
       "country_code": "USA"
     },
     "10522480": {
@@ -5035,27 +5029,13 @@
       "country_code": "US"
     }
   },
-  "Intuit": {
-    "https://jobs.intuit.com/job/mountain-view/staff-fraud-and-risk-analyst-ai-capabilities-and-analytics/27595/103389133872": {
-      "title": "Staff Fraud & Risk Analyst \u2013 AI Capabilities & AnalyticsMultiple Locations",
-      "url": "https://jobs.intuit.com/job/mountain-view/staff-fraud-and-risk-analyst-ai-capabilities-and-analytics/27595/103389133872"
-    }
-  },
-  "Moodys": {
-    "https://careers.moodys.com/en/job/bengaluru/financial-data-analyst/49841/102024423632": {
-      "title": "Financial Data Analyst",
-      "url": "https://careers.moodys.com/en/job/bengaluru/financial-data-analyst/49841/102024423632"
-    }
-  },
+  "Intuit": {},
+  "Moodys": {},
   "UKG": {},
   "PGE": {
     "https://jobs.pge.com/job/oakland/expert-external-reporting-analyst/29673/99091679584": {
       "title": "Expert External Reporting Analyst",
       "url": "https://jobs.pge.com/job/oakland/expert-external-reporting-analyst/29673/99091679584"
-    },
-    "https://jobs.pge.com/job/american-canyon/project-controls-analyst/29673/103139081824": {
-      "title": "Project Controls Analyst",
-      "url": "https://jobs.pge.com/job/american-canyon/project-controls-analyst/29673/103139081824"
     }
   },
   "Raunch": {},
