@@ -594,12 +594,6 @@
       "location": "San Francisco, CA, United States",
       "country_code": "US"
     },
-    "210761775": {
-      "title": "Asset Management: Opening Market Insights Research Analyst  - Associate",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210761775",
-      "location": "New York, NY, United States",
-      "country_code": "US"
-    },
     "210776352": {
       "title": "Investment Banking - Private Capital Advisory, GP-Led Secondaries - Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210776352",
@@ -1385,12 +1379,6 @@
       "location": "Tempe, Arizona, USA",
       "country_code": "USA"
     },
-    "10548871": {
-      "title": "Business Analyst, Selling Partner Experience, Selling Partner Experience EASE and Analytics (SPXEA)",
-      "url": "https://www.amazon.jobs/en/jobs/10548871/business-analyst-selling-partner-experience-selling-partner-experience-ease-and-analytics-spxea",
-      "location": "Seattle, Washington, USA",
-      "country_code": "USA"
-    },
     "10522793": {
       "title": "Operations Analyst, RI Operations",
       "url": "https://www.amazon.jobs/en/jobs/10522793/operations-analyst-ri-operations",
@@ -1419,12 +1407,6 @@
       "title": "Business Analyst II, Vendor Performance, OTS-GSP-TOPS",
       "url": "https://www.amazon.jobs/en/jobs/10551961/business-analyst-ii-vendor-performance-ots-gsp-tops",
       "location": "New York, New York, USA",
-      "country_code": "USA"
-    },
-    "10496978": {
-      "title": "Protective Intel Analyst, GRIS Protective Intel",
-      "url": "https://www.amazon.jobs/en/jobs/10496978/protective-intel-analyst-gris-protective-intel",
-      "location": "Seattle, Washington, USA",
       "country_code": "USA"
     },
     "10499099": {
@@ -2531,6 +2513,18 @@
     }
   },
   "Gainwell": {
+    "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Litigation-Support-Analyst-%28Expert-Witness%29-Remote-West-Sacramento%2C-CA-CA-95605-1630/1441682100/": {
+      "title": "Litigation Support Analyst (Expert Witness) - Remote - West Sacramento, CA",
+      "url": "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Litigation-Support-Analyst-%28Expert-Witness%29-Remote-West-Sacramento%2C-CA-CA-95605-1630/1441682100/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Business-Analyst-Requirements-Validation-%28RV%29-TX-99999/1441702300/": {
+      "title": "Advisor Business Analyst - Requirements Validation (RV)",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Business-Analyst-Requirements-Validation-%28RV%29-TX-99999/1441702300/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Technical-Analyst-Advisor-Application-Architect-TX-99999/1432056000/": {
+      "title": "Technical Analyst / Advisor Application Architect",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Technical-Analyst-Advisor-Application-Architect-TX-99999/1432056000/"
+    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Business-Analyst-Claims-Configuration-%28QNXT%29-MT-99999/1451645500/": {
       "title": "Advisor Business Analyst - Claims Configuration (QNXT)",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Business-Analyst-Claims-Configuration-%28QNXT%29-MT-99999/1451645500/"
@@ -2538,22 +2532,6 @@
     "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-Data-Analytics-&-Reporting-TX-99999/1410241500/": {
       "title": "Business Analyst - Data Analytics & Reporting",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-Data-Analytics-&-Reporting-TX-99999/1410241500/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Bangalore-Data-Science-AI-Engineer%2C-Professional-2-KA-560100/1451346700/": {
-      "title": "Data Science AI Engineer, Professional 2",
-      "url": "https://jobs.gainwelltechnologies.com/job/Bangalore-Data-Science-AI-Engineer%2C-Professional-2-KA-560100/1451346700/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Business-Analyst-Requirement-Validation-%28RV%29-Lead-TX-99999/1451626400/": {
-      "title": "Advisor Business Analyst - Requirement Validation (RV) Lead",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Business-Analyst-Requirement-Validation-%28RV%29-Lead-TX-99999/1451626400/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Professional-Business-Analyst-Claims-Configuration-%28QNXT%29-MT-99999/1451640500/": {
-      "title": "Professional Business Analyst - Claims Configuration (QNXT)",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Professional-Business-Analyst-Claims-Configuration-%28QNXT%29-MT-99999/1451640500/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Data-Science-AI-Engineer-TX-99999/1394079400/": {
-      "title": "Experienced Data Science AI Engineer",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Experienced-Data-Science-AI-Engineer-TX-99999/1394079400/"
     }
   },
   "Happen Bank": {},
@@ -2571,7 +2549,14 @@
     }
   },
   "Cornerstone": {},
-  "CarGurus": {},
+  "CarGurus": {
+    "CABCARUS8195874EXTERNALENUS": {
+      "title": "Associate Marketing Data Analyst",
+      "url": "https://careers.cargurus.com/us/en/job/8195874?gh_jid=8195874",
+      "location": "Boston, Massachusetts, United States",
+      "country_code": "United States"
+    }
+  },
   "State Street": {
     "/job/Burlington-Massachusetts/Primary-Systems-Analyst_R-798872": {
       "title": "Primary Systems Analyst",
@@ -5045,10 +5030,24 @@
       "country_code": "US"
     }
   },
-  "Intuit": {},
+  "Intuit": {
+    "https://jobs.intuit.com/job/bengaluru/distinguished-engineer-business-platform-business-intelligence-and-data/27595/103460689488": {
+      "title": "Distinguished Engineer- Business Platform, Business Intelligence & DataBangalore, India",
+      "url": "https://jobs.intuit.com/job/bengaluru/distinguished-engineer-business-platform-business-intelligence-and-data/27595/103460689488"
+    }
+  },
   "Moodys": {},
   "UKG": {},
-  "PGE": {},
+  "PGE": {
+    "https://jobs.pge.com/job/oakland/expert-project-controls-analyst/29673/103240462384": {
+      "title": "Expert Project Controls Analyst",
+      "url": "https://jobs.pge.com/job/oakland/expert-project-controls-analyst/29673/103240462384"
+    },
+    "https://jobs.pge.com/job/san-ramon/expert-3d-cad-records-and-data-analyst/29673/99462559200": {
+      "title": "Expert 3D CAD Records and Data Analyst",
+      "url": "https://jobs.pge.com/job/san-ramon/expert-3d-cad-records-and-data-analyst/29673/99462559200"
+    }
+  },
   "Raunch": {},
   "Check": {},
   "Corning": {},
@@ -6443,5 +6442,7 @@
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288140",
       "location": "US, Oregon, Hillsboro"
     }
-  }
+  },
+  "AbbVie": {},
+  "Specialty": {}
 }
