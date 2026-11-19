@@ -35,10 +35,10 @@ jobs:
         run: |
           git config user.name "job-alert-bot"
           git config user.email "actions@github.com"
-          git add seen_jobs.json
+          git add seen_jobs.json run_state.json
           git diff --quiet --cached || git commit -m "Update seen jobs"
-          # Rebase onto anything pushed since checkout — including edits
-          # you made in the browser while the run was in flight — then
+          # Rebase onto anything pushed since checkout, including edits
+          # you made in the browser while the run was in flight, then
           # push. Without this the run loses its state file and you get
           # the same alerts again next time.
           for i in 1 2 3; do
