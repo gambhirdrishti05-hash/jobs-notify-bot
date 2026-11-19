@@ -1,5 +1,11 @@
 {
   "JPMorgan Chase": {
+    "210810615": {
+      "title": "U.S. Private Bank - AWM Program Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810615",
+      "location": "Fort Lauderdale, FL, United States",
+      "country_code": "US"
+    },
     "210810437": {
       "title": "Equity Portfolio Management team, Model Risk Management, Program Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810437",
@@ -27,6 +33,12 @@
     "210808600": {
       "title": "Trade Lifecycle Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808600",
+      "location": "Newark, DE, United States",
+      "country_code": "US"
+    },
+    "210804318": {
+      "title": "Loan Origination Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804318",
       "location": "Newark, DE, United States",
       "country_code": "US"
     },
@@ -923,6 +935,12 @@
     }
   },
   "Amazon": {
+    "10608874": {
+      "title": "Financial Analyst III - AMZ10564135",
+      "url": "https://www.amazon.jobs/en/jobs/10608874/financial-analyst-iii-amz10564135",
+      "location": "Austin, Texas, USA",
+      "country_code": "USA"
+    },
     "10608435": {
       "title": "Business Analyst II - AMZ10563906",
       "url": "https://www.amazon.jobs/en/jobs/10608435/business-analyst-ii-amz10563906",
@@ -1085,6 +1103,12 @@
       "location": "Redmond, Washington, USA",
       "country_code": "USA"
     },
+    "10593916": {
+      "title": "Data Scientist , Music DISCO",
+      "url": "https://www.amazon.jobs/en/jobs/10593916/data-scientist-music-disco",
+      "location": "San Francisco, California, USA",
+      "country_code": "USA"
+    },
     "10599272": {
       "title": "Business Analyst, Customer Experience, Amazon Air, Amazon Air - Customer Experience",
       "url": "https://www.amazon.jobs/en/jobs/10599272/business-analyst-customer-experience-amazon-air-amazon-air-customer-experience",
@@ -1137,12 +1161,6 @@
       "title": "Financial Analyst II - AMZ25676.2",
       "url": "https://www.amazon.jobs/en/jobs/10585298/financial-analyst-ii-amz25676-2",
       "location": "Culver City, California, USA",
-      "country_code": "USA"
-    },
-    "10594142": {
-      "title": "Business Analyst, Global Supply Chain & Transportation Procurement",
-      "url": "https://www.amazon.jobs/en/jobs/10594142/business-analyst-global-supply-chain-transportation-procurement",
-      "location": "Nashville, Tennessee, USA",
       "country_code": "USA"
     },
     "10584143": {
@@ -2519,13 +2537,13 @@
     }
   },
   "Gainwell": {
-    "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Litigation-Support-Analyst-%28Expert-Witness%29-Remote-West-Sacramento%2C-CA-CA-95605-1630/1441682100/": {
-      "title": "Litigation Support Analyst (Expert Witness) - Remote - West Sacramento, CA",
-      "url": "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Litigation-Support-Analyst-%28Expert-Witness%29-Remote-West-Sacramento%2C-CA-CA-95605-1630/1441682100/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Technical-Analyst-Advisor-Application-Architect-TX-99999/1432056000/": {
       "title": "Technical Analyst / Advisor Application Architect",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Technical-Analyst-Advisor-Application-Architect-TX-99999/1432056000/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Litigation-Support-Analyst-%28Expert-Witness%29-Remote-West-Sacramento%2C-CA-CA-95605-1630/1441682100/": {
+      "title": "Litigation Support Analyst (Expert Witness) - Remote - West Sacramento, CA",
+      "url": "https://jobs.gainwelltechnologies.com/job/West-Sacramento-Litigation-Support-Analyst-%28Expert-Witness%29-Remote-West-Sacramento%2C-CA-CA-95605-1630/1441682100/"
     },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Business-Analyst-Claims-Configuration-%28QNXT%29-MT-99999/1451645500/": {
       "title": "Advisor Business Analyst - Claims Configuration (QNXT)",
@@ -2534,10 +2552,6 @@
     "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analytics%2C-Advisor-WI-99999/1451782100/": {
       "title": "Business Analytics, Advisor",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analytics%2C-Advisor-WI-99999/1451782100/"
-    },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-Data-Analytics-&-Reporting-TX-99999/1410241500/": {
-      "title": "Business Analyst - Data Analytics & Reporting",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Business-Analyst-Data-Analytics-&-Reporting-TX-99999/1410241500/"
     }
   },
   "Happen Bank": {},
@@ -5014,17 +5028,31 @@
       "country_code": "US"
     }
   },
-  "Intuit": {},
-  "Moodys": {},
+  "Intuit": {
+    "https://jobs.intuit.com/job/san-diego/staff-data-scientist-turbotax-product/27595/103491865376": {
+      "title": "Staff Data Scientist - Turbotax ProductMultiple Locations",
+      "url": "https://jobs.intuit.com/job/san-diego/staff-data-scientist-turbotax-product/27595/103491865376"
+    }
+  },
+  "Moodys": {
+    "https://careers.moodys.com/en/job/new-york/associate-lead-analyst-1/49841/103484545280": {
+      "title": "Associate Lead Analyst 1",
+      "url": "https://careers.moodys.com/en/job/new-york/associate-lead-analyst-1/49841/103484545280"
+    },
+    "https://careers.moodys.com/en/job/new-york/lead-compensation-analyst/49841/103397034736": {
+      "title": "Lead Compensation Analyst",
+      "url": "https://careers.moodys.com/en/job/new-york/lead-compensation-analyst/49841/103397034736"
+    }
+  },
   "UKG": {},
   "PGE": {
-    "https://jobs.pge.com/job/oakland/expert-project-controls-analyst/29673/103240462384": {
-      "title": "Expert Project Controls Analyst",
-      "url": "https://jobs.pge.com/job/oakland/expert-project-controls-analyst/29673/103240462384"
+    "https://jobs.pge.com/job/pleasanton/business-analyst/29673/103493637264": {
+      "title": "Business Analyst",
+      "url": "https://jobs.pge.com/job/pleasanton/business-analyst/29673/103493637264"
     },
-    "https://jobs.pge.com/job/oakland/erp-functional-analyst-expert-finance/29673/89562695072": {
-      "title": "ERP Functional Analyst, Expert - Finance",
-      "url": "https://jobs.pge.com/job/oakland/erp-functional-analyst-expert-finance/29673/89562695072"
+    "https://jobs.pge.com/job/stockton/business-analyst/29673/103488172752": {
+      "title": "Business Analyst",
+      "url": "https://jobs.pge.com/job/stockton/business-analyst/29673/103488172752"
     }
   },
   "Raunch": {},
@@ -5515,41 +5543,41 @@
     }
   },
   "Siemens": {
-    "527852": {
-      "title": "Accounts Payable & Accounting Analyst",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527852"
+    "530059": {
+      "title": "Financial Analyst",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530059"
     },
-    "527357": {
-      "title": "Financial Analyst Operations Mobility Customer Services",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527357"
+    "528362": {
+      "title": "Financial Analyst IV",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528362"
     },
-    "526527": {
-      "title": "Strategic Pricing Analyst, New Grad Opportunity, (12 months contract)",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526527"
+    "528591": {
+      "title": "Finance Analyst",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528591"
     },
-    "524204": {
-      "title": "Reporting & Data Analyst \u2013 Cybersecurity Operations",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524204"
+    "529652": {
+      "title": "Salesforce Business Operations Analyst",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529652"
     },
-    "489260": {
-      "title": "Financial Analyst \u2013 FP&A & Data Science",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/489260"
+    "528468": {
+      "title": "Data and Business Analyst \u6578\u64da\u5546\u696d\u5206\u6790\u5e2b",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528468"
+    },
+    "516542": {
+      "title": "Cyber Defense Center Analyst (m/f/d)",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/516542"
+    },
+    "528542": {
+      "title": "Commercial Analyst",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528542"
+    },
+    "524199": {
+      "title": "Cybersecurity Professional - Vulnerability Management Analyst",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524199"
     },
     "527195": {
       "title": "Performance Controller / Finance Data Analyst",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527195"
-    },
-    "518328": {
-      "title": "Finance Analyst",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/518328"
-    },
-    "524200": {
-      "title": "ACP Compliance Analyst \u2013 Asset Administrator",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524200"
-    },
-    "523167": {
-      "title": "SAP CO Business Analyst",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523167"
     },
     "526470": {
       "title": "Agentic Analytics & Data US Intern - Summer 2027",
@@ -5562,6 +5590,18 @@
     "529126": {
       "title": "Order Management & Data Analytics Professional",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529126"
+    },
+    "526527": {
+      "title": "Strategic Pricing Analyst, New Grad Opportunity, (12 months contract)",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526527"
+    },
+    "524204": {
+      "title": "Reporting & Data Analyst \u2013 Cybersecurity Operations",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524204"
+    },
+    "489260": {
+      "title": "Financial Analyst \u2013 FP&A & Data Science",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/489260"
     },
     "523519": {
       "title": "Data Analyst and Business Intelligence Intern",
@@ -5579,9 +5619,9 @@
       "title": "Business Analyst - CRM (m/f/d)",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521936"
     },
-    "526949": {
-      "title": "Sales Data Analyst Trainee (m/f/d)",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526949"
+    "524670": {
+      "title": "Gas Turbine Service Engineer for Fleet Intelligence & Reporting",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524670"
     },
     "516579": {
       "title": "Process Analyst \u2013  Knowledge-to-AI Consultant (m/f/d)",
@@ -5591,6 +5631,10 @@
       "title": "Data Analyst",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528979"
     },
+    "527357": {
+      "title": "Financial Analyst Operations Mobility Customer Services",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527357"
+    },
     "523326": {
       "title": "Data Scientist Intern",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523326"
@@ -5599,25 +5643,33 @@
       "title": "Data Scientist",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524757"
     },
-    "527050": {
-      "title": "Data Analyst- Technology and Finance Audit",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527050"
-    },
     "515343": {
       "title": "Product Owner - Analytics Application",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/515343"
+    },
+    "528080": {
+      "title": "\uff08\u8d22\u52a1\u5171\u4eab\u4e2d\u5fc3\uff09\u8d22\u52a1\u670d\u52a1\u4e13\u5bb6_Closing & Reporting",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528080"
+    },
+    "524981": {
+      "title": "Customer Success Adoption Analyst",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524981"
+    },
+    "518328": {
+      "title": "Finance Analyst",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/518328"
     },
     "524402": {
       "title": "Data Scientist",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524402"
     },
+    "524200": {
+      "title": "ACP Compliance Analyst \u2013 Asset Administrator",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524200"
+    },
     "517628": {
       "title": "Business Analyst - Financial Services (m/f/d)",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/517628"
-    },
-    "516542": {
-      "title": "Cyber Defense Center Analyst (m/f/d)",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/516542"
     }
   },
   "Cummins": {},
