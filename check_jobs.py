@@ -22,7 +22,6 @@ non-job links. The Actions log prints which method was used for
 each company so you can tell at a glance what's reliable vs not.
 """
 
-import datetime
 import hashlib
 import json
 import os
@@ -38,6 +37,7 @@ from bs4 import BeautifulSoup
 COMPANIES_FILE = "companies.json"
 SEEN_FILE = "seen_jobs.json"
 FILTERS_FILE = "filters.json"
+STATE_FILE = "run_state.json"
 
 # Ceiling on Telegram messages per run. A company changing its URL, or a
 # fetcher that starts seeing postings it previously truncated, can turn a
@@ -1188,11 +1188,12 @@ def main():
     filters = load_filters()
 
     # The list has grown past what Workday's shared hosting will answer
-    # for one run without throttling. Splitting into two halves and
-    # running hourly instead of every 2 hours keeps every company on the
-    # same every-2-hours cadence it had before, just at half the
-    # simultaneous load per run.
-    current_half = datetime.datetime.utcnow().hour % 2
+    # for one run without throttling, so each run checks one half of it.
+    # Halves alternate by remembering which one ran last (run_state.json),
+    # not by the clock: GitHub skips scheduled runs, and picking by hour
+    # would leave one half unchecked whenever the skipped runs line up.
+    state = load_json(STATE_FILE, {})
+    current_half = 1 - state.get("last_half", 1)
     all_count = len(companies)
     companies = [c for c in companies if company_half(c["name"]) == current_half]
     print(f"Half {current_half} of 2 this run: checking {len(companies)} "
@@ -1262,6 +1263,7 @@ def main():
         seen.get(name, {}).pop(job_id, None)
 
     save_json(SEEN_FILE, seen)
+    save_json(STATE_FILE, {"last_half": current_half})
 
     for name, _job_id, job in to_send:
         where = f"\n📍 {job['location']}" if job.get("location") else ""
