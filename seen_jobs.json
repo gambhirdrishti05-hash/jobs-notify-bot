@@ -762,6 +762,12 @@
       "location": "Brooklyn, NY, United States",
       "country_code": "US"
     },
+    "210794123": {
+      "title": "Analytics Solutions Lead",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794123",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
     "210790618": {
       "title": "Liquidity Risk Reporting - Corporate Risk - Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790618",
@@ -778,12 +784,6 @@
       "title": "Lead Software Engineer (Python, AWS, Spark/Flink) \u2013 Digital Personalization & Insights",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808278",
       "location": "Chicago, IL, United States",
-      "country_code": "US"
-    },
-    "210794123": {
-      "title": "Analytics Solutions Lead",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794123",
-      "location": "New York, NY, United States",
       "country_code": "US"
     },
     "210748726": {
@@ -1347,12 +1347,6 @@
       "title": "Bus Analyst II \u2013 AMZ010578",
       "url": "https://www.amazon.jobs/en/jobs/10534246/bus-analyst-ii-amz010578",
       "location": "New York, New York, USA",
-      "country_code": "USA"
-    },
-    "10534279": {
-      "title": "Business Analyst \u2013 Macro Space Analytics , WWGS Pricing, Data & Analytics",
-      "url": "https://www.amazon.jobs/en/jobs/10534279/business-analyst-macro-space-analytics-wwgs-pricing-data-analytics",
-      "location": "Austin, Texas, USA",
       "country_code": "USA"
     },
     "10552350": {
@@ -4783,14 +4777,34 @@
     }
   },
   "Elevance Health": {
-    "/job/KY-LOUISVILLE-3195-TERRA-CROSSING-BLVD-STE-202-204-300-302-304--306/Subrogation-Analyst_JR209170-1": {
-      "title": "Subrogation Analyst",
-      "url": "https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/KY-LOUISVILLE-3195-TERRA-CROSSING-BLVD-STE-202-204-300-302-304--306/Subrogation-Analyst_JR209170-1",
-      "location": "4 Locations"
+    "/job/VA-NORFOLK-5800-NORTHAMPTON-BLVD/Business-Analyst-II_JR211961-1": {
+      "title": "Business Analyst II",
+      "url": "https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/VA-NORFOLK-5800-NORTHAMPTON-BLVD/Business-Analyst-II_JR211961-1",
+      "location": "2 Locations"
     },
-    "/job/NY-LATHAM-15-PLAZA-DR/Business-Analyst-III--US-_JR211529": {
-      "title": "Business Analyst III (US)",
-      "url": "https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/NY-LATHAM-15-PLAZA-DR/Business-Analyst-III--US-_JR211529",
+    "/job/MA-BOSTON-200-STATE-ST/Behavioral-Health-Services-Analyst-II_JR212412": {
+      "title": "Behavioral Health Services Analyst II",
+      "url": "https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/MA-BOSTON-200-STATE-ST/Behavioral-Health-Services-Analyst-II_JR212412",
+      "location": "2 Locations"
+    },
+    "/job/OH-MASON-4361-IRWIN-SIMPSON-RD/Financial-Operations-Analyst_JR211709-1": {
+      "title": "Financial Operations Analyst",
+      "url": "https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/OH-MASON-4361-IRWIN-SIMPSON-RD/Financial-Operations-Analyst_JR211709-1",
+      "location": "OH-MASON, 4361 IRWIN SIMPSON RD"
+    },
+    "/job/NY-LATHAM-15-PLAZA-DR/Member-Coach-Satisfaction-Analyst_JR210330": {
+      "title": "Member Coach Satisfaction Analyst",
+      "url": "https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/NY-LATHAM-15-PLAZA-DR/Member-Coach-Satisfaction-Analyst_JR210330",
+      "location": "9 Locations"
+    },
+    "/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Actuarial-Analyst-I_JR213040": {
+      "title": "Actuarial Analyst I",
+      "url": "https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Actuarial-Analyst-I_JR213040",
+      "location": "9 Locations"
+    },
+    "/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Network-Operations-Analyst_JR212736": {
+      "title": "Network Operations Analyst",
+      "url": "https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Network-Operations-Analyst_JR212736",
       "location": "2 Locations"
     },
     "/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Healthcare-Outcomes-Research-Analyst--Business-Information-Consultant-_JR203996": {
@@ -5111,7 +5125,12 @@
     }
   },
   "UKG": {},
-  "PGE": {},
+  "PGE": {
+    "https://jobs.pge.com/job/oakland/expert-project-controls-analyst/29673/103240462384": {
+      "title": "Expert Project Controls Analyst",
+      "url": "https://jobs.pge.com/job/oakland/expert-project-controls-analyst/29673/103240462384"
+    }
+  },
   "Raunch": {},
   "Check": {},
   "Corning": {},
@@ -5484,7 +5503,13 @@
       "location": "Chicago, IL"
     }
   },
-  "Premier Bankcard": {},
+  "Premier Bankcard": {
+    "/job/Sioux-Falls-SD/PREMIER-Analytics-Internship_R-507-1": {
+      "title": "PREMIER Analytics Internship",
+      "url": "https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Analytics-Internship_R-507-1",
+      "location": "Sioux Falls, SD"
+    }
+  },
   "Raymond James": {
     "/job/Mc-Lean-Virginia---United-States/XMLNAME-2027-Investment-Banking-Analyst-I-Diversified-Industrials-McLean--VA_R-0013460": {
       "title": "2027 Investment Banking Analyst I Diversified Industrials McLean, VA",
@@ -5600,21 +5625,17 @@
     }
   },
   "Siemens": {
-    "528362": {
-      "title": "Financial Analyst IV",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528362"
+    "526527": {
+      "title": "Strategic Pricing Analyst, New Grad Opportunity, (12 months contract)",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526527"
     },
-    "530059": {
-      "title": "Financial Analyst",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530059"
+    "521969": {
+      "title": "IT Business Analyst (m/f/d)",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521969"
     },
-    "524199": {
-      "title": "Cybersecurity Professional - Vulnerability Management Analyst",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524199"
-    },
-    "524204": {
-      "title": "Reporting & Data Analyst \u2013 Cybersecurity Operations",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524204"
+    "523519": {
+      "title": "Data Analyst and Business Intelligence Intern",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523519"
     },
     "524981": {
       "title": "Customer Success Adoption Analyst",
@@ -5624,57 +5645,61 @@
       "title": "Inventory Analyst",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526018"
     },
-    "530083": {
-      "title": "Business Operations Analyst with German language - (m/f/d)",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530083"
+    "516579": {
+      "title": "Process Analyst \u2013  Knowledge-to-AI Consultant (m/f/d)",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/516579"
     },
-    "521435": {
-      "title": "Financial Analyst, Financial Planning & Analysis",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521435"
+    "528591": {
+      "title": "Finance Analyst",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528591"
     },
     "523750": {
       "title": "Financial Analyst",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523750"
     },
+    "526949": {
+      "title": "Sales Data Analyst Trainee (m/f/d)",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526949"
+    },
+    "527195": {
+      "title": "Performance Controller / Finance Data Analyst",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527195"
+    },
     "526470": {
       "title": "Agentic Analytics & Data US Intern - Summer 2027",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526470"
-    },
-    "522935": {
-      "title": "Software Engineer - Data Analytics and Reporting",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/522935"
-    },
-    "529564": {
-      "title": "AI & Data Analytics Intern \u2013 Power Systems",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529564"
     },
     "527724": {
       "title": "TSP Strategy & Analytics Intern, ASEAN",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527724"
     },
-    "523519": {
-      "title": "Data Analyst and Business Intelligence Intern",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523519"
+    "527496": {
+      "title": "Data Analytics & Platform Expert \u2013 Microsoft Fabric & Power BI (m/f/d)",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527496"
     },
-    "526527": {
-      "title": "Strategic Pricing Analyst, New Grad Opportunity, (12 months contract)",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526527"
+    "522935": {
+      "title": "Software Engineer - Data Analytics and Reporting",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/522935"
     },
-    "527050": {
-      "title": "Data Analyst- Technology and Finance Audit",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527050"
-    },
-    "521969": {
-      "title": "IT Business Analyst (m/f/d)",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521969"
-    },
-    "517628": {
-      "title": "Business Analyst - Financial Services (m/f/d)",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/517628"
+    "523326": {
+      "title": "Data Scientist Intern",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523326"
     },
     "529797": {
       "title": "Business Intelligence Professional",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529797"
+    },
+    "528080": {
+      "title": "\uff08\u8d22\u52a1\u5171\u4eab\u4e2d\u5fc3\uff09\u8d22\u52a1\u670d\u52a1\u4e13\u5bb6_Closing & Reporting",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528080"
+    },
+    "521435": {
+      "title": "Financial Analyst, Financial Planning & Analysis",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521435"
+    },
+    "517628": {
+      "title": "Business Analyst - Financial Services (m/f/d)",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/517628"
     },
     "525003": {
       "title": "Stage en Business Intelligence et Analyse (BI/BA) h/f",
@@ -5684,33 +5709,41 @@
       "title": "Business Analyst - CRM (m/f/d)",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521936"
     },
-    "526949": {
-      "title": "Sales Data Analyst Trainee (m/f/d)",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526949"
-    },
-    "516579": {
-      "title": "Process Analyst \u2013  Knowledge-to-AI Consultant (m/f/d)",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/516579"
-    },
-    "527195": {
-      "title": "Performance Controller / Finance Data Analyst",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527195"
-    },
     "529889": {
       "title": "Financial Analyst",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529889"
+    },
+    "527357": {
+      "title": "Financial Analyst Operations Mobility Customer Services",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527357"
+    },
+    "524204": {
+      "title": "Reporting & Data Analyst \u2013 Cybersecurity Operations",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524204"
+    },
+    "527050": {
+      "title": "Data Analyst- Technology and Finance Audit",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527050"
     },
     "524757": {
       "title": "Data Scientist",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524757"
     },
+    "528542": {
+      "title": "Commercial Analyst",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528542"
+    },
+    "528486": {
+      "title": "Commercial Controlling & Product Costing Financial Analyst",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528486"
+    },
     "528979": {
       "title": "Data Analyst",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528979"
     },
-    "523326": {
-      "title": "Data Scientist Intern",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523326"
+    "529564": {
+      "title": "AI & Data Analytics Intern \u2013 Power Systems",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529564"
     }
   },
   "Cummins": {},
