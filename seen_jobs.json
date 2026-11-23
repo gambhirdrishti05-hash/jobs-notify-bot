@@ -1,5 +1,17 @@
 {
   "JPMorgan Chase": {
+    "210808419": {
+      "title": "Quantitative Trading & Research - Algorithmic Execution - Analyst",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808419",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
+    "210808935": {
+      "title": "2027 Chase Leadership Development Program \u2014 Full-Time Analyst (Winter Cohort) Consumer & Community Banking Communications Focused - (NY Metro & Columbus)",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808935",
+      "location": "New York, NY, United States",
+      "country_code": "US"
+    },
     "210802598": {
       "title": "Global Corporate Banking \u2013 Consumer, Retail and Business Services \u2013 Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802598",
@@ -18,12 +30,6 @@
       "location": "Fort Worth, TX, United States",
       "country_code": "US"
     },
-    "210810499": {
-      "title": "CIB Sponsorships and Tickets Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810499",
-      "location": "NY, United States",
-      "country_code": "US"
-    },
     "210802555": {
       "title": "Commercial & Investment Bank - Wholesale Credit Risk - Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802555",
@@ -40,12 +46,6 @@
       "title": "Commercial Real Estate - Real Estate Banking Program Analyst - Class of 2025",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810466",
       "location": "San Francisco, CA, United States",
-      "country_code": "US"
-    },
-    "210802326": {
-      "title": "Fraud Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210802326",
-      "location": "Tampa, FL, United States",
       "country_code": "US"
     },
     "210809995": {
@@ -75,12 +75,6 @@
     "210804910": {
       "title": "Fraud Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804910",
-      "location": "Plano, TX, United States",
-      "country_code": "US"
-    },
-    "210805154": {
-      "title": "Fraud Analyst",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805154",
       "location": "Plano, TX, United States",
       "country_code": "US"
     },
@@ -618,12 +612,6 @@
       "location": "Tempe, AZ, United States",
       "country_code": "US"
     },
-    "210765276": {
-      "title": "2027 Global Finance & Business Management - Summer Analyst  (OH, IL, DE, TX)",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765276",
-      "location": "Columbus, OH, United States",
-      "country_code": "US"
-    },
     "210765972": {
       "title": "2027 Operations Analyst Program - Summer Analyst (AZ, DE, FL, OH, TX)",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210765972",
@@ -664,6 +652,12 @@
       "title": "Workplace Solutions - Equity Plan Management Analyst",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210603636",
       "location": "Nashville, TN, United States",
+      "country_code": "US"
+    },
+    "210810780": {
+      "title": "Data Scientist [Multiple Positions Available]",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810780",
+      "location": "Jacksonville, FL, United States",
       "country_code": "US"
     },
     "210810053": {
@@ -820,12 +814,6 @@
       "title": "Business Bank Lending Risk Analytics - Consumer & Community Banking -Associate",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775481",
       "location": "Wilmington, DE, United States",
-      "country_code": "US"
-    },
-    "210778948": {
-      "title": "Applied AI ML Lead, Chief Data & Analytics Office",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778948",
-      "location": "Jersey City, NJ, United States",
       "country_code": "US"
     }
   },
@@ -2096,13 +2084,13 @@
       "title": "Data Analyst",
       "url": "https://jobs.jobvite.com/webmd/job/oOvDAfwg"
     },
-    "https://jobs.jobvite.com/webmd/job/ocNPAfw8": {
-      "title": "Inventory Analyst",
-      "url": "https://jobs.jobvite.com/webmd/job/ocNPAfw8"
-    },
     "https://jobs.jobvite.com/webmd/job/obNPAfw7": {
       "title": "Inventory Analyst",
       "url": "https://jobs.jobvite.com/webmd/job/obNPAfw7"
+    },
+    "https://jobs.jobvite.com/webmd/job/ocNPAfw8": {
+      "title": "Inventory Analyst",
+      "url": "https://jobs.jobvite.com/webmd/job/ocNPAfw8"
     }
   },
   "UBS": {},
@@ -5118,17 +5106,12 @@
       "url": "https://jobs.intuit.com/job/mountain-view/staff-data-scientist-product-growth/27595/102558812352"
     }
   },
-  "Moodys": {
-    "https://careers.moodys.com/en/job/frankfurt-am-main/quantitative-analytics-and-modeling-summer-intern/49841/101661854496": {
-      "title": "Quantitative Analytics and Modeling Summer Intern",
-      "url": "https://careers.moodys.com/en/job/frankfurt-am-main/quantitative-analytics-and-modeling-summer-intern/49841/101661854496"
-    }
-  },
+  "Moodys": {},
   "UKG": {},
   "PGE": {
-    "https://jobs.pge.com/job/oakland/expert-project-controls-analyst/29673/103240462384": {
-      "title": "Expert Project Controls Analyst",
-      "url": "https://jobs.pge.com/job/oakland/expert-project-controls-analyst/29673/103240462384"
+    "https://jobs.pge.com/job/san-ramon/expert-3d-cad-records-and-data-analyst/29673/99462559200": {
+      "title": "Expert 3D CAD Records and Data Analyst",
+      "url": "https://jobs.pge.com/job/san-ramon/expert-3d-cad-records-and-data-analyst/29673/99462559200"
     }
   },
   "Raunch": {},
@@ -5533,10 +5516,6 @@
     }
   },
   "Cotiviti": {
-    "21018": {
-      "title": "Content Solutions Analyst I",
-      "url": "https://careers-cotiviti.icims.com/jobs/21018/content-solutions-analyst-i/job"
-    },
     "20540": {
       "title": "Solutions Analyst",
       "url": "https://careers-cotiviti.icims.com/jobs/20540/solutions-analyst/job"
@@ -5625,45 +5604,41 @@
     }
   },
   "Siemens": {
-    "526527": {
-      "title": "Strategic Pricing Analyst, New Grad Opportunity, (12 months contract)",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526527"
+    "518328": {
+      "title": "Finance Analyst",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/518328"
     },
-    "521969": {
-      "title": "IT Business Analyst (m/f/d)",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521969"
+    "528468": {
+      "title": "Data and Business Analyst \u6578\u64da\u5546\u696d\u5206\u6790\u5e2b",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528468"
     },
-    "523519": {
-      "title": "Data Analyst and Business Intelligence Intern",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523519"
+    "527852": {
+      "title": "Accounts Payable & Accounting Analyst",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527852"
     },
-    "524981": {
-      "title": "Customer Success Adoption Analyst",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524981"
+    "529886": {
+      "title": "Data Scientist / Analyst, Vulnerability & ITAM - US Remote",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529886"
     },
     "526018": {
       "title": "Inventory Analyst",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526018"
     },
-    "516579": {
-      "title": "Process Analyst \u2013  Knowledge-to-AI Consultant (m/f/d)",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/516579"
-    },
-    "528591": {
-      "title": "Finance Analyst",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528591"
-    },
-    "523750": {
+    "529889": {
       "title": "Financial Analyst",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523750"
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529889"
     },
-    "526949": {
-      "title": "Sales Data Analyst Trainee (m/f/d)",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526949"
+    "527050": {
+      "title": "Data Analyst- Technology and Finance Audit",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527050"
     },
-    "527195": {
-      "title": "Performance Controller / Finance Data Analyst",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527195"
+    "528362": {
+      "title": "Financial Analyst IV",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528362"
+    },
+    "522935": {
+      "title": "Software Engineer - Data Analytics and Reporting",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/522935"
     },
     "526470": {
       "title": "Agentic Analytics & Data US Intern - Summer 2027",
@@ -5673,77 +5648,73 @@
       "title": "TSP Strategy & Analytics Intern, ASEAN",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527724"
     },
-    "527496": {
-      "title": "Data Analytics & Platform Expert \u2013 Microsoft Fabric & Power BI (m/f/d)",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527496"
+    "529564": {
+      "title": "AI & Data Analytics Intern \u2013 Power Systems",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529564"
     },
-    "522935": {
-      "title": "Software Engineer - Data Analytics and Reporting",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/522935"
+    "526949": {
+      "title": "Sales Data Analyst Trainee (m/f/d)",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526949"
     },
-    "523326": {
-      "title": "Data Scientist Intern",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523326"
+    "527195": {
+      "title": "Performance Controller / Finance Data Analyst",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527195"
+    },
+    "523750": {
+      "title": "Financial Analyst",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523750"
+    },
+    "516579": {
+      "title": "Process Analyst \u2013  Knowledge-to-AI Consultant (m/f/d)",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/516579"
     },
     "529797": {
       "title": "Business Intelligence Professional",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529797"
     },
-    "528080": {
-      "title": "\uff08\u8d22\u52a1\u5171\u4eab\u4e2d\u5fc3\uff09\u8d22\u52a1\u670d\u52a1\u4e13\u5bb6_Closing & Reporting",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528080"
-    },
-    "521435": {
-      "title": "Financial Analyst, Financial Planning & Analysis",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521435"
-    },
-    "517628": {
-      "title": "Business Analyst - Financial Services (m/f/d)",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/517628"
+    "523519": {
+      "title": "Data Analyst and Business Intelligence Intern",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523519"
     },
     "525003": {
       "title": "Stage en Business Intelligence et Analyse (BI/BA) h/f",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/525003"
     },
+    "521969": {
+      "title": "IT Business Analyst (m/f/d)",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521969"
+    },
     "521936": {
       "title": "Business Analyst - CRM (m/f/d)",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521936"
-    },
-    "529889": {
-      "title": "Financial Analyst",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529889"
-    },
-    "527357": {
-      "title": "Financial Analyst Operations Mobility Customer Services",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527357"
-    },
-    "524204": {
-      "title": "Reporting & Data Analyst \u2013 Cybersecurity Operations",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524204"
-    },
-    "527050": {
-      "title": "Data Analyst- Technology and Finance Audit",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527050"
-    },
-    "524757": {
-      "title": "Data Scientist",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524757"
-    },
-    "528542": {
-      "title": "Commercial Analyst",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528542"
-    },
-    "528486": {
-      "title": "Commercial Controlling & Product Costing Financial Analyst",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528486"
     },
     "528979": {
       "title": "Data Analyst",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528979"
     },
-    "529564": {
-      "title": "AI & Data Analytics Intern \u2013 Power Systems",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529564"
+    "523326": {
+      "title": "Data Scientist Intern",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523326"
+    },
+    "524757": {
+      "title": "Data Scientist",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524757"
+    },
+    "526527": {
+      "title": "Strategic Pricing Analyst, New Grad Opportunity, (12 months contract)",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526527"
+    },
+    "523167": {
+      "title": "SAP CO Business Analyst",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523167"
+    },
+    "527496": {
+      "title": "Data Analytics & Platform Expert \u2013 Microsoft Fabric & Power BI (m/f/d)",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527496"
+    },
+    "517628": {
+      "title": "Business Analyst - Financial Services (m/f/d)",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/517628"
     }
   },
   "Cummins": {},
