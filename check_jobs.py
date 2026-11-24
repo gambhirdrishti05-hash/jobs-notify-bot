@@ -1305,9 +1305,10 @@ def main():
     if failed and len(failed) >= max(5, attempted // 10):
         send_telegram(
             f"⚠️ <b>{len(failed)} of {attempted} companies failed to "
-            f"fetch this run.</b> Those boards were not checked, so postings "
-            f"from them are not missing, just delayed. Check the Actions log "
-            f"for the reason."
+            f"fetch this run.</b> They will be retried first next run, so "
+            f"nothing is lost, just delayed.\n\n"
+            + "\n".join(f"• {n}" for n in failed[:40])
+            + (f"\n…and {len(failed) - 40} more" if len(failed) > 40 else "")
         )
 
     print(f"\nDone. {len(pending)} new posting(s) found, "

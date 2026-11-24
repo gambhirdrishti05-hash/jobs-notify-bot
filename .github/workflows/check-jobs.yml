@@ -14,10 +14,14 @@ concurrency:
   group: job-bot-state
   cancel-in-progress: false
 
+permissions:
+  contents: write
+  actions: write   # lets the last step start the next run
+
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 55
+    timeout-minutes: 85
     steps:
       - uses: actions/checkout@v4
 
@@ -38,16 +42,35 @@ jobs:
         run: |
           git config user.name "job-alert-bot"
           git config user.email "actions@github.com"
+          # Keep our own copy: if the rebase below goes wrong we can still
+          # save this run's state instead of losing it (losing it means every
+          # alert is sent again next run).
+          mkdir -p /tmp/state && cp seen_jobs.json run_state.json /tmp/state/
           git add seen_jobs.json run_state.json
           git diff --quiet --cached || git commit -m "Update seen jobs"
-          # Rebase onto anything pushed since checkout, including edits
-          # you made in the browser while the run was in flight, then
-          # push. Without this the run loses its state file and you get
-          # the same alerts again next time.
           for i in 1 2 3; do
-            git pull --rebase --autostash && git push && exit 0
+            # -X theirs: on a conflict in the state files, this run's
+            # (newer) version wins instead of stopping the rebase.
+            git pull --rebase -X theirs --autostash && git push && exit 0
             echo "push attempt $i failed, retrying in 5s"
+            git rebase --abort 2>/dev/null || true
             sleep 5
           done
-          echo "could not push state after 3 attempts" >&2
-          exit 1
+          echo "rebase kept failing, saving state on top of origin/main"
+          git fetch origin main
+          git reset --hard origin/main
+          cp /tmp/state/seen_jobs.json /tmp/state/run_state.json .
+          git add seen_jobs.json run_state.json
+          git diff --quiet --cached || git commit -m "Update seen jobs"
+          git push
+
+      # GitHub only fires the cron every 6-10 hours for this repo, so each
+      # run starts the next one itself, 20 minutes after it finishes. The
+      # cron stays as a backup if the chain ever breaks.
+      - name: Start next run
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          sleep 1200
+          gh workflow run check-jobs.yml --repo "$GITHUB_REPOSITORY" --ref main
