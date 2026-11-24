@@ -22,7 +22,6 @@ non-job links. The Actions log prints which method was used for
 each company so you can tell at a glance what's reliable vs not.
 """
 
-import hashlib
 import json
 import os
 import re
@@ -57,6 +56,11 @@ RE_BASELINE_THRESHOLD = 30
 # hundred boards per run. Without pacing, a burst earns a 429 and whole
 # companies come back empty for the rest of the run.
 REQUEST_GAP = 0.3            # minimum seconds between any two requests
+SHARED_PROVIDER_GAP = 1.0    # Workday answers 429 to anything faster
+# Stop starting new companies after this long, so a run always finishes
+# (and commits its state) before the workflow timeout. Companies not
+# reached are the stalest ones next run.
+RUN_BUDGET_SECONDS = 40 * 60
 RETRY_STATUSES = (429, 502, 503)
 MAX_RETRIES = 3
 RETRY_BACKOFF = 5            # seconds, doubled each attempt
@@ -132,7 +136,9 @@ def _request(method, url, **kwargs):
     retries = 0 if skip_retries else MAX_RETRIES
     r = None
     for attempt in range(retries + 1):
-        gap = REQUEST_GAP - (time.monotonic() - _last_request[0])
+        min_gap = (SHARED_PROVIDER_GAP if provider in _SHARED_PROVIDERS
+                   else REQUEST_GAP)
+        gap = min_gap - (time.monotonic() - _last_request[0])
         if gap > 0:
             time.sleep(gap)
         _last_request[0] = time.monotonic()
@@ -1155,15 +1161,6 @@ def send_telegram(message):
             print(f"  [ERROR] Failed to send to chat_id {chat_id}: {e}")
 
 
-def company_half(name):
-    """
-    Deterministic 0/1 split by company name, not list position — so
-    adding or removing a company elsewhere in companies.json doesn't
-    reshuffle which half an existing company lands in.
-    """
-    return int(hashlib.md5(name.encode()).hexdigest(), 16) % 2
-
-
 def interleave_by_company(pending):
     """
     Reorder (name, job_id, job) entries round-robin across companies, so
@@ -1187,17 +1184,19 @@ def main():
     seen = load_json(SEEN_FILE, {})
     filters = load_filters()
 
-    # The list has grown past what Workday's shared hosting will answer
-    # for one run without throttling, so each run checks one half of it.
-    # Halves alternate by remembering which one ran last (run_state.json),
-    # not by the clock: GitHub skips scheduled runs, and picking by hour
-    # would leave one half unchecked whenever the skipped runs line up.
+    # Too many boards for one run to cover without throttling, and GitHub
+    # skips scheduled runs. So no fixed halves: every run works through the
+    # companies in order of how long ago each was last checked successfully
+    # (never-checked and previously-failed first) until the time budget runs
+    # out. Skipped runs and 429 walls just make the next run pick up there.
     state = load_json(STATE_FILE, {})
-    current_half = 1 - state.get("last_half", 1)
+    last_checked = state.get("last_checked", {})
     all_count = len(companies)
-    companies = [c for c in companies if company_half(c["name"]) == current_half]
-    print(f"Half {current_half} of 2 this run: checking {len(companies)} "
-          f"of {all_count} companies\n")
+    companies = sorted(companies, key=lambda c: last_checked.get(c["name"], 0))
+    print(f"{all_count} companies, stalest first, budget "
+          f"{RUN_BUDGET_SECONDS // 60} min\n")
+    started = time.monotonic()
+    checked = []
 
     active = []
     if filters["roles_enabled"]:
@@ -1212,6 +1211,10 @@ def main():
 
     for company in companies:
         name = company["name"]
+        if time.monotonic() - started > RUN_BUDGET_SECONDS:
+            print("Time budget used up — remaining companies go first "
+                  "next run.")
+            break
         print(f"Checking {name}...")
         current_jobs = fetch_company_jobs(company, filters)
 
@@ -1219,6 +1222,7 @@ def main():
             failed.append(name)
             continue
 
+        checked.append(name)
         fetched = len(current_jobs)
         current_jobs, dropped = apply_filters(current_jobs, filters)
         if dropped["role"] or dropped["location"]:
@@ -1263,7 +1267,12 @@ def main():
         seen.get(name, {}).pop(job_id, None)
 
     save_json(SEEN_FILE, seen)
-    save_json(STATE_FILE, {"last_half": current_half})
+    now = time.time()
+    for name in checked:
+        last_checked[name] = now
+    live = {c["name"] for c in load_json(COMPANIES_FILE, [])}
+    save_json(STATE_FILE, {"last_checked": {
+        n: t for n, t in last_checked.items() if n in live}})
 
     for name, _job_id, job in to_send:
         where = f"\n📍 {job['location']}" if job.get("location") else ""
@@ -1292,9 +1301,10 @@ def main():
     # A handful of failures is normal. A large share means something
     # systemic, usually rate limiting, and the run should say so loudly
     # rather than looking quiet.
-    if failed and len(failed) >= max(5, len(companies) // 10):
+    attempted = len(checked) + len(failed)
+    if failed and len(failed) >= max(5, attempted // 10):
         send_telegram(
-            f"⚠️ <b>{len(failed)} of {len(companies)} companies failed to "
+            f"⚠️ <b>{len(failed)} of {attempted} companies failed to "
             f"fetch this run.</b> Those boards were not checked, so postings "
             f"from them are not missing, just delayed. Check the Actions log "
             f"for the reason."

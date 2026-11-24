@@ -4,8 +4,8 @@ Watches company career pages and sends a Telegram message when a new role goes u
 
 How it works in one minute
 
-* A GitHub Actions workflow runs the script every hour.
-* Your company list is split into two halves, chosen by company name. Odd hours check one half, even hours check the other. Every company is still checked every 2 hours, but each run puts half the load on career sites.
+* A GitHub Actions workflow runs the script twice an hour.
+* Each run checks companies stalest-first (never-checked and failed ones first) until a 40-minute budget runs out, so skipped runs or Workday throttling just delay a company to the next run instead of dropping it.
 * For each company the script reads the job list, applies filters.json, and compares the result with seen_jobs.json. Anything not seen before is new and gets sent to Telegram.
 * seen_jobs.json is updated and committed back to the repo after each run. It only holds what is live right now, so it does not grow forever.
 
@@ -41,7 +41,7 @@ Open companies.json and add one entry per company:
 To add a company later, edit this file and push. No code changes needed.
 
 6. Turn it on
-* Push everything to GitHub. The workflow is set to run every hour at 23 minutes past.
+* Push everything to GitHub. The workflow is set to run twice an hour (7 and 37 past).
 * To test right away: Actions tab, "Check job postings", Run workflow.
 * The first run for each company only records what is posted today, so you are not flooded. You only get alerts for postings that appear after that.
 
