@@ -22,6 +22,7 @@ non-job links. The Actions log prints which method was used for
 each company so you can tell at a glance what's reliable vs not.
 """
 
+import collections
 import json
 import os
 import re
@@ -75,7 +76,16 @@ _last_request = [0.0]
 # this run. Give up on retries for that provider once, and go back to
 # retrying it fresh next run.
 _SHARED_PROVIDERS = ("myworkdayjobs.com", "myworkdaysite.com")
-RATE_LIMITED_PROVIDERS = set()
+RATE_LIMIT_COOLDOWN = 240    # seconds to leave a provider alone after a 429 wall
+RATE_LIMITED_UNTIL = {}      # provider -> time.monotonic() when we may retry
+
+
+class ProviderCooling(Exception):
+    """Provider is in its post-429 cooldown; try again later this run."""
+
+
+def cooldown_left(url):
+    return RATE_LIMITED_UNTIL.get(_provider_of(url), 0) - time.monotonic()
 
 
 def _provider_of(url):
@@ -132,8 +142,9 @@ def _request(method, url, **kwargs):
     again this run.
     """
     provider = _provider_of(url)
-    skip_retries = provider in RATE_LIMITED_PROVIDERS
-    retries = 0 if skip_retries else MAX_RETRIES
+    if cooldown_left(url) > 0:
+        raise ProviderCooling(provider)
+    retries = MAX_RETRIES
     r = None
     for attempt in range(retries + 1):
         min_gap = (SHARED_PROVIDER_GAP if provider in _SHARED_PROVIDERS
@@ -145,13 +156,17 @@ def _request(method, url, **kwargs):
         r = requests.request(method, url, **kwargs)
         if r.status_code not in RETRY_STATUSES or attempt == retries:
             if r.status_code in RETRY_STATUSES:
-                if not skip_retries:
-                    print(f"  [RATE LIMIT] {provider} is throttling this "
-                          f"run — giving up on retries for it for the "
-                          f"rest of this run", file=sys.stderr)
-                RATE_LIMITED_PROVIDERS.add(provider)
+                print(f"  [RATE LIMIT] {provider} is throttling — pausing "
+                      f"it for {RATE_LIMIT_COOLDOWN}s, other companies go "
+                      f"on meanwhile", file=sys.stderr)
+                RATE_LIMITED_UNTIL[provider] = (
+                    time.monotonic() + RATE_LIMIT_COOLDOWN)
             return r
-        wait = RETRY_BACKOFF * (2 ** attempt)
+        try:
+            retry_after = float(r.headers.get("Retry-After", 0))
+        except ValueError:
+            retry_after = 0
+        wait = max(RETRY_BACKOFF * (2 ** attempt), min(retry_after, 60))
         print(f"  [RATE LIMIT] {r.status_code} from {urlparse(url).netloc}, "
               f"waiting {wait}s (attempt {attempt + 1}/{retries})",
               file=sys.stderr)
@@ -493,7 +508,8 @@ def _workday_page(api, facets, search_text, offset, limit):
         api,
         json={"appliedFacets": facets, "limit": limit, "offset": offset,
               "searchText": search_text},
-        headers={**HEADERS, "Content-Type": "application/json"},
+        headers={**HEADERS, "Content-Type": "application/json",
+                 "Accept": "application/json"},
         timeout=30,
     )
     r.raise_for_status()
@@ -1161,6 +1177,28 @@ def send_telegram(message):
             print(f"  [ERROR] Failed to send to chat_id {chat_id}: {e}")
 
 
+def spread_by_provider(companies):
+    """
+    Keep the incoming order, but mix the shared-provider boards (Workday)
+    evenly among the rest, so Workday is never hit back to back — that is
+    what trips its throttle.
+    """
+    shared = [c for c in companies if _provider_of(c["url"]) in _SHARED_PROVIDERS]
+    others = [c for c in companies if _provider_of(c["url"]) not in _SHARED_PROVIDERS]
+    if not shared or not others:
+        return companies
+    out = []
+    step = len(others) / len(shared)
+    taken = 0
+    for i, c in enumerate(shared):
+        upto = round((i + 1) * step)
+        out.extend(others[taken:upto])
+        taken = upto
+        out.append(c)
+    out.extend(others[taken:])
+    return out
+
+
 def interleave_by_company(pending):
     """
     Reorder (name, job_id, job) entries round-robin across companies, so
@@ -1193,6 +1231,7 @@ def main():
     last_checked = state.get("last_checked", {})
     all_count = len(companies)
     companies = sorted(companies, key=lambda c: last_checked.get(c["name"], 0))
+    companies = spread_by_provider(companies)
     print(f"{all_count} companies, stalest first, budget "
           f"{RUN_BUDGET_SECONDS // 60} min\n")
     started = time.monotonic()
@@ -1209,17 +1248,33 @@ def main():
     rebaselined = []
     failed = []
 
-    for company in companies:
-        name = company["name"]
+    queue = collections.deque(companies)
+    attempts = {}
+    while queue:
         if time.monotonic() - started > RUN_BUDGET_SECONDS:
             print("Time budget used up — remaining companies go first "
                   "next run.")
             break
+        company = queue.popleft()
+        name = company["name"]
+        wait = cooldown_left(company["url"])
+        if wait > 0:
+            # Provider is cooling off. Do someone else first if there is
+            # anyone; otherwise sit out the rest of the cooldown.
+            if any(cooldown_left(c["url"]) <= 0 for c in queue):
+                queue.append(company)
+                continue
+            print(f"Only throttled boards left — waiting {int(wait)}s...")
+            time.sleep(wait)
         print(f"Checking {name}...")
         current_jobs = fetch_company_jobs(company, filters)
 
         if current_jobs is None:
-            failed.append(name)
+            attempts[name] = attempts.get(name, 0) + 1
+            if attempts[name] < 3:
+                queue.append(company)   # one more go after the cooldown
+            else:
+                failed.append(name)
             continue
 
         checked.append(name)
