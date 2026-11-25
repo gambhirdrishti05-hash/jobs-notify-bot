@@ -2,21 +2,16 @@ name: Check job postings
 
 on:
   schedule:
-    # Twice an hour: GitHub drops many scheduled runs, and each run picks up
-    # the stalest companies, so extra triggers cost nothing.
+    # Every 2 hours
     - cron: "7 */2 * * *"
-  workflow_dispatch: {}       # lets you also trigger it manually from GitHub
+  workflow_dispatch: {}
 
-# Queue a second run behind the first instead of letting two race.
-# Overlapping runs read the same seen_jobs.json, send you the same
-# alerts twice, and then one of them fails to push its state.
 concurrency:
   group: job-bot-state
   cancel-in-progress: false
 
 permissions:
   contents: write
-  actions: write   # lets the last step start the next run
 
 jobs:
   check:
@@ -42,15 +37,10 @@ jobs:
         run: |
           git config user.name "job-alert-bot"
           git config user.email "actions@github.com"
-          # Keep our own copy: if the rebase below goes wrong we can still
-          # save this run's state instead of losing it (losing it means every
-          # alert is sent again next run).
           mkdir -p /tmp/state && cp seen_jobs.json run_state.json /tmp/state/
           git add seen_jobs.json run_state.json
           git diff --quiet --cached || git commit -m "Update seen jobs"
           for i in 1 2 3; do
-            # -X theirs: on a conflict in the state files, this run's
-            # (newer) version wins instead of stopping the rebase.
             git pull --rebase -X theirs --autostash && git push && exit 0
             echo "push attempt $i failed, retrying in 5s"
             git rebase --abort 2>/dev/null || true
@@ -63,14 +53,3 @@ jobs:
           git add seen_jobs.json run_state.json
           git diff --quiet --cached || git commit -m "Update seen jobs"
           git push
-
-      # GitHub only fires the cron every 6-10 hours for this repo, so each
-      # run starts the next one itself, 20 minutes after it finishes. The
-      # cron stays as a backup if the chain ever breaks.
-      - name: Start next run
-        if: always()
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          sleep 1200
-          gh workflow run check-jobs.yml --repo "$GITHUB_REPOSITORY" --ref main
