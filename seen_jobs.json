@@ -2637,13 +2637,13 @@
       "title": "Advisor, Product Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor%2C-Product-Analyst-VA-99999/1453375100/"
     },
-    "https://jobs.gainwelltechnologies.com/job/Any-city-Claims-Business-Analyst-KY-99999/1453250700/": {
-      "title": "Claims Business Analyst",
-      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Claims-Business-Analyst-KY-99999/1453250700/"
-    },
     "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Data-Analyst-TX-99999/1453073900/": {
       "title": "Advisor Data Analyst",
       "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Advisor-Data-Analyst-TX-99999/1453073900/"
+    },
+    "https://jobs.gainwelltechnologies.com/job/Any-city-Claims-Business-Analyst-KY-99999/1453250700/": {
+      "title": "Claims Business Analyst",
+      "url": "https://jobs.gainwelltechnologies.com/job/Any-city-Claims-Business-Analyst-KY-99999/1453250700/"
     }
   },
   "Happen Bank": {},
@@ -2937,17 +2937,21 @@
     }
   },
   "Deloitte": {
+    "376085": {
+      "title": "Audit & Assurance \u2013 Analyst \u2013 Technology Controls Advisory (Japanese Services Group) \u2013 Summer/Fall 2027, Winter 2028",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Analyst-Technology-Controls-Advisory-Japanese-Services-Group-Summer-Fall-2027-Winter-2028/376085"
+    },
     "376514": {
       "title": "Internal Services - Associate Analyst - Technical Project Management  - Summer/Fall 2027",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Internal-Services-Associate-Analyst-Technical-Project-Management-Summer-Fall-2027/376514"
     },
-    "376521": {
-      "title": "Internal Services - Associate Analyst - CTS Project Management  - Summer/Fall 2027",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Internal-Services-Associate-Analyst-CTS-Project-Management-Summer-Fall-2027/376521"
-    },
     "376146": {
       "title": "Business Data Analyst",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Business-Data-Analyst/376146"
+    },
+    "376521": {
+      "title": "Internal Services - Associate Analyst - CTS Project Management  - Summer/Fall 2027",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Internal-Services-Associate-Analyst-CTS-Project-Management-Summer-Fall-2027/376521"
     },
     "364856": {
       "title": "Delivery Analyst, UX Design",
@@ -2969,13 +2973,9 @@
       "title": "Consultative Offerings - Investment Banking Summer Analyst - Corporate Finance",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Investment-Banking-Summer-Analyst-Corporate-Finance/364072"
     },
-    "376085": {
-      "title": "Audit & Assurance \u2013 Analyst \u2013 Technology Controls Advisory (Japanese Services Group) \u2013 Summer/Fall 2027, Winter 2028",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Analyst-Technology-Controls-Advisory-Japanese-Services-Group-Summer-Fall-2027-Winter-2028/376085"
-    },
-    "375635": {
-      "title": "Disaster Management and Humanitarian Assistance Research Analyst",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Disaster-Management-and-Humanitarian-Assistance-Research-Analyst/375635"
+    "374191": {
+      "title": "Project Consultant - Public Health Analyst",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Project-Consultant-Public-Health-Analyst/374191"
     },
     "370038": {
       "title": "Security Operations Center (SOC) Cyber Analyst - Secret Clearance - Naples, Italy",
@@ -3009,13 +3009,13 @@
       "title": "Communications Insights Consultant, Technical Transformation",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Communications-Insights-Consultant-Technical-Transformation/372874"
     },
-    "366075": {
-      "title": "Data Scientist / ML Engineer - Analytics and Insights Engineer III",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Data-Scientist-ML-Engineer-Analytics-and-Insights-Engineer-III/366075"
-    },
     "366147": {
       "title": "Associate, Analytics and Insights",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Associate-Analytics-and-Insights/366147"
+    },
+    "366075": {
+      "title": "Data Scientist / ML Engineer - Analytics and Insights Engineer III",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Data-Scientist-ML-Engineer-Analytics-and-Insights-Engineer-III/366075"
     },
     "373221": {
       "title": "Data Analytics & Insights Specialist",
@@ -3065,29 +3065,17 @@
       "title": "Analytics and Insights Engineer III - AI Functional Support",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Analytics-and-Insights-Engineer-III-AI-Functional-Support/364572"
     },
-    "373953": {
-      "title": "AI and Data Science Engineer III - Marketing Measurement",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/AI-and-Data-Science-Engineer-III-Marketing-Measurement/373953"
+    "376372": {
+      "title": "Project Technical Program Analyst",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Project-Technical-Program-Analyst/376372"
     },
-    "375271": {
-      "title": "HST Enterprise System Integration Business Analyst",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/HST-Enterprise-System-Integration-Business-Analyst/375271"
-    },
-    "370740": {
-      "title": "Data Analyst",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Data-Analyst/370740"
-    },
-    "374280": {
-      "title": "AI and Data Science Engineer II",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/AI-and-Data-Science-Engineer-II/374280"
+    "350157": {
+      "title": "Palantir AI and Data Science Engineer",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Palantir-AI-and-Data-Science-Engineer/350157"
     },
     "374557": {
       "title": "Accounting & Finance Data, Reporting, and Automation Engineer - State, Local, and Higher Education",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Accounting-Finance-Data-Reporting-and-Automation-Engineer-State-Local-and-Higher-Education/374557"
-    },
-    "371629": {
-      "title": "Converge Signals, FSI - Data Scientist_Products & Platforms",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Converge-Signals-FSI-Data-Scientist-Products-Platforms/371629"
     },
     "372166": {
       "title": "AI and Data Science Engineer II - Security Clearance Required",
@@ -3149,10 +3137,6 @@
       "title": "Data Scientist Consultant with Active Secret Clearance",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Data-Scientist-Consultant-with-Active-Secret-Clearance/373679"
     },
-    "350157": {
-      "title": "Palantir AI and Data Science Engineer",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Palantir-AI-and-Data-Science-Engineer/350157"
-    },
     "366179": {
       "title": "PROJECT - AI and Data Science Engineer II",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/PROJECT-AI-and-Data-Science-Engineer-II/366179"
@@ -3185,25 +3169,21 @@
       "title": "OneStream Junior Developer Analytics and Insights Engineer II Consultant",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/OneStream-Junior-Developer-Analytics-and-Insights-Engineer-II-Consultant/364646"
     },
-    "373247": {
-      "title": "Child Support Business Analyst -  Human Service Transformation",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Child-Support-Business-Analyst-Human-Service-Transformation/373247"
+    "370740": {
+      "title": "Data Analyst",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Data-Analyst/370740"
     },
-    "374191": {
-      "title": "Project Consultant - Public Health Analyst",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Project-Consultant-Public-Health-Analyst/374191"
-    },
-    "370374": {
-      "title": "Encore Finance Data, Reporting & Automation Engineer",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Encore-Finance-Data-Reporting-Automation-Engineer/370374"
-    },
-    "366382": {
-      "title": "Project Analyst, All-Source Intelligence",
-      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Project-Analyst-All-Source-Intelligence/366382"
+    "372814": {
+      "title": "SAP AI Transformation - Consultant \u2013 SAP Data & Analytics",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/SAP-AI-Transformation-Consultant-SAP-Data-Analytics/372814"
     },
     "375720": {
       "title": "Data Scientist - Data Engineer I",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Data-Scientist-Data-Engineer-I/375720"
+    },
+    "374280": {
+      "title": "AI and Data Science Engineer II",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/AI-and-Data-Science-Engineer-II/374280"
     },
     "373297": {
       "title": "Child Welfare Business Analyst -  Human Service Transformation",
@@ -4265,6 +4245,10 @@
     }
   },
   "Zionbankcorp": {
+    "https://careers.zionsbancorp.com/jobs/ai-engineer-data-scientist-29250": {
+      "title": "AI Engineer (Data Scientist)",
+      "url": "https://careers.zionsbancorp.com/jobs/ai-engineer-data-scientist-29250"
+    },
     "https://careers.zionsbancorp.com/jobs/risk-management-analyst-midvale-29240": {
       "title": "Risk Management Analyst - Midvale",
       "url": "https://careers.zionsbancorp.com/jobs/risk-management-analyst-midvale-29240"
@@ -5682,41 +5666,33 @@
     }
   },
   "Siemens": {
-    "526949": {
-      "title": "Sales Data Analyst Trainee (m/f/d)",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526949"
-    },
-    "529889": {
-      "title": "Financial Analyst",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529889"
-    },
-    "524204": {
-      "title": "Reporting & Data Analyst \u2013 Cybersecurity Operations",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524204"
+    "526527": {
+      "title": "Strategic Pricing Analyst, New Grad Opportunity, (12 months contract)",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526527"
     },
     "521435": {
       "title": "Financial Analyst, Financial Planning & Analysis",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/521435"
     },
-    "523519": {
-      "title": "Data Analyst and Business Intelligence Intern",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523519"
-    },
-    "529886": {
-      "title": "Data Scientist / Analyst, Vulnerability & ITAM - US Remote",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529886"
+    "524981": {
+      "title": "Customer Success Adoption Analyst",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524981"
     },
     "525695": {
       "title": "Supply Chain Data Analyst",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/525695"
     },
+    "523750": {
+      "title": "Financial Analyst",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523750"
+    },
+    "516579": {
+      "title": "Process Analyst \u2013  Knowledge-to-AI Consultant (m/f/d)",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/516579"
+    },
     "528979": {
       "title": "Data Analyst",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528979"
-    },
-    "525431": {
-      "title": "Lead Incentive Compensation Analyst",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/525431"
     },
     "528542": {
       "title": "Commercial Analyst",
@@ -5726,25 +5702,33 @@
       "title": "Sales Operations & Quality Systems Analyst",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529959"
     },
-    "522935": {
-      "title": "Software Engineer - Data Analytics and Reporting",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/522935"
-    },
     "526470": {
       "title": "Agentic Analytics & Data US Intern - Summer 2027",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526470"
+    },
+    "522935": {
+      "title": "Software Engineer - Data Analytics and Reporting",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/522935"
     },
     "530099": {
       "title": "Werkstudent (w/m/d) IT Processes, Data Analytics & Automation",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/530099"
     },
+    "526949": {
+      "title": "Sales Data Analyst Trainee (m/f/d)",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526949"
+    },
+    "528362": {
+      "title": "Financial Analyst IV",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/528362"
+    },
     "529797": {
       "title": "Business Intelligence Professional",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/529797"
     },
-    "527195": {
-      "title": "Performance Controller / Finance Data Analyst",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527195"
+    "523519": {
+      "title": "Data Analyst and Business Intelligence Intern",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/523519"
     },
     "527496": {
       "title": "Data Analytics & Platform Expert \u2013 Microsoft Fabric & Power BI (m/f/d)",
@@ -5758,21 +5742,29 @@
       "title": "Financial Analyst Operations Mobility Customer Services",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527357"
     },
-    "526527": {
-      "title": "Strategic Pricing Analyst, New Grad Opportunity, (12 months contract)",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526527"
+    "527195": {
+      "title": "Performance Controller / Finance Data Analyst",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527195"
     },
-    "524757": {
-      "title": "Data Scientist",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524757"
+    "526018": {
+      "title": "Inventory Analyst",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/526018"
     },
-    "516579": {
-      "title": "Process Analyst \u2013  Knowledge-to-AI Consultant (m/f/d)",
-      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/516579"
+    "524204": {
+      "title": "Reporting & Data Analyst \u2013 Cybersecurity Operations",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524204"
+    },
+    "527724": {
+      "title": "TSP Strategy & Analytics Intern, ASEAN",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/527724"
     },
     "515343": {
       "title": "Product Owner - Analytics Application",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/515343"
+    },
+    "524757": {
+      "title": "Data Scientist",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524757"
     },
     "523326": {
       "title": "Data Scientist Intern",
@@ -5785,6 +5777,10 @@
     "517628": {
       "title": "Business Analyst - Financial Services (m/f/d)",
       "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/517628"
+    },
+    "524199": {
+      "title": "Cybersecurity Professional - Vulnerability Management Analyst",
+      "url": "https://jobs.siemens.com/en_US/externaljobs/JobDetail/524199"
     },
     "516542": {
       "title": "Cyber Defense Center Analyst (m/f/d)",
