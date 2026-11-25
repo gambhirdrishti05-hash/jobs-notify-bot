@@ -1249,7 +1249,6 @@ def main():
     failed = []
 
     queue = collections.deque(companies)
-    attempts = {}
     while queue:
         if time.monotonic() - started > RUN_BUDGET_SECONDS:
             print("Time budget used up — remaining companies go first "
@@ -1257,24 +1256,24 @@ def main():
             break
         company = queue.popleft()
         name = company["name"]
-        wait = cooldown_left(company["url"])
-        if wait > 0:
+        if cooldown_left(company["url"]) > 0:
             # Provider is cooling off. Do someone else first if there is
-            # anyone; otherwise sit out the rest of the cooldown.
+            # anyone. If only throttled boards remain, stop here rather
+            # than sit idle — waiting did not get Workday to answer, and
+            # these go first next run.
             if any(cooldown_left(c["url"]) <= 0 for c in queue):
                 queue.append(company)
                 continue
-            print(f"Only throttled boards left — waiting {int(wait)}s...")
-            time.sleep(wait)
+            throttled = [company["name"]] + [c["name"] for c in queue]
+            print(f"Only throttled boards left ({len(throttled)}) — "
+                  f"stopping; they go first next run.")
+            failed.extend(throttled)
+            break
         print(f"Checking {name}...")
         current_jobs = fetch_company_jobs(company, filters)
 
         if current_jobs is None:
-            attempts[name] = attempts.get(name, 0) + 1
-            if attempts[name] < 3:
-                queue.append(company)   # one more go after the cooldown
-            else:
-                failed.append(name)
+            failed.append(name)
             continue
 
         checked.append(name)
