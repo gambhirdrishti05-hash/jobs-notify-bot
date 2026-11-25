@@ -4,7 +4,7 @@ on:
   schedule:
     # Twice an hour: GitHub drops many scheduled runs, and each run picks up
     # the stalest companies, so extra triggers cost nothing.
-    - cron: "7,37 * * * *"
+    - cron: "7 */2 * * *"
   workflow_dispatch: {}       # lets you also trigger it manually from GitHub
 
 # Queue a second run behind the first instead of letting two race.
